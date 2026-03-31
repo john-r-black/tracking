@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — ISSUE-43 item 10 pulled (deed [309], JT Black Needham heirship affidavit)*
+*Last updated: 2026-03-31 — ISSUE-43 item 3 pulled (deed [312], JT Black heirship affidavit); ISSUE-01 updated with husband names (L.L. Dorsett, R.A. Ennis)*
 # Black Land Project — Open Issues List
 
 
@@ -13,7 +13,7 @@
 - **Instruments to pull**:
   1. ~~LC Inst# 2025-0004419~~ — **PULLED ✓ = deed [338]**; Administration Deed, L20556 surface + minerals; ISSUE-05 partially resolved
   2. LC Vol. 458 Pg. 314 (Inst# 05901581) — JP Black et al → Verona E. Black, gift deed (1959) — ISSUE-01
-  3. LC Vol. 458 Pg. 317 (Inst# 05901580) — JT Black Deceased affidavit (1959) — ISSUE-01
+  3. ~~LC Vol. 458 Pg. 317 (Inst# 05901580)~~ — **PULLED ✓ = deed [312]**; Affidavit of Heirship, Kelly Bounds + Jeff Bounds re: JT Black estate; intestate death 1/30/1959 confirmed; three heirs only (JP, Genevieve m. L.L. Dorsett, Georgia Nell m. R.A. Ennis); no administration; estate < $10,000 — ISSUE-01
   4. LC Vol. 278 Pg. 379 (Inst# 1943000000000013) — C.E. Black → J.T. Black deed (1943) — Boyd chain
   5. ~~FC OR/1350/233 (Doc# 2006-6000827)~~ — **PULLED ✓ = deed [331]**; Special Warranty Deed (surface only, minerals reserved), Estate of Olena (JMB+JAB co-executors) → Charles L. Calame + Dorothy Calame; 0.0918 ac Lots 6 & 7 Block 6 Town of Wortham; execution Jul 7, 2005; filed Feb 14, 2006
   6. FC DR/665/424 (Doc# 1984-3294) — Olena heirship affidavit (1984) — ISSUE-16
@@ -102,6 +102,7 @@
   - JH Bounds held Boyd Survey land before [106] (confirmed by deed [104], 1885, town lot sold 18 months before the 1886 Haley acquisition). That earlier holding's source deed is not in the file set.
   - The upstream source of John Thomas Black's / Verona E. Black's Boyd Survey holding (which produced deed [24]) remains unidentified.
   - **Net effect**: ISSUE-01 is narrowed — two potential Boyd Survey sources ([106]/[108] parcel and [113] parcel) are confirmed NOT to be the deed [24] source. But the actual deed [24] upstream chain is still not documented. ISSUE-01 remains OPEN.
+- **Deed [312] analysis (2026-03-31)**: JT Black heirship affidavit (LC Inst# 05901580, executed 2/9/1959, filed 3/9/1959) now pulled and reviewed. Affiants Kelly Bounds and Jeff Bounds confirm JT Black died intestate 1/30/1959; married once to Verona E. Pierce; three children only: JP Black (Limestone Co.), Genevieve Black married to **L. L. Dorsett** (Dallas Co. in 1959), Georgia Nell Black married to **R. A. Ennis** (Harris Co. in 1959). No adoption, no administration, estate < $10,000. **Husband names now known**: L.L. Dorsett and R.A. Ennis — enables targeted surname searches ("DORSETT L L" in Limestone/Dallas counties; "ENNIS R A" in Harris/Bexar counties). The affidavit is the legal foundation for ISSUE-43 item 2 (gift deed, JP et al → Verona, same-day filing at LC Vol. 458 Pg. 314). Combined, these two instruments establish the chain: JT Black → heirs by intestacy → gift deed → Verona E. Black → deed [24]. **Genevieve's 1959 residence (Dallas Co.) vs. death location (Tehuacana, Limestone Co.)** — she relocated between 1959 and 1999. **T.K. Dorsett / L.L. Dorsett connection**: ISSUE-01 notes T.K. Dorsett and Evie Lee Dorsett held independent Boyd Survey interests in LC (1949–1952). Whether T.K. Dorsett is related to L.L. Dorsett is now a researchable question. ISSUE-01 remains OPEN — resolution still depends on Dorsett/Ennis → Simmons deed (ISSUE-43 item 11).
 
 ---
 

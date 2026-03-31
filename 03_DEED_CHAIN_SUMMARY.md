@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [331] added to Phase 5 — Special Warranty Deed (surface only), Estate of Olena → Charles L. Calame + Dorothy Calame, Wortham Lots, FC 06000827*
+*Last updated: 2026-03-31 — Deed [312] added to Phase 2 — JT Black heirship affidavit (1959), upstream Boyd Survey chain documentation*
 # Black Land Project — Deed Chain Summary
 
  (County Deed Index Analysis — Texas Utilities (FC+LC), H&TC Railway (LC), Big Brown (FC), Luminant (FC) surname indices; deed [13] FC index confirmed (Doc# 1997-635, SPECIAL W/D, BLACK OLENA → TEXAS UTILITIES ELECTRIC CO, OR/1004/286, 1/29/1997); deed [119] L-HTC index confirmed (BOUNDS JAMES H → HOUSTON & TEXAS CENTRAL RAILWAY CO, D/24, 03/22/1875); Luminant corporate succession completed via 2017 merger certificates. Prior: County Deed Index Analysis — Black surname; [33]/[34] LC citations confirmed; [18]/[19] FC citations confirmed; [26] LC citation confirmed; deed [25] LC citation confirmed; deed [07] FC citation confirmed; 2005 coordinated closing fully sequenced FC+LC; upstream Boyd Survey instruments located (1943, 1958, 1959); Wortham surface chain resolved. Prior: DISPOSED markers added to [104], [108]; Phase 1 Supplement section added with body entries for [119]–[124]. This document is the authoritative deed chain summary. Do not accept corrections in conversation — update this file instead.*# Black Land Project — Deed Chain Summary
@@ -18,7 +18,7 @@ Note: For pairs where FC and LC filings appear in different Phase files, the FC 
 | Phase | Source File | Subject | Deeds |
 |---|---|---|---|
 | Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02] |
-| Phase 2 | PHASE 2.txt | J.P. Black acquisitions (pre-trust) | [03], [24] |
+| Phase 2 | PHASE 2.txt | J.P. Black acquisitions (pre-trust) | [03], [312], [24] |
 | Phase 3 | PHASE 3.txt | Bounds → Olena transition & lifetime conveyances | [04], [05]/[23], [07], [27], [28], [29], [30], [10]/[31], [11]/[32], [13], [35] |
 | Phase 4 | PHASE 4.txt | 1977 Trust formation & initial funding | [06]/[25], [08]/[26], [09], [12], [321] |
 | Phase 5 | PHASE 5.txt | Estate of Olena & 1977 Trust → Trust 1/Trust 2 — Freestone instruments (2005) | [14], [15], [331], [16], [17] |
@@ -54,7 +54,8 @@ Source: `PHASE 1.txt`
 ### Phase 2 — J.P. Black Acquisitions (Pre-Trust)
 Source: `PHASE 2.txt`
 1. `1955-09-13_[03]_f` — Gussie Weaver et ux → JP Black (warranty, **surface only**, Freestone) → F15408 (Weaver tract, minerals permanently severed by both Gussie Weaver and wife Jewell Weaver)
-2. `1974-12-30_[24]_l` — VE Black → Ennis/Dorsett/JP Black (warranty, surface+minerals, Limestone only; Doc 07507434, Bk OPR, Vol. 592, Pg. 773, filed Jan 3, 1975) [INDEX CONFIRMED: LC Inst# 07507434, 592/773, 2026-03-09] → John Boyd Survey ~42.8 acres near Tehuacana; JP Black received 1/3 undivided interest only; Ennis/Dorsett 2/3 — **critical lead**: LC Inst# 07500489 (Vol. 593, Pg. 328, DEED, 01/27/1975, Dorsett Genevieve et al + Ennis Georgia Nell et al → Simmons Roy et ux) is a joint conveyance by both sisters 24 days later; grantee Roy Simmons was notary on deed [24]; if Boyd Survey, 2/3 interest transferred to Simmons chain (ISSUE-01)
+2. `1959-02-09_[312]_l` — Kelly Bounds + Jeff Bounds (affiants) → Public (affidavit of heirship, Limestone) — JT Black estate heirship; confirms intestate death 1/30/1959, sole marriage to Verona E. Pierce, three children only (JP Black, Georgia Nell m. R.A. Ennis, Genevieve m. L.L. Dorsett), no adoption, no administration, estate < $10,000. Legal foundation for ISSUE-43 item 2 (gift deed, LC Vol. 458 Pg. 314, same-day filing). Upstream Boyd Survey chain documentation supporting deed [24]. LC Vol. 458 Pg. 317, Inst# 05901580. Filed Mar 9, 1959; recorded Mar 11, 1959; John Kidd, County Clerk; Lila Johnson, Deputy.
+3. `1974-12-30_[24]_l` — VE Black → Ennis/Dorsett/JP Black (warranty, surface+minerals, Limestone only; Doc 07507434, Bk OPR, Vol. 592, Pg. 773, filed Jan 3, 1975) [INDEX CONFIRMED: LC Inst# 07507434, 592/773, 2026-03-09] → John Boyd Survey ~42.8 acres near Tehuacana; JP Black received 1/3 undivided interest only; Ennis/Dorsett 2/3 — **critical lead**: LC Inst# 07500489 (Vol. 593, Pg. 328, DEED, 01/27/1975, Dorsett Genevieve et al + Ennis Georgia Nell et al → Simmons Roy et ux) is a joint conveyance by both sisters 24 days later; grantee Roy Simmons was notary on deed [24]; if Boyd Survey, 2/3 interest transferred to Simmons chain (ISSUE-01)
 
 ### Phase 3 — Bounds → Olena Transition & Lifetime Conveyances
 Source: `PHASE 3.txt`
