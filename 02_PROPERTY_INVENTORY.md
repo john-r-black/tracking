@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [311] — upstream Boyd Survey chain documented (JT Black estate → Verona E. Black, 1959 gift deed)*
+*Last updated: 2026-03-31 — Deed [318] — Boyd Survey ~42.8 ac DISPOSED to Simmons (Jan 1975); ISSUE-01 RESOLVED*
 # Black Land Project — Property Inventory
 
 
@@ -160,15 +160,17 @@ Three parcels not previously in the inventory:
 ### Weaver Tract Mineral Owner Correction
 Previous inventory noted "Weaver heirs own minerals." The correct attribution is **Gussie Weaver heirs and Jewell Weaver heirs jointly** — both were grantors in Deed [03] (1955) and the mineral reservation language is plural: "reserved to the grantors herein." Both Weaver lines must be identified to account for the full mineral interest.
 
-### John Boyd Survey Tracts — Absent from CAD
-The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed three John Boyd Survey tracts to JP Black's mother's three children in equal 1/3 undivided shares. **These tracts do not appear anywhere in the 21-parcel CAD list.** Individual tract breakdown per deed:
+### John Boyd Survey Tracts — DISPOSED (Deed [318], January 1975)
+The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed three John Boyd Survey tracts to JP Black's mother's three children in equal 1/3 undivided shares. **All three grantees jointly sold the entire ~42.8 acres to Roy Simmons and wife Virginia M. Simmons 19 days later via deed [318] (01/18/1975, LC Inst# 07500489, Pg. 328).** These tracts are not family property. Individual tract breakdown per deed:
 - First Tract: 16.80 acres (John Boyd Survey, Limestone County, near Tehuacana)
 - Second Tract: 25.00 acres (John Boyd Survey)
-- Third Tract: ~1.00 acre less 100×100 ft lot previously conveyed (John Boyd Survey)
-- **Total: ~42.8 acres; JP Black received ~14.27 acres equivalent (1/3 undivided)**
-- **Upstream chain documented (deeds [312]+[311], 1959)**: JT Black (d. 1/30/1959, intestate) → heirs by operation of law (JP Black, Georgia Nell Ennis, Genevieve Dorsett) → deed [311] gift deed (2/9/1959, all heirs convey all inherited interest to Verona E. Black; blanket language covers all property in any county) → Verona holds 100% → deed [24] (12/30/1974). Source of JT Black's Boyd Survey holding still undocumented — upstream question now shifts entirely to JT Black's acquisition.
+- Third Tract: ~1.00 acre less 100×100 ft lot previously deeded by John T. Black and Grantor (John Boyd Survey)
+- **Total: ~42.8 acres — DISPOSED in full to Simmons chain**
+- **Upstream chain**: JT Black (d. 1/30/1959, intestate) → heirs → deed [311] gift deed (2/9/1959) → Verona E. Black → deed [24] (12/30/1974) → Ennis/Dorsett/JP Black in 1/3 shares → **deed [318] (01/18/1975) → Roy Simmons and wife Virginia M. Simmons**
+- **Mineral reservation in [318]**: Grantors reserved 1/16 NPRI for 10 years only — expired January 1985. No continuing family mineral interest.
+- **Vendor's lien**: $12,800 note; deed of trust to L. L. Dorsett, trustee. Lien released LC Inst# 07804491 (06/13/1978).
 
-Grantees were JP Black's siblings: Genevieve Dorsett (d. 4/5/1999, Tehuacana, Limestone County — Limestone County probate) and Georgia Nell Ennis (d. 1/15/2008, San Antonio, Bexar County — Bexar County probate). **Critical lead (Dorsett/Ennis index session, 2026-03-09)**: LC Inst# 07500489 (Vol. 593, Pg. 328, DEED, 01/27/1975) is a joint deed from both sisters (indexed under both Dorsett and Ennis surnames) to SIMMONS ROY ET UX, recorded 24 days after deed [24]. Roy Simmons was the notary on deed [24]. If this deed covers the Boyd Survey interests, the 2/3 interest transferred to the Simmons family chain in January 1975. Companion vendor's lien release (LC Inst# 07804491, Vol. 630, Pg. 105, 06/13/1978) confirms the 1975 instrument was a sale. **PRIORITY**: Pull LC Vol. 593, Pg. 328 to confirm scope. See ISSUE-01.
+**ISSUE-01 RESOLVED**: No Dorsett probate, Ennis probate, quiet title, or adverse possession action is needed for these tracts. The Boyd Survey is completely out of the family chain.
 
 ---
 
@@ -259,7 +261,8 @@ Grantees were JP Black's siblings: Genevieve Dorsett (d. 4/5/1999, Tehuacana, Li
 | [104] | 1885-03-30 | W. G. Eades | 2 ac | $315 (vendor's lien notes) | Block 19, Town of Tehuacana, John Boyd League; town lot, not rural acreage; pre-dates Haley acquisition [106] — confirms JH Bounds held Boyd Survey land BEFORE the 1886 Haley purchase; source of this earlier holding unknown |
 | [108] | 1889-03-27 | J. W. Bounds (JH Bounds' son) | 156 net ac | $5 + "natural love and affection" (gift) | John Boyd Survey; identical metes-and-bounds to [106]; complete gift of the [106] parcel to his son; ⚠️ NO DEED CONFIRMING THIS LAND RETURNED TO FAMILY CHAIN |
 | [113] | 1910-03-22 | W. L. Adams and W. S. Adams | 80 ac Boyd League (of 338 ac total) | $5,250 cash (total for 338 ac) | Multi-survey parcel; 80 acres on John Boyd League conveyed as part of Barry/Bounds family sale; grantors include MS Bounds and Mattie Bounds née Barry; the 80 ac Boyd portion is on a different metes-and-bounds from the [106]/[108] tract; note "Bounds 72 acre tract which is included in the conveyance" — confirms Bounds family contributed approximately 72 acres to this sale |
-| **Total documented out** | | | **238 ac** | | 2 ac town lot [104] + 156 ac gift [108] + 80 ac Barry/Bounds sale [113] = 238 ac documented dispositions |
+| [318] | 1975-01-18 | Roy Simmons and wife Virginia M. Simmons | ~42.8 ac | $10 + $12,800 vendor's lien note | John Boyd Survey; three tracts (16.8 + 25 + ~1 ac); ALL three deed [24] grantees (Ennis + Dorsett + JP Black) sell jointly; warranty deed with vendor's lien; L.L. Dorsett deed of trust trustee; 10-yr 1/16 NPRI reserved (expired 1985); companion vendor's lien release LC Inst# 07804491 (1978). **Complete sell-out of deed [24] Boyd Survey holding** |
+| **Total documented out** | | | **~280.8 ac** | | 2 ac town lot [104] + 156 ac gift [108] + 80 ac Barry/Bounds sale [113] + ~42.8 ac Simmons sale [318] = ~280.8 ac documented dispositions |
 
 ### Net Position Analysis and Gap Assessment
 
@@ -283,15 +286,17 @@ Grantees were JP Black's siblings: Genevieve Dorsett (d. 4/5/1999, Tehuacana, Li
 
 5. **The [113] 80-acre Boyd portion came from the Barry-Bounds family holdings**, not from the [106]/[108] JH Bounds line. MS Bounds participated in the [113] sale as Mattie Mae's husband — this was Mattie's family's (Barry family's) Boyd Survey land, in which MS Bounds had an interest by virtue of the marriage and the Barry family's estate in that land.
 
-### Relationship to Deed [24] ~42.8 Acres
+### Relationship to Deed [24] ~42.8 Acres — DISPOSED
 
-The deed [24] tracts (currently in the Black/Gude family chain via Verona E. Black) are **not** explained by any deed in the [101]–[118] set. Three hypotheses remain open:
+**RESOLVED by deed [318] (2026-03-31)**: The deed [24] tracts are **no longer in the Black/Gude family chain**. All three deed [24] grantees (Georgia Nell Ennis, Genevieve Dorsett, AND John P. Black) jointly sold the entire ~42.8 acres to Roy Simmons and wife Virginia M. Simmons on January 18, 1975 — 19 days after deed [24]. Deed [318] is a warranty deed with vendor's lien ($12,800 note; L.L. Dorsett deed of trust trustee). Grantors reserved a 1/16 NPRI for 10 years only (expired 1985). **These tracts permanently left the family chain in January 1975, two years before the 1977 trust was formed.** They never entered the trust, never passed to Olena, and are not part of the Gude or Trust No. 2 holdings.
+
+The upstream question (how JT Black acquired Boyd Survey land) remains academically interesting but is **no longer a closing blocker** — the property is disposed. Three hypotheses remain unresolved:
 
 - **(A)** JH Bounds acquired additional Boyd Survey land from a source not yet found, and that land passed through a different family branch to eventually reach John Thomas Black and Verona; or
 - **(B)** JW Bounds (who received the [108] 156-acre parcel) reconveyed some or all of it back to the family chain at some point, and a portion ultimately reached John Thomas Black; or
 - **(C)** The John Thomas Black / Verona Black Boyd Survey holding has a completely independent upstream source unrelated to JH Bounds' holdings.
 
-**No source deed for the deed [24] chain upstream of John Thomas Black and Verona E. Black has been found.** This is a standing research gap — see ISSUE-01 and ISSUE-32.
+**No source deed for the deed [24] chain upstream of John Thomas Black and Verona E. Black has been found.** This remains a standing research gap (ISSUE-32) but is no longer material to the closing.
 
 ---
 

@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [311] — Boyd Survey upstream chain note added (no mineral reservation in JT Black estate gift deed)*
+*Last updated: 2026-03-31 — Deed [318] — Boyd Survey minerals DISPOSED to Simmons (Jan 1975); 10-yr NPRI expired 1985; ISSUE-01 RESOLVED*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -158,16 +158,12 @@ Texas legal concepts that affect interpretation:
 
 ---
 
-### John Boyd Survey Tracts (~42.8 acres, Limestone — 3 tracts near Tehuacana)
-- Surface owner: **UNCERTAIN — Ennis estate and Dorsett estate hold 2/3 interest outstanding**
-- Mineral owner: UNCERTAIN for same reason
-- Interest breakdown per Deed [24] (1974-12-30):
-  - JP Black: 1/3 undivided (~14.27 ac equivalent) — passed into trust chain or Olena's estate; disposition uncertain
-  - Genevieve Dorsett (JP's sister, d. 4/5/1999, Tehuacana, Limestone County): 1/3 undivided — passed to her estate; **search Limestone County probate records**
-  - Georgia Nell Ennis (JP's sister, d. 1/15/2008, San Antonio, Bexar County): 1/3 undivided — passed to her estate; **search Bexar County probate records**
+### John Boyd Survey Tracts (~42.8 acres, Limestone — 3 tracts near Tehuacana) — DISPOSED
+- Surface owner: **Roy Simmons and wife Virginia M. Simmons** (deed [318], Jan 18, 1975) and/or their successors
+- Mineral owner: **Same — Simmons chain**. Full mineral conveyance in [318]. Grantors reserved 1/16 NPRI for 10 years only — **expired January 1985**. No continuing family mineral interest of any kind.
+- **Disposition confirmed**: Deed [318] (LC Inst# 07500489, Pg. 328, recorded 01/27/1975). ALL three deed [24] grantees (Georgia Nell Ennis, Genevieve Dorsett, AND John P. Black) jointly sold the entire ~42.8 ac to Simmons. Warranty deed with vendor's lien ($12,800 note; L.L. Dorsett deed of trust trustee). Vendor's lien released LC Inst# 07804491 (06/13/1978).
 - Tracts: First Tract 16.80 ac, Second Tract 25.00 ac, Third Tract ~1.00 ac less 100×100 ft lot
-- **Upstream chain confirmed (deeds [312]+[311], 1959)**: JT Black (d. 1/30/1959) → heirs by intestacy → deed [311] gift deed (2/9/1959) → Verona E. Black. **No mineral reservation in [311]** — full fee simple conveyance of all JT Black estate interests. Verona received 100% surface + minerals.
-- See ISSUE-01
+- **ISSUE-01 RESOLVED** — no Dorsett or Ennis probate search needed for these tracts
 
 ---
 
@@ -232,7 +228,7 @@ Texas legal concepts that affect interpretation:
 | Edwards Tract (85.30 ac) | **50% + exec. rights** (per [18]/[17]) ⚠️ not conveyed by [21]/[40]; ISSUE-31 | **50% non-exec.** (per [17]/[38]) | — | — | — | ISSUE-22 upstream chain |
 | Carved Parcel (162.99 ac) | **50% non-exec.** (per [20]/[39]) | **50% + exec. rights** (per [16]/[20]) | — | — | — | — |
 | Third Tract (20 ac Trust 2 parcels) | **50% non-exec.** (per [20]/[39]) | **50% + exec. rights** (per [16]/[20]) | — | — | — | — |
-| Boyd Survey tracts (~42.8 ac) | ~1/3 TBD | — | — | — | — | Dorsett ~1/3, Ennis ~1/3 |
+| Boyd Survey tracts (~42.8 ac) | **DISPOSED** | — | — | — | — | **ALL 3/3 sold to Simmons (deed [318], Jan 1975)**; 10-yr 1/16 NPRI expired 1985; no family interest |
 | Vickers royalty (~43 ac) | — | — | **UNKNOWN** | **UNKNOWN** | — | Chain undocumented |
 | TU Electric minerals (17.916 ac) | — | — | Kay (~1/2, undoc.) | ~1/2 | — | — |
 | Wortham Lots (0.09 ac) | **1/2** (Trust 1 holds; ⚠️ not conveyed by [21]/[40]; ISSUE-24) | **1/2** | — | — | — | — |
