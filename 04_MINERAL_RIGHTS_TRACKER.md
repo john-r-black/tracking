@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [313] — 1962 Meeks mineral lease confirms J.V. Jr. beneficiaries + 8 probable J.V. Jr. children collectively held mineral interest in 60.4-ac parent tract; Meeks coordinated leasing with Weaver Tract noted*
+*Last updated: 2026-03-31 — Deed [317] — Miller mineral reservation on Lot 2 (60.4 ac Richie League) documented; impact on Beldin Tract assessed (no cloud if Beldin carved pre-Miller chain)*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -113,6 +113,11 @@ Texas legal concepts that affect interpretation:
 - **⚠️ Iva Inez Bounds mineral cloud** [IDENTIFIED: 2026-03-10]: FC Doc# 1980-1075 (2/19/1980) — Bounds Iva Inez leased the full **60.4-ac parent tract** minerals to Amoco Production Co, two months after deed [07] carved out the 33.66-ac Beldin surface. FC Doc# 1998-1952 (4/9/1998) — Iva Inez (as executrix) continued acting on the 60.4-ac minerals. If deed [07] conveyed full fee (surface + minerals) in the 33.66 ac, Iva Inez's mineral lease encumbering that portion is unauthorized and the mineral interest described in [20]/[39] Tract Two is unencumbered. If [07] conveyed surface only, Iva Inez may have held the minerals legitimately. Attorney review and pull of deed [07] full text required to confirm what interest was conveyed. See ISSUE-44.
 
 ---
+
+- **⚠️ Clara Barton Miller mineral reservation — deed [317]** (2026-03-31): Deed [317] (DR/422/491 FC, 1973-02-22) conveys 60.4 ac Wm. Richie A-527 from Clara Barton Miller to Virgil L Bounds — **surface + 15-ac NPRI only**. Miller reserved ALL other minerals including exclusive leasing rights forever. Metes-and-bounds analysis establishes this is **Lot 2** of the McClelland partition, NOT Lot 3. If the Beldin Tract (33.66 ac, F15410) originates from Lot 2, Miller's reservation does NOT cloud the Beldin minerals because the McLelland→Beldin carve-out (1926) predates Miller's source chain (Stubbs→Jackson 1937). Miller's 60.4-ac description is likely an over-description of the lot after the Beldin separation. However, **this depends on the Beldin Tract's lot of origin** — pull partition judgment (Case No. 8153-B) to confirm. If Beldin is from Lot 3 (as currently attributed), Miller's reservation has no connection to any current holdings. See ISSUE-44.
+
+---
+
 
 ### Edwards Tract (85.30 acres, Freestone, F17558) [Sarah McAnulty Survey]
 - Surface owner: **Gude Management LLC** ⚠️ CONVEYANCE GAP: Edwards Tract (F17558, 85.30 ac, Sarah McAnulty Survey A-751, Freestone County) does NOT appear in deed [21]/[40]. Trust No. 1 is record owner; no recorded instrument conveys this parcel to Gude. (CONFIRMED via Phase 5B — deed [18]: 1977 Trust → Trust No. 1, July 7, 2005, effective June 1, 2005, Doc 05004965; ISSUE-31)
