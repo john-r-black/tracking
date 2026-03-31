@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [318] — Boyd Survey minerals DISPOSED to Simmons (Jan 1975); 10-yr NPRI expired 1985; ISSUE-01 RESOLVED*
+*Last updated: 2026-03-31 — Deed [324] — Gussie Weaver heirship confirmed: died intestate 8/7/1975; heirs = Jewell P. Weaver (wife), Josie Evelyn Weaver (daughter), Ted A. Weaver (son); Josie relationship to Gussie/Jewell resolved*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -87,9 +87,9 @@ Texas legal concepts that affect interpretation:
 - **Identified mineral claimants (2012)** [INDEX IDENTIFIED: FC, 2026-03-09]:
   - **Weaver Jewell P Family Testamentary Trust** — FC Doc 2012-1204330, OR/1588/165, MEM OIL & GAS LEASE → Polomsky Hughes & Associates LLC, 9/27/2012, W Richie SUR A-0527, 33.11 ac
   - **Josie E. Weaver estate (under will)** — FC Docs 2012-1204331 (OR/1588/166) and 2012-1204332 (OR/1588/167), same lessee, same date, same acreage
-  - **Josie Evelyn Weaver**: Third Weaver family member with Richie Survey interests dating to 1948 (FC Doc 1948-67, DR/198/454, RELEASE OF LIEN → BOUNDS B E, W RICHIE SUR). Active through 1995; deceased by 2012. Relationship to Gussie and Jewell TBD — Gussie heirship affidavit (1985-5299) should clarify.
-  - **Ted A. Weaver**: Known Weaver transferee (received property from both Jewell and Josie E. in 1985)
-- **Gussie Weaver death**: Before 8/21/1985. Affidavit of Heirship: FC Doc 1985-5299, OR/699/677 — PRIORITY PDF PULL.
+  - **Josie Evelyn Weaver**: **Gussie and Jewell's daughter** (b. 3/8/1915, per deed [324]; affiant on heirship affidavit; resident of Navarro County as of 1985). Third Weaver family member with Richie Survey interests dating to 1948 (FC Doc 1948-67, DR/198/454, RELEASE OF LIEN → BOUNDS B E, W RICHIE SUR). Active through 1995; deceased by 2012. Minerals held in estate of Josie E. Weaver (under will) per 2012 lease memoranda.
+  - **Ted A. Weaver**: Gussie and Jewell's son (b. 12/19/1933, per deed [324]). Known Weaver transferee (received property from both Jewell and Josie E. in 1985). Received Longbotham tracts from Jewell by deed 12/23/1980 (FC Vol. 693, Pg. 131)
+- **Gussie Weaver death**: **8/7/1975** (intestate; no probate; estate ~$25,000 cash+land). Affidavit of Heirship: FC Doc 1985-5299, OR/699/677 — **PULLED ✓ = deed [324]**. Married once only to Jewell P. Weaver (3/4/1914, Richland TX). Two children only: Josie Evelyn Weaver (b. 3/8/1915) and Ted A. Weaver (b. 12/19/1933).
 - **Jewell P. Weaver death**: Between 6/17/1985 and 10/6/1997. IRS estate tax lien released FC Doc 1997-5808, OR/1025/842.
 - **Leasing history (Weaver mineral interest)**:
   - 1950: Gussie → Bounds B F (O&G lease, W Richie SUR, FC DR/208/567)
@@ -98,7 +98,7 @@ Texas legal concepts that affect interpretation:
   - 1982: Amoco Prod Co release to Jewell (Ritchie Wm A-0527, FC DR/607/202)
   - 2012: Jewell P Trust + Josie E U/W/O → Polomsky Hughes (3 memoranda, FC OR/1588/165–167)
 - **Acreage note**: Deed [03] states 33.61 ac; 1978 and 2012 leases state 33.11 ac (0.50 ac discrepancy unresolved)
-- Action: (a) Pull FC 1985-5299 (Gussie heirship affidavit) — identifies heirs; (b) pull FC 2012-1204330/1204331/1204332 (2012 lease memoranda) — identifies current trustees/beneficiaries; (c) if family wishes to acquire these minerals, contact both Weaver heir lines; (d) document this severance clearly in the app so it's never overlooked in a future lease or sale
+- Action: ~~(a) Pull FC 1985-5299 (Gussie heirship affidavit) — identifies heirs~~ — **PULLED ✓ = deed [324]**; Gussie heir line fully identified (see above); (b) pull FC 2012-1204330/1204331/1204332 (2012 lease memoranda) — identifies current trustees/beneficiaries; (c) if family wishes to acquire these minerals, contact both Weaver heir lines; (d) document this severance clearly in the app so it's never overlooked in a future lease or sale
 - **Trust No. 2 companion lease**: Beard M Stephen Trustee also executed a memorandum of oil & gas lease to Polomsky Hughes & Associates LLC on the same date (FC Doc# 2012-1204190, OR/1587/893, 9/27/2012) — coordinated leasing of Trust No. 2's W Ritchie A-0527 surface acres alongside the Weaver mineral lease. [INDEX IDENTIFIED: F-Beard, 2026-03-09]
 
 ---

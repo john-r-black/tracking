@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [329] — Dorsett Family Trust post-death disposition confirmed (Warranty Deed with Vendor's Lien → Tiblier, 0.326 ac Block 22 Tehuacana, $76,000); NON-PROJECT PROPERTY; all Dorsett LC real property fully traced*
+*Last updated: 2026-03-31 — Deed [324] — Weaver heir identification updated: Gussie Weaver's heirs confirmed as Jewell P. Weaver (wife), Josie Evelyn Weaver (daughter, b. 1915), Ted A. Weaver (son, b. 1933)*
 # Black Land Project — Family & Entity Structure
 
 
@@ -324,4 +324,4 @@ The app tracks ownership history. Every parcel must have its current owner recor
 - **Trust No. 2** (James Allen Black's parcels)
 - **Kay Lynn Ramsey Black / John Marion Black estate** (personal land and mineral interests outside the trusts)
 - **James Allen Black personally** (land and mineral interests outside Trust No. 2 — including his 1/2 share of L20555 and L20556 minerals, his share of the Vickers royalty, his share of the TU Electric minerals, and any other personal holdings not conveyed into the trust)
-- **Third parties** (Weaver heirs [Gussie Weaver and Jewell Weaver heirs jointly], Ennis/Dorsett estate interests, Vickers surface)
+- **Third parties** (Weaver heirs [Gussie Weaver heirs: wife Jewell P. Weaver, daughter Josie Evelyn Weaver (b. 3/8/1915, d. before 2012), son Ted A. Weaver (b. 12/19/1933) — per deed [324] heirship affidavit; Jewell Weaver heirs: held in Weaver Jewell P Family Testamentary Trust — heirs TBD], Ennis/Dorsett estate interests, Vickers surface)

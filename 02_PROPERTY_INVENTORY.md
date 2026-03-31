@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [318] — Boyd Survey ~42.8 ac DISPOSED to Simmons (Jan 1975); ISSUE-01 RESOLVED*
+*Last updated: 2026-03-31 — Deed [324] — Weaver Tract mineral owner correction updated; Gussie Weaver heir line identified per heirship affidavit*
 # Black Land Project — Property Inventory
 
 
@@ -159,6 +159,8 @@ Three parcels not previously in the inventory:
 
 ### Weaver Tract Mineral Owner Correction
 Previous inventory noted "Weaver heirs own minerals." The correct attribution is **Gussie Weaver heirs and Jewell Weaver heirs jointly** — both were grantors in Deed [03] (1955) and the mineral reservation language is plural: "reserved to the grantors herein." Both Weaver lines must be identified to account for the full mineral interest.
+
+**Gussie Weaver heir line — IDENTIFIED** [PDF CONFIRMED: deed [324], 2026-03-31]: Gussie Weaver died intestate 8/7/1975. Married once only to Jewell P. Weaver (3/4/1914, Richland TX). Two children: Josie Evelyn Weaver (b. 3/8/1915, deceased by 2012) and Ted A. Weaver (b. 12/19/1933). Under 1975 Texas intestacy law, Gussie's undivided community interest in the reserved minerals passed to his children (Jewell retained her own community half). The Jewell Weaver heir line requires separate identification — her minerals are held in the Weaver Jewell P Family Testamentary Trust.
 
 ### John Boyd Survey Tracts — DISPOSED (Deed [318], January 1975)
 The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed three John Boyd Survey tracts to JP Black's mother's three children in equal 1/3 undivided shares. **All three grantees jointly sold the entire ~42.8 acres to Roy Simmons and wife Virginia M. Simmons 19 days later via deed [318] (01/18/1975, LC Inst# 07500489, Pg. 328).** These tracts are not family property. Individual tract breakdown per deed:
