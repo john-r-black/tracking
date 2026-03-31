@@ -1,0 +1,392 @@
+*Last updated: 2026-03-31 — Legacy timestamps stripped; git history is the audit trail*
+# Black Land Project — Deed Chain Summary
+
+ (County Deed Index Analysis — Texas Utilities (FC+LC), H&TC Railway (LC), Big Brown (FC), Luminant (FC) surname indices; deed [13] FC index confirmed (Doc# 1997-635, SPECIAL W/D, BLACK OLENA → TEXAS UTILITIES ELECTRIC CO, OR/1004/286, 1/29/1997); deed [119] L-HTC index confirmed (BOUNDS JAMES H → HOUSTON & TEXAS CENTRAL RAILWAY CO, D/24, 03/22/1875); Luminant corporate succession completed via 2017 merger certificates. Prior: County Deed Index Analysis — Black surname; [33]/[34] LC citations confirmed; [18]/[19] FC citations confirmed; [26] LC citation confirmed; deed [25] LC citation confirmed; deed [07] FC citation confirmed; 2005 coordinated closing fully sequenced FC+LC; upstream Boyd Survey instruments located (1943, 1958, 1959); Wortham surface chain resolved. Prior: DISPOSED markers added to [104], [108]; Phase 1 Supplement section added with body entries for [119]–[124]. This document is the authoritative deed chain summary. Do not accept corrections in conversation — update this file instead.*# Black Land Project — Deed Chain Summary
+
+
+---
+
+## Phase Structure Overview
+
+File naming convention: `[DATE]_[[#]]_[f or l]_[TYPE]_[GRANTOR]_[GRANTEE].txt`
+where `f` = Freestone County recording, `l` = Limestone County recording.
+
+County duplicate pairs (same instrument recorded in both counties for cross-county tracts):
+[05]/[23], [06]/[25], [08]/[26], [10]/[31], [11]/[32], [14]/[36], [16]/[37], [17]/[38], [20]/[39], [21]/[40]
+Note: For pairs where FC and LC filings appear in different Phase files, the FC filing is in the lower-numbered Phase file and the LC filing is in PHASE_5B.txt ([36], [37], [38], [39]).
+
+| Phase | Source File | Subject | Deeds |
+|---|---|---|---|
+| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02] |
+| Phase 2 | PHASE 2.txt | J.P. Black acquisitions (pre-trust) | [03], [24] |
+| Phase 3 | PHASE 3.txt | Bounds → Olena transition & lifetime conveyances | [04], [05]/[23], [07], [27], [28], [29], [30], [10]/[31], [11]/[32], [13], [35] |
+| Phase 4 | PHASE 4.txt | 1977 Trust formation & initial funding | [06]/[25], [08]/[26], [09], [12] |
+| Phase 5 | PHASE 5.txt | Estate of Olena & 1977 Trust → Trust 1/Trust 2 — Freestone instruments (2005) | [14], [15], [16], [17] |
+| Phase 5B | PHASE 5B.txt | 1977 Trust distributions + Limestone County cross-transfers (2005) | [18], [19], [20]/[39], [36] (LC of [14]), [37] (LC of [16]), [38] (LC of [17]) |
+| Phase 6 | PHASE 6.txt | Trust No. 1 → Gude Management LLC (2026) | [21]/[40] |
+| Phase 7 | PHASE 7.txt | Non-trust mineral equalization (LC only) | [33], [34] (brother mineral cross-transfers; personal interests only) |
+
+---
+
+### Phase 1 — Early Bounds Stream (Pre-Olena)
+Source: `PHASE 1.txt`
+1. `1878-03-13_[101]_l` — J. H. Bounds and wife M. E. Bounds → Mary M. Kindley [sic]/Lindley (warranty/gift, surface+minerals, Limestone) — 99 acres, Samuel Holloway Survey, beginning at SE corner of Holloway Survey on west boundary of R. B. Longbotham's League; consideration $1.00 (gift); **complete sell-out of JH Bounds' Holloway Survey holding to a family associate**. ⚠️ Name variation: granting clause "Mary M. Kindley"; habendum "Mary M. Lindley" — [sic] in both occurrences; same person. Privy examination of M. E. Bounds before A. Barry, Limestone County, March 22, 1878. Recording: Book "M" pp. 390–392, Limestone County; filed July 28, 1881; recorded July 28, 1881; S. D. Walker, co. clk. / R. Wiley, Deputy. NOTE: Recording citation confirmed from deed [105] cross-reference.
+2. `1886-05-29_[105]_l` — J. P. Lindley and wife Mary M. Lindley → J. H. Bounds (warranty, surface+minerals, Limestone) — 69 acres, "S.E. & North portion" of the 99-acre Samuel Holloway Survey; $550 cash; **partial buy-back** — JH Bounds recovers 69 of the 99 acres gifted in [101]; Mary M. Lindley (= the "Kindley" of [101]) confirmed as grantor, confirming the two names are the same person. M. M. Lindley privy examination before W. Allegra J.P. & Ex officio NP, Freestone County. Recording: filed Dec. 12, 1887; recorded Dec. 17, 1887; W. F. Brown, Co. Clk. / H. Williams, Dept., Limestone County. Recording: Vol. 2, Pg. 383, Limestone County [INDEX CONFIRMED: LC Vol.2 Pg.383, Inst# DR-00002-00383, 2026-03-09].
+3. `1889-10-16_[109]_l` — J. H. Bounds and wife M. E. Bounds → R. E. Lee (warranty with vendor's lien, surface+minerals, Limestone) — 69 acres, "S.E. and N. portion" of the 99-acre Samuel Holloway Survey (same parcel as deed [105] buy-back); $690 via four vendor's lien notes of $172.50 each (due dates: ⚠️ two notes listed as Jan 1 1892, plus Jan 1 1893 and Jan 1 1894 — likely scrivener's error for 1891/1892/1893/1894); vendor's lien retained; **complete sell-out of JH Bounds' Holloway Survey holding to R. E. Lee**. Cross-references deed [101] as "Books 'M' deed records of Limestone county pages 390, 391 & 392." Acknowledged J. E. Longbotham NP, Freestone County, Oct. 16, 1889. Recording: [Page 514] per margin note; filed March 27, 1890 at 9 AM; recorded March 26, 1890 at 3 PM [⚠️ recorded date precedes filed date — clerk error in original instrument]; W. F. Brown, co. clk. / J. D. Brown, Dept., Limestone County. **Samuel Holloway Survey is now completely out of family chain.**
+4. `1906-10-12_[111]_l` — J. H. Bounds and heirs at law → Webster Dean (warranty with vendor's lien, surface+minerals, Limestone) — 107.25 acres (= 109 acres less 1¾ ac Tehuacana Valley Church tract), Sarah McAnulty Survey, Limestone County; $2,149.09 ($500 cash + three vendor's lien notes of $549.83 each at 8%, due Jan 1 1908/1909/1910); vendor's lien retained. **Companion sell-out to deed [22] in the coordinated 1906 family partition** — deed [111] executed Oct 12; deed [22] executed Oct 13, one day later. The deed [111] parcel begins at "N.E. corner of a 361 acres tract of land on the South McAnulty Survey, same being the d.E. corner of a 28½ acres tract" — this is EAST of the deed [22] homestead tracts, separated by the Longbotham reference tracts. These two instruments together account for 107.25 + 116 = **223.25 acres** of the 1906 McAnulty partition. Full grantor group: J.H. Bounds, R.L. Turner, Ja. Bounds, J.H. Bounds, J.V. Bounds, J.W. Bounds, J.V. Lee, M.M. Lindley (feme sole), Fred Lee, M.J. Ferguson, N.Y. Ferguson, da. Sanders, J.N. Sanders, a.m. Ferguson, N.J. Ferguson, Ramah Kirkland, E.J. Kirkland, Ruth Turner, R.E. Lee (Jon defs. Survivors Com.), J.d. Bounds, J.E. Bounds, A.E. Boyd, Melisa Boyd. Also references "9½ acre tract sold by J.H. Bounds to M.P. Lindley now owned by Boyd" in the metes-and-bounds. ⚠️ R. E. Lee appears as "Jon defs. Survivors Com." — likely same R. E. Lee who was grantee in deed [109] (1889), now serving as guardian/administrator for minor heirs 17 years later; HUMAN VERIFICATION REQUIRED (see ISSUE-34 and 01_FAMILY_ENTITY_STRUCTURE.md). ⚠️ M. M. Lindley appears as feme sole grantor — same Mary M. Kindley/Lindley from deeds [101] and [105]; she is a JH Bounds heir/family member. Recording: filed Dec. 7, 1906 at 9 AM; recorded Dec. 18, 1906 at 4 PM; W. C. Frazier, County Clerk / A. R. Henderson, Deputy, Limestone County. Vol. 51, Pg. 537, Limestone County [INDEX CONFIRMED: LC Vol.51 Pg.537, Inst# DR-00051-00537, 2026-03-08]. **This parcel is NOT in the current CAD inventory — it was sold to Webster Dean and left the family chain in 1906.**
+5. `1881-11-21_[102]_l` — J. W. Mallard → J. H. Bounds (warranty, surface+minerals, Limestone) — 9 acres, Sarah McAnulty League; $30 cash; beginning at SE corner of tract deeded to R. D. King by L. B. Boyd through agent J. J. Oliver; upstream acquisition feeding deed [22] First Tract. Recording: Book O, Pg. 554, Limestone County [INDEX CONFIRMED: LC Book O Pg.554, Inst# DR-0000O-00554, 2026-03-09].
+2. `1881-12-06_[103]_l` — J. O. Longbotham (wife M. J. Longbotham) → J. H. Bounds (conveyance, surface+minerals, Limestone) — 7.5 acres, McAnulty League; $75.50 cash; beginning 401¾ vrs west of SW corner of Jno. Manning's 693-acre tract, on JH Bounds' north boundary line; acknowledged Freestone County (Warren Allegra JP); upstream acquisition feeding deed [22] First Tract. Manning 693-acre tract reference establishes proximity context for the Second Tract (Manning→JH Bounds, Book G p.661). Recording: Book O, Pg. 553, Limestone County [INDEX CONFIRMED: LC Book O Pg.553, Inst# DR-0000O-00553, 2026-03-09]. NOTE: Page 553, immediately preceding deed [102] at Page 554 — coordinated filing confirmed with adjacent pages in same volume.
+3. `1885-03-30_[104]_l` — J. H. Bounds → W. G. Eades (warranty with vendor's lien, surface+minerals, Limestone) — 2 acres, Block 19, Town of Tehuacana, John Boyd League; $315 via vendor's lien notes; sell-out of Boyd League town lot. **DISPOSED — NO REVERSION.** **Confirms JH Bounds held John Boyd League land before the 1886 Haley acquisition ([106])**; source of that earlier Boyd holding is undocumented. See Boyd Survey Portfolio Accounting below and ISSUE-32.
+4. `1886-12-27_[106]_l` — Hiram Haley and wife Sinai A. Haley → J. H. Bounds (warranty, surface+minerals, Limestone) — 158 gross (156 net) acres, John Boyd Survey; $2,000 cash; major Boyd Survey acquisition. Metes-and-bounds description identical to deed [108]. Acknowledged before A. E. Firmin NP, Limestone County.
+5. `1887-11-07_[107]_l` — JH Bounds & wife ME Bounds → Trustees of Colored New Home Baptist Church (warranty, **surface only**, Limestone) — 2-acre carve-out at SE corner of JH Bounds homestead tract, Sarah McAnulty Headright Survey; $32 consideration; condition on use ("Church, School and Grave yard purpose"); source deed for the church reservation referenced in every post-2005 instrument. See ISSUE-09 (PERMANENTLY CLOSED).
+6. `1889-03-27_[108]_l` — J. H. Bounds and wife M. E. Bounds → J. W./T. W. Bounds ⚠️ (warranty/gift deed, surface+minerals, Limestone) — 156 net acres, John Boyd Survey (same parcel as [106]); $5 + "natural love and affection we have for our Son." Reconveyed by T.W. Bounds to Brown James et al. in 1891 ([122]). **DISPOSED — NO REVERSION.** See ISSUE-32 re: T.W./J.W. name discrepancy.
+7. `1890-02-01_[110]_l` — A. M. Smith and wife Mary Smith (formerly Mary Bennett, daughter of W. J. Bennett, deceased) → J. H. Bounds (warranty, surface+minerals, Limestone) — 9⅛ acres off south end of 28½ acres deeded to W. J. Bennett by J. O. Longbotham, Sarah McAnulty Headright Survey; $91.57 cash; also covers grantors' 1/8 interest in 44½-acre W. J. Bennett old homestead tract on McAnulty; corners with Manning land (east), JH Bounds (south), J. O. Longbotham (west); grantors from Navarro County; upstream acquisition feeding deed [22] First Tract.
+8. `1906-10-13_[22]_l` — JH Bounds and adult children → MS Bounds (warranty, surface+minerals, Limestone)
+9. `1910-03-22_[113]_l` — J. M. Barry et al. (including Mattie Bounds née Barry joined by husband M. S. Bounds) → W. L. Adams and W. S. Adams (warranty, surface+minerals, Limestone) — 338 acres across three surveys: 162 ac Pedro Varela Eleven Leagues Grant + 96 ac Lipscomb Norvelle Survey + 80 ac John Boyd League; $5,250 cash. **Sell-out: 80 ac Boyd League leaves family chain; MS Bounds participates as Mattie's husband — this is Barry family land.** Mattie Mae Bounds' maiden name Barry confirmed. Deed also lists "Lou Bounds joined by husband J. M. Bounds" — J. M. Bounds is a separate person from M. S. Bounds. ⚠️ Date sourced from triage catalog only — not confirmed in deed source file text.
+10. `1910-07-10_[114]_l` — J. M. Barry et al. (including Mattie Bounds née Barry joined by husband M. S. Bounds) → W. J. Robinson (warranty with vendor's lien, surface+minerals, Limestone) — 43 acres, P. Varela Survey; $535.05 ($107.05 cash + three vendor's lien notes of $154.80 each); same Barry/Bounds grantor group as [113]. No overlap with any current holdings. ⚠️ Date sourced from triage catalog only — not confirmed in deed source file text. ⚠️ Some acknowledgment dates appear pre-deed-date — possible scrivener's error in original.
+11. `1934-02-03_[115]_l` — M. S. Bounds and wife Mattie Bounds → The Public (homestead designation, surface+minerals, Limestone) — 200 acres in two tracts across Limestone and Freestone Counties: First Tract (20 acres, Sarah McAnulty Survey, principally Limestone County; identical to deed [22] Third Tract and deed [116] Second Tract); Second Tract (180 acres, Wm Richie League, principally Freestone County). Not a conveyance — records homestead claim. Acknowledged before W. J. Bryant NP, Freestone County; filed Feb 8, 1934; recorded Feb 8, 1934. **LC**: Vol. 233, Pg. 136, Anna Burney, County Clerk, Limestone County [INDEX CONFIRMED: LC Vol.233 Pg.136, Inst# 1934000000000975, 2026-03-08]. **FC**: DR Vol. 128, Pg. 18, Doc# 1934-420 [INDEX CONFIRMED: FC DR/128/18, 2026-03-08]. ⚠️ Freestone County filing **CONFIRMED** — the homestead designation was filed in BOTH counties on the same date.
+12. `1937-07-31_[116]_l` — M. S. Bounds → Mrs. Mattie Bounds, his wife (warranty, surface+minerals, Limestone) — **Inter-spousal transfer conveying five McAnulty Survey tracts to Mattie Mae Bounds as her separate property.** First Tract (94 ac, McAnulty, LC); Second Tract (20 ac, McAnulty, LC+FC, John Manning source, Vol. 13 p.513 Freestone County deed records); Third Tract (2 ac, McAnulty, Reuben Manning source, Book G p.661 Limestone County); Fourth Tract (92 ac, McAnulty, LC, beginning at NW corner of A.H. Edwards tract); Fifth Tract (18 ac, McAnulty, LC, west of H&TC RR ROW, from T.A. Bounds estate). Consideration: $10 cash + repayment of money loaned by Mattie from her separate estate + love and affection. Grantee takes subject to outstanding indebtedness (Federal Land Bank loan addressed in [117]). Acknowledged before R. W. Williford NP, Freestone County; filed Aug 2, 1937; recorded Aug 5, 1937; W. L. Bond, County Court Clerk, Limestone County. **Recording citation confirmed by deed [118] cross-reference: Vol. 252, Page 463, Limestone County.** ⚠️ Recording citation is confirmed by [118]'s cross-reference rather than by a direct notation in [116]'s own text as transcribed. ⚠️ Total stated acreage of five tracts = 226 ac (94+20+2+92+18) but deed [118] calls the parent tract "224 acres" — CONFLICT — HUMAN VERIFICATION REQUIRED.
+13. `1945-09-13_[117]_l` — Land Bank Commissioner and Federal Farm Mortgage Corporation (acting through Federal Land Bank of Houston) → M. S. Bounds and wife Mattie Bounds (release, Limestone) — Release of deed of trust lien securing Loan No. F-13491, promissory note principal $3,300.00, deed of trust dated January 22, 1934, recorded Volume 2-A, page 278, Deed of Trust or Land Mortgage Records of Limestone County. Executed by R. D. Johnson, Vice President, Federal Land Bank of Houston. Filed Sep 18, 1945; recorded Sep 20, 1945; John Kidd, County Clerk; Mary Jo Baker, Deputy; Limestone County. **Does NOT address ISSUE-14 (the 1906 vendor's lien from deed [22]).**
+14. `1960-03-15_[118]_l` — Mrs. Mattie Bounds, et vir, M. S. Bounds → State of Texas, acting through State Highway Commission (warranty, **surface only**, Limestone) — 2.731 acres in two tracts (Tract No. 1: 0.650 ac at SE corner of 18-ac Fifth Tract; Tract No. 2: 2.081 ac at NW corner of 20-ac Second Tract) out of "224-acre tract" out of S. McAnulty Survey, Abstract No. 19. **Mattie Bounds is primary grantor (this is her separate property per deed [116]); M. S. Bounds joins as husband.** Consideration: dollar amount blank in transcription. **Mineral reservation**: grantors reserve all oil, gas, and sulphur under the 2.731 acres, waiving all ingress and egress rights for exploration/development. Fence improvements retained subject to removal by March 25, 1960. Wife acknowledged separately as "Mrs Mattie S. Bounds" (middle initial "S" appears for first time in file set). Filed Mar 17, 1960; recorded Mar 23, 1960; John Kidd, County Clerk; Dana Little, Deputy; Limestone County. **Cross-references deed [116] recording citation: "Vol. 252, Page 463, of Deed Records of Limestone County."**
+15. `1923-03-31_[01]_f` — B. Plunkett → MS Bounds (quitclaim, surface+minerals, Freestone)
+16. `1946-02-13_[02]_f` — MS Bounds → HD Vickers (warranty, **surface only**, Freestone)
+
+### Phase 2 — J.P. Black Acquisitions (Pre-Trust)
+Source: `PHASE 2.txt`
+1. `1955-09-13_[03]_f` — Gussie Weaver et ux → JP Black (warranty, **surface only**, Freestone) → F15408 (Weaver tract, minerals permanently severed by both Gussie Weaver and wife Jewell Weaver)
+2. `1974-12-30_[24]_l` — VE Black → Ennis/Dorsett/JP Black (warranty, surface+minerals, Limestone only; Doc 07507434, Bk OPR, Vol. 592, Pg. 773, filed Jan 3, 1975) [INDEX CONFIRMED: LC Inst# 07507434, 592/773, 2026-03-09] → John Boyd Survey ~42.8 acres near Tehuacana; JP Black received 1/3 undivided interest only; Ennis/Dorsett 2/3 — **critical lead**: LC Inst# 07500489 (Vol. 593, Pg. 328, DEED, 01/27/1975, Dorsett Genevieve et al + Ennis Georgia Nell et al → Simmons Roy et ux) is a joint conveyance by both sisters 24 days later; grantee Roy Simmons was notary on deed [24]; if Boyd Survey, 2/3 interest transferred to Simmons chain (ISSUE-01)
+
+### Phase 3 — Bounds → Olena Transition & Lifetime Conveyances
+Source: `PHASE 3.txt`
+1. `1972-01-07_[04]_f` — MS Bounds → OB Black (warranty, surface+minerals, Freestone)
+2. `1972-10-02_[05]_f` / `[23]_l` — MS Bounds → OB Black (warranty, surface+minerals, cross-county) → **Five tracts total**: First Tract (94 ac net 92 after church) + Fourth Tract (92 ac) → L20554/F17559; **Third Tract (20 ac cross-county, west of H&TC RR, Vol. 419 Pg. 673)** → parent of L20552/L20553/L119888/F17560; JP and Olena occupied this homestead tract since 1940s prior to formal deed
+3. `1979-12-13_[07]_f` — Estate of M.S. Bounds, Deceased (acting through Olena Bounds Black as Independent Executrix) → OB Black (warranty, surface+minerals, Freestone only)
+4. `1979-12-31_[27]_l` — OB Black → JA Black (gift deed, surface+minerals, Limestone) → L20555; LC Vol. 649, Pg. 815, Doc# 08000176 [INDEX CONFIRMED: LC Vol.649 Pg.815, 2026-03-09] ⚠️ CONFLICT: PDF review showed "Page 176" — HUMAN VERIFICATION REQUIRED
+5. `1979-12-31_[28]_l` — OB Black → JM Black (gift deed, surface+minerals, Limestone) → L20556; LC Vol. 649, Pg. 816, Doc# 08000177 [INDEX CONFIRMED: LC Vol.649 Pg.816, 2026-03-09] ⚠️ CONFLICT: PDF review showed "Page 177" — HUMAN VERIFICATION REQUIRED
+6. `1980-12-13_[29]_l` — OB Black → JA Black (gift deed, surface+minerals, Limestone); LC Vol. 665, Pg. 799, Doc# 08011822 [INDEX CONFIRMED: LC Vol.665 Pg.799, 2026-03-09]
+7. `1980-12-13_[30]_l` — OB Black → JM Black (gift deed, surface+minerals, Limestone); LC Vol. 665, Pg. 798, Doc# 08011821 [INDEX CONFIRMED: LC Vol.665 Pg.798, 2026-03-09]
+8. `1992-12-31_[10]_f` / `[31]_l` — OB Black → JA Black (gift warranty, **undivided 1/2 interest** in 1.000 ac L20552, S. McAnulty A-19; MS Bounds house parcel carved from [05] Third Tract; dual-county filing of single-county Limestone parcel; gift split across two calendar years as gift tax accounting measure — see [11]/[32])
+9. `1993-01-15_[11]_f` / `[32]_l` — OB Black → JA Black (gift warranty, **undivided 1/2 interest** in 1.000 ac L20552, S. McAnulty A-19; completes full conveyance of L20552 to James; same parcel as [10]/[31]; gift tax second-year transfer)
+10. `1997-01-20_[13]_f` — OB Black → TXU (special warranty, **surface only**, Freestone) → TU Electric rail spur conveyance — [INDEX CONFIRMED: FC Doc# 1997-635, SPECIAL W/D, BLACK OLENA → TEXAS UTILITIES ELECTRIC CO, OR/1004/286, W RITCHIE SUR A-0527 PT 17.916 ACS, recorded 1/29/1997]
+11. `2005-07-07_[35]_l` — OB Black → JM Black (partition deed, estate, Limestone only)
+
+### Phase 4 — 1977 Trust Formation & Initial Funding
+Source: `PHASE 4.txt`
+1. `1977-07-19_[06]_f` / `[25]_l` — JP Black & OB Black trust memo (cross-county) → **John Pierce Black Family Trust of 1977** established (Trustor: JP Black; Co-Trustees: Olena Bounds Black + Citizens National Bank of Waco)
+2. `1979-05-23_[08]_f` — Olena Bounds Black (indiv. + exec.) → JP Black Trust (warranty, **surface only**; grantor reserved ALL oil/gas/minerals, Freestone)
+3. `1979-10-01_[09]_f` — Olena Bounds Black → JP Black Trust (quitclaim, "all right, title, and interest," 85.3 ac Sarah McAnulty Survey, Freestone only; no mineral carve-out — likely conveyed the minerals reserved in [08])
+4. `1979-05-23_[26]_l` — JP Black Trust → Olena Bounds Black (quitclaim, Limestone only; **structural boundary instrument**: cleared trust's claim to ALL of Olena's separate inherited property — not just the residence. 20-ac Exhibit A is the Limestone portion; the trust's remaining funded assets after [26] = only JP's personal acquisitions. Olena's separate property (from MS Bounds + **Lou Barry Bounds Martin**, her maternal aunt — see ISSUE-16 and 01_FAMILY_ENTITY_STRUCTURE.md) passed directly through Estate of Olena → 2005 trusts.)
+5. `1995-03-06_[12]_f` — NationsBank of Texas N.A. (succ. to Citizens National Bank) + Olena Bounds Black → M. Stephen Beard as Successor Co-Trustee (distribution deed, Freestone only; Beard replaces NationsBank as co-trustee) [INDEX CONFIRMED (F-Beard): FC OR/953/40, Doc# 1995-1165, 2026-03-09; ⚠️ grantor indexed as "BLACK JOHN PIERCE FAMILY TRUST OF 1977" — indexing convention, not conflict; instrument controls]
+
+### Phase 5 — Estate of Olena & 1977 Trust → Trust 1/Trust 2 (2005)
+Source: `PHASE 5.txt`
+*(All dated 2005-07-07)*
+1. `[14]_f` / `[36]_l` — Estate of OB Black → Trust 1 (distribution, dual-filed cross-county; same instrument; FC [14] in PHASE_5.txt FC OR Vol. 1327 Pg. 554, Doc 05004968 [INDEX CONFIRMED: FC OR/1327/554, 2026-03-08]; LC [36] in PHASE_5B.txt Vol.1180 Pg.449 [INDEX CONFIRMED (L-Beard): LC Inst# 00053439, 1180/449, 2026-03-09]; 4 tracts: Tract One 329 ac net Freestone [Exhibit A 491.99 ac gross less Exhibit B 162.99 ac], Tract Two 3 ac LC McAnulty [1859 Manning→Bounds], Tract Three 92 ac stated [sic — 74 ac actual; see ISSUE-23] LC McAnulty, Tract Four 92 ac cross-county McAnulty; NO mineral reservation; Beard "Sole Trustee")
+2. `[15]_f` — Estate of OB Black → Trust 1 (undivided 1/2) & Trust 2 (undivided 1/2) (special warranty mineral deed, Freestone; FC OR Vol. 1327 Pg. 568, Doc 2005-5004970 [INDEX CONFIRMED: FC OR/1327/568, 2026-03-08]; minerals ONLY in 0.09 ac Lots 6 & 7 Block 6 Town of Wortham, R.B. Longbotham A-16; source: Rice Institute→MS Bounds 1918 Vol 64 p.173 FC; no reservation)
+3. `[16]_f` / `[37]_l` — Estate of OB Black → Trust 2 (distribution, dual-filed cross-county; same instrument; FC [16] in PHASE_5.txt FC OR Vol. 1327 Pg. 561, Doc 2005-5004969 [INDEX CONFIRMED: FC OR/1327/561, 2026-03-08]; LC [37] in PHASE_5B.txt [INDEX CONFIRMED (L-Beard): LC Inst# 00053440, 1180/457, 2026-03-09]; 4 tracts: Tract One 317.50 ac Richie League, Tract Two 33.66 ac Beldin Exhibit A, Tract Three 162.99 ac Exhibit B [same parcel excepted from [14]/[36]], Tract Four 20 ac McAnulty LC/FC; NO mineral reservation)
+4. `[17]_f` / `[38]_l` — Trust 1 → Trust 2 (special warranty mineral deed, dual-filed cross-county; same instrument; FC [17] in PHASE_5.txt FC OR Vol. 1327 Pg. 571, Doc 2005-5004971 [INDEX CONFIRMED: FC OR/1327/571, 2026-03-08]; LC [38] in PHASE_5B.txt [INDEX CONFIRMED (L-Beard): LC Inst# 00053441, 1180/465, 2026-03-09]; undivided 1/2 of Trust 1's mineral interest in 5 tracts: [14] Tracts One–Four PLUS Edwards Tract 85.30 ac Exhibit C; Trust 1 RETAINS executive rights [right to lease] over all 5 tracts; Beard "Sole Trustee" both sides)
+*(Deeds [18], [19], [20]/[39] are in PHASE_5B.txt — see Phase 5B section below)* [18]: FC OR Vol. 1327, Pg. 546, Doc 05004965 [INDEX CONFIRMED: FC OR/1327/546, 2026-03-09]; [19]: FC OR Vol. 1327, Pg. 549, Doc 05004966 [INDEX CONFIRMED: FC OR/1327/549, 2026-03-09]; [20]: FC OR Vol. 1327, Pg. 579, Doc 05004972 [INDEX CONFIRMED: FC OR/1327/579, 2026-03-09 (F-Beard cross-confirm)]; [39]: LC Inst# 00053442, 1180/474 [INDEX CONFIRMED (L-Beard): 2026-03-09]
+
+### Phase 6 — Trust No. 1 → Gude Management LLC (2026)
+Source: `PHASE 6.txt`
+1. `2026-01-08_[21]_f` / `[40]_l` — Trust 1 → Gude Management LLC (special warranty, surface+minerals, cross-county; Donald Fredrick Willis Jr., Sole Trustee; **Note on Willis authority**: Willis succeeded Beard as Trust No. 1 trustee pursuant to a private "Trustee Resignation and Appointment of Successor Trustee" instrument effective May 1, 2017 (notarized Harris County, October 24, 2017; document ref ;04439793 DOC/1; marked "Successor Trustee Copy"). This instrument is unrecorded — not filed in Freestone or Limestone County deed records. See ISSUE-03. Willis name form in the 2017 instrument: "D. Fred Willis." Willis name form in the 2026 deed: "Donald Fredrick Willis Jr."; acknowledged Harris County Jan 8, 2026; notary: Destinee Leeanne Reyes, ID #13363853-5, exp. Mar 10, 2026; preparer: Dore Rothberg Law P.C.; [21] = Freestone County Instrument No. 2600106, recorded Jan 12, 2026 08:04 AM eRecording, Renee Gregory County Clerk, 8 pages, $49.00 [INDEX CONFIRMED: FC Inst# 2026-2600106, "WARRANTY DEED", grantor "WILLIS DONALD FREDRICK TRUSTEE", grantee "GUDE MANAGEMENT LLC", 2026-03-09; note: FC index types this as "WARRANTY DEED" — PDF says "special warranty deed"; PDF controls]; [40] = Limestone County Doc 2026-0000082, recorded Jan 12, 2026 08:46:48 AM eRecording, Kerrie Cobb County Clerk, 7 pages; both filed same day — FC recorded ~42 min before LC; FC filing 8 pages vs LC 7 pages; ⚠️ ISSUE-30: Manning ~3 ac parcel omitted; ⚠️ ISSUE-31: Edwards Tract 85.30 ac omitted; ⚠️ ISSUE-24: Wortham Lots mineral interest not conveyed)
+
+### Phase 7 — Non-Trust Mineral Equalization (LC Only)
+Source: `PHASE 7.txt`
+*Note: PHASE_7.txt contains two deeds: [33] and [34] (brother mineral cross-transfers, Limestone County only, non-trust personal interests). Deeds [36] and [37] (Limestone County filings of [14] and [16]) are in PHASE_5B.txt, not PHASE_7.txt — see Phase 5B section below.*
+1. `2005-07-07_[33]_l` — JA Black → JM Black (special warranty mineral deed, Limestone; undivided 1/2 of James's mineral interest in Fifth Tract L20555; James retains executive rights); LC Vol. 1179, Pg. 562, Doc# 00053261 [INDEX CONFIRMED: LC Vol.1179 Pg.562, 2026-03-09]; PDF status: ✓
+2. `2005-07-07_[34]_l` — JM Black → JA Black (special warranty mineral deed, Limestone; undivided 1/2 of John Marion's mineral interest in partition parcel L20556); LC Vol. 1179, Pg. 559, Doc# 00053260 [INDEX CONFIRMED: LC Vol.1179 Pg.559, 2026-03-09]; PDF status: ✓
+
+---
+
+## Detailed Analysis Notes
+
+*(Supplemental notes from prior analysis. Phase index above is authoritative for deed-to-file mapping.)*
+
+### Phase 1 Notes
+
+#### Deed [101] — J. H. Bounds and wife M. E. Bounds → Mary M. Kindley/Lindley (1878-03-13, Limestone)
+- **Transaction type**: Gift deed — JH Bounds gifting 99 ac Samuel Holloway Survey to a family associate; consideration $1.00
+- **Grantor**: J. H. Bounds and wife M. E. Bounds; Limestone County
+- **Grantee**: "Mary M. Kindley" (granting clause [sic]) / "Mary M. Lindley" (habendum [sic]) — same person; name discrepancy in the original instrument itself; see 01_FAMILY_ENTITY_STRUCTURE.md
+- **Property**: 99 acres, Samuel Holloway Survey, beginning at SE corner of Samuel Holloway Survey on west boundary of R. B. Longbotham's League; Limestone County
+- **Interest**: Surface + minerals — fee simple, pre-mineral-era; no reservations
+- **Consideration**: $1.00 (gift/love and affection); nominal consideration confirms gift character
+- **Acknowledgment**: A. Barry, Limestone County; March 22, 1878. M. E. Bounds examined privily and apart (privy examination).
+- **Recording**: Book "M" pp. 390–392 (citation confirmed from deed [105] cross-reference); filed July 28, 1881; recorded July 28, 1881; S. D. Walker, co. clk. / R. Wiley, Deputy, Limestone County. ⚠️ Vol/Pg confirmed from [105] cross-reference only — pull original from Limestone County deed records to verify.
+- **Chain significance**: JH Bounds is gifting Holloway Survey land out of the family. The 30 acres not later repurchased permanently left the family in this deed. The 69 acres were briefly reacquired (deed [105], 1886) then sold to R. E. Lee (deed [109], 1889).
+- **Relationship to current holdings**: Samuel Holloway Survey is NOT in the current inventory. This deed and its successors ([105], [125], [109]) represent a completely separate land chain that terminated with R. E. Lee in 1889–1890 (69 ac via [109] from Bounds; 30 ac via [125] from Lindley) with no connection to the McAnulty League holdings in deed [22].
+
+#### Deed [105] — J. P. Lindley and wife Mary M. Lindley → J. H. Bounds (1886-05-29, Limestone)
+- **Transaction type**: Fee simple — JH Bounds reacquiring 69 acres of the Holloway Survey he had gifted in [101]
+- **Grantors**: J. P. Lindley and wife Mary M. Lindley; Freestone County (privy exam before Freestone notary)
+- **Grantee**: J. H. Bounds
+- **Property**: 69 acres, "S.E. & North portion" of the 99-acre Holloway tract; cross-references deed [101] as "Books 'M' deed records of Limestone county pages 390, 391 & 392"
+- **Interest**: Surface + minerals — fee simple, pre-mineral-era; no reservations
+- **Consideration**: $550 cash
+- **Acknowledgment**: W. Allegra J.P. & Ex officio NP, Freestone County, May 29, 1886. Mary M. Lindley examined privily and apart.
+- **Recording**: Vol. 2, Page 383, Limestone County [INDEX CONFIRMED: LC Vol.2 Pg.383, Inst# DR-00002-00383, 2026-03-09]; filed Dec. 12, 1887; recorded Dec. 17, 1887; W. F. Brown, Co. Clk. / H. Williams, Dept. ⚠️ Triage catalog only for execution date; confirm against original at Vol. 2 Pg. 383.
+- **Key identification**: "J. P. Lindley and wife Mary M. Lindley" as grantor confirms "Mary M. Kindley" (deed [101] granting clause) = "Mary M. Lindley" — she married J. P. Lindley between 1878 and 1886. The Lindleys are Freestone County residents (privy exam in Freestone County). The buy-back is arm's-length ($550) suggesting it is a commercial resale, not a gift return.
+- **Net effect**: JH Bounds now holds 69 ac of the Holloway Survey again; Mary M. Lindley retains the remaining 30 ac (the "S.W. portion" or equivalent not repurchased). ⚠️ NOTE: Index session 2026-03-09 identified a subsequent J.P. Lindley → R.E. Lee deed for 30 ac Holloway (deed [125], LC Vol.8 Pg.512, recorded 03/22/1890) — the 30-acre remainder was conveyed to R.E. Lee approximately 3 years after [105], meaning by 1890 Lee held the entire 99-acre Holloway Survey.
+
+#### Deed [125] — J. P. Lindley and wife → R. E. Lee (recorded 1890-03-22, Limestone) [INDEX IDENTIFIED: LC Vol.8 Pg.512, Inst# DR-00008-00512, 2026-03-09]
+- **Transaction type**: Fee simple — disposition of Mary M. Lindley's remaining 30-acre Holloway Survey portion
+- **Grantor**: LINDLEY J P + (per LC index; "+" indicates additional grantor — almost certainly wife Mary M. Lindley)
+- **Grantee**: LEE ROBERT E (per LC index)
+- **Property**: 30 acres, Samuel Holloway Survey, Limestone County
+- **Interest**: Presumed surface + minerals — pre-mineral-era; details unknown pending PDF pull
+- **Consideration**: Unknown — index does not state consideration
+- **Recording**: Vol. 8, Page 512, Limestone County [INDEX IDENTIFIED: LC Vol.8 Pg.512, Inst# DR-00008-00512, 2026-03-09]; recorded 03/22/1890
+- **Execution date**: Unknown — pull needed
+- **Chain significance**: This deed completes the Holloway Survey disposition picture. Combined with deed [109] (69 ac Bounds→Lee, Oct 1889), R. E. Lee held the entire 99-acre Samuel Holloway Survey by March 1890. The Lindley family retained no Holloway Survey interest after this conveyance. M. M. Lindley's participation in the 1906 deed [111] (McAnulty partition) was as a JH Bounds heir with McAnulty Survey interests, not as a Holloway Survey holder.
+- **Relationship to current holdings**: None — Samuel Holloway Survey is NOT in current inventory. Contextual only.
+- **Source**: Identified from L-Lindley LC surname index, 2026-03-09. ⚠️ Not yet PDF-verified; recording citation is index-only. Pull from LC Vol. 8 Pg. 512 to confirm parties, acreage, and terms.
+- **Cross-check note**: This instrument does NOT appear in the L-Lee LC surname index despite R.E. Lee being grantee — consistent with a systematic gap in the Lee index for 1890-era R.E. Lee grantee entries (see PM Report Flag 1).
+
+#### Deed [109] — J. H. Bounds and wife M. E. Bounds → R. E. Lee (1889-10-16, Limestone)
+- **Transaction type**: Fee simple with vendor's lien — JH Bounds selling the 69 ac Holloway Survey parcel to R. E. Lee
+- **Grantors**: J. H. Bounds and wife M. E. Bounds; Freestone County (acknowledged before Freestone notary)
+- **Grantee**: R. E. Lee
+- **Property**: 69 acres, "S.E. and N. portion" of the 99-acre Samuel Holloway Survey tract; "situated in the corners of Limestone, Freestone and Navarro Counties" — notable three-county intersection; cross-references deed [101] as "Books 'M' pages 390, 391 and 392"
+- **Interest**: Surface + minerals — fee simple, pre-mineral-era; no mineral reservations
+- **Consideration**: $690 via four vendor's lien notes of $172.50 each. ⚠️ Two notes listed as due "Jan 1 1892" — scrivener's error for 1891 and 1892 (or 1892 and 1892, which would be impossible). The intended schedule is likely Jan 1 1891/1892/1893/1894 at equal intervals.
+- **Acknowledgment**: J. E. Longbotham, Notary Public, Freestone County, Oct. 16, 1889 (same notary as deeds [108] and [110])
+- **Recording**: [Page 514] per margin note in source text; filed March 27, 1890 at 9 AM; recorded March 26, 1890 at 3 PM; W. F. Brown, co. clk. / J. D. Brown, Dept., Limestone County. ⚠️ RECORDING DATE PRECEDES FILING DATE — "recorded March 26" before "filed March 27" is a clerk error in the original instrument; the instrument cannot be recorded before it is filed. Document as anomaly.
+- **R. E. Lee identity**: Almost certainly the same R. E. Lee who appears 17 years later in deed [111] (1906) as a fiduciary for minor heirs. In 1906 he serves as "Jon defs. Survivors Com." — consistent with his spouse (a JH Bounds child) having predeceased him, leaving minor children. ⚠️ HUMAN VERIFICATION REQUIRED — see ISSUE-34 and 01_FAMILY_ENTITY_STRUCTURE.md.
+- **Chain significance**: Final disposition of JH Bounds' Holloway Survey holdings. Combined with deed [125] (J.P. Lindley → R.E. Lee, 30 ac, recorded Mar 1890), R. E. Lee held the entire 99-acre Samuel Holloway Survey by March 1890. Samuel Holloway Survey is completely out of the family chain. No connection to current McAnulty holdings.
+
+#### Deed [111] — J. H. Bounds and heirs at law → Webster Dean (1906-10-12, Limestone)
+- **Transaction type**: Fee simple with vendor's lien — JH Bounds heirs selling McAnulty Survey parcel in coordinated 1906 family partition
+- **Grantor**: J. H. Bounds "and heirs at law" — full grantor list: J.H. Bounds, R.L. Turner, Ja. Bounds, J.H. Bounds, J.V. Bounds, J.W. Bounds, J.V. Lee, M.M. Lindley (feme sole), Fred Lee, M.J. Ferguson, N.Y. Ferguson, da. Sanders, J.N. Sanders, a.m. Ferguson, N.J. Ferguson, Ramah Kirkland, E.J. Kirkland, Ruth Turner, R.E. Lee (Jon defs. Survivors Com.), J.d. Bounds, J.E. Bounds, A.E. Boyd, Melisa Boyd
+- **Grantee**: Webster Dean, Limestone County
+- **Property**: 107.25 acres (109 acres less 1¾ ac Tehuacana Valley Church tract), Sarah McAnulty Survey, Limestone County. Beginning at "N.E. corner of a 361 acres tract of land on the South McAnulty Survey, same being the d.E. corner of a 28½ acres tract." References the same 28½-ac and 7½-ac Longbotham tracts appearing in deed [110]. Also references "9½ acre tract sold by J.H. Bounds to M.P. Lindley now owned by Boyd" — unknown prior sale not in file set.
+- **Interest**: Surface + minerals — fee simple, pre-mineral-era; no reservations
+- **Consideration**: $2,149.09 ($500 cash + three vendor's lien notes of $549.83 each at 8%, due Jan 1 1908/1909/1910); vendor's lien retained
+- **Acknowledgment**: Multiple acknowledgments across multiple counties; recorded Limestone County. W. C. Frazier, County Clerk / A. R. Henderson, Deputy.
+- **Recording**: Filed Dec. 7, 1906 at 9 AM; recorded Dec. 18, 1906 at 4 PM; W. C. Frazier, County Clerk / A. R. Henderson, Deputy, Limestone County. Volume/page not stated in source text. ⚠️ Triage catalog only; pull from Limestone County deed records.
+- **Geography**: The deed [111] parcel begins at the NE corner of the "361 acres tract" (= probably JH Bounds' McAnulty holding from [103]/[110] area). This places it EAST of the deed [22] homestead tract, not overlapping. The two 1906 instruments ([111] on Oct 12 and [22] on Oct 13) divide the JH Bounds McAnulty holdings between the family (MS Bounds via [22]) and an outside purchaser (Webster Dean via [111]).
+- **"361 acres tract" note**: ⚠️ CONFLICT — HUMAN VERIFICATION REQUIRED. Deed [103] (1881) references JH Bounds' "278 acre survey" as the south boundary. Deed [111] (1906) references a "361 acres tract" as the starting point. If the same property, JH Bounds expanded from 278 acres (1881) to 361 acres (1906) through additional acquisitions not yet documented. Alternatively, the 361-acre reference may be a different neighboring tract. This is the key data point for ISSUE-34. See ISSUE-34 for updated arithmetic.
+- **M.M. Lindley as feme sole**: She appears as a grantor without a husband — she is widowed or separated by 1906. She is a JH Bounds family connection (daughter, daughter-in-law, or close associate) who previously held 30 acres of the Holloway Survey but conveyed them to R.E. Lee in 1890 (deed [125]). Her participation in the 1906 McAnulty partition is as a JH Bounds heir with McAnulty Survey interests. Her 30 ac Holloway holding was separate from and did not affect the McAnulty Survey parcels.
+- **Chain significance**: This parcel left the family chain permanently in 1906. It is not in the current CAD inventory. It is geographically east of and distinct from the deed [22] three tracts that MS Bounds received.
+- **Downstream disposition (Dean surname index, 2026-03-09)**: L-Dean index reveals **D P Dean** conveyed McAnulty Survey mineral interests in three mineral deeds to Great Expectations Oil Corp of Fort Worth, all recorded 04/06/1948: (a) LC Vol. 322 Pg. 440, Inst# 1948000000001703, S MC ANULTY SUR; (b) LC Vol. 322 Pg. 443, Inst# 1948000000001704, MULTIPLE PROPERTIES; (c) LC Vol. 322 Pg. 446, Inst# 1948000000001705, S MC ANULTY SUR. D P Dean is likely a descendant of Webster Dean holding minerals from the [111] parcel 42 years post-conveyance. D P Dean also held 100 ac on P Varela Survey (1939, LC Vol. 204 Pg. 629). No reconveyance of the [111] parcel to Bounds/Black family was found in either L-Dean or F-Dean indices. ⚠️ Note: L-Dean grantee index does NOT contain a "DEAN WEBSTER" entry for deed [111] at Vol. 51 Pg. 537 — this is an index coverage gap (index has 1904-era Dean records, so era coverage is adequate; Bounds-side grantor confirmation (Inst# DR-00051-00537) remains valid).
+
+#### Deed [102] — J. W. Mallard → J. H. Bounds (1881-11-21, Limestone)
+- **Transaction type**: Fee simple acquisition — JH Bounds purchasing a 9-acre parcel on the McAnulty League
+- **Grantor**: J. W. Mallard, Limestone County
+- **Grantee**: J. H. Bounds
+- **Property**: 9 acres, part of the Sarah McAnulty League, Limestone County. Metes-and-bounds: beginning at SE corner of tract deeded to R. D. King by L. B. Boyd through agent J. J. Oliver; thence N 237 4/67 vrs, W 237 272/467 vrs, S 237 325/467 vrs, E to beginning.
+- **Interest**: Surface + minerals — fee simple; no reservations
+- **Consideration**: $30 cash
+- **Recording**: Book O, Page 554, Limestone County [INDEX CONFIRMED: LC Book O Pg.554, Inst# DR-0000O-00554, 2026-03-09]; filed April 8, 1882 at 5 PM; recorded April 10, 1882 at 6 PM; S. D. Walker, co. clk.; R. Wiley, Deputy. NOTE: Index recorded date (04/08/1882) corresponds to filing date, not recording date (04/10/1882).
+- **Notary**: N. L. Waller, Notary Public, Limestone County; acknowledged November 21, 1881
+- **Significance**: One of at least three upstream acquisitions by which JH Bounds assembled his McAnulty League holdings prior to the 1906 deed [22] conveyance to MS Bounds. This 9-acre parcel is absorbed into the deed [22] First Tract (94 acres) — it is not separately identifiable in the current CAD inventory. The R. D. King / L. B. Boyd / J. J. Oliver references establish prior ownership context for this corner of the McAnulty League.
+- **Relationship to deed [22]**: Absorbed into First Tract. Not separately tracked in CAD.
+- **Metes-and-bounds note**: The fractional distances (237 4/67, 237 272/467, 237 325/467) are unusual — the denominators 67 and 467 are not standard survey fractions. These likely reflect the surveyor's arithmetic in fitting the parcel into 9 acres. The parcel is approximately 237 × 237 varas (~1.57 × 1.57 chains), consistent with ~9 acres.
+
+#### Deed [103] — J. O. Longbotham → J. H. Bounds (1881-12-06, Limestone)
+- **Transaction type**: Fee simple acquisition — JH Bounds purchasing a 7.5-acre parcel on the McAnulty League
+- **Grantor**: J. O. Longbotham (wife M. J. Longbotham co-signed)
+- **Grantee**: J. H. Bounds
+- **Property**: 7.5 acres on the McAnulty League, Limestone County. Metes-and-bounds: beginning 401¾ vrs west of the SW corner of a 693-acre tract belonging to Jno. Manning, on north boundary line of J. H. Bounds' 278-acre survey; thence N 105 vrs, W 401¼ vrs, S 105 vrs, E with JH Bounds' north line 401¼ vrs to beginning. "All in Limestone County."
+- **Interest**: Surface + minerals — fee simple; no reservations
+- **Consideration**: $75.50 cash
+- **Recording**: Book O, Page 553, Limestone County [INDEX CONFIRMED: LC Book O Pg.553, Inst# DR-0000O-00553, 2026-03-09]; filed April 8, 1882 at 5 PM; recorded April 10, 1882 at 3 PM; S. D. Walker, Co. Clk.; R. Wiley, Deputy. NOTE: Deed [103] at Pg. 553 and deed [102] at Pg. 554 are on adjacent pages in Book O — coordinated filing confirmed.
+- **Acknowledgment**: Freestone County — J. O. Longbotham acknowledged before Warren Allegra, JP & Ex off. NP, December 6, 1881. M. J. Longbotham (wife) separately examined by Warren Allegra, December 24, 1881 (18 days after husband's acknowledgment).
+- **Significance**: (a) Establishes J. O. Longbotham as a McAnulty League neighbor who also appears as the upstream grantor in the Bennett chain (Longbotham→W.J. Bennett→Mary Smith→JH Bounds, deed [110]). (b) The reference to **Jno. Manning's 693-acre tract** is critical — it confirms Manning as a major McAnulty League holder and provides spatial context for the Manning 3-acre Second Tract (Reuben Manning→JH Bounds, 1869, Book G p.661). (c) The reference to **"J. H. Bounds 278 acre survey"** as the south boundary confirms JH Bounds already held a substantial McAnulty holding by 1881 — this 278-acre tract has no acquisition deed in the current file set and likely represents the bulk of the deed [22] First Tract acreage.
+- **Relationship to deed [22]**: Absorbed into First Tract. Not separately tracked in CAD.
+- **M. J. Longbotham identity**: Possibly Martha J. Longbotham from deed [101] (1878, JH Bounds gifted 99 ac Holloway Survey to Mary M. Kindley). If Martha J. Longbotham of [101] married J. O. Longbotham between 1878 and 1881, she would appear as "M. J. Longbotham" here. This is speculative — no confirming evidence in the file set.
+
+#### Deed [110] — A. M. Smith and wife Mary Smith → J. H. Bounds (1890-02-01, Limestone)
+- **Transaction type**: Fee simple acquisition — JH Bounds purchasing Mary Smith's inherited interest in her father's McAnulty Survey holdings
+- **Grantors**: A. M. Smith and wife Mary Smith "formerly Mary Bennett and daughter of W. J. Bennett Deed [deceased]"; Navarro County residents
+- **Grantee**: J. H. Bounds, Limestone County
+- **Property**: 9⅛ acres off the south end of a 28½-acre tract deeded to W. J. Bennett by J. O. Longbotham, out of the Sarah McAnulty Headright Survey, Limestone County. "Cornering with the Manning land on the east and J. H. Bounds on the south and J. O. Longbotham on the west." Also covers grantors' 1/8 interest in another 44½-acre tract (W. J. Bennett's old homestead) on the McAnulty Survey. Deed states "the above 9¼ acres also covers our interest in an other tract of 44½ acres" — the 9⅛ vs. 9¼ discrepancy is a scrivener's error; mathematical 1/8 of 73 ac (28½ + 44½) = 9.125 = 9⅛ acres, which is correct.
+- **Interest**: Surface + minerals — fee simple; no reservations
+- **Consideration**: $91.57 cash
+- **Recording**: Book 8, Pg. 595 [INDEX CONFIRMED: LC Book 8 Pg.595, Inst# DR-00008-00595, 2026-03-09]; Filed May 24, 1890 at 5 PM; recorded May 26, 1890 at 9 AM; W. F. Brown, co clerk; H. Williams, Dept.; Limestone County
+- **Acknowledgment**: Both acknowledged before J. E. Longbotham, Notary Public, Freestone County, February 1, 1890. NOTE: The notary caption for A. M. Smith's acknowledgment reads "Limestone Co. Tex." — this is a caption error in the original instrument. J. E. Longbotham is consistently identified as a Freestone County notary across deeds [108], [109], and [110].
+- **Bennett family context**: W. J. Bennett held at least 73 acres on the McAnulty Survey (28½ + 44½). He received the 28½-acre tract from J. O. Longbotham (the same Longbotham who sold [103] to JH Bounds). Mary Smith inherited a 1/8 interest, implying 8 Bennett heirs total. The remaining 7/8 of the Bennett McAnulty holdings (~63.875 acres) was held by the other 7 heirs — their disposition is not documented in the current file set.
+- **Manning reference**: The parcel corners with "Manning land on the east" — confirming the Manning and JH Bounds holdings were adjacent on the McAnulty League, consistent with the deed [22] Second Tract (Reuben Manning→JH Bounds lot).
+- **Relationship to deed [22]**: Absorbed into First Tract. Not separately tracked in CAD.
+
+#### Deed [104] — J. H. Bounds → W. G. Eades (1885-03-30, Limestone)
+- **Transaction type**: Fee simple conveyance out — JH Bounds selling a 2-acre town lot in Block 19, Town of Tehuacana, part of the John Boyd League
+- **Grantor**: J. H. Bounds
+- **Grantee**: W. G. Eades
+- **Property**: 2 acres, Block No. 19, Town of Tehuacana, part of the John Boyd League, Limestone County
+- **Interest**: Surface + minerals — fee simple, pre-mineral-era; no reservations
+- **Consideration**: $315 via vendor's lien notes (multiple blanks in original for note details)
+- **Acknowledgment**: Before W. Allegra, JP, Freestone County; March 31, 1885 (one day after deed execution date)
+- **Recording**: Vol. 2, Pg. 528, Limestone County [INDEX CONFIRMED: LC Vol.2 Pg.528, Inst# DR-00002-00528, 2026-03-08]. Filed June 19, 1888; recorded June 19, 1888; W. F. Brown, Clerk; H. W. Williams, Deputy.
+- **Significance**: Sell-out dated March 30, 1885 — over 18 months **before** the Haley acquisition ([106], December 27, 1886). JH Bounds was disposing of Boyd League land from an undocumented earlier acquisition. The [106] Haley purchase was an addition to, not the origin of, his Boyd Survey holdings.
+- **Relationship to current holdings**: This 2-acre town lot is not traceable to the deed [24] chain. Conveyed out in 1885; not in any current inventory.
+
+#### Deed [106] — Hiram Haley and Sinai A. Haley → J. H. Bounds (1886-12-27, Limestone)
+- **Transaction type**: Fee simple acquisition — JH Bounds purchasing a major Boyd Survey parcel
+- **Grantors**: Hiram Haley and wife Sinai A. Haley (also "Sinai Ann Haley" in privy examination), Limestone County
+- **Grantee**: J. H. Bounds
+- **Property**: 158 gross acres less previously sold parcels (1 ac to J. H. Sparks off SW corner; 1 ac to State of Texas off SE corner) = **156 net acres**, John Boyd Survey, Limestone County. Beginning 500 varas west of SE corner of John Boyd League; N along JH Bounds' west line to Tehuacana Creek (~1900 varas); up the creek to NE corner of the 150-acre Foster/Shown/Atkinson/Foster tract; S ~1664 varas to S line of Boyd League; E 500 varas to beginning.
+- **Interest**: Surface + minerals — fee simple, no reservations
+- **Consideration**: $2,000 cash
+- **Acknowledgment**: A. E. Firmin, Notary Public, Limestone County; December 27, 1886. Sinai A. Haley separately examined (privy examination).
+- **Recording**: Filed December 17, 1887; recorded December 17, 1887; W. F. Brown, Clerk; H. Williams, Deputy; Limestone County. Date confirmed against deed source file text — consistent with triage catalog. **PROBABLE citation: LC Vol. 2, Pg. 381** (per LC index Inst# DR-00002-00381, "HALEY K H +" → "BOUNDS J H", J BOYD SUR, 158 ACRES, recorded 12/17/1887) — ⚠️ grantor name discrepancy: index has "K H" where transcription reads "Hiram"; all other fields match; requires verification pull [INDEX PROBABLE: LC Vol.2 Pg.381, 2026-03-09].
+- **Metes-and-bounds note**: Description is **identical** to deed [108]. The [108] gift deed conveyed exactly this parcel to JW Bounds.
+- **Relationship to deed [24]**: Metes-and-bounds differ from deed [24]'s three tracts. The 156-net-acre [106]/[108] parcel is **not** the source of deed [24]. See Boyd Survey Portfolio Accounting below.
+- **Relationship to current holdings**: Conveyed out entirely to JW Bounds in 1889 ([108]). Not in any current inventory.
+
+#### Deed [108] — J. H. Bounds and wife M. E. Bounds → J. W. Bounds (1889-03-27, Limestone)
+- **Transaction type**: Gift deed (warranty form) — JH Bounds gifting entire [106] Boyd Survey parcel to his son
+- **Grantors**: J. H. Bounds and wife M. E. Bounds (Margaret Emily Woolf Bounds — maiden name Woolf confirmed from GEDCOM; prior file versions showed "Margaret Emily Bounds"), Limestone County
+- **Grantee**: J. W. Bounds — **confirmed as JH Bounds' son** by consideration recital: "the natural love and affection we have for our Son (the said J. W. Bounds)"
+- **Property**: 158 acres less 2 previously sold = **156 net acres**, John Boyd Survey, Limestone County. Metes-and-bounds **identical** to deed [106].
+- **Interest**: Surface + minerals — fee simple, no reservations; complete transfer
+- **Consideration**: $5 + "the natural love and affection we have for our Son (the said J. W. Bounds)"
+- **Acknowledgment**: J. E. Longbotham, Notary Public, Freestone County; March 27, 1889. M. E. Bounds separately examined (privy examination).
+- **Recording**: Vol. S, Page 582, Limestone County; filed April 1, 1889; recorded April 1, 1889; W. F. Brown, Clerk; Deputy name illegible. Volume/page confirmed against deed source file text.
+- **JW vs. TW Bounds identity**: Confirmed as JH Bounds' son per consideration recital ("our Son"). ⚠️ **Name discrepancy**: LC index (Inst# DR-0000S-00582, Vol. S Pg. 582, recorded 04/01/1889) shows grantee as **"BOUNDS T W"** — but the deed transcription reads "J. W. Bounds." If the index is correct, the grantee is likely **Theophilus Walton Bounds** (b. 1867); if the transcription is correct, the most likely candidate is **James Vastine Bounds** (b. 1849). A handwritten cursive "V" or "T" could be misread as "W" in 19th-century documents. HUMAN VERIFICATION REQUIRED — pull original instrument at Vol. S Pg. 582 to confirm. See ISSUE-32.
+- **⚠️ No reconveyance found**: No deed from JW Bounds (or his heirs) returning any Boyd Survey land to the family chain appears in the file set. This is the critical gap in the Boyd Survey chain — see ISSUE-32.
+- **Relationship to deed [24]**: Metes-and-bounds differ. The deed [24] chain does not derive from the [106]/[108] parcel.
+
+#### Deed [113] — J. M. Barry et al. → W. L. Adams and W. S. Adams (⚠️ date triage catalog only: 1910-03-22, Limestone)
+- **Transaction type**: Fee simple conveyance out — Barry/Bounds family sell-out of multi-survey holdings
+- **Grantors**: J. M. Barry and wife A. B. Barry; J. A. Barry and wife Ora Barry; **Lou Bounds (née Barry)** joined by husband J. M. Bounds; **Mattie Bounds (née Barry)** joined by husband **M. S. Bounds**; W. M. Barry and wife Bobbie Barry; Walter Barry and wife Lockie Barry; Mildred Magness (née Barry) joined by husband Joe Magness
+- **Grantees**: W. L. Adams and W. S. Adams
+- **Property**: 338 acres across three surveys: 162 ac Pedro Varela Eleven Leagues Grant + 96 ac Lipscomb Norvelle Survey + **80 ac John Boyd League**, Limestone County
+- **Heirship recital**: Deed states J. A. Barry, Lou Bounds (née Barry), Mattie Bounds (née Barry), W. M. Barry, Walter Barry, and Mildred Magness (née Barry) "are the only Children and heirs at law of Joanna Barry a former and deceased wife of J. M. Barry." ⚠️ **GEDCOM DISCREPANCY**: GEDCOM records John McCager Barry's first wife as **Rosanah Barry Sloan** (b. 18 May 1843, Cherokee Co. AL; d. 14 Sep 1885, Limestone Co. TX; birth surname Sloan), not "Joanna." Per project rules, deed text governs — "Joanna Barry" is the recorded name. The GEDCOM "Rosanah" is flagged as an unresolved discrepancy requiring verification against the deed [113] PDF. Possible explanations: "Joanna" is a variant/nickname for Rosanah; GEDCOM has an error; or Joanna was a different wife from Rosanah. See ISSUE-16 and 01_FAMILY_ENTITY_STRUCTURE.md Barry Family section.
+- **Interest**: Surface + minerals — fee simple, pre-mineral-era; no reservations
+- **Consideration**: $5,250 cash
+- **Recording**: Vol. 63, Pg. 167, Limestone County [INDEX CONFIRMED: LC Vol.63 Pg.167, Inst# DR-00063-00167, 2026-03-08]. Filed May 11, 1910; recorded May 11, 1910; W. C. Frazier, Clerk; N. H. Sandell, Deputy.
+- **⚠️ DATE**: Triage catalog states execution date 1910-03-22. Deed source files do not contain this deed. **⚠️ CONFLICT — HUMAN VERIFICATION REQUIRED.**
+- **Key identifications**:
+  - **Mattie Bounds (née Barry)** = Mattie Mae Bounds (1/5/1879–9/8/1970), wife of M. S. Bounds — maiden name Barry confirmed
+  - **J. M. Bounds** ≠ **M. S. Bounds** — deed lists them as different persons. GEDCOM candidate for J.M. Bounds: Jesse M. Bounds (b. 4 Feb 1860, son of Thomas Duncan Bounds Jr. + Nicy Ann Pope) — identified via GEDCOM FAM F944 linking him to Lou Barry as husband. **NOT CONFIRMED** against source deed records — multiple Jesse Bounds and J.M. Bounds entries exist across GEDCOM generations; the "BOUNDS J M EST 11-11-1911" CAD entry may conflict with GEDCOM death date of 1915. See ISSUE-35.
+  - Deed recites "Bounds 72 acre tract which is included in the conveyance"
+- **Significance**: The 80-acre Boyd League portion leaves the family chain in 1910. This is Barry family land, not a continuation of JH Bounds' Boyd Survey chain. Not related to the deed [24] parcel.
+
+#### Deed [114] — J. M. Barry et al. → W. J. Robinson (⚠️ date triage catalog only: 1910-07-10, Limestone)
+- **Transaction type**: Fee simple conveyance out — same Barry/Bounds grantor group as [113]
+- **Property**: 43 acres, P. Varela Survey, Limestone County
+- **Interest**: Surface + minerals — fee simple, no reservations
+- **Consideration**: $535.05 ($107.05 cash + three vendor's lien notes of $154.80 each)
+- **Recording**: Vol. 63, Pg. 405, Limestone County [INDEX CONFIRMED: LC Vol.63 Pg.405, Inst# DR-00063-00405, 2026-03-08]. Filed November 28, 1910; recorded November 28, 1910; W. C. Frazier, Clerk; J. H. Pritchard, Deputy.
+- **⚠️ DATE**: Triage catalog states execution date 1910-07-10. Deed source files do not contain this deed. **⚠️ CONFLICT — HUMAN VERIFICATION REQUIRED.**
+- **⚠️ ACKNOWLEDGMENT DATE ANOMALY**: Triage catalog notes some acknowledgment dates appear to be February 10, 1910, before the July 10 deed date. Cannot resolve without examining original. **⚠️ CONFLICT — HUMAN VERIFICATION REQUIRED.**
+- **Significance**: P. Varela Survey land leaving the Barry/Bounds family chain. No connection to John Boyd Survey; no connection to current Black family holdings.
+
+#### Deed [115] — M. S. Bounds and wife Mattie Bounds → The Public (1934-02-03, Limestone)
+- **Transaction type**: Homestead designation — not a conveyance; records the Bounds family homestead claim
+- **Declarants**: M. S. Bounds and wife Mattie Bounds (= Mattie Mae Bounds; "wife" designation confirmed)
+- **Property**: 200 acres in two tracts:
+  - **First Tract**: 20 acres principally in Limestone County, out of the Sarah McAnulty League. Beginning at NW corner of a 3-acre tract sold to J. H. Bounds by R. Manning, a point in Mexia-Wortham public road; N with road 932.5 vrs; E 207 vrs to H&TC RR ROW; S with same to iron stake between John Manning and said ROW; W 34.5 vrs to beginning. **This is the same parcel as deed [22] Third Tract and deed [116] Second Tract** (20-ac cross-county McAnulty parcel, west of H&TC RR ROW).
+  - **Second Tract**: 180 acres out of the Wm Richie League, Freestone County. Beginning at NE corner of 160 acres set apart to McClelland heirs in partition of T. A. Bounds' estate; N55W 980 vrs; N35E 1047 vrs; S55E 980 vrs; S35W 1047 vrs to beginning, containing 180 acres. **This is a portion of the Richie League holding** (part of the 317.50-ac Richie League parcel in the chain).
+- **T. A. Bounds estate partition reference**: "160 acres set apart to the McClelland heirs in partition of T. A. Bounds' Est." — first direct evidence of how the Richie League land passed from T. A. Bounds' estate. The 180-acre homestead portion was carved out of the larger Richie League tract; 160 acres went to McClelland heirs. This confirms the Richie League was subject to a partition upon T. A. Bounds' death in 1913. The full original Richie League acreage in T. A. Bounds' estate would have been at least 340 acres (180 to MS Bounds + 160 to McClelland heirs — before accounting for any other heirs or acreage).
+- **No conveyance effect**: This instrument does not transfer title. It establishes homestead protection for the two designated tracts.
+- **Recording**: Filed Feb 8, 1934; recorded Feb 8, 1934; Anna Burney, County Clerk, Limestone County. ⚠️ Filed in Limestone County only — the Second Tract (180 ac Richie League) is in Freestone County; whether a separate Freestone County filing exists is unconfirmed — HUMAN VERIFICATION REQUIRED.
+- **Mineral status**: No mineral implications. Homestead designation is a surface/possession concept under Texas law; does not create or sever mineral interests.
+- **Deed [116] relationship**: Filed approximately 19 days before deed of trust of January 22, 1934 (Federal Land Bank loan secured by deed of trust recorded Vol. 2-A p.278 LC). Whether the homestead designation was timed to protect the property from the Federal Land Bank encumbrance is a legal question for human review.
+
+#### Deed [116] — M. S. Bounds → Mrs. Mattie Bounds (1937-07-31, Limestone)
+- **Transaction type**: Inter-spousal warranty deed — MS Bounds converting community property to Mattie Mae Bounds' separate property
+- **Grantor**: M. S. Bounds, Limestone County (sole grantor — not joined by Mattie)
+- **Grantee**: Mrs. Mattie Bounds, wife of M. S. Bounds, **"in her own separate right and as her own separate property"**
+- **Consideration**: $10 cash + repayment of money loaned from Mattie's separate estate + love and affection. This is a **protective transfer** — likely motivated by the outstanding Federal Land Bank loan ($3,300, deed of trust dated Jan 22, 1934, Vol. 2-A p.278 LC) and creditor protection concerns.
+- **Outstanding indebtedness**: "It being understood there is an outstanding indebtedness against a portion of the land above described, Grantee herein takes this deed subject to said indebtedness and without assuming same." This is almost certainly the Federal Land Bank loan released by deed [117] in 1945.
+- **Five Tracts**:
+
+  | Deed [116] Tract | Stated Acres | Survey | Cross-reference | Matches deed [22] |
+  |---|---|---|---|---|
+  | First | 94 | McAnulty, LC | Beginning at NE corner of J.H. Bounds homestead tract | First Tract (94 ac gross) |
+  | Second | 20 | McAnulty, LC+FC | John Manning→J.H. Bounds, Vol. 13 p.513, Freestone County deed records | Third Tract (20 ac) |
+  | Third | 2 | McAnulty, LC | Reuben Manning→J.H. Bounds, July 20, 1869, Book G p.661, Limestone County | Second Tract (3 ac nominal, 2 ac actual) |
+  | Fourth | 92 | McAnulty, LC | Beginning at NW corner of A.H. Edwards tract | Fourth Tract (92 ac) |
+  | Fifth | 18 | McAnulty, LC | West of H&TC RR ROW; "all the land owned by the estate of T.A. Bounds, deceased" | Not in deed [22] — came from T.A. Bounds estate separately |
+
+- **Total stated acreage**: 94 + 20 + 2 + 92 + 18 = **226 acres**. ⚠️ CONFLICT: Deed [118] calls this "224 acre tract" — a 2-acre discrepancy. Source of discrepancy is unclear. The church carve-out (2 ac from First Tract) could explain this if deed [116] states the First Tract gross (94) but deed [118]'s "224 acres" deducts the church 2 ac (94−2=92; 92+20+2+92+18=224). This is speculative — **⚠️ CONFLICT — HUMAN VERIFICATION REQUIRED.**
+- **Manning deed confirmation**: Third Tract explicitly cites "Book G. page 661" — confirms Book G is correct and the "Book S" in deed [22]/[112] is a scrivener's error. This is independently corroborating evidence consistent with all post-1906 instruments.
+- **Second Tract source deed**: "deed from John Manning to J.H. Bounds of date June 8th, 1900, of record in Vol. 13, page 513, Deed Records of Freestone County, Texas." This is a **different deed** from the Third Tract's Reuben Manning source (1869, Book G p.661, Limestone County). Two separate Manning deeds: (a) Reuben Manning → JH Bounds, 1869, 3-ac lot, LC; (b) John Manning → JH Bounds, 1900, 20-ac Third Tract, Freestone County deed records. ⚠️ CONFLICT with prior understanding: deed [22] Third Tract was previously attributed to a "Manning" deed without specifying which Manning. Deed [116] specifies "John Manning, June 8, 1900, Vol. 13 p.513 FC." The prior file set references to the "Manning deed" for the Third Tract (as distinct from the 3-ac Second Tract) should be understood as the John Manning, 1900, Freestone County instrument. This is a clarification, not a conflict, but the Freestone County citation warrants confirmation against the FC records.
+- **Fifth Tract provenance**: "being all the land owned by the estate of T.A. Bounds, deceased, on the West side of said railroad right-of-way, on the Sarah McAnulty Survey." T. A. Bounds (d. 2/3/1913) was MS Bounds' father. This 18-acre parcel came to MS Bounds through his father's estate — it was not part of deed [22] (JH Bounds → MS Bounds) but is consistent with inheritance. No specific estate instrument documenting this transfer is in the current file set.
+- **Acknowledged**: Before R. W. Williford, Notary Public, Freestone County, July 31, 1937.
+- **Recording**: Filed Aug 2, 1937; recorded Aug 5, 1937; W. L. Bond, County Court Clerk; Nola Oates, Deputy; Limestone County. **Vol. 252, Page 463 — confirmed by deed [118] cross-reference.**
+
+#### Deed [117] — Federal Land Bank of Houston → M. S. Bounds and wife Mattie Bounds (1945-09-13, Limestone)
+- **Transaction type**: Release of deed of trust lien — clears the Federal Land Bank mortgage from the Bounds properties
+- **Releasing parties**: Land Bank Commissioner and Federal Farm Mortgage Corporation, acting through The Federal Land Bank of Houston (R. D. Johnson, Vice President)
+- **Released parties**: M. S. Bounds and wife Mattie Bounds
+- **Loan**: No. F-13491, promissory note principal $3,300.00, deed of trust dated January 22, 1934, recorded Volume 2-A, page 278, Deed of Trust or Land Mortgage Records of Limestone County, Texas
+- **Interest**: Releases all liens on the land described in the deed of trust from any and all liens created by virtue of said deed of trust
+- **Recording**: Filed Sep 18, 1945; recorded Sep 20, 1945; John Kidd, County Clerk; Mary Jo Baker, Deputy; Limestone County
+- **Notary**: Lorena Woody, Harris County; margin notation: "***5059***"; recording filed September 18, 1945
+- **Connection to deed [116]**: The "outstanding indebtedness" referenced in deed [116] (grantee takes subject to) is this Federal Land Bank loan. MS Bounds transferred the land to Mattie in 1937 while the loan was outstanding; Mattie holds it subject to the loan through 1945.
+- **DOES NOT ADDRESS ISSUE-14**: This instrument releases a 1934 Federal Land Bank agricultural mortgage ($3,300). It does not release the 1906 vendor's lien from deed [22] ($440 × 4 notes). ISSUE-14 remains open.
+- **Timing note**: Deed of trust dated January 22, 1934 — deed [115] homestead designation executed February 3, 1934 (12 days later). The two instruments were near-simultaneous. The homestead designation may have preceded the loan closing or been filed concurrently as part of the loan transaction. The exact sequence matters for lien priority analysis but cannot be resolved without the original deed of trust instrument.
+
+#### Deed [118] — Mrs. Mattie Bounds, et vir, M. S. Bounds → State of Texas (1960-03-15, Limestone)
+- **Transaction type**: Highway right-of-way acquisition — State of Texas purchasing small strips from the Bounds family's McAnulty landholdings
+- **Grantor**: Mrs. Mattie Bounds, et vir, M. S. Bounds (Mattie is primary grantor — this is her separate property per deed [116]; MS Bounds joins as husband)
+- **Grantee**: State of Texas, acting through State Highway Commission
+- **Property**: 2.731 acres in two tracts out of the "224-acre tract" out of the S. McAnulty Survey, Abstract No. 19, **conveyed by M. S. Bounds to Mrs. Mattie Bounds by deed dated July 31, 1937 and recorded in Vol. 252, Page 463, of Deed Records of Limestone County** (= deed [116]):
+  - **Tract No. 1**: 0.650 acres. Beginning at SE corner of 18-acre tract (= Fifth Tract, L20555). Conveyed to State for Highway 14 ROW.
+  - **Tract No. 2**: 2.081 acres. Beginning at NW corner of 20-acre tract (= Second Tract of [116] / Third Tract of [22] = Hwy 14 frontage parcels L20552/L20553/L119888/F17560). Follows modern highway survey notation with 1°30' circular curve.
+- **Mineral reservation**: **"The Grantors reserve all of the oil, gas and sulphur in and under said land, but waive all rights of ingress and egress for the purpose of exploring, developing, mining or drilling for the same; however, nothing in this reservation shall affect the title and rights of the State to take and use, without additional compensation, all other minerals and materials thereon, therein or thereunder."** Oil, gas, and sulphur reserved; surface use rights waived for mineral development; State retains rights to non-mineral materials.
+- **Consideration**: Dollar amount blank in transcription (standard Texas Highway Department form; likely filled on original but not captured).
+- **Fence**: Grantors retain title to fencing with deadline to remove by March 25, 1960.
+- **"Mattie S. Bounds"**: Wife's acknowledgment identifies grantor as "Mrs Mattie S. Bounds" — **middle initial "S" appears for the first time in the file set.** All prior instruments use "Mattie Bounds" or "Mrs. Mattie Bounds" without a middle initial. The "S" may represent her birth surname ("Barry" begins with "B" not "S") or a middle name not previously documented. ⚠️ CONFLICT with prior name documentation — **HUMAN VERIFICATION REQUIRED.** Possible explanations: clerical error in the acknowledgment; "S" as abbreviation for a middle name (e.g., "Sue," "Sarah," "Sadie"); or a variant name that has not appeared in earlier instruments.
+- **Acreage absorption**: The 2.731 acres conveyed (0.650 ac from Fifth Tract + 2.081 ac from the 20-ac Third Tract) are accounted for within CAD parcel acreages for L20555 (18.00 ac CAD) and the Hwy 14 frontage parcels. The 0.650-ac strip from L20555 (originally 18 ac) would reduce the net to 17.35 ac — CAD still shows 18.00 ac. The 2.081-ac strip from the 20-ac parcel (parent of L20552/L20553/L119888/F17560 = 20.00 ac total = same 20.00 ac in current inventory) would reduce it to 17.919 ac — but the current four-parcel total remains 20.00 ac. Either (a) the ROW strips are absorbed within survey/CAD rounding, or (b) the CAD parcels reflect pre-ROW acreages, or (c) the highway was already in place when the CAD was set and the 2.731 ac was already excluded from the area calculation. **⚠️ Acreage absorption status — HUMAN VERIFICATION REQUIRED: confirm whether Limestone County CAD reflects post-ROW acreages or pre-ROW acreages for L20555 and the Hwy 14 group.**
+- **Highway 14 identification**: This is Highway 14 — the same highway providing situs addresses for all Limestone County McAnulty parcels.
+- **Recording**: Vol. 469, Pg. 280, Limestone County [INDEX CONFIRMED: LC Vol.469 Pg.280, Inst# 06001374, 2026-03-08]. Filed Mar 17, 1960; recorded Mar 23, 1960; John Kidd, County Clerk; Dana Little, Deputy. Texas Highway Department Form D-15-14-57.
+
+---
+
+### Phase 1 Supplement — Index-Identified Instruments (PDF Pull Pending)
+
+The following instruments were identified in the Limestone County CountyFusion complete deed index (2026-03-08 export). All citations are from the county index; PDFs have not yet been pulled. These are assigned deed numbers [119]–[124] for tracking purposes.
+
+#### Deed [119] — J. H. Bounds → Houston & Texas Central Railway Co. (1875-03-22, Limestone)
+- **Transaction type**: Right-of-way conveyance — McAnulty League
+- **Citation**: LC Vol. D, Pg. 24, Inst# DR-0000D-00024
+- **Property**: Sarah McAnulty League (acreage not stated in index)
+- **Significance**: Source deed for the H&TC Railroad ROW that runs through the McAnulty League. This ROW is the boundary feature referenced in deeds [22], [05]/[23], [116], and all downstream instruments, and the reason the Manning 3-acre Second Tract is stated as 2 acres net in deed [22] and [116]. Predates all documented McAnulty acquisitions — earliest known JH Bounds McAnulty League transaction.
+- **Disposition status**: **DISPOSED — ROW CONVEYANCE OUT.** No reversion clause documented from index. Pull PDF to confirm terms and mineral status. [INDEX CONFIRMED: L-HTC search, BOUNDS JAMES H → HOUSTON & TEXAS CENTRAL RAILWAY CO, DEED, D / 24, 03/22/1875, S MC ANULTY LEAGUE]
+- **Additional L-HTC McAnulty findings**: (1) DR-0000D-00072, DEED, W H SMITH → H&TC RAILWAY CO, D / 72, 03/27/1875, S MC ANULTY SUR, 100 ACRES — second ROW conveyance 5 days later from adjacent landowner; (2) DR-00034-00256, RELEASE, H&TC RAILROAD CO → LINDLY J P, 34 / 256, 05/08/1901, S MC ANULTY LEAGUE, 103 ACRES — railroad released McAnulty League interests (pull PDF to determine nature of release).
+- **Action needed**: Pull LC Vol. D Pg. 24.
+
+#### Deed [120] — J. H. Bounds → J. E. Bounds (1877-02-26, Limestone)
+- **Transaction type**: Gift deed — John Boyd League, 158 acres
+- **Citation**: LC Vol. F, Pg. 584, Inst# DR-0000F-00584
+- **Property**: 158 acres, John Boyd League
+- **Significance**: Earliest documented JH Bounds Boyd Survey disposition — nine years before the Haley acquisition ([106], 1886). Confirms JH Bounds held substantial Boyd Survey land from an undocumented earlier source. J.E. Bounds appears in the 1906 deed [111] grantor list — still living in 1906 but 29 years after this gift.
+- **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** (gift to son). Downstream disposition of J.E. Bounds' 158 acres not yet documented. Pull PDF and research J.E. Bounds chain to close out.
+- **Action needed**: Pull LC Vol. F Pg. 584.
+
+#### Deed [121] — J. H. Bounds → J. V. Bounds (1877-02-26, Limestone)
+- **Transaction type**: Gift deed — John Boyd League, 62 acres
+- **Citation**: LC Vol. F, Pg. 585, Inst# DR-0000F-00585
+- **Property**: 62 acres, John Boyd League
+- **Significance**: Same date as [120] — coordinated distribution of Boyd Survey land to two sons. J.V. Bounds also appears in 1906 deed [111] grantor list.
+- **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** (gift to son). Downstream disposition of J.V. Bounds' 62 acres not yet documented. Pull PDF and research J.V. Bounds chain to close out.
+- **Action needed**: Pull LC Vol. F Pg. 585.
+
+#### Deed [122] — T. W. Bounds → Brown James et al. (1891-11-13, Limestone)
+- **Transaction type**: Fee simple conveyance — John Boyd Survey, 158 acres
+- **Citation**: LC Vol. 13, Pg. 301, Inst# DR-00013-00301
+- **Property**: 158 acres, John Boyd Survey
+- **Significance**: Reconveyance of the [106]/[108] 158-acre Boyd parcel — T.W. Bounds selling approximately 2.5 years after receiving it as a gift. The [106]/[108] parcel permanently left the family chain in November 1891. This definitively rules out the [106]/[108] parcel as the upstream source of deed [24] ~42.8 acres. Also confirms consistent use of "T W" across multiple index entries, corroborating ISSUE-32 T.W. Bounds name finding.
+- **Disposition status**: **DISPOSED — NO REVERSION.** Pull PDF to confirm grantor name (T.W. Bounds — must match [108] grantee to complete the chain) and verify no reversion clause.
+- **Action needed**: Pull LC Vol. 13 Pg. 301. Resolve ISSUE-32 name question simultaneously.
+
+#### Deed [123] — J. H. Bounds et al. → Dunbar H. Clay et al. (1906-08-16, Limestone)
+- **Transaction type**: Deed — Sarah McAnulty League (acreage unknown from index)
+- **Citation**: LC Vol. 48, Pg. 373, Inst# DR-00048-00373
+- **Property**: Sarah McAnulty League, Limestone County (exact tract and acreage unknown)
+- **Significance**: Pre-partition McAnulty disposition — recorded two months before the coordinated October 1906 family partition (deeds [111] and [22]). May explain part of the ISSUE-34 gap between the "361 acres tract" reference and the 223.25-acre partition total. If Dunbar deed acreage ≈ 137.75 ac: 223.25 + 137.75 = 361 ac — would close the gap exactly.
+- **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** pending confirmation. Pull PDF for acreage and tract description.
+- **Action needed**: Pull LC Vol. 48 Pg. 373. Update ISSUE-34 arithmetic with confirmed acreage.
+
+#### Deed [124] — J. H. Bounds → T. W. Bounds (1906-12-21, Limestone)
+- **Transaction type**: Deed — 9 acres (survey not stated in index)
+- **Citation**: LC Vol. 52, Pg. 177, Inst# DR-00052-00177
+- **Property**: 9 acres — survey and tract identity unknown
+- **Significance**: JH Bounds conveying another parcel to T.W. Bounds in December 1906, two months after the coordinated McAnulty partition. Could be Boyd Survey or McAnulty. Identity determines relevance to current holdings.
+- **Disposition status**: Unknown pending PDF pull — could be **DISPOSED OUT OF DIRECT CHAIN** or relevant.
+- **Action needed**: Pull LC Vol. 52 Pg. 177. Determine survey and update accordingly. ⚠️ T.W. Bounds identity subject to ISSUE-32 resolution.
+
