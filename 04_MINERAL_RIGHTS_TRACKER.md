@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — L20556 mineral documentation confirmed by deed [338]; matrix updated; documentation urgency item 2 resolved*
+*Last updated: 2026-03-31 — Deed [331] — Wortham lots surface owner upgraded to PDF CONFIRMED; surface/mineral separation documented; grantee corrected to include Dorothy Calame*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -202,16 +202,16 @@ Texas legal concepts that affect interpretation:
 ---
 
 ### Wortham Town Lots (0.09 acres, Freestone) — Lots 6 & 7, Block 6, Town of Wortham
-- Surface owner: **Charles L. Calame** (per FC Doc# 2006-6000827, OR/1350/233, SPECIAL W/D, 2/14/2006, BLACK JAMES ALLEN EXECUTOR → CALAME CHARLES L) [INDEX IDENTIFIED: FC, 2026-03-09]
+- Surface owner: **Charles L. Calame and wife Dorothy Calame** (deed [331], special warranty deed, 2005-07-07, Estate of Olena (JMB+JAB co-executors) → Calame; FC Doc# 06000827, OR 1350/233–235, filed Feb 14, 2006; all minerals reserved to grantor) [PDF CONFIRMED: 2026-03-31]
 - Mineral owner: **Gude Management LLC (undivided 1/2) + Trust No. 2 (undivided 1/2)**
   - Source: Deed [15] (2005-07-07, Estate of Olena → Trust 1 undivided 1/2 + Trust 2 undivided 1/2)
   - Gude's 1/2: Trust No. 1 holds per deed [15]; ⚠️ deed [21]/[40] does NOT describe Wortham Lots; no recorded instrument conveys Trust 1's 1/2 to Gude (see ISSUE-24)
 - Location: R.B. Longbotham Survey A-16, Freestone County
 - Historical source deed: William M. Rice Institute → M.S. Bounds, Jan 18, 1918, Vol 64 p.173, Deed Records of Freestone County
 - Executive rights: Not addressed in deed [15] — no reservation language; both trusts presumably share executive rights equally
-- Confidence: HIGH for ownership split; LOW for historical chain (when and how family lost surface not documented)
+- Confidence: HIGH for ownership split; HIGH for surface separation (deed [331] = surface → Calame, same date as deed [15] = minerals → trusts; coordinated closing Jul 7, 2005)
 - No CAD parcel — mineral-only interest; de minimis acreage (0.09 ac)
-- Action: Pull Rice Institute → Bounds 1918 deed to confirm mineral ownership chain; determine if any active mineral leases affect this interest
+- Action: Pull Rice Institute → Bounds 1918 deed (Vol 64 p.173 FC) to confirm mineral ownership chain; determine if any active mineral leases affect this interest. Surface separation mechanism now fully documented by deed [331].
 
 ---
 
