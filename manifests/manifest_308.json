@@ -1,0 +1,148 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_batch_02",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1955-07-20__308__f_conveyance_personalproperty_wboundsetal_bessiebounds.md"
+  ],
+  "batch_summary": "Deed [308] (FC File No. 2460, Deed Record 262, Pg. 227–234) — Personal property conveyance from all J.V. Bounds Jr. will beneficiaries to his widow Bessie Bounds (1955). Explicitly reserves real estate remainder interests. No title chain impact, but rich genealogical source: identifies Spencer Bounds as previously unknown T.A. Bounds child; corrects Willis H. Bounds 'died in infancy' error (alive and notarized 7/30/1955); documents children of five deceased T.A. Bounds children (John T., Allen, Spencer, Laura McLelland, George P.); confirms Clyde Bounds (ISSUE-43 item 22) as Allen Bounds' son. Updates ISSUE-44 and ISSUE-43 references from '1955-2460' to 'deed [308]'. PDF confirmed.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [308] — Willis H. Bounds alive 1955 (corrects 'died in infancy'); Spencer Bounds identified as new T.A. Bounds child; John T., Allen, George P. children documented; Maggie=Margaret Means, Mattie=Martha Eckhardt name variants confirmed",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Correct Willis H. Bounds — deed [308] proves he was alive and notarized in 1955; did NOT die in infancy",
+          "find": "Willis H. Bounds (1885\u2013) \u2014 died in infancy",
+          "replace_with": "Willis H. Bounds (1885\u2013) \u2014 alive 1955 (notarized 7/30/1955 Freestone Co., deed [308]); prior \"died in infancy\" note in error"
+        },
+        {
+          "action": "replace",
+          "description": "Add Mattie/Martha Bounds married name Eckhardt from deed [308]",
+          "find": "Mattie Bounds (1900\u2013) \u2014 distinct from Mattie Mae Bounds n\u00e9e Barry",
+          "replace_with": "Mattie Bounds (1900\u2013) \u2014 formal name Martha; married W.F. Eckhardt (\"Martha Bounds Eckhardt\" in deed [308]); distinct from Mattie Mae Bounds n\u00e9e Barry"
+        },
+        {
+          "action": "replace",
+          "description": "Add Maggie/Margaret Bounds married name Means from deed [308]",
+          "find": "Maggie J. Bounds (1897\u2013)",
+          "replace_with": "Maggie J. Bounds (1897\u2013) \u2014 married Means; \"Mrs. Margaret Bounds Mean\" (widow by 1955; deed [308])"
+        },
+        {
+          "action": "replace",
+          "description": "Confirm George P. Bounds deceased before 1955 with three children identified in deed [308]",
+          "find": "George P. Bounds (1887\u2013)",
+          "replace_with": "George P. Bounds (1887\u2013bef.1955) \u2014 children: T.A. Bounds, Oscar Edward Bounds, Laura Belle Bounds Threet (deed [308])"
+        },
+        {
+          "action": "replace",
+          "description": "Add Allen Hill Bounds children identified from deed [308]",
+          "find": "Allen Hill Bounds (1876\u20131949)",
+          "replace_with": "Allen Hill Bounds (1876\u20131949) \u2014 children: Clyde Bounds (= Clyde L. Bounds of ISSUE-43 item 22), Maurine Bounds Henderson (deed [308])"
+        },
+        {
+          "action": "replace",
+          "description": "Add John T. Bounds children identified from deed [308]",
+          "find": "John T. Bounds (1872\u20131947)",
+          "replace_with": "John T. Bounds (1872\u20131947) \u2014 children: Kenneth, Charles, Janet (m. Carter), Annie Laura (m. Stanfield), Emma (m. Stoddard) (deed [308])"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add Spencer Bounds as newly identified T.A. Bounds child and note on Elijah S. Bounds absence",
+          "anchor": "[16 children total per family research; not all positively identified]",
+          "content": "     \u2502                  NOTE: **Spencer Bounds** (deceased bef. 1955; children: Mary Bounds (feme sole), Gail Bounds) identified as T.A. Bounds child\n     \u2502                  and brother of J.V. Jr. per deed [308]. Mother unknown (Margaret Jane or Rhoda Virginia). Distinct from JH Bounds child\n     \u2502                  \"John Spencer Bounds\" (different generation). Elijah S. Bounds (first marriage, 1885) absent from deed [308] \u2014 likely\n     \u2502                  predeceased J.V. Jr. without surviving children who were will beneficiaries."
+        },
+        {
+          "action": "replace",
+          "description": "Update MS Bounds Key Individuals entry to include Spencer Bounds in sibling list",
+          "find": "full siblings include Laura E. Bounds (married McLelland), Jesse Vastine Bounds Jr., Allen Hill Bounds, John T. Bounds, Rufus G. Bounds, Elijah S. Bounds, Willis H. Bounds",
+          "replace_with": "full siblings include Laura E. Bounds (married McLelland), Jesse Vastine Bounds Jr., Allen Hill Bounds, John T. Bounds, Rufus G. Bounds, Elijah S. Bounds, Willis H. Bounds; additional sibling Spencer Bounds identified (deed [308]) \u2014 mother (first or second wife) unknown"
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [308] reference updated in F15410 Beldin Tract chain notes",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update F15410 chain note to reference deed [308] instead of raw doc number",
+          "find": "1955-2460 instrument confirmed personal property only",
+          "replace_with": "Deed [308] (FC 1955-2460) confirmed personal property only"
+        }
+      ]
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [308] added to Phase 1 — Conveyance of personal property, Willis Bounds et al. (J.V. Bounds Jr. will beneficiaries) to Mrs. Bessie Bounds (1955); personal property only, real estate reserved",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [308] entry to Phase 1, after deed [02] (last current Phase 1 entry)",
+          "anchor": "16. `1946-02-13_[02]_f` \u2014 MS Bounds \u2192 HD Vickers (warranty, **surface only**, Freestone)",
+          "content": "17. `1955-07-20_[308]_f` \u2014 Willis Bounds et al. \u2192 Mrs. Bessie Bounds (conveyance, **personal property only**, Freestone) \u2014 All surviving brothers and sisters of J.V. Bounds Jr. (deceased) and children of deceased siblings, as beneficiaries under J.V. Jr.'s will (executed 6/18/1923), convey all personal property interests to Bessie Bounds (widow). Explicitly reserves real estate: \"THIS gift does not include and is without prejudice to our rights of remainder in the real estate vested in us under the terms of said will.\" Consideration: $1.00 + compassionate recital. 31 signatories including M. Sylvanus Bounds (= MS Bounds). Identifies Spencer Bounds (deceased) as additional T.A. Bounds child not previously documented. Confirms Willis H. Bounds alive (\"died in infancy\" corrected). Confirms Clyde Bounds = son of Allen Bounds = Clyde L. Bounds of ISSUE-43 item 22. FC File No. 2460, Deed Record 262, Pg. 227\u2013234. Filed 10/22/1955 at 8:00 AM; recorded 12/16/1955 at 1:15 PM; Henry McCormick, County Clerk; Deputy: Joyce Lye. [PDF CONFIRMED: deed [308], 2026-03-31]"
+        },
+        {
+          "action": "replace",
+          "description": "Update Phase 1 overview table to include [308]",
+          "find": "| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02] |",
+          "replace_with": "| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02], [308] |"
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [308] — ISSUE-44 and ISSUE-43 references updated from '1955-2460' to 'deed [308]'; PDF confirmed; Clyde Bounds parentage confirmed (Allen Bounds' son)",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update ISSUE-43 item 28 reference from 1955-2460 to deed [308]",
+          "find": "determines whether minerals were retained by McLelland heirs after 1955-2460 or earlier conveyances",
+          "replace_with": "determines whether minerals were retained by McLelland heirs after deed [308] or earlier conveyances"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-43 item 27 reference from 1955-2460 to deed [308]",
+          "find": "executed 6/18/1923 per 1955-2460 recital)",
+          "replace_with": "executed 6/18/1923 per deed [308] recital)"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-43 item 22 — add deed [308] reference and confirm Clyde as Allen Bounds' son",
+          "find": "**Clyde L. Bounds identified as J.V. Bounds family member** per FC Doc# 1955-2460 grantor list \u2014 NOT in MS Bounds/Trust No. 2 direct chain.",
+          "replace_with": "**Clyde L. Bounds identified as son of Allen Bounds (J.V. Jr.'s brother)** per deed [308] (FC Doc# 1955-2460) grantor list \u2014 NOT in MS Bounds/Trust No. 2 direct chain; Allen's partition share of T.A. Bounds estate is the probable source."
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-44 genealogical context — replace 1955-2460 with deed [308]",
+          "find": "The McLelland children (Granville E., Elgin, Rufus) appear in 1955-2460 as J.V. Jr. will beneficiaries alongside MS Bounds himself.",
+          "replace_with": "The McLelland children (Granville E., Elgin, Rufus) appear in deed [308] as J.V. Jr. will beneficiaries alongside MS Bounds himself."
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-44 key finding — add deed [308] number and PDF confirmed status",
+          "find": "FC Doc# 1955-2460 (8 pages, 10/22/1955) is a conveyance of **personal property only**",
+          "replace_with": "Deed [308] (FC Doc# 1955-2460, 8 pages, 10/22/1955; PDF CONFIRMED 2026-03-31) is a conveyance of **personal property only**"
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [308] added to Deed Register — Conveyance of personal property, Willis Bounds et al. (J.V. Jr. will beneficiaries) to Mrs. Bessie Bounds (FC File No. 2460, DR 262/227)",
+      "operations": [
+        {
+          "action": "insert_before",
+          "description": "Add deed [308] to Deed Register table, before the 'Add rows' marker",
+          "anchor": "*Add rows as additional PDFs are reviewed.*",
+          "content": "| [308] | Willis Bounds et al. (J.V. Bounds Jr. will beneficiaries) \u2192 Mrs. Bessie Bounds | Freestone | \u2713 | File No. 2460; Deed Record 262, Pg. 227\u2013234, Freestone County. Filed Oct 22, 1955 at 8:00 AM; recorded Dec 16, 1955 at 1:15 PM; Henry McCormick, County Clerk, Freestone County; Deputy: Joyce Lye. | 227\u2013234 (8 pages) | 1955-07-20 | 1955-12-16 | **Conveyance \u2014 Personal Property Only.** All surviving brothers and sisters of J.V. Bounds Jr. (deceased) and children of deceased siblings, as beneficiaries under his will (executed 6/18/1923), convey all personal property interests to Mrs. Bessie Bounds (widow). Explicitly reserves real estate: \"THIS gift does not include and is without prejudice to our rights of remainder in the real estate vested in us under the terms of said will.\" Consideration: $1.00 + compassionate recital. 31 signatories. Surviving siblings: Willis, M. Sylvanus (= MS Bounds), Rufus, Oscar, B. Frank, W.E., Ebb, Oliver, Margaret Bounds Mean(s) (widow), Martha Bounds Eckhardt (+ W.F. Eckhardt). Deceased siblings with children: John T. (Kenneth, Charles, Janet m. Carter, Annie Laura m. Stanfield, Emma m. Stoddard); Allen (Clyde, Maurine m. Henderson); Spencer (Mary, Gail); Laura McLelland (Granville E., Elgin, Rufus); George P. (T.A., Oscar Edward, Laura Belle m. Threet). Acknowledgments span Jul\u2013Oct 1955 across Freestone, Anderson, Dallas, Harris, Nueces, and Jefferson Counties. Key findings: Willis H. Bounds alive (\"died in infancy\" corrected); Spencer Bounds newly identified T.A. Bounds child (distinct from JH Bounds child John Spencer Bounds); Clyde Bounds = son of Allen = Clyde L. Bounds of ISSUE-43 item 22. ISSUE-44 advanced. Phase 1 |"
+        }
+      ]
+    }
+  }
+}
