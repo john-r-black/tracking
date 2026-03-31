@@ -261,15 +261,11 @@ def process_file(filename, file_spec, manifest_date, file_dir, dry_run):
             f"Lines: {len(orig_lines)} → {len(new_lines)} (diff: {len(new_lines) - len(orig_lines):+d})"
         ))
     else:
-        # Backup original
-        backup_path = filepath.with_suffix('.md.bak')
-        shutil.copy2(filepath, backup_path)
-
-        # Write updated content
+        # Write updated content (git is the backup)
         filepath.write_text(content, encoding='utf-8')
         results.append(OperationResult(
             filename, -1, "write", "Write file", True,
-            f"Written. Backup at {backup_path.name}"
+            f"Written."
         ))
 
     return results
@@ -405,7 +401,6 @@ def main():
     elif not args.dry_run:
         print()
         print("✓ All operations applied successfully.")
-        print("  .bak files created for each modified file.")
         print("  Review changes with: git diff")
     else:
         print()
