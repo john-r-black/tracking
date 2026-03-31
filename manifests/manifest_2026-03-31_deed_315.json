@@ -1,0 +1,93 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_deed_315",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1965-06-08__315__l_heirshipaffidavit_heirship_wdboundsetal_weblackidablackheirs.md"
+  ],
+  "batch_summary": "Deed [315] — Heirship Affidavit for W. E. Black and Ida A. Black (LC Pg. 306, Doc# 3774, executed 1965-06-08, filed 1965-07-26, recorded 1965-07-28). Companion instrument to deed [314] (affidavit of title, LC Pg. 304-305, same affiants, same date, same filing session). Affiants W. D. Bounds and Jeff Bounds establish the complete list of W. E. Black and Ida A. Black's children: (1) Hallie Black m. J. R. Milburn, (2) Ella Black m. George Rowell/G. L. Rowell, (3) Minnie Black m. W. D. Swint, (4) Zona Black m. P. Thompson/F. P. Thompson, (5) C. E. Black (wife Erna), (6) J. A. Black (wife Leta; in Arizona, separated from wife, Jan 2, 1943), (7) J. T. Black/John T. Black (wife Verona E. Black). No adoptions. Ida A. Black died intestate before 1943; no administration; estate < $10,000. W. E. Black had not remarried as of January 2, 1943 — the date of the ISSUE-43 item 4 deed (C.E. Black + → JT Black). All children over 21 by that date. This upgrades JT Black's parentage from 'probable' to 'confirmed' and identifies all 7 potential grantors in the 1943 conveyance. C. E. Black reclassified from 'probable sibling' to confirmed brother of JT Black.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [315] — W.E. Black + Ida A. Black heirship affidavit: parentage confirmed (was probable); complete family tree (7 children identified, was 2); C.E. Black reclassified from probable sibling to confirmed brother",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Replace W.E. Black family tree block — upgrade from 'probable' to 'confirmed' parentage, add all 7 children with spouses, add Ida A. Black death info",
+          "find": "JT Black's parents (probable \u2014 per deed [314] affidavit, 1965):\nW. E. Black  +  Ida A. Black\n     \u2502              (acquired 56.8 ac Lipscomb Norvell Surv. A-20 LC before ~1925)\n     \u251c\u2500\u2500 John Thomas \"JT\" Black (10/21/1887\u20131/30/1959)  \u2190 see below\n     \u251c\u2500\u2500 C. E. Black (probable sibling; first-named grantor in 1943 deed, ISSUE-43 item 4)\n     \u2514\u2500\u2500 [other children unknown]",
+          "replace_with": "JT Black's parents (confirmed \u2014 per deeds [314] + [315], 1965):\nW. E. Black  +  Ida A. Black (d. intestate before 1943; no admin.; estate < $10,000)\n     \u2502              (acquired 56.8 ac Lipscomb Norvell Surv. A-20 LC before ~1925)\n     \u2502              (W.E. Black had not remarried as of 1/2/1943; 7 children, no adoptions)\n     \u251c\u2500\u2500 Hallie Black \u2014 m. J. R. Milburn\n     \u251c\u2500\u2500 Ella Black \u2014 m. George Rowell (aka G. L. Rowell)\n     \u251c\u2500\u2500 Minnie Black \u2014 m. W. D. Swint\n     \u251c\u2500\u2500 Zona Black \u2014 m. P. Thompson (aka F. P. Thompson)\n     \u251c\u2500\u2500 C. E. Black (son; wife Erna Black; first-named grantor in 1943 deed, ISSUE-43 item 4)\n     \u251c\u2500\u2500 J. A. Black (son; wife Leta Black; in Arizona, separated from wife, 1/2/1943)\n     \u2514\u2500\u2500 John Thomas \"JT\" Black (10/21/1887\u20131/30/1959; wife Verona E. Black)  \u2190 see below"
+        },
+        {
+          "action": "replace",
+          "description": "Update C.E. Black identification from 'probable sibling' to 'confirmed brother' in JT Black Key Individuals entry, citing deed [315]",
+          "find": "C.E. Black now identified as probable sibling of JT Black \u2014 per deed [314] affidavit (1965-06-08, LC Pg. 304, Doc# 3773)",
+          "replace_with": "C.E. Black **confirmed as brother** of JT Black \u2014 per deed [315] heirship affidavit (1965-06-08, LC Pg. 306, Doc# 3774) and companion deed [314] affidavit of title (LC Pg. 304, Doc# 3773)"
+        },
+        {
+          "action": "replace",
+          "description": "Update C.E. Black role description from 'likely' to confirmed first-named grantor, note 6 additional siblings identifiable from [315]",
+          "find": "C.E. Black was likely first-named grantor among W.E. Black's children in the item 4 deed.",
+          "replace_with": "C.E. Black is the first-named grantor among W.E. Black's 7 children in the item 4 deed; the \"+\" notation indicates additional grantors, now identifiable as some or all of the 6 siblings listed in [315]."
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [315] added to Phase 2 \u2014 Heirship Affidavit, W.D. Bounds + Jeff Bounds re: W.E. Black and Ida A. Black family (1965); companion to deed [314]",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [315] entry to Phase 2, after deed [314]",
+          "anchor": "4. `1965-06-08_[314]_l`",
+          "content": "5. `1965-06-08_[315]_l` \u2014 W. D. Bounds + Jeff Bounds (affiants) \u2192 Public (heirship affidavit, Limestone) \u2014 re: W. E. Black and Ida A. Black family. Affiants (each over 21, personally acquainted with W.E. Black and Ida A. Black during their lifetimes) attest: W.E. Black and Ida A. Black married once only, to each other; 7 children and no others: (1) Hallie Black m. J. R. Milburn, (2) Ella Black m. George Rowell/G. L. Rowell, (3) Minnie Black m. W. D. Swint, (4) Zona Black m. P. Thompson/F. P. Thompson, (5) C. E. Black (wife Erna), (6) J. A. Black (wife Leta; living in Arizona, separated from wife, Jan 2, 1943), (7) J. T. Black/John T. Black (wife Verona E. Black). No adoptions. Ida A. Black died intestate before 1943; no administration; estate < $10,000. W.E. Black had not remarried as of January 2, 1943. All children over 21 by January 2, 1943. **Companion instrument to deed [314]** (affidavit of title, same affiants, same date, same filing session, adjacent pages). Both instruments prepared to support 1965 Verona E. Black \u2192 Wilson sale of 56.8 ac Norvell Survey. Notary: E. B. Trotter, Limestone County. Sworn Jun 8, 1965; subscribed/acknowledged Jun 9, 1965. LC Pg. 306\u2013307, Doc# 3774. Filed Jul 26, 1965 at 10:00 AM; recorded Jul 28, 1965 at 4:00 PM; John Kidd, County Clerk; Eleanor Popejoy, Deputy. **Key significance**: (a) Upgrades JT Black parentage from probable to confirmed; (b) Identifies all potential grantors in the 1943 C.E. Black + \u2192 JT Black deed (ISSUE-43 item 4); (c) J. A. Black in Arizona and separated from wife in 1943 \u2014 verify he joined in 1943 deed when pulled, or flag outstanding interest."
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [315] (W.E. Black/Ida A. Black heirship affidavit) \u2014 companion to [314] discovered at LC Pg. 306; ISSUE-43 item 9 updated; ISSUE-43 item 4 updated with confirmed C.E. Black sibling identification; ISSUE-01 updated with [315] analysis",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update ISSUE-43 item 4 to note that deed [315] confirms C.E. Black as JT Black's brother and identifies all 7 W.E. Black children",
+          "find": "C.E. Black \u2192 J.T. Black deed (1943) \u2014 Boyd chain",
+          "replace_with": "C.E. Black + \u2192 J.T. Black deed (1943) \u2014 Boyd chain; deed [315] confirms C.E. Black as brother of JT Black and identifies all 7 W.E. Black children; \"+\" grantors now identifiable"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-43 item 9 to note companion instrument [315] discovered at Pg. 306",
+          "find": "+ LC Vol. 516 Pg. 307 \u2014 deed to Wilson (1965), **still unpulled**",
+          "replace_with": "**Companion instrument discovered at LC Pg. 306 (Doc# 3774) = deed [315]** \u2014 Heirship Affidavit, same affiants (W.D. Bounds + Jeff Bounds), establishing all 7 children of W.E. Black + Ida A. Black; Ida died intestate before 1943; all children over 21 by 1/2/1943. + LC Vol. 516 Pg. 307 \u2014 deed to Wilson (1965), **still unpulled**"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [315] analysis note to ISSUE-01, after the [314] analysis paragraph",
+          "anchor": "- **Deed [314] analysis (2026-03-31)**:",
+          "content": "- **Deed [315] analysis (2026-03-31)**: Heirship Affidavit (LC Pg. 306\u2013307, Doc# 3774, executed 6/8/1965, filed 7/26/1965, recorded 7/28/1965). Companion instrument to deed [314], same affiants (W.D. Bounds and Jeff Bounds), same execution date, adjacent pages in county records. Affiants establish: W.E. Black and Ida A. Black married once only (to each other); 7 children and no others: (1) Hallie Black m. J. R. Milburn, (2) Ella Black m. George Rowell (aka G. L. Rowell), (3) Minnie Black m. W. D. Swint, (4) Zona Black m. P. Thompson (aka F. P. Thompson), (5) C. E. Black (wife Erna), (6) J. A. Black (wife Leta; living in Arizona, separated from wife, 1/2/1943), (7) J. T. Black (wife Verona E. Black). No adoptions. Ida A. Black died intestate before 1943, no administration, estate < $10,000. W.E. Black had not remarried as of 1/2/1943. All children over 21 by 1/2/1943. **Key findings**: (a) JT Black parentage upgraded from probable (per [314] alone) to confirmed \u2014 he is explicitly listed as child #7; (b) C.E. Black confirmed as brother, not just \"probable sibling\"; (c) 5 additional siblings identified for first time \u2014 these are the potential grantors behind the \"+\" in ISSUE-43 item 4 (C.E. Black + \u2192 JT Black, 1/2/1943); (d) J.A. Black was in Arizona and separated from wife Leta on the exact date of the item 4 deed \u2014 when that deed is pulled, verify J.A. Black joined or flag potential outstanding interest; (e) the January 2, 1943 date is established as legally significant in this affidavit (all status facts anchored to it), confirming it is the date of the W.E. Black family \u2192 JT Black conveyance. ISSUE-01 remains OPEN \u2014 resolution still depends on the Dorsett/Ennis \u2192 Simmons deed (ISSUE-43 item 11)."
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [315] added to Deed Register \u2014 Heirship Affidavit, W.D. Bounds + Jeff Bounds re: W.E. Black and Ida A. Black family (1965); companion to deed [314]",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [315] row to Deed Register, after deed [314] entry",
+          "anchor": "| [314] | W. D. Bounds + Jeff Bounds (affiants) \u2192 Public (re: Verona E. Black title, 56.8 ac Lipscomb Norvell Survey)",
+          "content": "| [315] | W. D. Bounds + Jeff Bounds (affiants) \u2192 Public (re: W. E. Black and Ida A. Black heirship) | Limestone | \u2713 | LC Pg. 306\u2013307, Doc# 3774. Filed Jul 26, 1965 at 10:00 AM; recorded Jul 28, 1965 at 4:00 PM; John Kidd, County Clerk; Eleanor Popejoy, Deputy; Limestone County. | 306\u2013307 (2 pages) | 1965-06-08 | 1965-07-28 | **Heirship Affidavit** \u2014 W.E. Black and Ida A. Black family. Companion instrument to deed [314] (affidavit of title, same affiants, same date, adjacent pages). Affiants W.D. Bounds and Jeff Bounds (each over 21, personally acquainted with W.E. Black and Ida A. Black during their lifetimes) attest: married once only to each other; 7 children and no others: (1) Hallie Black m. J. R. Milburn, (2) Ella Black m. George Rowell (aka G. L. Rowell), (3) Minnie Black m. W. D. Swint, (4) Zona Black m. P. Thompson (aka F. P. Thompson), (5) C. E. Black (son; wife Erna Black), (6) J. A. Black (son; wife Leta Black; living in Arizona, separated from wife, Jan 2, 1943), (7) J. T. Black aka John T. Black (son; wife Verona E. Black). No adoptions. Ida A. Black died intestate before 1943; no administration; estate < $10,000. W.E. Black had not remarried as of Jan 2, 1943. All children over 21 by Jan 2, 1943. Notary: E. B. Trotter, Limestone County. Sworn Jun 8, 1965; subscribed/acknowledged Jun 9, 1965. **Upgrades JT Black parentage from probable to confirmed**; identifies all potential grantors in 1943 deed (ISSUE-43 item 4). Prepared by Schultz & Martin, Mexia TX (same attorneys as deed [314]). Phase 2 |"
+        }
+      ]
+    }
+  }
+}
