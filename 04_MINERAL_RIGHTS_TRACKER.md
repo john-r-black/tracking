@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Legacy timestamps stripped; git history is the audit trail*
+*Last updated: 2026-03-31 — L20556 mineral documentation confirmed by deed [338]; matrix updated; documentation urgency item 2 resolved*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -55,15 +55,14 @@ Texas legal concepts that affect interpretation:
 
 ### John Marion's 18-acre Partition (L20556)
 - Surface owner: **Kay Lynn Ramsey Black** (inherited from John Marion Black's personal estate; L20556 was conveyed to John Marion personally via deed [35], 2005-07-07, and was never a Trust No. 1 asset; NOT held by Gude Management LLC)
-  ⚠️ LC Inst# 2025-0004419 (DEED, recorded 11/17/2025, BLACK JOHN M DECEASED → BLACK KAY L R) identified in LC index [INDEX IDENTIFIED: LC, 2026-03-09]. This may be the recorded instrument establishing Kay's ownership. PDF pull pending — scope of conveyance not yet confirmed.
+  **✓ Deed [338]** (LC Doc# 2025-0004419, Administration Deed, dated 10/27/2025, recorded 11/17/2025). Kay L.R. Black, as Independent Executrix of JM Black's estate, conveys L20556 to herself personally. No mineral reservation — JM Black's 1/2 mineral interest + executive rights pass to Kay. Exception clause covers James Allen Black's 1/2 non-executive mineral interest. Kay's surface + 1/2 mineral ownership now documented by recorded instrument. A-17 [sic — A-19] per ISSUE-20.
 - Source deeds for John Marion's surface interest: [28] (1979-12-31, Olena → John Marion, 9/92 interest in First Tract) + [30] (1980-12-13, Olena → John Marion, additional 9/92 interest = cumulative 18/92) + [35] (2005-07-07, Estate of Olena → John Marion, physical partition of 18 acres)
 - Mineral ownership:
-  - John Marion Black estate / heirs: **1/2** (John Marion's personal interest, outside trusts)
-  - James Allen Black: **1/2** (per Deed [34], 2005-07-07)
-  - John Marion's 1/2 passed to **Kay Ramsey Black** via his personal estate; not in Gude
+  - **Kay Lynn Ramsey Black**: **1/2 + executive rights** (received from JM Black's estate via Administration Deed [338], LC Doc# 2025-0004419, recorded 11/17/2025; no mineral reservation)
+  - James Allen Black: **1/2 non-executive** (per Deed [34], 2005-07-07)
 - Executive rights (right to lease): **Kay Lynn Ramsey Black** (John Marion's personal estate) — per deed [34] reservation: "For Grantor and Grantor's heirs, successors, and assigns forever, the right to lease the mineral estate." John Marion retained executive rights; these passed to Kay with his personal estate. James Allen Black holds his 1/2 as non-executive minerals.
-- Confidence: HIGH for structure; MEDIUM for current documentation of heirs' interest
-- Action needed: Same as L20555 — recorded heirship affidavit or probate distribution deed needed
+- Confidence: **HIGH** — structure and recorded documentation both confirmed by deed [338] (LC Doc# 2025-0004419)
+- Action needed: None for L20556. L20555 1/2 minerals, Vickers royalty, and TU Electric minerals still require recorded documentation (see ISSUE-05)
 
 ---
 
@@ -225,7 +224,7 @@ Texas legal concepts that affect interpretation:
 | First/Fourth (~166 ac net after JMB partition) | **50% mineral + exec. rights** (per [14]/[17]) | **50% mineral, non-exec.** (per [17]/[38]) | — | — | — | — |
 | Manning Lot (3 ac) | **50% mineral + exec. rights** (per [14]/[17]) ⚠️ not conveyed by [21]/[40]; ISSUE-30 | **50% mineral, non-exec.** (per [17]/[38]) | — | — | — | — |
 | L20555 (18 ac) | — | — | Kay (1/2, undoc.) | 1/2 (executive rights) | — | — |
-| L20556 (18 ac) | — | — | Kay (1/2, exec. rights, undoc.) | 1/2 (non-exec.) | — | — |
+| L20556 (18 ac) | — | — | Kay (1/2, exec. rights, deed [338]) | 1/2 (non-exec.) | — | — |
 | Richie League (317.50 ac) | **50% non-exec.** (per [20]/[39]) | **50% + exec. rights** (per [16]/[20]) | — | — | Weaver heirs 100% minerals in F15408 | — |
 | Weaver Tract (33.61 ac) | — | 0% surface only | — | — | Gussie+Jewell Weaver heirs (100% minerals) | — |
 | Beldin Tract (33.66 ac) | **50% non-exec.** (per [20]/[39]) | **50% + exec. rights** (per [16]/[20]) | — | — | — | — |
@@ -242,7 +241,7 @@ Texas legal concepts that affect interpretation:
 ## Mineral Interests That Need Recorded Documentation NOW
 
 1. **L20555 minerals (1/2 interest) — John Marion's personal estate → Kay Ramsey Black** — Need heirship affidavit or probate distribution deed recorded in Limestone County establishing Kay's ownership
-2. **L20556 minerals (1/2 interest) — same** — Same action in Limestone County
+2. ~~L20556 minerals (1/2 interest)~~ — **RESOLVED by deed [338]** (LC Doc# 2025-0004419, recorded 11/17/2025). Kay's 1/2 mineral interest + executive rights documented by recorded Administration Deed.
 3. **Vickers royalty — chain from Olena forward UNDOCUMENTED** — Before any heirship affidavit or probate distribution can be recorded, the source deed or estate instrument establishing how this royalty passed from MS Bounds through Olena to subsequent holders must be identified. See ISSUE-07.
 4. **TU Electric minerals (share) — same** — Same action in Freestone County
 

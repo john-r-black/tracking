@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Legacy timestamps stripped; git history is the audit trail*
+*Last updated: 2026-03-31 — ISSUE-05 partially resolved (L20556 documented by deed [338]; probate confirmed); ISSUE-43 item 1 pulled*
 # Black Land Project — Open Issues List
 
 
@@ -11,7 +11,7 @@
 - **Counties**: Limestone + Freestone
 - **Description**: Instruments identified from county deed indices and CAD deed histories. PDFs not yet pulled.
 - **Instruments to pull**:
-  1. LC Inst# 2025-0004419 — JM Black Deceased → Kay L R Black (2025) — ISSUE-05
+  1. ~~LC Inst# 2025-0004419~~ — **PULLED ✓ = deed [338]**; Administration Deed, L20556 surface + minerals; ISSUE-05 partially resolved
   2. LC Vol. 458 Pg. 314 (Inst# 05901581) — JP Black et al → Verona E. Black, gift deed (1959) — ISSUE-01
   3. LC Vol. 458 Pg. 317 (Inst# 05901580) — JT Black Deceased affidavit (1959) — ISSUE-01
   4. LC Vol. 278 Pg. 379 (Inst# 1943000000000013) — C.E. Black → J.T. Black deed (1943) — Boyd chain
@@ -158,8 +158,11 @@
 - **Action**: (a) Determine whether John Marion Black had a will and whether his estate was formally probated in Texas; (b) if probated, obtain certified copy of distribution deed establishing Kay's ownership and record in both counties; (c) if not probated, Kay (or a representative) should prepare and record an Affidavit of Heirship for these specific mineral interests in both counties; (d) confirm Kay's wishes regarding these interests — she may want to convey them to Gude or to John and Joel directly
 - **Key open question**: Did John Marion Black have a will? Was his estate formally probated?
 - **Note**: These interests belong to Kay's estate chain, not Gude's. Any future mineral lease or sale involving L20555, L20556, the Vickers royalty, or TU Electric minerals requires Kay's participation.
-- **Status**: OPEN
-- **Black surname index update (2026-03-09)**: LC Inst# 2025-0004419 (DEED, recorded 11/17/2025, BLACK JOHN M DECEASED → BLACK KAY L R) located in LC deed index. This is the estate transfer deed. **Action**: Pull immediately. Determine scope: does it cover L20556 surface, L20555 minerals (1/2), L20556 minerals (1/2), Vickers royalty, and TU Electric minerals? If comprehensive, ISSUE-05 may be substantially resolved.
+- **Status**: PARTIALLY RESOLVED
+- **Deed [338] analysis (2026-03-31)**: LC Inst# 2025-0004419 = deed [338], Administration Deed dated October 27, 2025. Kay L.R. Black, as Independent Executrix of JM Black's estate, conveys L20556 (18.00 ac McAnulty A-17 [sic — A-19]) to herself personally. No mineral reservation — surface + JM Black's 1/2 mineral interest + executive rights pass to Kay. Acknowledged Fort Bend County — **confirms formal probate in Fort Bend County**. Preparer: Duff Drozd Law PLLC, Richmond TX. First Tract still called "92 acres" (ISSUE-23 scrivener's error perpetuated).
+- **Scope**: Deed [338] covers L20556 ONLY. It does NOT address: (a) 1/2 mineral interest in L20555, (b) Vickers royalty, (c) TU Electric minerals. These three items remain undocumented and require additional distribution deeds or heirship affidavits.
+- **Key open question answered**: JM Black's estate WAS formally probated. Kay is Independent Executrix. Additional administration deeds for the remaining interests may exist or may still need to be prepared.
+- **Revised action**: (a) ~~Determine whether JM Black had a will and whether his estate was formally probated~~ — **ANSWERED: yes, formal probate, Fort Bend County**; (b) determine whether additional administration deeds were or will be executed for L20555 1/2 minerals, Vickers royalty, and TU Electric minerals; (c) if not yet executed, Kay (as Independent Executrix) should prepare and record additional administration deeds in Limestone County (for L20555) and Freestone County (for Vickers and TU Electric minerals)
 
 ---
 
