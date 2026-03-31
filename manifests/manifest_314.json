@@ -1,0 +1,93 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_batch_04",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1965-06-08__314__l_affidavit_title_wdboundsetal_veronaeblack.md"
+  ],
+  "batch_summary": "Deed [314] — Affidavit of Title (1965), W.D. Bounds and Jeff Bounds attesting to Verona E. Black's ownership of 56.8 acres on the Lipscomb Norvell Survey, Abstract No. 20, Limestone County. Chain established: W.E. Black and wife Ida A. Black acquired the property more than 40 years before 1965; W.E. Black and his children conveyed to J.T. Black in 1943; after JT Black's death (1/30/1959), his children conveyed to Verona via deed [311] (1959 blanket conveyance). DISPOSED PROPERTY — Verona sold the tract to Wilson in 1965 (companion deed at LC Vol. 516 Pg. 307, still unpulled). Key genealogical finding: W.E. Black and Ida A. Black are identified as JT Black's probable parents; C.E. Black (ISSUE-43 item 4 grantor in 1943 deed) is now identifiable as a probable sibling of JT Black. ISSUE-43 item 9 (pg. 304) marked as pulled. No mineral production ever occurred on the property.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [314] — W.E. Black and Ida A. Black identified as JT Black's probable parents (Norvell Survey affidavit of title, 1965); C.E. Black reclassified as probable sibling",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update JT Black entry: reclassify C.E. Black from unknown to probable sibling based on deed [314] affidavit identifying W.E. Black as father figure, and add [314] affidavit findings",
+          "find": "C.E. Black identity unknown (potential parent or sibling). Pull pending.",
+          "replace_with": "C.E. Black now identified as probable sibling of JT Black — per deed [314] affidavit (1965-06-08, LC Pg. 304, Doc# 3773), the 56.8-ac Lipscomb Norvell Survey A-20 tract was acquired by **W. E. Black and wife Ida A. Black** more than 40 years before 1965, and \"W. E. Black and his children\" conveyed to JT Black in 1943. C.E. Black was likely first-named grantor among W.E. Black's children in the item 4 deed. ⚠️ The [314] affidavit references the Norvell Survey, while item 4 is labeled \"Boyd chain\" — item 4 may be a separate deed or a multi-survey instrument covering both Boyd and Norvell tracts. Pull still needed to confirm. **Deed [314]**: Affidavit of Title, W.D. Bounds and Jeff Bounds (affiants), attesting to Verona E. Black's chain of title to 56.8 ac Lipscomb Norvell Survey A-20 LC. Chain: W.E. Black + Ida A. Black (pre-~1925) → JT Black (1943) → heirs → Verona (1959, per [311] blanket conveyance). No mineral production. DISPOSED — Verona sold to Wilson (1965). Companion Wilson deed at LC Vol. 516 Pg. 307 still unpulled. Attorneys: Schultz & Martin, Mexia TX. ISSUE-43 item 9 (pg. 304 portion)."
+        },
+        {
+          "action": "insert_before",
+          "description": "Add W.E. Black and Ida A. Black to family tree as JT Black's probable parents, based on deed [314] affidavit",
+          "anchor": "JP Black's parents and siblings:",
+          "content": "JT Black's parents (probable — per deed [314] affidavit, 1965):\nW. E. Black  +  Ida A. Black\n     │              (acquired 56.8 ac Lipscomb Norvell Surv. A-20 LC before ~1925)\n     ├── John Thomas \"JT\" Black (10/21/1887–1/30/1959)  ← see below\n     ├── C. E. Black (probable sibling; first-named grantor in 1943 deed, ISSUE-43 item 4)\n     └── [other children unknown]\n"
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [314] added to Phase 2 — Affidavit of Title, W.D. Bounds + Jeff Bounds re: Verona E. Black's 56.8 ac Lipscomb Norvell Survey (1965); DISPOSED property",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Renumber deed [24] from item 4 to item 5 in Phase 2 to accommodate new [314] entry",
+          "find": "4. `1974-12-30_[24]_l`",
+          "replace_with": "5. `1974-12-30_[24]_l`"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [314] entry to Phase 2, after deed [311] (chronological order: 1965 between 1959 and 1974)",
+          "anchor": "3. `1959-02-09_[311]_l`",
+          "content": "4. `1965-06-08_[314]_l` — W. D. Bounds + Jeff Bounds (affiants) → Public (affidavit of title, Limestone) — re: Verona E. Black's ownership of 56.8 ac Lipscomb Norvell Survey, Abstract No. 20, Limestone County. Chain attested: W. E. Black and wife Ida A. Black acquired property >40 years prior; W. E. Black and his children conveyed to J. T. Black in 1943; after JT Black's death (1/30/1959), his children conveyed to Verona E. Black (= deed [311] blanket conveyance). 40+ years continuous possession, fenced, notorious, peaceable. No oil/gas/mineral production. **DISPOSED PROPERTY** — companion deed to Wilson at LC Vol. 516 Pg. 307 (1965, still unpulled). Attorneys: Schultz & Martin, Mexia TX. Notary: E. B. Trotter, Limestone County. Sworn Jun 8, 1965; subscribed Jun 9, 1965. LC Pg. 304–305, Doc# 3773. Filed Jul 26, 1965 at 10:00 AM; recorded Jul 26, 1965 at 4:00 PM; John Kidd, County Clerk; Eleanor Popejoy, Deputy. ISSUE-43 item 9 (pg. 304 portion)."
+        },
+        {
+          "action": "replace",
+          "description": "Update Phase Structure Overview table to add [314] to Phase 2 deeds list",
+          "find": "| Phase 2 | PHASE 2.txt | J.P. Black acquisitions (pre-trust) | [03], [312], [311], [24] |",
+          "replace_with": "| Phase 2 | PHASE 2.txt | J.P. Black acquisitions (pre-trust) | [03], [312], [311], [314], [24] |"
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "ISSUE-43 item 9 (pg. 304) pulled = deed [314]; ISSUE-01 updated with W.E. Black/Ida A. Black genealogical finding from [314] affidavit",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [314] analysis note to ISSUE-01 — new genealogical context for JT Black upstream chain",
+          "anchor": "ISSUE-43 item 16 is now PULLED. ISSUE-01 remains OPEN — no bearing on Boyd Survey disposition.",
+          "content": "- **Deed [314] analysis (2026-03-31)**: Affidavit of Title (LC Pg. 304–305, Doc# 3773, executed 6/8/1965, filed 7/26/1965). Affiants W.D. Bounds and Jeff Bounds attest to Verona E. Black's ownership of 56.8 ac Lipscomb Norvell Survey, Abstract No. 20, Limestone County. **Key genealogical finding**: Property was acquired by **W. E. Black and wife Ida A. Black** more than 40 years before 1965, and \"W. E. Black and his children\" conveyed to J. T. Black in 1943. This identifies W.E. Black and Ida A. Black as JT Black's probable parents and reclassifies C.E. Black (ISSUE-43 item 4 grantor in the 1943 Boyd chain deed) as a probable sibling of JT Black rather than a parent. ⚠️ The [314] affidavit references the Norvell Survey, while item 4 is labeled \"Boyd chain\" — the 1943 deeds may be one multi-survey instrument or two separate deeds. Pulling item 4 (LC Vol. 278 Pg. 379) will resolve this and may reveal whether JT Black's Boyd Survey holdings also trace to W.E. Black. **DISPOSED PROPERTY** — Verona sold this Norvell tract to Wilson in 1965 (companion deed at LC Vol. 516 Pg. 307, still unpulled); no bearing on current project holdings. ISSUE-01 remains OPEN — resolution still depends on the Dorsett/Ennis → Simmons deed (ISSUE-43 item 11)."
+        },
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-43 item 9 (pg. 304 affidavit) as pulled = deed [314]; note Wilson deed at pg. 307 still unpulled",
+          "find": "  9. LC Vol. 516 Pg. 304 + 307 — Verona affidavit + deed to Wilson (1965)",
+          "replace_with": "  9. ~~LC Vol. 516 Pg. 304~~ — **PULLED ✓ = deed [314]**; Affidavit of Title, W.D. Bounds + Jeff Bounds re: Verona E. Black's 56.8 ac Lipscomb Norvell Survey A-20 LC; chain: W.E. Black + Ida A. Black → JT Black (1943) → heirs → Verona (1959, per [311]); no mineral production; DISPOSED to Wilson (1965). + LC Vol. 516 Pg. 307 — deed to Wilson (1965), **still unpulled**"
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [314] added to Deed Register — Affidavit of Title, W.D. Bounds + Jeff Bounds re: Verona E. Black Norvell Survey (1965); DISPOSED property",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [314] row to Deed Register table, after deed [311] (chronological order)",
+          "anchor": "ISSUE-43 item 2. Phase 2 |",
+          "content": "| [314] | W. D. Bounds + Jeff Bounds (affiants) → Public (re: Verona E. Black title, 56.8 ac Lipscomb Norvell Survey) | Limestone | ✓ | LC Vol. 516, Pg. 304–305, Doc# 3773. Filed Jul 26, 1965 at 10:00 AM; recorded Jul 26, 1965 at 4:00 PM; John Kidd, County Clerk; Eleanor Popejoy, Deputy; Limestone County. | 304–305 (2 pages) | 1965-06-08 | 1965-07-26 | **Affidavit of Title** — DISPOSED PROPERTY (Norvell Survey). Affiants W.D. Bounds and Jeff Bounds (each over 21, personally acquainted with the property) attest: 56.8 ac Lipscomb Norvell Survey, Abstract No. 20, LC. Metes-and-bounds: beginning at T.W. Wade's SW corner in south line of 400-ac survey bought by John Caruthers from Lipscomb Norvell; S 430 vrs; E 745-8/10 vrs to Jones NE corner; N 430 vrs; W 745-8/10 vrs to POB. Chain: W.E. Black + wife Ida A. Black acquired >40 years before 1965; W.E. Black and his children conveyed to J.T. Black in 1943; JT Black died 1959; children conveyed to Verona E. Black (= deed [311] blanket conveyance). Adverse possession attested: 40+ years continuous, fenced (capable of turning cattle), notorious, peaceable, uninterrupted. No oil, gas, or mineral production. Attorneys: Schultz & Martin, Mexia TX. Sworn Jun 8, 1965; subscribed/acknowledged Jun 9, 1965 before E. B. Trotter NP, Limestone County. **Companion to Wilson deed at LC Vol. 516 Pg. 307 (still unpulled)** — Verona sold this tract to Wilson in 1965. Vol. 516 from ISSUE-43 item 9 index identification. ISSUE-43 item 9 (pg. 304 portion). Phase 2 |"
+        }
+      ]
+    }
+  }
+}
