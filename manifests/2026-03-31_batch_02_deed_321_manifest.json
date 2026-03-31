@@ -1,0 +1,81 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_batch_02",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1979-05-08__321__l_affidavit_estate_msbeard_estateofjpblack.md"
+  ],
+  "batch_summary": "Deed [321] analyzed — LC Inst# 07903577, Affidavit of No Inheritance Tax Due for Estate of John Pierce Black (Probate No. 4476), filed by estate attorney M. Stephen Beard of Pakis, Cherry, Beard & Giotes, Inc. Dated May 8, 1979; filed May 10; recorded May 11, 1979 in Limestone County at Pg. 821. Includes Comptroller certificate of no tax due (Exhibit A) and certificate releasing Olena Bounds Black (Independent Executrix) from personal liability (Exhibit B), both signed by Comptroller Bob Bullock on April 27, 1979. Corrects prior misdescription as a 'JP Black deceased affidavit' — this is a tax clearance instrument, not a death/heirship affidavit. ISSUE-43 item 21 marked as pulled.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [321] — JP Black estate tax affidavit (LC 07903577); Beard confirmed as Attorney of Record, Probate No. 4476; trust history entry corrected",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update Beard entry to add Attorney of Record role for JP Black estate, law firm name, and Probate No. 4476",
+          "find": "| M. Stephen Beard | — | — | Alive | Attorney who established both trusts in 2005; current trustee of Trust No. 2 | Named **Sole Trustee** of both trusts in 2005 instruments (confirmed by deeds [14]/[36], [16]/[37], [17]/[38]); was replaced as Trust No. 1 trustee by Willis; remains Trust No. 2 trustee; served as notary on 1979 trust documents (Deeds [08] and [26]); connection to Citizens National Bank predates his 1995 formal trustee role |",
+          "replace_with": "| M. Stephen Beard | — | — | Alive | Attorney who established both trusts in 2005; current trustee of Trust No. 2 | Named **Sole Trustee** of both trusts in 2005 instruments (confirmed by deeds [14]/[36], [16]/[37], [17]/[38]); was replaced as Trust No. 1 trustee by Willis; remains Trust No. 2 trustee; served as notary on 1979 trust documents (Deeds [08] and [26]); connection to Citizens National Bank predates his 1995 formal trustee role. **Attorney of Record for the Estate of John Pierce Black, Deceased** (Probate No. 4476, Limestone County) — confirmed by deed [321] (Affidavit of No Inheritance Tax Due, LC Inst# 07903577, 1979). Law firm at time of JP Black estate: **Pakis, Cherry, Beard & Giotes, Inc.**, 8th Floor, First National Bldg., Waco, Texas 76701 |"
+        },
+        {
+          "action": "replace",
+          "description": "Correct trust history entry for 5/11/1979 — this is not a 'deceased affidavit' but an Affidavit of No Inheritance Tax Due; add Probate No. 4476, correct filed/recorded dates, mark PDF confirmed as deed [321]",
+          "find": "| 5/11/1979 | JP Black deceased affidavit filed in Limestone County (LC Vol. 640 Pg. 821, Inst# 07903577). Establishes JP Black's death for title purposes; filed approximately 6 months after death (11/14/1978). [INDEX IDENTIFIED: LC, 2026-03-09] |",
+          "replace_with": "| 5/10–11/1979 | **Deed [321]**: Affidavit of No Inheritance Tax Due, Estate of John Pierce Black (Probate No. 4476, Limestone County). Filed by M. Stephen Beard, Attorney of Record (Pakis, Cherry, Beard & Giotes, Inc., Waco). Comptroller Bob Bullock issued certificate of no tax due (4/27/1979, Exhibit A) and released Olena Bounds Black, Independent Executrix (Route 1, Box 166, Wortham, Texas 76693), from personal liability (4/27/1979, Exhibit B). Sworn McLennan County before notary Margaret Dickens (comm. exp. 8/31/1980). Filed 5/10/1979 8:00 AM; recorded 5/11/1979 4:00 PM by Dena Pruitt, County Clerk, Limestone County (Deputy: Nancy Stockton). LC Vol. 640 Pg. 821, Inst# 07903577. No federal estate tax liability. [PDF CONFIRMED: deed [321], 2026-03-31; prior INDEX IDENTIFIED: LC, 2026-03-09] |"
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [321] added to Phase 4 — Affidavit of No Inheritance Tax Due, Estate of JP Black, LC 07903577",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update Phase Structure Overview to include [321] in Phase 4 deed list",
+          "find": "| Phase 4 | PHASE 4.txt | 1977 Trust formation & initial funding | [06]/[25], [08]/[26], [09], [12] |",
+          "replace_with": "| Phase 4 | PHASE 4.txt | 1977 Trust formation & initial funding | [06]/[25], [08]/[26], [09], [12], [321] |"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [321] to Phase 4 after deed [12] (last entry in phase) — Affidavit of No Inheritance Tax Due, chronologically between [06]/[25] and [08]/[26] but appended to preserve existing numbering",
+          "anchor": "5. `1995-03-06_[12]_f` — NationsBank of Texas N.A. (succ. to Citizens National Bank) + Olena Bounds Black → M. Stephen Beard as Successor Co-Trustee (distribution deed, Freestone only; Beard replaces NationsBank as co-trustee) [INDEX CONFIRMED (F-Beard): FC OR/953/40, Doc# 1995-1165, 2026-03-09; ⚠️ grantor indexed as \"BLACK JOHN PIERCE FAMILY TRUST OF 1977\" — indexing convention, not conflict; instrument controls]",
+          "content": "6. `1979-05-08_[321]_l` — M. Stephen Beard (Attorney of Record, Estate of JP Black) → Public (affidavit, Limestone only; LC Vol. 640 Pg. 821, Inst# 07903577; filed 5/10/1979, recorded 5/11/1979). **Affidavit of No Inheritance Tax Due** — Probate No. 4476, Limestone County. Beard attests no state inheritance tax and no federal estate tax due on Estate of John Pierce Black, Deceased. Comptroller Bob Bullock certificates attached (Exhibits A & B, both dated 4/27/1979): (A) no inheritance tax due, (B) release of Olena Bounds Black, Independent Executrix (Route 1, Box 166, Wortham, Texas 76693), from personal liability. Sworn McLennan County before notary Margaret Dickens (comm. exp. 8/31/1980). Tax clearance instrument — no conveyance; clears estate for distribution prior to trust funding deeds [08] and [26] (both executed 5/23/1979, 13 days later)."
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "ISSUE-43 item 21 pulled (deed [321], LC Inst# 07903577, JP Black estate tax affidavit)",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-43 pull list item 21 as pulled — now deed [321]",
+          "find": "  21. LC Vol. 640, Pg. 821 (Inst# 07903577) — Beard M Stephen et al, affidavit (05/11/1979) — pre-trust-restructuring, contemporaneous with [08]/[26], LOW priority",
+          "replace_with": "  21. ~~LC Vol. 640, Pg. 821 (Inst# 07903577)~~ — **PULLED ✓ = deed [321]**; Affidavit of No Inheritance Tax Due, Estate of John Pierce Black (Probate No. 4476); Beard confirmed as Attorney of Record; no state or federal tax liability; Olena released from personal liability"
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [321] added to Deed Register — Affidavit of No Inheritance Tax Due, Estate of JP Black, LC 07903577",
+      "operations": [
+        {
+          "action": "insert_before",
+          "description": "Add deed [321] to Deed Register, before the [338] entry (maintaining rough chronological order within the table — [321] is 1979, [338] is 2025)",
+          "anchor": "| [338] | Estate of John M. Black, Deceased (Kay L.R. Black, Indep. Executrix) → Kay L.R. Black | Limestone | ✓ | LC Doc# 2025-0004419, recorded 11/17/2025 10:46:22 AM, Kerrie Cobb County Clerk, 6 pages (incl. cover page)",
+          "content": "| [321] | M. Stephen Beard (Attorney of Record, Estate of JP Black) → Public | Limestone | ✓ | LC Vol. 640, Pg. 821, Inst# 07903577 [INDEX CONFIRMED: LC Vol.640 Pg.821, 2026-03-09] | 821–823 (3 pages) | 1979-05-10 (8:00 AM) | 1979-05-11 (4:00 PM) | Dena Pruitt, County Clerk, Limestone County; Deputy: Nancy Stockton. **Affidavit of No Inheritance Tax Due** — Probate No. 4476, Limestone County, Estate of John Pierce Black, Deceased. M. Stephen Beard (Pakis, Cherry, Beard & Giotes, Inc., 8th Floor, First National Bldg., Waco TX 76701) attests: (1) he is Attorney of Record for the Estate; (2) State Inheritance Tax Return filed; (3) Comptroller certificate of no tax due received (Exhibit A, signed Bob Bullock, 4/27/1979); (4) Certificate releasing Olena Bounds Black, Independent Executrix (Route 1, Box 166, Wortham TX 76693), from personal liability received (Exhibit B, signed Bob Bullock, 4/27/1979); (5) no federal estate tax liability. Sworn before Margaret Dickens, Notary Public, McLennan County (comm. exp. 8/31/1980). Acknowledged same date before same notary. Tax clearance instrument — no conveyance. Phase 4 |"
+        }
+      ]
+    }
+  }
+}

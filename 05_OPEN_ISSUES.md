@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — ISSUE-05 partially resolved (L20556 documented by deed [338]; probate confirmed); ISSUE-43 item 1 pulled*
+*Last updated: 2026-03-31 — ISSUE-43 item 21 pulled (deed [321], LC Inst# 07903577, JP Black estate tax affidavit)*
 # Black Land Project — Open Issues List
 
 
@@ -31,7 +31,7 @@
   18. FC OR/1385/505 (Doc# 2006-6008751) — Beard M Stephen Trustee → XTO Energy Inc, oil & gas lease (12/19/2006) — Trust No. 2, W Ritchie SUR, MEDIUM priority
   19. FC OR/1542/657 (Doc# 2011-1101159) — Beard M Stephen Trustee → Navarro County Electric Cooperative Inc, easement (3/3/2011) — Trust No. 2, W Ritchie SUR A-0527 252.23 ACS, MEDIUM priority
   20. FC OR/1587/893 (Doc# 2012-1204190) — Beard M Stephen Trustee → Polomsky Hughes & Associates LLC, mem oil & gas lease (9/27/2012) — Trust No. 2, same-day as Weaver Jewell Trust lease to same lessee, MEDIUM priority
-  21. LC Vol. 640, Pg. 821 (Inst# 07903577) — Beard M Stephen et al, affidavit (05/11/1979) — pre-trust-restructuring, contemporaneous with [08]/[26], LOW priority
+  21. ~~LC Vol. 640, Pg. 821 (Inst# 07903577)~~ — **PULLED ✓ = deed [321]**; Affidavit of No Inheritance Tax Due, Estate of John Pierce Black (Probate No. 4476); Beard confirmed as Attorney of Record; no state or federal tax liability; Olena released from personal liability
   22. FC OR/1004/291 (Doc# 1997-636) — Bounds Clyde L → TU Electric, special warranty deed, 15.879 ac, Wm. Ritchie A-527, Freestone County, recorded 1/29/1997 (same date as deed [13]). **Clyde L. Bounds identified as J.V. Bounds family member** per FC Doc# 1955-2460 grantor list — NOT in MS Bounds/Trust No. 2 direct chain. Risk to Trust No. 2 acreage reduced but pull still needed to confirm. HIGH priority. [IDENTIFIED: F-TU index, Session 8B, 2026-03-09]
   23. LC Vol. 34, Pg. 256 (DR-00034-00256) — H&TC Railroad Co → Lindly J P, deed, 05/08/1901, S McAnulty League, 103 acres. H&TC reconveyed McAnulty League interests 26 years after deed [119] (1875 ROW conveyance). Potentially significant for ISSUE-34 survey gap. Note: "Lindly J P" may or may not be J.P. Lindley of Holloway Survey chain (deeds [101]/[105]) — speculative; verify against source. MEDIUM-HIGH priority / ISSUE-34. [IDENTIFIED: L-HTC index, Session 8B, 2026-03-09]
   24. **FC Vol. 534, Pg. 321** — Unknown grantor → BLACK OLENA MRS, upstream source deed for entire Exhibit A block (~329 ac: Strickland A-550, Slaughter A-565, Curry A-9). Identified from CAD deed histories on 8 parcels (F15750, F16073, F16075, F16077, F3152, F3153, F16074, F17559). Same DR/531–534 volume range as deeds [07] (DR/531/500) and [08] — likely December 1979 closing session. May be MS Bounds estate → Olena, or the ISSUE-16 "unknown aunt" deed, or another source. **HIGH priority — resolves chain for ~329 acres.** [IDENTIFIED: FC CAD deed histories, 2026-03-10]
