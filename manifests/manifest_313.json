@@ -1,0 +1,101 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_batch_02",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1962-03-01__313__f_oilgaslease_minerals_bessieboundsetal_jhmeeks.md"
+  ],
+  "batch_summary": "Deed [313] is a 1962 oil, gas and mineral lease from Bessie Bounds (individually, as widow of J.V. Bounds Jr.) and all J.V. Jr. will beneficiaries (the same T.A. Bounds sibling/descendant group from deed [308]) plus eight probable J.V. Jr. children, to Jack H. Meeks of Longview TX, covering 60.4 acres of the William Ritchie League A-527 (Lot No. 3, T.A. Bounds estate partition). This is ISSUE-43 item 28 (FC Doc# 1962-690, DR/314/115). The FC index entry 'MC LELLAND ELGIN → MEEKS JACK H' was misleading — Elgin McLelland was one of ~35 lessors; Bessie Bounds signed as agent/attorney-in-fact for all parties. MAJOR FINDING: The lease identifies seven previously unknown probable children of J.V. Bounds Jr. (Clara, Myrtle, Lillie Kate, Dillon, Preston, T.P., Oleta) in addition to the known son Virgil, expanding the J.V. Jr. family unit from 1 known child to 8. The lease also documents the T.A. Bounds estate partition judgment citation (No. 8153-B, Rufus McClelland et al. vs. J.V. Bounds Jr. et al., Jan 28, 1926, Vol. 1 Pg. 235, 87th Judicial District Court, Freestone County). ISSUE-44 advanced significantly.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [313] — Seven probable J.V. Bounds Jr. children identified (Clara m. Howard, Myrtle m. Cain, Lillie Kate m. Panci, Dillon, Preston, T.P., Oleta m. Ashby) in addition to known son Virgil; Ebby/Ebb/Edd Bounds name variants noted",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Expand J.V. Bounds Jr. entry to include probable additional children identified in deed [313] mineral lease — all 8 appear as lessors on J.V. Jr.'s 60.4-ac partition lot alongside the [308] will beneficiaries, strongly suggesting they are J.V. Jr.'s own children rather than will beneficiaries",
+          "find": "     │        │         ├── Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds; son: Virgil L. Bounds",
+          "replace_with": "     │        │         ├── Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds (\"feme sole, widow\" per deed [313], 1962)\n     │        │         │     Probable children (all appear as lessors on J.V. Jr.'s 60.4-ac partition lot in deed [313], 1962 — HUMAN VERIFICATION REQUIRED):\n     │        │         │     Clara Bounds (m. Hill Howard), Myrtle Bounds (m. Algie Cain), Lillie (Lilly) Kate Bounds (m. Anthony Panci),\n     │        │         │     Dillon Bounds, Preston Bounds, Virgil (Vergil) Bounds (= Virgil L. Bounds), T. P. Bounds, Oleta Bounds (m. Reagan Ashby)"
+        },
+        {
+          "action": "replace",
+          "description": "Add Edd as name variant for Ebby/Ebb Bounds — deed [313] notary acknowledgment spells 'Edd Bounds' while body uses 'Ebb Bounds'",
+          "find": "     │                  ├── Ebby Bounds (1903–)",
+          "replace_with": "     │                  ├── Ebby Bounds (1903–) — also \"Ebb Bounds\" (deed [313] body) / \"Edd Bounds\" (deed [313] notary acknowledgment)"
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [313] — 1962 Meeks mineral lease on 60.4-ac parent tract referenced in F15410 chain notes; T.A. Bounds estate partition judgment citation added",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update F15410 chain notes to add deed [313] mineral lease reference and partition judgment citation",
+          "find": "Part of 60.4-ac parent tract. Deed [308] (FC 1955-2460) confirmed personal property only — Bessie never held real estate. ⚠️ Iva Inez Bounds leased 60.4-ac minerals post-[07] (FC 1980-1075, Amoco) — potential mineral cloud. |",
+          "replace_with": "Part of 60.4-ac parent tract (Lot No. 3, T.A. Bounds estate partition, Partition Judgment No. 8153-B, 1/28/1926, Vol. 1 Pg. 235, 87th Judicial District Court FC). Deed [308] (FC 1955-2460) confirmed personal property only — Bessie never held real estate. Deed [313] (1962 Meeks O&G lease, DR/314/115) confirms J.V. Jr. beneficiaries + 8 probable J.V. Jr. children collectively held mineral interest as of 1962. ⚠️ Iva Inez Bounds leased 60.4-ac minerals post-[07] (FC 1980-1075, Amoco) — potential mineral cloud. |"
+        }
+      ]
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [313] added to Phase 1 — Oil, gas and mineral lease, Bessie Bounds et al. (J.V. Jr. widow + all will beneficiaries + 8 probable J.V. Jr. children) to Jack H. Meeks, 60.4 ac Wm. Ritchie A-527 Lot 3 (1962); ISSUE-43 item 28 satisfied",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [313] entry to Phase 1, after deed [308] — both instruments involve the J.V. Jr. will beneficiary group and the same 60.4-ac Richie League property",
+          "anchor": "[PDF CONFIRMED: deed [308], 2026-03-31]",
+          "content": "18. `1962-03-01_[313]_f` — Bessie Bounds et al. → Jack H. Meeks (oil, gas and mineral lease, Freestone) — 60.4 acres, Lot No. 3, William Ritchie League, Abstract 527, allotted to J. V. Bounds Jr. in partition of 181.3 acres (T.A. Bounds Estate), per Partition Judgment No. 8153-B, Rufus McClelland et al. vs. J. V. Bounds Jr. et al., January 28, 1926, Volume 1 Page 235, Minutes of the 87th Judicial District Court, Freestone County. Metes-and-bounds: beginning SE corner of original 181.3-ac tract on public road; S 34-30 W 332 vrs; N 56-20 W 1026.3 vrs; N 34-30 E 332 vrs; S 56-20 E 1026.3 vrs to POB. Consideration: $10.00 + royalties (1/8 oil, 1/8 gas net proceeds). Primary term: 5 years. Delay rental: $60.40/year to First National Bank, Wortham TX. **Lessors**: Bessie Bounds individually (\"feme sole, widow of Jesse Vastine Bounds, Jr., deceased\") PLUS all J.V. Jr. will beneficiaries from deed [308] (MS Bounds, Willis H., B. Frank, Rufus G., Oliver, W.E., Ebb, Margaret Bounds Means, Martha Bounds Eckhardt + spouses; and children of deceased siblings: Kenneth, Charles, Janet Carter, Annie Laura Stanfield, Emma Stoddard, Granville McLelland, Elgin McLelland, Rufus McLelland, Clyde Bounds, Maurine Henderson, Mary Bounds, Gail Bounds, T.A. Bounds, Oscar Edward Bounds, Laura Belle Threet + spouses) PLUS eight probable J.V. Jr. children not in [308]: Clara Bounds Howard (+ Hill Howard), Myrtle Bounds Cain (+ Algie Cain), Lillie (Lilly) Kate Bounds Panci (+ Anthony Panci), Dillon Bounds, Preston Bounds, Virgil (Vergil) Bounds, T. P. Bounds, Oleta Bounds Ashby (+ Reagan Ashby). All acted through Bessie Bounds as \"duly authorized Agent and Attorney-in-Fact.\" **FC index discrepancy**: Index entry reads \"MC LELLAND ELGIN → MEEKS JACK H\" — Elgin was one of ~35 lessors, not the primary signatory; Bessie Bounds signed individually and as agent. ⚠️ Name variants in single instrument: \"McLeLland\" (body), \"McLellan\" (Rufus, notary ack.), \"McClelland\" (partition judgment reference); \"Ebb Bounds\" (body) vs \"Edd Bounds\" (notary ack.); \"Virgil (Vergil)\" dual spelling. **Companion lease**: Same lessee Jack H. Meeks also leased the adjacent Weaver Tract minerals (33.61 ac) from Gussie Weaver in 1961 (FC DR/311/290) — coordinated leasing of contiguous Richie League mineral interests. Recording: Doc# 690, Deed Record 314, Pg. 115–117 (3 pages), Freestone County. Filed Mar 9, 1962 at 8:00 AM; recorded Mar 26, 1962 at 8:30 AM; Henry McCormick, County Clerk; Deputy: Doris Terry Welch. ISSUE-43 item 28 satisfied. ISSUE-44 advanced. Phase 1"
+        },
+        {
+          "action": "replace",
+          "description": "Add [313] to Phase 1 deed list in overview table",
+          "find": "| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02], [308] |",
+          "replace_with": "| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02], [308], [313] |"
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [313] — 1962 Meeks mineral lease confirms J.V. Jr. beneficiaries + 8 probable J.V. Jr. children collectively held mineral interest in 60.4-ac parent tract; Meeks coordinated leasing with Weaver Tract noted",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Add deed [313] mineral lease evidence to Beldin Tract section — the 1962 lease establishes that the J.V. Jr. family group held minerals as of 1962, and notes the Jack H. Meeks coordinated leasing of adjacent Richie League tracts",
+          "find": "- **⚠️ Iva Inez Bounds mineral cloud** [IDENTIFIED: 2026-03-10]: FC Doc# 1980-1075 (2/19/1980) — Bounds Iva Inez leased the full **60.4-ac parent tract** minerals to Amoco Production Co, two months after deed [07] carved out the 33.66-ac Beldin surface.",
+          "replace_with": "- **1962 Meeks mineral lease (deed [313])**: FC Doc# 1962-690 (DR/314/115) — Bessie Bounds (J.V. Jr.'s widow) + all J.V. Jr. will beneficiaries + 8 probable J.V. Jr. children leased the full 60.4-ac parent tract minerals to Jack H. Meeks, Longview TX. 5-year primary term from 3/1/1962; $10.00 + 1/8 royalty. Same lessee Meeks also leased the adjacent Weaver Tract minerals (33.61 ac) from Gussie Weaver in 1961 (FC DR/311/290). **Confirms J.V. Jr. family group held minerals on this tract as of 1962** — between deed [308] (1955 personal property only) and the Iva Inez Amoco lease (1980). See ISSUE-44.\n- **⚠️ Iva Inez Bounds mineral cloud** [IDENTIFIED: 2026-03-10]: FC Doc# 1980-1075 (2/19/1980) — Bounds Iva Inez leased the full **60.4-ac parent tract** minerals to Amoco Production Co, two months after deed [07] carved out the 33.66-ac Beldin surface."
+        }
+      ]
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [313] — ISSUE-43 item 28 pulled (FC 1962-690, Meeks mineral lease = deed [313], Bessie Bounds et al. not McLelland Elgin); ISSUE-44 advanced with 1962 lease evidence and 8 probable J.V. Jr. children identified",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Advance ISSUE-44 with deed [313] evidence — add key finding about the 1962 mineral lease and the 8 probable J.V. Jr. children, and add partition judgment citation",
+          "find": "- **Pull items**: ISSUE-43 items 25 (1978-2653, J.V. Jr. estate → Virgil L.), 26 (1973-478, Miller Clara Barton → Virgil L.), 27 (J.V. Jr. will from FC probate), 28 (1962-690, Elgin mineral lease)\n- **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)",
+          "replace_with": "- **Key finding — deed [313] (1962 Meeks mineral lease)**: FC Doc# 1962-690 (DR/314/115) is NOT \"McLelland Elgin → Meeks\" as the FC index states — it is an oil and gas lease from **Bessie Bounds et al.** (all J.V. Jr. will beneficiaries + 8 probable J.V. Jr. children) to Jack H. Meeks of Longview TX. Bessie signed individually and as agent/attorney-in-fact for all parties. The lease covers the full 60.4-ac parent tract (Lot No. 3, Wm. Ritchie A-527). This confirms the J.V. Jr. family group collectively held the mineral interest as of March 1962 — between deed [308] (1955 personal property) and the Iva Inez Amoco lease (1980). **Eight probable J.V. Jr. children identified** (in addition to the known Virgil L. Bounds): Clara (m. Howard), Myrtle (m. Cain), Lillie Kate (m. Panci), Dillon, Preston, T. P., Oleta (m. Ashby), and Virgil (Vergil). These 8 + Bessie appear as lessors alongside the [308] will beneficiary group but are NOT in [308] — consistent with them being J.V. Jr.'s direct heirs holding interests in his partition lot rather than will beneficiaries of the sibling group. **HUMAN VERIFICATION REQUIRED**: Confirm these 8 are J.V. Jr.'s children. **T.A. Bounds estate partition judgment documented**: No. 8153-B, Rufus McClelland et al. vs. J.V. Bounds Jr. et al., January 28, 1926, Volume 1 Page 235, Minutes of the 87th Judicial District Court of Freestone County. This citation enables pulling the partition judgment to determine allotments for all T.A. Bounds heirs.\n- **Pull items**: ISSUE-43 items 25 (1978-2653, J.V. Jr. estate → Virgil L.), 26 (1973-478, Miller Clara Barton → Virgil L.), 27 (J.V. Jr. will from FC probate). ~~28 (1962-690, Elgin mineral lease)~~ **PULLED ✓ = deed [313]**. NEW: T.A. Bounds estate partition judgment (FC 87th District Court, Case No. 8153-B, Vol. 1 Pg. 235, Jan 28, 1926) — pull from district court minutes to identify all allotments.\n- **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)"
+        },
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-43 item 28 as pulled — correct the misleading FC index entry and identify the actual instrument as deed [313]",
+          "find": "  28. FC Doc# 1962-690 (DR/314/115) — MC LELLAND ELGIN → MEEKS JACK H, oil & gas lease, 60.4 ac A-527. Elgin leasing minerals on the 60.4-ac parent tract in 1962 — determines whether minerals were retained by McLelland heirs after deed [308] or earlier conveyances. MEDIUM priority / ISSUE-44.",
+          "replace_with": "  28. ~~FC Doc# 1962-690 (DR/314/115)~~ — **PULLED ✓ = deed [313]**; Oil, gas and mineral lease, **Bessie Bounds et al.** (NOT McLelland Elgin per FC index) → Jack H. Meeks; 60.4 ac Wm. Ritchie A-527 Lot 3; all J.V. Jr. will beneficiaries + 8 probable J.V. Jr. children as lessors; Bessie as agent/attorney-in-fact; 5-year term from 3/1/1962; $10.00 + 1/8 royalty. FC index misleadingly indexed under \"MC LELLAND ELGIN\" — Elgin was one of ~35 lessors. Confirms mineral ownership held by J.V. Jr. family group as of 1962. ISSUE-44 advanced."
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [313] added to Deed Register — Oil, gas and mineral lease, Bessie Bounds et al. to Jack H. Meeks, 60.4 ac Wm. Ritchie A-527 (FC Doc# 690, DR/314/115)",
+      "operations": [
+        {
+          "action": "insert_before",
+          "description": "Add deed [313] to Deed Register table, before the 'Add rows' marker",
+          "anchor": "*Add rows as additional PDFs are reviewed.*",
+          "content": "| [313] | Bessie Bounds et al. (J.V. Jr. widow + will beneficiaries + 8 probable children) → Jack H. Meeks | Freestone | ✓ | Doc# 690; Deed Record 314, Pg. 115–117, Freestone County. Filed Mar 9, 1962 at 8:00 AM; recorded Mar 26, 1962 at 8:30 AM; Henry McCormick, County Clerk, Freestone County; Deputy: Doris Terry Welch. | 115–117 (3 pages) | 1962-03-01 | 1962-03-26 | **Oil, Gas and Mineral Lease** — 60.4 ac Lot No. 3, William Ritchie League, Abstract 527, Freestone County. Part of 181.3-ac T.A. Bounds estate partition (Partition Judgment No. 8153-B, Rufus McClelland et al. vs. J.V. Bounds Jr. et al., 1/28/1926, Vol. 1 Pg. 235, 87th Judicial District Court FC). Lessors: Bessie Bounds individually (\"feme sole, widow of Jesse Vastine Bounds, Jr., deceased\") + all J.V. Jr. will beneficiaries (same [308] sibling/descendant group: MS Bounds, Willis H., B. Frank, Rufus G., Oliver, W.E., Ebb, Margaret Means, Martha Eckhardt; + children of deceased siblings John T., Allen, Spencer, Laura McLelland, George P.) + 8 probable J.V. Jr. children (Clara m. Howard, Myrtle m. Cain, Lillie Kate m. Panci, Dillon, Preston, Virgil/Vergil, T.P., Oleta m. Ashby). All acted through Bessie as \"duly authorized Agent and Attorney-in-Fact.\" Lessee: Jack H. Meeks, Longview TX. Consideration: $10.00 + royalties (1/8 oil, 1/8 gas net proceeds, 1/10 other minerals). Primary term: 5 years from 3/1/1962. Delay rental: $60.40/year deposited to First National Bank at Wortham TX. Shut-in royalty: ≤$100/well/year. Pooling: 40 ac oil / 640 ac gas + 10% tolerance. ⚠️ FC index lists grantor as \"MC LELLAND ELGIN\" — misleading; Elgin was one of ~35 lessors, not primary signatory. Same lessee Meeks leased adjacent Weaver Tract minerals (33.61 ac) from Gussie Weaver in 1961 (FC DR/311/290). Acknowledged Mar 2, 1962 before W. L. Garrett NP, Freestone County. ISSUE-43 item 28. ISSUE-44 advanced. Phase 1 |"
+        }
+      ]
+    }
+  }
+}

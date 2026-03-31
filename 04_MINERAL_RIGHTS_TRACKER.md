@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [324] — Gussie Weaver heirship confirmed: died intestate 8/7/1975; heirs = Jewell P. Weaver (wife), Josie Evelyn Weaver (daughter), Ted A. Weaver (son); Josie relationship to Gussie/Jewell resolved*
+*Last updated: 2026-03-31 — Deed [313] — 1962 Meeks mineral lease confirms J.V. Jr. beneficiaries + 8 probable J.V. Jr. children collectively held mineral interest in 60.4-ac parent tract; Meeks coordinated leasing with Weaver Tract noted*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -109,6 +109,7 @@ Texas legal concepts that affect interpretation:
   - Trust No. 2: **50% mineral interest + executive rights** (full minerals via [07]/[16]/[37]; deed [20]/[39] Tract Two conveyed 1/2 to Trust 1/Gude; Trust 2 retains 50% + executive rights per [20] reservation)
   - Gude Management LLC: **50% non-executive mineral interest** (per deed [20]/[39] Tract Two)
 - Confidence: MEDIUM-HIGH (no severance found in file set; upstream Beldin chain not fully reviewed)
+- **1962 Meeks mineral lease (deed [313])**: FC Doc# 1962-690 (DR/314/115) — Bessie Bounds (J.V. Jr.'s widow) + all J.V. Jr. will beneficiaries + 8 probable J.V. Jr. children leased the full 60.4-ac parent tract minerals to Jack H. Meeks, Longview TX. 5-year primary term from 3/1/1962; $10.00 + 1/8 royalty. Same lessee Meeks also leased the adjacent Weaver Tract minerals (33.61 ac) from Gussie Weaver in 1961 (FC DR/311/290). **Confirms J.V. Jr. family group held minerals on this tract as of 1962** — between deed [308] (1955 personal property only) and the Iva Inez Amoco lease (1980). See ISSUE-44.
 - **⚠️ Iva Inez Bounds mineral cloud** [IDENTIFIED: 2026-03-10]: FC Doc# 1980-1075 (2/19/1980) — Bounds Iva Inez leased the full **60.4-ac parent tract** minerals to Amoco Production Co, two months after deed [07] carved out the 33.66-ac Beldin surface. FC Doc# 1998-1952 (4/9/1998) — Iva Inez (as executrix) continued acting on the 60.4-ac minerals. If deed [07] conveyed full fee (surface + minerals) in the 33.66 ac, Iva Inez's mineral lease encumbering that portion is unauthorized and the mineral interest described in [20]/[39] Tract Two is unencumbered. If [07] conveyed surface only, Iva Inez may have held the minerals legitimately. Attorney review and pull of deed [07] full text required to confirm what interest was conveyed. See ISSUE-44.
 
 ---
