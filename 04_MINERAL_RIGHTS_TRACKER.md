@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [331] — Wortham lots surface owner upgraded to PDF CONFIRMED; surface/mineral separation documented; grantee corrected to include Dorothy Calame*
+*Last updated: 2026-03-31 — Deed [311] — Boyd Survey upstream chain note added (no mineral reservation in JT Black estate gift deed)*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -166,6 +166,7 @@ Texas legal concepts that affect interpretation:
   - Genevieve Dorsett (JP's sister, d. 4/5/1999, Tehuacana, Limestone County): 1/3 undivided — passed to her estate; **search Limestone County probate records**
   - Georgia Nell Ennis (JP's sister, d. 1/15/2008, San Antonio, Bexar County): 1/3 undivided — passed to her estate; **search Bexar County probate records**
 - Tracts: First Tract 16.80 ac, Second Tract 25.00 ac, Third Tract ~1.00 ac less 100×100 ft lot
+- **Upstream chain confirmed (deeds [312]+[311], 1959)**: JT Black (d. 1/30/1959) → heirs by intestacy → deed [311] gift deed (2/9/1959) → Verona E. Black. **No mineral reservation in [311]** — full fee simple conveyance of all JT Black estate interests. Verona received 100% surface + minerals.
 - See ISSUE-01
 
 ---

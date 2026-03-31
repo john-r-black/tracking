@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [331] — Wortham lots surface chain upgraded to PDF CONFIRMED; surface separation mechanism documented; acreage precision updated to 0.0918 ac*
+*Last updated: 2026-03-31 — Deed [311] — upstream Boyd Survey chain documented (JT Black estate → Verona E. Black, 1959 gift deed)*
 # Black Land Project — Property Inventory
 
 
@@ -166,6 +166,7 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 - Second Tract: 25.00 acres (John Boyd Survey)
 - Third Tract: ~1.00 acre less 100×100 ft lot previously conveyed (John Boyd Survey)
 - **Total: ~42.8 acres; JP Black received ~14.27 acres equivalent (1/3 undivided)**
+- **Upstream chain documented (deeds [312]+[311], 1959)**: JT Black (d. 1/30/1959, intestate) → heirs by operation of law (JP Black, Georgia Nell Ennis, Genevieve Dorsett) → deed [311] gift deed (2/9/1959, all heirs convey all inherited interest to Verona E. Black; blanket language covers all property in any county) → Verona holds 100% → deed [24] (12/30/1974). Source of JT Black's Boyd Survey holding still undocumented — upstream question now shifts entirely to JT Black's acquisition.
 
 Grantees were JP Black's siblings: Genevieve Dorsett (d. 4/5/1999, Tehuacana, Limestone County — Limestone County probate) and Georgia Nell Ennis (d. 1/15/2008, San Antonio, Bexar County — Bexar County probate). **Critical lead (Dorsett/Ennis index session, 2026-03-09)**: LC Inst# 07500489 (Vol. 593, Pg. 328, DEED, 01/27/1975) is a joint deed from both sisters (indexed under both Dorsett and Ennis surnames) to SIMMONS ROY ET UX, recorded 24 days after deed [24]. Roy Simmons was the notary on deed [24]. If this deed covers the Boyd Survey interests, the 2/3 interest transferred to the Simmons family chain in January 1975. Companion vendor's lien release (LC Inst# 07804491, Vol. 630, Pg. 105, 06/13/1978) confirms the 1975 instrument was a sale. **PRIORITY**: Pull LC Vol. 593, Pg. 328 to confirm scope. See ISSUE-01.
 
