@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — ISSUE-01 RESOLVED — deed [318] confirms ALL 3/3 Boyd Survey interests sold to Simmons (Jan 1975); ISSUE-43 item 11 pulled*
+*Last updated: 2026-03-31 — ISSUE-43 item 13 pulled (deed [320], Release of Lien, Boyd Survey vendor's lien paid in full)*
 # Black Land Project — Open Issues List
 
 
@@ -23,7 +23,7 @@
   10. ~~LC Vol. 447 Pg. 466~~ — **PULLED ✓ = deed [309]**; Affidavit of Heirship and Marital History, JT Black (affiant) re: W.J. Needham estate; Tehuacana town lot (Block 23); non-project property — no Black/Bounds chain impact
   11. ~~LC Vol. 593 Pg. 328 (Inst# 07500489)~~ — **PULLED ✓ = deed [318]**; Warranty Deed with Vendor's Lien, Georgia Nell Ennis + Genevieve Dorsett + John P. Black → Roy Simmons and wife Virginia M. Simmons; ALL three Boyd Survey tracts (~42.8 ac); $10.00 + $12,800 vendor's lien note; 10-year 1/16 NPRI reserved (expired 1985); L.L. Dorsett deed of trust trustee — **ISSUE-01 RESOLVED**: entire Boyd Survey holding left family chain January 18, 1975
   12. LC Vol. 1011 Pg. 194 (Inst# 00992049) — Dorsett Donald J et al, affidavit (05/12/1999) — ISSUE-01, probable heirship
-  13. LC Vol. 630 Pg. 105 (Inst# 07804491) — Dorsett/Ennis → Simmons Roy, release (06/13/1978) — ISSUE-01
+  13. ~~LC Vol. 630 Pg. 105 (Inst# 07804491)~~ — **PULLED ✓ = deed [320]**; Release of Lien, Georgia Nell Ennis + Genevieve Dorsett + John P. Black release $12,800 vendor's lien (deed [318]) on three Boyd Survey tracts (~42.8 ac); promissory note paid in full May 9, 1978; no conveyance; DISPOSED PROPERTY — ISSUE-01
   14. LC Vol. 890 Pg. 270 (Inst# 00931916) — Dorsett Genevieve Black → Dorsett Donald J et al, deed (05/24/1993) — ISSUE-01
   15. LC Vol. 1040 Pg. 510 (Inst# 00003589) — Dorsett Genevieve B Family Trust → Tiblier, deed (08/25/2000) — ISSUE-01
   16. ~~LC Vol. 457 Pg. 598 (Inst# 05901309)~~ — **PULLED ✓ = deed [310]**; Warranty deed, L.L. Dorsett + Genevieve B. Dorsett → Mrs. H.O. Eady; Tehuacana town lot (SE corner, south half of Block 23); $5,500 cash; non-project property — confirms L.L. Dorsett identity from instrument text; Block 23 connection to deed [309] Needham property
@@ -93,7 +93,7 @@
   - **Deed [24] INDEX CONFIRMED in L-Ennis**: Inst# 07507434, Vol. 592, Pg. 773, DEED, 01/03/1975. NOT found in L-Dorsett (county indexing omission).
   - **Georgia Nell Ennis**: One FC instrument found (Doc# 1941-71, WARRANTY DEED, ENNIS GEORGIA NELL → CAIN A T, E RUSSELL SUR, 01/20/1941 — Freestone County land, no husband joining). No post-2008 estate instruments in either county. No husband name found in any index. Ennis estate research remains necessary if Simmons deed does not cover Boyd Survey.
   - **T.K. Dorsett / Boyd Survey**: Separate Dorsett family (T.K. Dorsett, Evie Lee Dorsett) held independent Boyd Survey interests in LC (1949–1952, DORSETT T K Boyd Survey affidavit Vol. 376 Pg. 345; DORSETT EVIE LEE Boyd League deed Vol. 335 Pg. 257). Relationship to Genevieve's husband TBD.
-  - **Revised priority PDF pulls for ISSUE-01**: (1) LC Inst# 07500489, Vol. 593, Pg. 328 — Dorsett/Ennis → Simmons deed **(HIGHEST PRIORITY)**; (2) LC Inst# 00992049, Vol. 1011, Pg. 194 — Donald J. Dorsett post-death affidavit; (3) LC Inst# 07804491, Vol. 630, Pg. 105 — vendor's lien release to Simmons; (4) LC Inst# 00931916, Vol. 890, Pg. 270 — Genevieve → Donald J. Dorsett deed; (5) LC Inst# 00003589, Vol. 1040, Pg. 510 — Dorsett Family Trust → Tiblier; (6) ~~LC Inst# 05901309, Vol. 457, Pg. 598~~ — **PULLED ✓ = deed [310]**; non-project property (Tehuacana town lot, Block 23, $5,500); L.L. Dorsett name confirmed from instrument text; Block 23 connection to deed [309] Needham property
+  - **Revised priority PDF pulls for ISSUE-01**: (1) LC Inst# 07500489, Vol. 593, Pg. 328 — Dorsett/Ennis → Simmons deed **(HIGHEST PRIORITY)**; (2) LC Inst# 00992049, Vol. 1011, Pg. 194 — Donald J. Dorsett post-death affidavit; (3) ~~LC Inst# 07804491, Vol. 630, Pg. 105~~ — **PULLED ✓ = deed [320]**; Release of Lien, Boyd Survey vendor's lien paid in full; (4) LC Inst# 00931916, Vol. 890, Pg. 270 — Genevieve → Donald J. Dorsett deed; (5) LC Inst# 00003589, Vol. 1040, Pg. 510 — Dorsett Family Trust → Tiblier; (6) ~~LC Inst# 05901309, Vol. 457, Pg. 598~~ — **PULLED ✓ = deed [310]**; non-project property (Tehuacana town lot, Block 23, $5,500); L.L. Dorsett name confirmed from instrument text; Block 23 connection to deed [309] Needham property
   - **If Simmons scenario confirmed**: Run Simmons surname search in Limestone County
   - **If Simmons scenario NOT confirmed**: Run Bexar County probate search for Georgia Nell Ennis estate
 - **Session 3 update** (Integration Session 3, 2026-03-07): Deeds [104], [106], [108], [113], [114] were analyzed. Key findings bearing on ISSUE-01:
