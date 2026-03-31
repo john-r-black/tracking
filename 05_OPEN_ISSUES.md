@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — ISSUE-43 item 5 pulled (deed [331], FC 06000827, Wortham surface → Calame); ISSUE-24 action item (c) resolved*
+*Last updated: 2026-03-31 — ISSUE-43 item 10 pulled (deed [309], JT Black Needham heirship affidavit)*
 # Black Land Project — Open Issues List
 
 
@@ -7,7 +7,7 @@
 
 **ISSUE-43: Master Pull List — Index-Identified and CAD-Identified Instruments**
 - **Status**: OPEN
-- **Priority**: HIGH (items 1-3, 22, 24), MEDIUM-HIGH (item 23), MEDIUM (items 4-7, 17-20, 25-28), LOW (items 8-10, 21)
+- **Priority**: HIGH (items 1-3, 22, 24), MEDIUM-HIGH (item 23), MEDIUM (items 4-7, 17-20, 25-28), LOW (items 8-9, 21)
 - **Counties**: Limestone + Freestone
 - **Description**: Instruments identified from county deed indices and CAD deed histories. PDFs not yet pulled.
 - **Instruments to pull**:
@@ -20,7 +20,7 @@
   7. FC OR/938/719 (Doc# 1994-4071) — James → Bounds Marguerite heirship (1994) — ISSUE-16
   8. FC Texas Central Railroad instruments (3): Doc# 2016-1603931, 2020-2000667, 2020-2000672
   9. LC Vol. 516 Pg. 304 + 307 — Verona affidavit + deed to Wilson (1965)
-  10. LC Vol. 447 Pg. 466 — JT Black et al affidavit (1958)
+  10. ~~LC Vol. 447 Pg. 466~~ — **PULLED ✓ = deed [309]**; Affidavit of Heirship and Marital History, JT Black (affiant) re: W.J. Needham estate; Tehuacana town lot (Block 23); non-project property — no Black/Bounds chain impact
   11. LC Vol. 593 Pg. 328 (Inst# 07500489) — Dorsett/Ennis → Simmons Roy, deed (01/27/1975) — **ISSUE-01 HIGHEST PRIORITY** — may resolve the 2/3 Boyd Survey disposition
   12. LC Vol. 1011 Pg. 194 (Inst# 00992049) — Dorsett Donald J et al, affidavit (05/12/1999) — ISSUE-01, probable heirship
   13. LC Vol. 630 Pg. 105 (Inst# 07804491) — Dorsett/Ennis → Simmons Roy, release (06/13/1978) — ISSUE-01
