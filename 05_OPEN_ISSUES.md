@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [120] PDF pulled — ISSUE-40 item [120] PULLED; ISSUE-41 partially advanced (metes-and-bounds confirmed: 158 ac beginning 400 vrs W, 500 vrs wide, different parcel from [106])*
+*Last updated: 2026-03-31 — Deed [303] PDF pulled — ISSUE-40 item [121] PULLED (= deed [303]; INDEX ERROR: J.E. not J.V., 162 not 62); ISSUE-41 revised (J.E. Bounds received 320 ac total; J.V. Bounds Boyd source unlocated); ISSUE-48 created (J.V. Bounds Boyd Survey source deed unlocated)*
 # Black Land Project — Open Issues List
 
 
@@ -588,7 +588,7 @@
 - **Instruments to pull**:
   - ~~[119]: LC Vol. D Pg. 24 — JH Bounds → H&TC Railway ROW (1875)~~ — **PULLED ✓ = deed [119]**; Right-of-way conveyance, 1871-05-03 (NOT 1875 — index date erroneous); JH Bounds → Houston & Texas Central Railway Co.; 200-ft strip over Hall tract on McAnulty League + blanket ROW; $375 coin; fee simple, no mineral reservation; **DISPOSED — NO REVERSION**; upstream Hall→JH Bounds source deed (Dec 15, 1865) discovered = second McAnulty upstream source; originally Book II pp. 798–799 (1871); re-filed Book D p. 24 (1895)
   - ~~[120]: LC Vol. F Pg. 584 — JH Bounds → J.E. Bounds, 158 ac Boyd (1877)~~ — **PULLED ✓ = deed [120]**; Warranty/gift deed, executed 1874-10-07 (NOT 1877 — 1877-02-26 is filing date); JH Bounds → J.E. Bounds; 158 ac John Boyd League, beginning 400 vrs W of SE corner; $1 consideration; full fee simple, surface+minerals, no reservation; **DISPOSED OUT OF DIRECT CHAIN**; metes-and-bounds confirmed — begins 400 vrs W (vs [106] at 500 vrs W), different parcel; J.V. Bounds west line referenced as eastern boundary; date anomaly (acknowledgment Oct 2, 1877 postdates filing Feb 26, 1877)
-  - [121]: LC Vol. F Pg. 585 — JH Bounds → J.V. Bounds, 62 ac Boyd (1877)
+  - ~~[121]: LC Vol. F Pg. 585 — JH Bounds → J.V. Bounds, 62 ac Boyd (1877)~~ — **PULLED ✓ = deed [303]**; ⚠️ **INDEX ERROR**: actual instrument is J.H. Bounds → J.E. Bounds (NOT J.V. Bounds), 162 ac (NOT 62 ac), John Boyd League SE corner, executed 1874-10-07; $1 consideration; full fee simple, surface+minerals, no reservation; **DISPOSED OUT OF DIRECT CHAIN**; J.V. Bounds' Boyd source deed now UNLOCATED — see ISSUE-48
   - [122]: LC Vol. 13 Pg. 301 — T.W. Bounds → Brown James, 158 ac Boyd (1891) — also resolves ISSUE-32 name question
   - ~~[123]: LC Vol. 48 Pg. 373 — JH Bounds → Dunbar H Clay, McAnulty~~ — **PULLED ✓ = deed [123]**; Warranty deed, 1869-08-03 (NOT 1906 — index date was re-filing); JH Bounds + wife Margaret E. Bounds → H. Clay Dunbar; 200 ac south end McAnulty League; $300; originally recorded Book H pp. 177–178 (03/23/1870); **DISPOSED — NO REVERSION**; ISSUE-34 significantly revised (200 ac ≠ speculated 137.75 ac; sale predates 1906 partition by 37 years); upstream Hare→Bounds McAnulty source deed discovered
   - [124]: LC Vol. 52 Pg. 177 — JH Bounds → T.W. Bounds, 9 ac (1906)
@@ -597,13 +597,13 @@
 
 ---
 
-**ISSUE-41: J.E. and J.V. Bounds Boyd Survey Disposal Chain**
+**ISSUE-41: J.E. Bounds Boyd Survey Disposal Chain (320 ac)**
 - **Status**: OPEN
 - **Priority**: LOW
 - **County**: Limestone
-- **Description**: Deeds [120] and [121] document JH Bounds gifting 158 + 62 = 220 acres of John Boyd League to sons J.E. Bounds and J.V. Bounds in 1877. The downstream disposition of these parcels is not yet documented. Both J.E. and J.V. Bounds appear in the 1906 deed [111] grantor list — meaning they still held some interest in family land in 1906 (or were releasing any claim). Whether they retained and later sold their 1877 Boyd Survey gifts separately is unknown.
-- **Research needed**: Search Limestone County index under "Bounds J E" and "Bounds J V" as grantors to find disposal instruments. After disposal instruments are located and pulled, mark chains DISPOSED — NO REVERSION.
-- **Dependency**: ISSUE-40 partially resolved ([120] PULLED — metes-and-bounds confirmed: 158 ac beginning 400 vrs W of SE corner Boyd League, 500 vrs wide along south line, N to Tehuacana Creek ~1900 vrs; [121] PDF still needed for J.V. Bounds 62-ac tract description). Deed [120] metes-and-bounds now available for targeted J.E. Bounds grantor search in LC index.
+- **Description**: Deeds [120] and [303] document JH Bounds gifting 158 + 162 = **320 acres** of John Boyd League to J.E. Bounds on 1874-10-07. ⚠️ **Revised 2026-03-31**: Prior description stated 220 ac split between J.E. and J.V. Bounds — this was based on incorrect index data for deed [121] (now retired; actual instrument = deed [303], J.E. Bounds, 162 ac). J.V. Bounds' Boyd source is a separate question (see ISSUE-48). J.E. Bounds appears in the 1906 deed [111] grantor list — meaning he still held some interest in family land 32 years after receiving these gifts. Whether he retained and later sold the 320-ac Boyd gifts is unknown.
+- **Research needed**: Search Limestone County index under "Bounds J E" as grantor to find disposal instruments. Two parcels: [120] (158 ac, 400 vrs W of SE corner) and [303] (162 ac, SE corner along east league line). After disposal instruments located and pulled, mark chains DISPOSED — NO REVERSION.
+- **Dependency**: ISSUE-40 items [120] and [121]/[303] both PULLED. Both metes-and-bounds now available for targeted J.E. Bounds grantor search in LC index. J.V. Bounds portion split to ISSUE-48.
 - **Note**: This chain does NOT affect the current family holdings — it is historical completeness only.
 
 ---
@@ -665,6 +665,18 @@
 - **Resolution**: M. Stephen Beard confirmed active as sole trustee of Trust No. 2 as of 2026-03-10 by landowner (human-verified 2026-03-09). No trustee change anticipated. Beard's mailing address per CAD: 5408 Point Wood Circle, Waco TX 76710.
 - **Status**: RESOLVED
 - **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)
+
+
+---
+
+**ISSUE-48: J.V. Bounds Boyd Survey Source Deed — UNLOCATED**
+- **Status**: OPEN
+- **Priority**: LOW
+- **County**: Limestone
+- **Description**: Deed [120] metes-and-bounds reference "J. V. Bounds west line" as the eastern boundary of the [120] parcel confirms J.V. Bounds held John Boyd League land adjacent to and east of the [120] 158-ac tract at the time of execution (1874-10-07). The source deed for J.V. Bounds' Boyd holding was previously assumed to be deed [121] (LC Vol. F Pg. 585, index: "J.H. Bounds → J.V. Bounds, 62 ac Boyd"). **INDEX ERROR DISCOVERED 2026-03-31**: The actual instrument at F/585 is deed [303] (J.H. Bounds → J.E. Bounds, 162 ac). The index misread "J.E." as "J.V." and "162" as "62." J.V. Bounds' Boyd Survey acquisition has no identified source deed.
+- **Research needed**: Search Limestone County index under "Bounds J V" as grantee to find acquisition instrument(s). The parcel is likely between the SE corner of Boyd League (deed [303] territory) and 400 vrs west of SE corner (deed [120] POB), OR on a separate part of the Boyd League. May not be a recorded instrument if it was an informal family partition.
+- **Dependency**: Does NOT affect current family holdings — historical completeness only.
+- **Added**: 2026-03-31 (deed [303] analysis — index error discovery)
 
 
 ---

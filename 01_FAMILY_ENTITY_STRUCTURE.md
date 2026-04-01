@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [120] PDF pulled — J.E. Bounds confirmed as grantee of 158 ac Boyd League gift (1874-10-07); J.V. Bounds boundary reference confirmed from [120] metes-and-bounds*
+*Last updated: 2026-03-31 — Deed [303] PDF pulled — J.E. Bounds received SECOND Boyd League gift (162 ac, 1874-10-07); deed [121] retired (index error: grantee was J.E. not J.V., acreage was 162 not 62); J.V. Bounds Boyd source deed now UNLOCATED*
 # Black Land Project — Family & Entity Structure
 
 
@@ -137,8 +137,8 @@ John Thomas Black (10/21/1887–1/30/1959)
 | Initial/Name | Notes | Source |
 |---|---|---|
 | J. A. Bounds | Appears in deed [22]/[112] grantor list and deed [111] grantor list (1906) | Deed [22]/[112], [111] |
-| J. E. Bounds | Grantee of 158 ac John Boyd League gift deed [120] (executed 1874-10-07, $1 consideration; PDF confirmed). Also appears in deed [22]/[112] grantor list (acknowledged in Indian Territory, Nov 8, 1906) and deed [111]. Probable match to "Jessie E. Bounds" from family research | Deed [120], [22]/[112], [111] |
-| J. V. Bounds | Grantee of 62 ac John Boyd League gift deed [121] (IDX; executed ~1874, same filing date as [120]). Held land immediately east of the deed [120] parcel — confirmed by [120] metes-and-bounds reference to "J. V. Bounds west line." Also appears in deed [22]/[112] grantor list | Deed [121] (IDX), [120] (boundary ref), [22]/[112] |
+| J. E. Bounds | Grantee of **TWO** John Boyd League gift deeds on same date (1874-10-07, $1 consideration each; both PDF confirmed): [120] (158 ac, beginning 400 vrs W of SE corner) and [303] (162 ac, SE corner along east league line) = **320 ac total**. Also appears in deed [22]/[112] grantor list (acknowledged in Indian Territory, Nov 8, 1906) and deed [111]. Probable match to "Jessie E. Bounds" from family research | Deed [120], [303], [22]/[112], [111] |
+| J. V. Bounds | Held John Boyd League land — confirmed by [120] metes-and-bounds reference to "J. V. Bounds west line" as eastern boundary of [120] parcel. ⚠️ **Source deed UNLOCATED**: deed [121] (index: "62 ac Boyd, J.V. Bounds") was an INDEX ERROR — actual instrument at F/585 is deed [303] (J.H. Bounds → J.E. Bounds, 162 ac; see ISSUE-48). J.V. Bounds' Boyd acquisition source is unknown. Also appears in deed [22]/[112] grantor list | Deed [120] (boundary ref), [22]/[112]; ISSUE-48 |
 | J. B. Bounds | Appears in deed [22]/[112] grantor list (acknowledged Bosque County, Oct 20, 1906, by C. C. Rushing) | Deed [22]/[112] |
 | J. W. Bounds | **Confirmed as JH Bounds' son** by deed [108] text ("natural love and affection we have for our Son (the said J. W. Bounds)"); gifted ~156-acre Boyd Survey parcel in 1889; still alive in 1906 (appears in deed [111] and deed [22]/[112] grantor lists). ⚠️ **Identity not positively matched**: most likely candidate is **James Vastine Bounds (b. 1849)** — a handwritten cursive "V" is easily misread as "W" in 19th-century documents; however this is not confirmed. Could also be an unidentified child not previously in the family tree. | Deeds [108], [111], [22]/[112] |
 | J. S. / J. D. Bounds | "J. S. Bounds" appears in deed [22]/[112] signature block; "J. d. Bounds" appears in deed [111] — may be the same person | Deed [22]/[112], [111] |

@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [120] PDF pulled — JH Bounds → J.E. Bounds, 158 ac John Boyd League; execution date 1874-10-07 (NOT 1877 filing date); metes-and-bounds confirmed (400 vrs W of SE corner, different parcel from [106]); J.V. Bounds west line boundary reference; DISPOSED OUT OF DIRECT CHAIN*
+*Last updated: 2026-03-31 — Deed [303] PDF pulled — J.H. Bounds → J.E. Bounds, 162 ac John Boyd League SE corner (executed 1874-10-07); INDEX ERROR CORRECTED: instrument at F/585 was indexed as [121] (J.V. Bounds, 62 ac) — actual deed is [303] (J.E. Bounds, 162 ac); deed [121] retired*
 # Black Land Project — Deed Chain Summary
 
  (County Deed Index Analysis — Texas Utilities (FC+LC), H&TC Railway (LC), Big Brown (FC), Luminant (FC) surname indices; deed [13] FC index confirmed (Doc# 1997-635, SPECIAL W/D, BLACK OLENA → TEXAS UTILITIES ELECTRIC CO, OR/1004/286, 1/29/1997); deed [119] L-HTC index confirmed (BOUNDS JAMES H → HOUSTON & TEXAS CENTRAL RAILWAY CO, D/24, 03/22/1875); Luminant corporate succession completed via 2017 merger certificates. Prior: County Deed Index Analysis — Black surname; [33]/[34] LC citations confirmed; [18]/[19] FC citations confirmed; [26] LC citation confirmed; deed [25] LC citation confirmed; deed [07] FC citation confirmed; 2005 coordinated closing fully sequenced FC+LC; upstream Boyd Survey instruments located (1943, 1958, 1959); Wortham surface chain resolved. Prior: DISPOSED markers added to [104], [108]; Phase 1 Supplement section added with body entries for [119]–[124]. This document is the authoritative deed chain summary. Do not accept corrections in conversation — update this file instead.*# Black Land Project — Deed Chain Summary
@@ -390,13 +390,21 @@ The following instruments were identified in the Limestone County CountyFusion c
 - **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** (gift to son). Downstream disposition of J.E. Bounds' 158 acres not yet documented — see ISSUE-41. J.E. Bounds appears in 1906 deed [111] grantor list (still living 32 years after this gift).
 - **Action completed**: PDF pulled; ISSUE-40 item [120] marked PULLED. ISSUE-41 partially advanced (metes-and-bounds confirmed; [121] PDF still needed).
 
-#### Deed [121] — J. H. Bounds → J. V. Bounds (1877-02-26, Limestone)
-- **Transaction type**: Gift deed — John Boyd League, 62 acres
-- **Citation**: LC Vol. F, Pg. 585, Inst# DR-0000F-00585
-- **Property**: 62 acres, John Boyd League
-- **Significance**: Same date as [120] — coordinated distribution of Boyd Survey land to two sons. J.V. Bounds also appears in 1906 deed [111] grantor list.
-- **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** (gift to son). Downstream disposition of J.V. Bounds' 62 acres not yet documented. Pull PDF and research J.V. Bounds chain to close out.
-- **Action needed**: Pull LC Vol. F Pg. 585.
+#### Deed [303] — J. H. Bounds → J. E. Bounds (1874-10-07, Limestone) — **PDF CONFIRMED** ⚠️ **INDEX ERROR — FORMERLY DEED [121]**
+- **Transaction type**: Warranty/gift deed — surface + minerals, John Boyd League, 162 acres
+- **Citation**: LC Book F, Pg. 585–586, Inst# DR-0000F-00585 [PDF CONFIRMED: deed [303], 2026-03-31]
+- **Property**: 162 acres, SE corner of the John Boyd League, Limestone County. Beginning at the SE corner of John Boyd League; N with the east line of said league to the middle of the Main Channel of Tehuacana Creek; up said creek to a cluster of three live oak trees for corner and a base of 500 varas; S 197 varas to a stake in the south line of said league; E with the south line five (5) varas [⚠️ probable transcription error — see note below] to the beginning.
+- **Interest**: Surface + minerals — fee simple, no reservations; complete transfer
+- **Consideration**: $1.00 cash (gift deed)
+- **Parties**: Grantor: J.H. Bounds (Limestone County). Grantee: J.E. Bounds (Limestone County). No wife joinder by M. E. Bounds.
+- **Acknowledgment**: February 20, 1877, before J.D. Walker [⚠️ probable "S.D. Walker" — see note below], Clerk of the County Court, Limestone County, at Groesbeck.
+- **Recording**: Filed February [?:7]th, 1877 at 9:30 AM; recorded March 1, 1877 at 4:00 PM; [?:J].D. Walker, C.C.L.C. Texas. Same recording date as deed [120] (recorded at 3:00 PM — one hour earlier); adjacent pages in Book F ([120] at F/584–585; [303] at F/585–586).
+- **⚠️ INDEX ERROR — CRITICAL**: This instrument was previously tracked as **deed [121]** based on county index data ("J.H. Bounds → J.V. Bounds, 62 ac Boyd, 02/26/1877"). The actual deed content reveals: (a) grantee is **J.E. Bounds** (not J.V. Bounds); (b) acreage is **162 acres** (not 62); (c) execution date is **1874-10-07** (same as [120]). The index misread cursive "J.E." as "J.V." and "162" as "62." **Deed [121] is retired.** All prior analysis assuming J.V. Bounds received 62 ac via [121] is invalidated. J.V. Bounds' Boyd Survey source deed is now UNLOCATED (see ISSUE-48).
+- **⚠️ SOUTH BOUNDARY DISCREPANCY**: Transcription reads "five (5) varas" for the south boundary (east call, returning to POB). Five varas (~14 feet) is geometrically incompatible with 162 acres. Compare: deed [120] south boundary = 500 varas; deed [106] south boundary = 500 varas. Most likely explanation: original deed reads "five hundred" and the parenthetical should be "(500)" — verify against source images DR-0000F-00585-02.png. The acreage call of 162 acres controls over the dimensional call if they conflict.
+- **⚠️ CLERK NAME**: Transcription reads "J.D. Walker" but S.D. Walker served as Limestone County Clerk throughout this era (see deeds [101], [109], [120]). The [?:J] uncertainty marker suggests the initial may be "S" in cursive. Consistent with S.D. Walker.
+- **Relationship to deed [120]**: Second Boyd League gift to J.E. Bounds on the same date. Deed [120] begins 400 vrs W of SE corner; deed [303] begins AT the SE corner. Different metes-and-bounds, different parcels. Combined: J.E. Bounds received 158 + 162 = 320 ac from J.H. Bounds on October 7, 1874.
+- **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** (gift to son). J.E. Bounds downstream chain not documented — see ISSUE-41.
+- **Action completed**: PDF pulled; ISSUE-40 item [121] marked PULLED (corrected to [303]). ISSUE-48 created (J.V. Bounds Boyd source unlocated).
 
 #### Deed [122] — T. W. Bounds → Brown James et al. (1891-11-13, Limestone)
 - **Transaction type**: Fee simple conveyance — John Boyd Survey, 158 acres
