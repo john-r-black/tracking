@@ -1,0 +1,99 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_batch_01",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1869-08-03__300__l_warrantydeed_surface_minerals_jhboundsetal_hcdunbar.md"
+  ],
+  "batch_summary": "Deed [123] PDF pulled and analyzed (LC Vol. 48, Pg. 373, Inst# DR-00048-00373). CRITICAL FINDING: This is NOT a 1906 instrument — it is a warranty deed dated August 3, 1869, conveying 200 acres of the Sarah McAnulty League from James H. Bounds and wife Margaret E. Bounds to H. Clay Dunbar for $300. The 1906 index date was a RE-FILING (originally recorded Book H pp. 177–178, March 23, 1870). MAJOR DISCOVERY: The deed identifies Thomas Hare as the upstream source of JH Bounds' McAnulty holdings ('conveyed by Thomas Hare and wife to the said James H. Bounds'), a previously unknown acquisition almost certainly the '278 acre survey' source deed sought in ISSUE-34. The 200-acre Dunbar sale disproves the prior 137.75-acre speculation — the sale predates the 1906 partition by 37 years. Total documented McAnulty dispositions now 425.25+ ac. ISSUE-34 priority upgraded; ISSUE-40 item [123] marked PULLED. NOTE: Filename uses deed number [300] but this instrument is already tracked as [123] — manifest uses [123] per existing assignment.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [123] (Dunbar, 1869) — 200 ac McAnulty disposition added; Hare→Bounds upstream acquisition identified; gap analysis revised (total McAnulty dispositions 425.25+ ac)",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update gap analysis item 1: replace speculative 'Original JH Bounds purchase or patent' with confirmed Hare→Bounds identification from deed [123]",
+          "find": "1. **Original JH Bounds purchase or patent** — JH Bounds may have acquired the bulk of the McAnulty acreage directly from the state or from an earlier owner in a deed predating 1878 (the earliest deed in the [101]–[118] set). Deed [103] references \"J. H. Bounds 278 acre survey\" as a neighbor call — if JH Bounds held a 278-acre tract on or near the McAnulty League, that single acquisition could explain most of the gap. This \"278 acre survey\" has no source deed in the file set.",
+          "replace_with": "1. **Thomas Hare → JH Bounds (pre-1869) — NOW IDENTIFIED as upstream source**: Deed [123] (1869-08-03, JH Bounds → H. Clay Dunbar, 200 ac) describes its parcel as \"a part of\" the McAnulty League \"conveyed by Thomas Hare and wife to the said James H. Bounds.\" The Hare→Bounds conveyance is almost certainly the \"278 acre survey\" source deed referenced as a neighbor call in deed [103] (1881). Total Hare→Bounds acreage unknown but exceeds 200 ac (the Dunbar carve-out was the south 200 ac of the larger Hare→Bounds survey). Recording citation not stated in deed [123] — **action: search LC grantee index under JH Bounds pre-1869 to locate the Hare→Bounds deed**. This single acquisition likely accounts for the bulk of JH Bounds' McAnulty holdings."
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [123] analysis note after the '361 acres tract' paragraph in the McAnulty disposition section",
+          "anchor": "The [111] \"361 acres tract\" is the most significant new data point in the gap analysis. See ISSUE-34.",
+          "content": "\n**Deed [123] findings (2026-03-31)**: The Dunbar deed is now pulled. It conveys **200 acres** (NOT the speculated 137.75 ac) and is dated **August 3, 1869** — 37 years before the 1906 partition. The 08/16/1906 index date was a RE-FILING of an instrument originally recorded Book H pp. 177–178 (03/23/1870). The deed describes the 200 ac as \"a part of\" the McAnulty League \"conveyed by Thomas Hare and wife to the said James H. Bounds\" — identifying the previously unknown upstream Hare→Bounds source deed (see item 1 in gap analysis below). Because the 200 ac was sold in 1869, it was NOT part of JH Bounds' McAnulty holdings during the 1881 \"278 acre survey\" reference or the 1906 partition. The 137.75-acre gap within the 1906 partition (361 − 223.25) remains unexplained by instruments in the current file set — the Dunbar 200 ac does not bear on it. Total documented McAnulty dispositions: 200 (Dunbar, 1869) + 2 (church, 1887) + 223.25 (1906 partition) = **425.25 ac**, establishing JH Bounds' McAnulty holding as substantially larger than previously understood. See revised ISSUE-34."
+        },
+        {
+          "action": "insert_before",
+          "description": "Add deed [123] Dunbar 200-ac disposition to the 'Documented Dispositions OUT of McAnulty' table, before the [101] Holloway entry (chronologically earliest disposition, 1869)",
+          "anchor": "| [101] | 1878-03-13 | Mary M. Kindley/Lindley | 99 | $1.00 (gift) | Samuel Holloway Survey (NOT McAnulty); JH Bounds gifted to family associate; **sold out of McAnulty-adjacent Holloway Survey** |",
+          "content": "| [123] | 1869-08-03 | H. Clay Dunbar | 200 | $300 cash | Sarah McAnulty League; 200 ac off south end of Hare→Bounds survey; beginning 26½ vrs from SE corner of McAnulty League; **DISPOSED — NO REVERSION**; originally recorded Book H pp. 177–178 (03/23/1870); re-filed 08/16/1906 (LC Vol. 48 Pg. 373); earliest documented McAnulty disposition; predates 1906 partition by 37 years |"
+        },
+        {
+          "action": "insert_before",
+          "description": "Add Hare→Bounds upstream acquisition to the 'Documented Acquisitions INTO McAnulty' table, before the Manning entry (earliest known acquisition, pre-1869)",
+          "anchor": "| Manning→JH Bounds | 1869-07-20 | Reuben Manning | 3.00 | Unknown | Book G p.661 LC; became deed [22] Second Tract; taken at 2 ac in [22] due to RR ROW diminution; not yet pulled (ISSUE-15) |",
+          "content": "| Hare→JH Bounds | pre-1869 | Thomas Hare and wife | >200 (total unknown) | Unknown | Sarah McAnulty League; identified from deed [123] (1869) which describes the Dunbar 200 ac as \"a part of\" the Hare→Bounds conveyance; total Hare→Bounds acreage unknown but exceeds 200 ac; recording citation not stated in deed [123]; likely the \"278 acre survey\" source deed (ISSUE-34); **action: search LC grantee index under JH Bounds pre-1869 to locate** |"
+        }
+      ]
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [123] PDF pulled — J. H. Bounds and wife Margaret E. Bounds → H. Clay Dunbar, warranty deed (surface+minerals), 200 ac south end McAnulty League, $300; dated 1869-08-03 (NOT 1906 — index date was re-filing); upstream Hare→Bounds source deed discovered; DISPOSED — NO REVERSION",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Replace deed [123] Phase 1 Supplement stub entry with full PDF-confirmed entry",
+          "find": "#### Deed [123] — J. H. Bounds et al. → Dunbar H. Clay et al. (1906-08-16, Limestone)\n- **Transaction type**: Deed — Sarah McAnulty League (acreage unknown from index)\n- **Citation**: LC Vol. 48, Pg. 373, Inst# DR-00048-00373\n- **Property**: Sarah McAnulty League, Limestone County (exact tract and acreage unknown)\n- **Significance**: Pre-partition McAnulty disposition — recorded two months before the coordinated October 1906 family partition (deeds [111] and [22]). May explain part of the ISSUE-34 gap between the \"361 acres tract\" reference and the 223.25-acre partition total. If Dunbar deed acreage ≈ 137.75 ac: 223.25 + 137.75 = 361 ac — would close the gap exactly.\n- **Disposition status**: **DISPOSED OUT OF DIRECT CHAIN** pending confirmation. Pull PDF for acreage and tract description.\n- **Action needed**: Pull LC Vol. 48 Pg. 373. Update ISSUE-34 arithmetic with confirmed acreage.",
+          "replace_with": "#### Deed [123] — J. H. Bounds and wife Margaret E. Bounds → H. Clay Dunbar (1869-08-03, Limestone) — **PDF CONFIRMED**\n- **Transaction type**: Warranty deed — surface + minerals, Sarah McAnulty League, 200 acres\n- **Citation**: LC Vol. 48, Pg. 373, Inst# DR-00048-00373 (RE-FILING — see recording history below); original recording: Book H, Pp. 177–178, Limestone County, recorded 03/23/1870\n- **Property**: 200 acres off the south end of the Hare→Bounds survey, Sarah McAnulty League, Limestone County. Beginning 26½ vrs from the SE corner of said McAnulty League, surveying on the south boundary line to a stake, thence north so as to include 200 acres, thence east to the line of said Hare→Bounds survey, thence south to place of beginning.\n- **Consideration**: $300 cash\n- **Upstream source**: \"conveyed by Thomas Hare and wife to the said James H. Bounds\" — the Hare→Bounds deed is a previously unidentified upstream McAnulty acquisition and is almost certainly the \"278 acre survey\" source deed sought in ISSUE-34. Recording citation for Hare→Bounds NOT stated in this instrument.\n- **Parties**: Grantor: James H. Bounds and Margaret E. Bound[s] (wife). ⚠️ Name variation: deed body and signatures spell \"Bound\" (without s); acknowledgment uses \"Bounds.\" Grantee: H. Clay Dunbar (Limestone County). ⚠️ Index entry \"BOUNDS JAMES H +\" and \"DUNBAR H CLAY +\" — the \"+\" indicators are misleading; there are no additional grantors beyond wife and no additional grantees.\n- **Witnesses**: B. D. Loper, John L. Wolfe. ⚠️ \"John L. Wolfe\" — Margaret Emily Woolf/Wolfe was JH Bounds' wife; this witness may be a relative.\n- **Acknowledgment**: November 13, 1869, before J. B. Vallandingham, County Clerk, Limestone County, at Springfield (former county seat). Margaret E. Bounds examined separate and apart from husband; acknowledged voluntary signing without compulsion. Revenue stamp 50 cents.\n- **Recording history**: (1) Originally recorded Book H, Pp. 177–178, Limestone County, March 23, 1870, 11:00 AM, by J. B. Vallandingham, County Clerk. (2) **Re-filed** August 16, 1906, 8:00 AM; re-recorded August 27, 1906, 5:30 PM, by Alf Willis, County Clerk (Deputy: Ollie V. Jackson). The 1906 re-filing explains the index date of 08/16/1906 — the instrument is actually 37 years older.\n- **Significance**: (a) **Earliest documented JH Bounds McAnulty instrument** — predates all other McAnulty deeds in the file set by 9 years (next earliest is [101], 1878, which is Holloway Survey). (b) Identifies **Thomas Hare and wife** as the upstream source of JH Bounds' McAnulty League holdings — a major ISSUE-34 breakthrough. (c) At 200 ac, the Dunbar sale does NOT close the 137.75-ac \"361 acres tract\" gap (the prior speculation was that it might ≈ 137.75 ac) — the sale predated the 1906 partition by 37 years and was not part of the 1906 partition arithmetic. (d) Total documented McAnulty dispositions now = 425.25+ ac (200 Dunbar + 2 church + 223.25 partition), establishing JH Bounds' McAnulty holding as substantially larger than previously understood.\n- **Disposition status**: **DISPOSED — NO REVERSION.** Full warranty deed; no reversionary clause; land permanently left family chain in 1869.\n- **1906 re-filing context**: The re-filing occurred two months before the coordinated October 1906 family partition (deeds [111] and [22]). Probable purpose: clear the title record by putting the 1869 Dunbar sale on the modern index so that the 1906 partition buyers (Dean, MS Bounds) could verify that the 200-ac south end was already sold and excluded from the partition tracts.\n- **Action completed**: PDF pulled; ISSUE-40 item [123] marked PULLED. ISSUE-34 significantly revised."
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [123] pulled — ISSUE-40 item [123] PULLED; ISSUE-34 significantly revised (Dunbar = 200 ac from 1869, not 137.75 ac from 1906; upstream Hare→Bounds source deed identified; priority upgraded to HIGH)",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-40 item [123] as PULLED with summary of findings",
+          "find": "  - [123]: LC Vol. 48 Pg. 373 — JH Bounds → Dunbar H Clay, McAnulty (1906) — also advances ISSUE-34",
+          "replace_with": "  - ~~[123]: LC Vol. 48 Pg. 373 — JH Bounds → Dunbar H Clay, McAnulty~~ — **PULLED ✓ = deed [123]**; Warranty deed, 1869-08-03 (NOT 1906 — index date was re-filing); JH Bounds + wife Margaret E. Bounds → H. Clay Dunbar; 200 ac south end McAnulty League; $300; originally recorded Book H pp. 177–178 (03/23/1870); **DISPOSED — NO REVERSION**; ISSUE-34 significantly revised (200 ac ≠ speculated 137.75 ac; sale predates 1906 partition by 37 years); upstream Hare→Bounds McAnulty source deed discovered"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-34 status line to reflect deed [123] findings and priority upgrade",
+          "find": "- **Status**: OPEN — MEDIUM PRIORITY; courthouse search item; Session 5 data adds \"361 acres tract\" reference as new key finding; Dunbar deed (Vol. 48 Pg. 373) now identified as possible key to closing the 361-acre gap; see 02_PROPERTY_INVENTORY.md for updated partition arithmetic",
+          "replace_with": "- **Status**: OPEN — **PRIORITY UPGRADED TO HIGH**; Hare→Bounds upstream source deed identified as key pull target (search LC grantee index under JH Bounds pre-1869); 137.75-ac gap within 1906 partition still unexplained (Dunbar 200 ac predates partition by 37 years and does not bear on the gap); total documented McAnulty dispositions now 425.25+ ac; see 02_PROPERTY_INVENTORY.md for updated disposition accounting"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [123] analysis paragraph to ISSUE-34, after the Pierce surname update and before the Status line",
+          "anchor": "Does not alter the 361-acre gap arithmetic.",
+          "content": "- **Deed [123] analysis (2026-03-31)**: PDF now pulled. Deed [123] (LC Vol. 48, Pg. 373) is a **warranty deed dated August 3, 1869** — the index date of 08/16/1906 was a RE-FILING, not the original recording (originally Book H pp. 177–178, 03/23/1870). Instrument conveys **200 acres** off the south end of the McAnulty League from JH Bounds and wife Margaret E. Bounds to H. Clay Dunbar for $300. ⚠️ The prior speculation (137.75 ac closing the 361-acre gap) is **INCORRECT**: (a) the acreage is 200, not 137.75; (b) the sale occurred in 1869, 37 years before the 1906 partition — the Dunbar parcel was already gone and is NOT part of the \"361 acres tract\" reference or the 1906 partition total. **CRITICAL DISCOVERY — upstream source deed identified**: The deed describes its 200 acres as \"a part of\" the McAnulty League \"conveyed by Thomas Hare and wife to the said James H. Bounds.\" This **Hare→Bounds conveyance** is a previously unknown upstream acquisition — almost certainly the \"278 acre survey\" source deed. Total Hare→Bounds acreage unknown but exceeds 200 ac (deed [123] carved the south 200 ac from the larger survey). Recording citation not stated in deed [123]. **Revised total documented McAnulty dispositions**: 200 (Dunbar, 1869) + 2 (church, 1887) + 223.25 (1906 partition) = **425.25 ac** over the full JH Bounds McAnulty tenure. **Action**: Search LC grantee index under JH Bounds pre-1869 for Hare→Bounds deed — this is now the **single most important missing upstream instrument** in the McAnulty chain. The 137.75-acre gap within the 1906 partition remains a separate question unresolved by the Dunbar deed."
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [123] Deed Register updated — PDF confirmed; IDX→✓; warranty deed 1869-08-03 (not 1906); 200 ac McAnulty; Hare→Bounds upstream source identified",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update deed [123] Deed Register row: change PDF status from IDX to ✓, correct date from 1906 to 1869, add full recording details and analysis notes",
+          "find": "| [123] | J. H. Bounds et al. → Dunbar H. Clay et al. | Limestone | IDX | LC Vol. 48, Pg. 373, Inst# DR-00048-00373 [INDEX IDENTIFIED: LC, 2026-03-08] | — | — | 08/16/1906 | — | Deed; McAnulty League (acreage not stated in index). Pre-partition McAnulty disposition — recorded August 16, 1906, approximately two months before the coordinated October 1906 family partition (deeds [111] and [22]). May explain part of the gap between the \"361 acres tract\" reference in deed [111] and the 223.25-acre 1906 partition total. **DISPOSED OUT OF DIRECT CHAIN** pending PDF pull. Pull to confirm acreage and tract description; update ISSUE-34 arithmetic. |",
+          "replace_with": "| [123] | J. H. Bounds and wife Margaret E. Bounds → H. Clay Dunbar | Limestone | ✓ | LC Vol. 48, Pg. 373, Inst# DR-00048-00373 [INDEX IDENTIFIED: LC, 2026-03-08; PDF CONFIRMED 2026-03-31]. Original recording: Book H, Pp. 177–178, Limestone County (03/23/1870, 11 AM, J. B. Vallandingham, Co. Clerk). Re-filed 08/16/1906 8 AM; re-recorded 08/27/1906 5:30 PM; Alf Willis, Co. Clerk (Dep: Ollie V. Jackson). | 177–178 (Book H, 2 pages) | 1869-08-03 | 1870-03-23 (original); 1906-08-27 (re-recording) | J. B. Vallandingham, Co. Clerk, Limestone County (original, 1870); Alf Willis, Co. Clerk (re-filing, 1906; Dep: Ollie V. Jackson) | Warranty deed; surface+minerals; 200 ac off south end of Sarah McAnulty League; $300 cash; beginning 26½ vrs from SE corner of McAnulty League; upstream source: Thomas Hare and wife → JH Bounds (recording citation not stated); witnesses B. D. Loper, John L. Wolfe; acknowledged 11/13/1869 at Springfield LC before J. B. Vallandingham; Margaret E. Bounds privy examination (voluntary, no compulsion); revenue stamp 50¢; scroll for seal. ⚠️ Index date 08/16/1906 is RE-FILING, not original transaction (instrument dated 1869). ⚠️ Index \"et al.\" for both grantors and grantees is misleading — only JH Bounds + wife (grantors) and H. Clay Dunbar alone (grantee). ⚠️ Name variation: deed body/signatures spell \"Bound\" (no s); acknowledgment uses \"Bounds.\" **DISPOSED — NO REVERSION.** ISSUE-34 revised: 200 ac ≠ speculated 137.75 ac; sale predates 1906 partition by 37 years; Hare→Bounds upstream acquisition identified as key pull target. Phase 1 |"
+        }
+      ]
+    }
+  }
+}

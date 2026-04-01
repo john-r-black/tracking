@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [322] — FC Vol. 534 Pg. 321 identified as OGL (not conveyance); parcel notes corrected for F3153, F3152, F15750; ISSUE-46 upstream source still unidentified*
+*Last updated: 2026-03-31 — Deed [123] (Dunbar, 1869) — 200 ac McAnulty disposition added; Hare→Bounds upstream acquisition identified; gap analysis revised (total McAnulty dispositions 425.25+ ac)*
 # Black Land Project — Property Inventory
 
 
@@ -207,6 +207,7 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 
 | Deed | Date | Grantor | Acres | Consideration | Notes |
 |---|---|---|---|---|---|
+| Hare→JH Bounds | pre-1869 | Thomas Hare and wife | >200 (total unknown) | Unknown | Sarah McAnulty League; identified from deed [123] (1869) which describes the Dunbar 200 ac as "a part of" the Hare→Bounds conveyance; total Hare→Bounds acreage unknown but exceeds 200 ac; recording citation not stated in deed [123]; likely the "278 acre survey" source deed (ISSUE-34); **action: search LC grantee index under JH Bounds pre-1869 to locate** |
 | Manning→JH Bounds | 1869-07-20 | Reuben Manning | 3.00 | Unknown | Book G p.661 LC; became deed [22] Second Tract; taken at 2 ac in [22] due to RR ROW diminution; not yet pulled (ISSUE-15) |
 | [102] | 1881-11-21 | J. W. Mallard | 9.00 | $30 cash | Sarah McAnulty League; beginning at SE corner of tract deeded to R. D. King by L. B. Boyd; page 554 LC deed records |
 | [103] | 1881-12-06 | J. O. Longbotham | 7.50 | $75.50 cash | McAnulty League; beginning 401¾ vrs west of SW corner of Jno. Manning's 693-acre tract, on JH Bounds' north boundary line; 105 × 401¼ vrs rectangle; "all in Limestone County" |
@@ -227,6 +228,7 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 
 | Deed | Date | Grantee | Acres | Consideration | Notes |
 |---|---|---|---|---|---|
+| [123] | 1869-08-03 | H. Clay Dunbar | 200 | $300 cash | Sarah McAnulty League; 200 ac off south end of Hare→Bounds survey; beginning 26½ vrs from SE corner of McAnulty League; **DISPOSED — NO REVERSION**; originally recorded Book H pp. 177–178 (03/23/1870); re-filed 08/16/1906 (LC Vol. 48 Pg. 373); earliest documented McAnulty disposition; predates 1906 partition by 37 years |
 | [101] | 1878-03-13 | Mary M. Kindley/Lindley | 99 | $1.00 (gift) | Samuel Holloway Survey (NOT McAnulty); JH Bounds gifted to family associate; **sold out of McAnulty-adjacent Holloway Survey** |
 | [109] | 1889-10-16 | R. E. Lee | 69 | $690 via 4 VL notes | Samuel Holloway Survey sell-out (JH Bounds sold the 69 ac bought back from Lindleys in [105]); complete exit from Holloway Survey |
 | [107] | 1887-11-07 | Colored New Home Baptist Church | 2 | $32 | 2-acre church carve-out at SE corner of McAnulty homestead; reduces First Tract to 92 net |
@@ -237,11 +239,13 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 
 **"361 acres tract" reference — ISSUE-34**: Deed [111] metes-and-bounds begin at the NE corner of a "361 acres tract" on the South McAnulty Survey. This figure does not appear in any other deed in the file set. ⚠️ CONFLICT — HUMAN VERIFICATION REQUIRED: The "278-acre survey" referenced in deed [103] (1881) as JH Bounds' existing holding may have grown to 361 acres through additional acquisitions between 1881 and 1906, or the two figures may refer to different configurations of JH Bounds' McAnulty holdings. The [111] "361 acres tract" is the most significant new data point in the gap analysis. See ISSUE-34.
 
+**Deed [123] findings (2026-03-31)**: The Dunbar deed is now pulled. It conveys **200 acres** (NOT the speculated 137.75 ac) and is dated **August 3, 1869** — 37 years before the 1906 partition. The 08/16/1906 index date was a RE-FILING of an instrument originally recorded Book H pp. 177–178 (03/23/1870). The deed describes the 200 ac as "a part of" the McAnulty League "conveyed by Thomas Hare and wife to the said James H. Bounds" — identifying the previously unknown upstream Hare→Bounds source deed (see item 1 in gap analysis below). Because the 200 ac was sold in 1869, it was NOT part of JH Bounds' McAnulty holdings during the 1881 "278 acre survey" reference or the 1906 partition. The 137.75-acre gap within the 1906 partition (361 − 223.25) remains unexplained by instruments in the current file set — the Dunbar 200 ac does not bear on it. Total documented McAnulty dispositions: 200 (Dunbar, 1869) + 2 (church, 1887) + 223.25 (1906 partition) = **425.25 ac**, establishing JH Bounds' McAnulty holding as substantially larger than previously understood. See revised ISSUE-34.
+
 ---
 
  The remaining ~87.4 acres of JH Bounds' McAnulty holdings have no upstream acquisition deed in the current file set. Possible sources:
 
-1. **Original JH Bounds purchase or patent** — JH Bounds may have acquired the bulk of the McAnulty acreage directly from the state or from an earlier owner in a deed predating 1878 (the earliest deed in the [101]–[118] set). Deed [103] references "J. H. Bounds 278 acre survey" as a neighbor call — if JH Bounds held a 278-acre tract on or near the McAnulty League, that single acquisition could explain most of the gap. This "278 acre survey" has no source deed in the file set.
+1. **Thomas Hare → JH Bounds (pre-1869) — NOW IDENTIFIED as upstream source**: Deed [123] (1869-08-03, JH Bounds → H. Clay Dunbar, 200 ac) describes its parcel as "a part of" the McAnulty League "conveyed by Thomas Hare and wife to the said James H. Bounds." The Hare→Bounds conveyance is almost certainly the "278 acre survey" source deed referenced as a neighbor call in deed [103] (1881). Total Hare→Bounds acreage unknown but exceeds 200 ac (the Dunbar carve-out was the south 200 ac of the larger Hare→Bounds survey). Recording citation not stated in deed [123] — **action: search LC grantee index under JH Bounds pre-1869 to locate the Hare→Bounds deed**. This single acquisition likely accounts for the bulk of JH Bounds' McAnulty holdings.
 2. **Additional small acquisitions** — other deeds from McAnulty League neighbors to JH Bounds may exist in the Limestone County records but are not in the current file set.
 3. **Longbotham→Bennett→JH Bounds chain** — deed [110] references 28½ acres and 44½ acres (total 73 ac) as W. J. Bennett's McAnulty holdings, of which Mary Smith conveyed only her 1/8 interest (9⅛ ac). The remaining 7/8 of those 73 acres may have been acquired separately by JH Bounds from other Bennett heirs, but no such deeds are in the file set.
 
