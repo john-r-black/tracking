@@ -1,4 +1,4 @@
-*Last updated: 2026-04-01 — Deed [332] — XTO Energy OGL terms documented; Trust No. 2 XTO lease note corrected (both trusts, not just Trust No. 2); lease history added to [14]/[36] section; name variants noted (Lansford/Lunsford, Jessie M./J.M. Bounds)*
+*Last updated: 2026-04-01 — Deed [334] — Polomsky Hughes lease corrected: BOTH Trust No. 1 AND Trust No. 2 are lessors (not just Trust No. 2 as FC index stated); 734.99 ac across 8 tracts (Richie/Strickland/Slaughter, no Curry)*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -99,7 +99,7 @@ Texas legal concepts that affect interpretation:
   - 2012: Jewell P Trust + Josie E U/W/O → Polomsky Hughes (3 memoranda, FC OR/1588/165–167)
 - **Acreage note**: Deed [03] states 33.61 ac; 1978 and 2012 leases state 33.11 ac (0.50 ac discrepancy unresolved)
 - Action: ~~(a) Pull FC 1985-5299 (Gussie heirship affidavit) — identifies heirs~~ — **PULLED ✓ = deed [324]**; Gussie heir line fully identified (see above); (b) pull FC 2012-1204330/1204331/1204332 (2012 lease memoranda) — identifies current trustees/beneficiaries; (c) if family wishes to acquire these minerals, contact both Weaver heir lines; (d) document this severance clearly in the app so it's never overlooked in a future lease or sale
-- **Trust No. 2 companion lease**: Beard M Stephen Trustee also executed a memorandum of oil & gas lease to Polomsky Hughes & Associates LLC on the same date (FC Doc# 2012-1204190, OR/1587/893, 9/27/2012) — coordinated leasing of Trust No. 2's W Ritchie A-0527 surface acres alongside the Weaver mineral lease. [INDEX IDENTIFIED: F-Beard, 2026-03-09]
+- **Deed [334] — Trust No. 1 AND Trust No. 2 lease to Polomsky Hughes**: M. Stephen Beard, Sole Trustee of BOTH Trust No. 1 and Trust No. 2, executed a memorandum of oil and gas lease to Polomsky Hughes & Associates, L.L.C. (FC Doc# 01204190, OR/1587/893, filed 9/27/2012, executed 8/8/2012) — **PULLED ✓**. ⚠️ **FC index and prior analysis incorrectly identified this as Trust No. 2 only** — BOTH trusts are lessors. Lease covers **734.99 acres across 8 tracts**: Tract One (317.50 ac Wm. Ritchie A-527 + Jas. M. Davis A-202, Trust 2 via deed [16]/[37]) + Tracts Two–Eight (417.49 ac J. Strickland A-550 + B. Slaughter A-565 — same as [322]/[332] Tracts 1–7, NO W. Curry A-9 tracts). Primary term: 3 years with option to extend 2 years. Coordinated with Weaver mineral leases to same lessee (FC Doc# 2012-1204330/1204331/1204332). ⚠️ Trust name defect: granting clause omits "Black" after "Bounds" in both trust names — acknowledgment uses correct names. Current lease status unknown (primary term expired ~Aug 2015 or Aug 2017; HBP determination requires TRC production records).
 
 ---
 
