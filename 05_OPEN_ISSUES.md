@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [319] — ISSUE-43 item 25 pulled (FC 1978-2653, Estate J.V. Bounds Jr. → Virgil L. = deed [319]); citation corrected DR/503/151 not DR/509/295; ISSUE-44 advanced (no Beldin exception in Lot 3 description; Bessie→Virgil 1972 deed identified; partition citation discrepancy Pg. 233 vs. 235)*
+*Last updated: 2026-03-31 — Deed [323] — ISSUE-43 item 6 pulled (FC DR/665/424, Olena heirship affidavit re: J. A. Barry and Ora Barry = deed [323]); ISSUE-16 advanced (Barry family heirship documented but no Lou/source deed resolution — FC Vol. 534/321 remains key next step)*
 # Black Land Project — Open Issues List
 
 
@@ -16,7 +16,7 @@
   3. ~~LC Vol. 458 Pg. 317 (Inst# 05901580)~~ — **PULLED ✓ = deed [312]**; Affidavit of Heirship, Kelly Bounds + Jeff Bounds re: JT Black estate; intestate death 1/30/1959 confirmed; three heirs only (JP, Genevieve m. L.L. Dorsett, Georgia Nell m. R.A. Ennis); no administration; estate < $10,000 — ISSUE-01
   4. LC Vol. 278 Pg. 379 (Inst# 1943000000000013) — C.E. Black → J.T. Black deed (1943) — Boyd chain
   5. ~~FC OR/1350/233 (Doc# 2006-6000827)~~ — **PULLED ✓ = deed [331]**; Special Warranty Deed (surface only, minerals reserved), Estate of Olena (JMB+JAB co-executors) → Charles L. Calame + Dorothy Calame; 0.0918 ac Lots 6 & 7 Block 6 Town of Wortham; execution Jul 7, 2005; filed Feb 14, 2006
-  6. FC DR/665/424 (Doc# 1984-3294) — Olena heirship affidavit (1984) — ISSUE-16
+  6. ~~FC DR/665/424 (Doc# 1984-3294)~~ — **PULLED ✓ = deed [323]**; Affidavit of Heirship, Olena Black (affiant) re: John Adam Barry (d. 8/27/1939, intestate, FC) and Ora Barry (d. 9/26/1961, intestate, LC); four surviving children: Dorothy Barry Garland, Kate Barry Mays, Annie Barry Wilson, Jesse Louise Barry Harvey (d. 6/6/1972 testate → C. H. Harvey → Jackie Vaughan, Barry Harvey, Don Harvey, Melva Turner); Barry family heirship documentation — no property described, no Lou/source deed resolution — ISSUE-16 context only
   7. FC OR/938/719 (Doc# 1994-4071) — James → Bounds Marguerite heirship (1994) — ISSUE-16
   8. FC Texas Central Railroad instruments (3): Doc# 2016-1603931, 2020-2000667, 2020-2000672
   9. ~~LC Vol. 516 Pg. 304~~ — **PULLED ✓ = deed [314]**; Affidavit of Title, W.D. Bounds + Jeff Bounds re: Verona E. Black's 56.8 ac Lipscomb Norvell Survey A-20 LC; chain: W.E. Black + Ida A. Black → JT Black (1943) → heirs → Verona (1959, per [311]); no mineral production; DISPOSED to Wilson (1965). + ~~LC Vol. 516 Pg. 307~~ — **PULLED ✓ = deed [316]**; Warranty Deed, Verona E. Black (widow) → Mary Rees Wilson (widow, Norman OK); 56.8 ac Lipscomb Norvell Survey A-20 LC; surface + ALL minerals conveyed; $10.00 + OGVC (stamps indicate ~$4,001–$4,500); filed Jul 26, 1965; DISPOSED — property left family chain
@@ -272,7 +272,7 @@
   - (d) **Freestone County**: Search Jesse M. Bounds estate instruments (d. 8/30/1915) to determine what land he held and whether it passed to Lou as surviving spouse
   - (e) Obtain Olena's probate file from Freestone County (2005) — estate inventory should identify the parcel by survey/abstract
   - (f) Low priority: pull FC DR/151/354 to confirm "Bounds Martin" = Lou
-- **Status**: OPEN — **SIGNIFICANTLY ADVANCED** — aunt identified; land origin and source deed unknown; FC Vol. 534/321 pull is the key next step
+- **Status**: OPEN — **SIGNIFICANTLY ADVANCED** — aunt identified; land origin and source deed unknown; FC Vol. 534/321 pull is the key next step. **Deed [323] pulled (2026-03-31)**: Olena's 1984 Affidavit of Heirship (FC DR/665/424, Doc# 3294) establishes heirs of **John Adam Barry** (Olena's maternal uncle, sibling of Mattie Mae and Lou) and wife Ora Barry — does NOT address Lou's land or the source deed question directly, but documents Barry family heirship pattern and confirms Olena was personally acquainted with J. A. Barry and Ora during their lifetimes. Attorney: Benjie Reed (Mexia TX) — same attorney appearing in later Limestone County instruments (deed [329], 2000). The affidavit may have been part of a coordinated 1984 title-clearing effort.
 
 ### ISSUE-14: 1906 Vendor's Lien — No Release in File Set
 - **Risk level**: LOW — almost certainly paid and released; no live practical threat
