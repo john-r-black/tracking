@@ -1,4 +1,4 @@
-*Last updated: 2026-04-01 — Deed [307] — Vickers Tract section rewritten: scope confirmed (surface+minerals); Vickers 1/16 royalty discovered; grantees corrected to Ray Robinson and Georgie Lee Robinson; upstream chain citations identified; Quick Reference Matrix updated*
+*Last updated: 2026-04-01 — Deed [327] — companion Bounds rail spur deed documented; 15.879-ac mineral reservation (oil/gas) by Miriam G. Bounds et al. (R.G. Bounds collateral branch, NOT project family minerals); coal/lignite conveyed to TU Electric*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -194,11 +194,12 @@ Texas legal concepts that affect interpretation:
 
 ---
 
-### TU Electric Rail Spur (~17.916 acres, Freestone)
+### TU Electric Rail Spur (~33.795 acres total, Freestone — two companion deeds)
 - Surface owner: **UNCERTAIN** — conveyed to TU Electric 1997 with reversion clause; Big Brown closed 2018; reversion status unknown
-- Family mineral interest: Minerals (oil, gas, and other minerals except coal and lignite) reserved by **Olena Black personally** at time of 1997 conveyance (Trust No. 2 not established until July 7, 2005 — eight years after the [13] conveyance). Coal and lignite were **conveyed to TXU** as part of the surface conveyance in Deed [13] — coal and lignite are NOT in the reserved mineral estate.
-- NOTE: The 17.916-acre parcel spans two surveys: Wm. Ritchie A-527 AND Jas. M. Davis A-202. F10854 (13.65 ac, Trust No. 2) is in the J.M. Davis A-202 survey. If the TU Electric reversion occurs, confirm whether the reverting acreage overlaps with or abuts F10854.
-- Parcel source deed: Parent tract is [04] (Vol. 419, Pg. 676 — Richie League 317.50 acres); [13] Exhibit A identifies [04] explicitly as the parent.
+- **Deed [13] parcel (17.916 ac)**: Olena Black → Texas Utilities Electric Co. Minerals (oil, gas, and other minerals except coal and lignite) reserved by **Olena Black personally** at time of 1997 conveyance (Trust No. 2 not established until July 7, 2005 — eight years after the [13] conveyance). Coal and lignite were **conveyed to TXU** as part of the surface conveyance in Deed [13] — coal and lignite are NOT in the reserved mineral estate. Parent tract: deed [04] (Vol. 419, Pg. 676 — Richie League 317.50 acres).
+- **Deed [327] parcel (15.879 ac)**: Miriam G. Bounds et al. → Texas Utilities Electric Co. [PDF CONFIRMED: 2026-04-01]. Minerals (oil, gas, and other minerals except coal and lignite) reserved by **Miriam G. Bounds, Gene Alan Bounds Jr., Sharon Bounds Hooks, and Sandra Bounds Mick** (R.G. Bounds collateral branch — NOT in Olena/Trust chain). Coal and lignite conveyed to TU Electric — identical treatment to [13]. Parent tract: 257.30 ac R.G. Bounds → Miriam Bounds (Vol. 440, Pg. 440 FC). **These reserved minerals belong to the Clyde L. Bounds/Miriam Bounds family, NOT to the Black/Gude/Trust mineral estate.** Identical reversion clause to deed [13].
+- NOTE: Both parcels span two surveys: Wm. Ritchie A-527 AND Jas. M. Davis A-202. F10854 (13.65 ac, Trust No. 2) is in the J.M. Davis A-202 survey. If the TU Electric reversion occurs, confirm whether the reverting acreage overlaps with or abuts F10854. The [13] reversion goes to Olena's successors (Trust No. 2 chain); the [327] reversion goes to the Miriam Bounds heirs/successors — two separate reversion rights.
+- Parcel source deeds: [13] parent tract is [04] (Vol. 419, Pg. 676 — Richie League 317.50 acres); [327] parent tract is R.G. Bounds → Miriam Bounds (Vol. 440, Pg. 440 — 257.30 acres).
 - Mineral ownership chain (oil, gas, other minerals except coal/lignite):
   - Reserved by Olena Black personally in [13] (1997)
   - Passed from Olena → estate → John Marion + James personally at 2005 restructuring

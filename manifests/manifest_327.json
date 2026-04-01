@@ -1,0 +1,106 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-04-01_batch_01",
+  "date": "2026-04-01",
+  "documents_analyzed": [
+    "1996-12-07__327__f_specialwarrantydeed_surface_mgboundsetal_texasutilitieselectric.md"
+  ],
+  "batch_summary": "Deed [327] analyzed — companion to deed [13], same Big Brown rail spur project. Miriam G. Bounds et al. conveyed 15.879 ac (Richie A-527 + Davis A-202) to Texas Utilities Electric Company on Dec 7, 1996. Oil/gas/minerals reserved by grantors; coal/lignite conveyed. Identical reversion clause to [13]. Property is from R.G. Bounds collateral branch (257.30-ac parent tract, Vol. 440 Pg. 440 FC) — never in MS Bounds/Olena/Trust chain. FC index error: indexed under 'Bounds Clyde L' but Clyde only joined pro forma as Miriam's husband. New family members identified: Miriam G. Bounds (wife of Clyde L. Bounds), Gene Alan Bounds Jr., Sharon Bounds Hooks, Sandra Bounds Mick. ISSUE-43 item 22 marked PULLED.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [327] — Clyde L. Bounds family identified: wife Miriam G. Bounds, probable children Gene Alan Bounds Jr., Sharon Bounds (m. Hooks), Sandra Bounds (m. Mick); R.G. Bounds 257.30-ac Richie/Davis tract documented",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update Rufus G. Bounds entry with 257.30-ac tract information from deed [327]",
+          "find": "     │        │         ├── Rufus G. Bounds (1884–)",
+          "replace_with": "     │        │         ├── Rufus G. Bounds (1884–) — held 257.30 ac in Wm. Ritchie A-527 / Jas. M. Davis A-202 (FC Vol. 440, Pg. 440); conveyed to Miriam Bounds (relationship TBD — HUMAN VERIFICATION REQUIRED: pull FC Vol. 440 Pg. 440 to determine if inter-spousal, father→daughter, or uncle→niece-in-law)"
+        },
+        {
+          "action": "replace",
+          "description": "Update Allen Hill Bounds entry with Clyde L. Bounds family details from deed [327]",
+          "find": "     │        │         ├── Allen Hill Bounds (1876–1949) — children: Clyde Bounds (= Clyde L. Bounds of ISSUE-43 item 22), Maurine Bounds Henderson (deed [308])",
+          "replace_with": "     │        │         ├── Allen Hill Bounds (1876–1949) — children: Clyde Bounds (= Clyde L. Bounds, deed [327]), Maurine Bounds Henderson (deed [308])\n     │        │         │     Clyde L. Bounds + wife Miriam G. Bounds (P.O. Box 856, Wortham TX 76693, deed [327]);\n     │        │         │     probable children (all Bounds surname grantors in deed [327]): Gene Alan Bounds Jr. (single man),\n     │        │         │     Sharon Bounds (m. Michael Hooks), Sandra Bounds (m. Richard A. Mick).\n     │        │         │     ⚠️ HUMAN VERIFICATION REQUIRED: \"Jr.\" implies Gene Alan Bounds Sr. exists — identity unknown.\n     │        │         │     ⚠️ Relationship between Miriam and R.G. Bounds unclear — pull FC Vol. 440 Pg. 440 to determine."
+        },
+        {
+          "action": "replace",
+          "description": "Update John Marion Black personal estate TU Electric reference to include deed [327] companion",
+          "find": "- Share of TU Electric minerals — passed outside trusts",
+          "replace_with": "- Share of TU Electric minerals (17.916-ac deed [13] reservation) — passed outside trusts. NOTE: companion deed [327] (15.879 ac, Miriam G. Bounds et al. → TU Electric, same rail spur) reserved separate minerals to the R.G. Bounds/Clyde L. Bounds family branch — those are NOT part of the Black/Gude mineral estate"
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [327] added to Phase 3 — Miriam G. Bounds et al. → Texas Utilities Electric Company (1996, 15.879 ac Richie/Davis rail spur); companion to deed [13]; ISSUE-43 item 22 PULLED",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Add [327] to Phase 3 in the Phase Structure Overview table",
+          "find": "| Phase 3 | PHASE 3.txt | Bounds → Olena transition & lifetime conveyances | [04], [05]/[23], [322], [07], [27], [28], [29], [30], [10]/[31], [11]/[32], [13], [35], [323], [326] |",
+          "replace_with": "| Phase 3 | PHASE 3.txt | Bounds → Olena transition & lifetime conveyances | [04], [05]/[23], [322], [07], [27], [28], [29], [30], [10]/[31], [11]/[32], [13], [327], [35], [323], [326] |"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [327] entry to Phase 3, after deed [13] (its companion)",
+          "anchor": "10. `1997-01-20_[13]_f` — OB Black → TXU (special warranty, **surface only**, Freestone) → TU Electric rail spur conveyance — [INDEX CONFIRMED: FC Doc# 1997-635, SPECIAL W/D, BLACK OLENA → TEXAS UTILITIES ELECTRIC CO, OR/1004/286, W RITCHIE SUR A-0527 PT 17.916 ACS, recorded 1/29/1997]",
+          "content": "10a. `1996-12-07_[327]_f` — Miriam G. Bounds et al. → Texas Utilities Electric Company (special warranty, **surface only with coal/lignite**, Freestone) — 15.879 acres, William Ritchie Survey A-527 and Jas. M. Davis Survey A-202, Freestone County. **Companion to deed [13]** — same Big Brown Steam Electric Station rail spur project, same recording date, sequential Doc#s (1997-635 = [13], 1997-636 = [327]). **Grantors**: Miriam G. Bounds (joined pro forma by husband Clyde L. Bounds), Gene Alan Bounds Jr. (single man), Sharon Bounds Hooks (joined pro forma by husband Michael Hooks), Sandra Bounds Mick (joined pro forma by husband Richard A. Mick); all of P.O. Box 856, Wortham TX 76693. ⚠️ **FC INDEX GRANTOR ERROR**: FC Doc# 1997-636 indexes grantor as \"BOUNDS CLYDE L\" — Clyde only joined pro forma as Miriam's husband; actual grantors are Miriam, Gene Alan Jr., Sharon, and Sandra. **Parent tract**: Called 257.30 ac from R. G. Bounds to Miriam Bounds, Vol. 440, Pg. 440, Official Deed Records FC. Adjacent to Olena Black's 317.50-ac tract (deed [04], Vol. 419, Pg. 676). **NOT in MS Bounds/Olena/Trust chain** — this is the R.G. Bounds (Rufus G.) collateral branch's property. **Mineral reservation**: All oil, gas, and other minerals reserved by grantors. **Coal and lignite conveyed** to grantee — identical treatment to deed [13]. **Reversion clause**: Conveyance void and premises automatically revert to grantor's heirs/successors if premises permanently cease rail use for Big Brown SES and grantee abandons — identical to deed [13]. Grantee retains right to remove all improvements (rails, tracks, ties, fencing, gates, cattle guards) upon abandonment. **Fence obligations**: Grantor responsible for electric fence on new surveyed boundary; grantee responsible for fence within conveyed property. **Survey**: E.L.S. Surveying & Mapping, Inc.; E.L. Sartain RPLS No. 1978; field survey Jul–Aug 1996; Texas Coordinate System North Central Zone NAD 1927. Stone & Webster Engineering Corporation (Boston, MA) — Rail Spur, Big Brown S.E.S., T.U. Electric, Western Fuels Project. **Adjacent tracts on plat**: Tract 69 & 70 (684.308 ac Robert C. Thompson, Vol. 660 Pg. 777); Tract 65 & 67 (317.5 ac M.S. Bounds → Olena Black, Vol. 419 Pg. 676 = deed [04]); Tract 64 (57.43 ac, Vol. 467 Pg. 363). **Consideration**: $10.00 + OGVC. **Acknowledgments**: Miriam + Clyde acknowledged Dec 6, 1996 before Laura F. Eltife NP, Freestone County (comm. exp. 3/24/1998); Gene Alan Jr., Sharon + Michael Hooks, Sandra + Richard Mick each acknowledged Dec 7, 1996 before same notary, Dallas County. **Recording**: FC Vol. 1004, Pg. 291–296 (6 pages), Doc# 1997-636. Filed Jan 29, 1997 at 10:45 AM; Mary Lynn White, Clerk County Court, Freestone County; Deputy: Kim Denny. **Significance**: (a) Confirms R.G. Bounds held a partition share of the T.A. Bounds estate in the Richie/Davis surveys, separate from MS Bounds' allocation; (b) total rail spur ROW from family-related parties = 33.795 ac (17.916 + 15.879); (c) if reversion occurs, the 15.879 ac reverts to Miriam Bounds heirs/successors, NOT to the Olena/Trust chain — two separate reversion rights; (d) identifies Clyde L. Bounds' wife and probable children for first time. **⚠️ HUMAN VERIFICATION REQUIRED**: Pull FC Vol. 440 Pg. 440 to determine R.G. Bounds → Miriam Bounds relationship and whether Gene Alan Bounds Jr./Sharon/Sandra are children of Clyde+Miriam or of R.G. Bounds. ISSUE-43 item 22 satisfied. [PDF CONFIRMED: deed [327], 2026-04-01]"
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [327] — companion Bounds rail spur deed documented; 15.879-ac mineral reservation (oil/gas) by Miriam G. Bounds et al. (R.G. Bounds collateral branch, NOT project family minerals); coal/lignite conveyed to TU Electric",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update TU Electric Rail Spur section header to reflect combined acreage and add companion deed [327] information",
+          "find": "### TU Electric Rail Spur (~17.916 acres, Freestone)\n- Surface owner: **UNCERTAIN** — conveyed to TU Electric 1997 with reversion clause; Big Brown closed 2018; reversion status unknown\n- Family mineral interest: Minerals (oil, gas, and other minerals except coal and lignite) reserved by **Olena Black personally** at time of 1997 conveyance (Trust No. 2 not established until July 7, 2005 — eight years after the [13] conveyance). Coal and lignite were **conveyed to TXU** as part of the surface conveyance in Deed [13] — coal and lignite are NOT in the reserved mineral estate.\n- NOTE: The 17.916-acre parcel spans two surveys: Wm. Ritchie A-527 AND Jas. M. Davis A-202. F10854 (13.65 ac, Trust No. 2) is in the J.M. Davis A-202 survey. If the TU Electric reversion occurs, confirm whether the reverting acreage overlaps with or abuts F10854.\n- Parcel source deed: Parent tract is [04] (Vol. 419, Pg. 676 — Richie League 317.50 acres); [13] Exhibit A identifies [04] explicitly as the parent.",
+          "replace_with": "### TU Electric Rail Spur (~33.795 acres total, Freestone — two companion deeds)\n- Surface owner: **UNCERTAIN** — conveyed to TU Electric 1997 with reversion clause; Big Brown closed 2018; reversion status unknown\n- **Deed [13] parcel (17.916 ac)**: Olena Black → Texas Utilities Electric Co. Minerals (oil, gas, and other minerals except coal and lignite) reserved by **Olena Black personally** at time of 1997 conveyance (Trust No. 2 not established until July 7, 2005 — eight years after the [13] conveyance). Coal and lignite were **conveyed to TXU** as part of the surface conveyance in Deed [13] — coal and lignite are NOT in the reserved mineral estate. Parent tract: deed [04] (Vol. 419, Pg. 676 — Richie League 317.50 acres).\n- **Deed [327] parcel (15.879 ac)**: Miriam G. Bounds et al. → Texas Utilities Electric Co. [PDF CONFIRMED: 2026-04-01]. Minerals (oil, gas, and other minerals except coal and lignite) reserved by **Miriam G. Bounds, Gene Alan Bounds Jr., Sharon Bounds Hooks, and Sandra Bounds Mick** (R.G. Bounds collateral branch — NOT in Olena/Trust chain). Coal and lignite conveyed to TU Electric — identical treatment to [13]. Parent tract: 257.30 ac R.G. Bounds → Miriam Bounds (Vol. 440, Pg. 440 FC). **These reserved minerals belong to the Clyde L. Bounds/Miriam Bounds family, NOT to the Black/Gude/Trust mineral estate.** Identical reversion clause to deed [13].\n- NOTE: Both parcels span two surveys: Wm. Ritchie A-527 AND Jas. M. Davis A-202. F10854 (13.65 ac, Trust No. 2) is in the J.M. Davis A-202 survey. If the TU Electric reversion occurs, confirm whether the reverting acreage overlaps with or abuts F10854. The [13] reversion goes to Olena's successors (Trust No. 2 chain); the [327] reversion goes to the Miriam Bounds heirs/successors — two separate reversion rights.\n- Parcel source deeds: [13] parent tract is [04] (Vol. 419, Pg. 676 — Richie League 317.50 acres); [327] parent tract is R.G. Bounds → Miriam Bounds (Vol. 440, Pg. 440 — 257.30 acres)."
+        }
+      ]
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [327] — ISSUE-43 item 22 marked PULLED; ISSUE-06 and ISSUE-21 updated with companion deed [327] information (15.879-ac Bounds collateral branch rail spur conveyance)",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update ISSUE-21 background to note companion deed [327] with identical coal/lignite treatment",
+          "find": "- **Background**: Deed [13] (1997-01-20, Olena Black → TXU Electric Delivery Company, Freestone County, 17.916 acres rail spur) conveyed surface plus coal and lignite to TXU. Oil, gas, and other minerals were reserved by Olena personally. The coal and lignite were NOT reserved — they were conveyed with the surface.",
+          "replace_with": "- **Background**: Deed [13] (1997-01-20, Olena Black → TXU Electric Delivery Company, Freestone County, 17.916 acres rail spur) conveyed surface plus coal and lignite to TXU. Oil, gas, and other minerals were reserved by Olena personally. The coal and lignite were NOT reserved — they were conveyed with the surface. **Companion deed [327]** (1996-12-07, Miriam G. Bounds et al. → Texas Utilities Electric Co., 15.879 ac from adjacent 257.30-ac R.G. Bounds tract) has identical coal/lignite treatment — coal/lignite conveyed to TU Electric, oil/gas/other minerals reserved by Miriam Bounds grantors. [327] minerals belong to R.G. Bounds collateral branch, not the Olena/Trust chain. Combined coal/lignite conveyed = ~33.795 ac."
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-06 background to note companion deed [327] with separate reversion right",
+          "find": "- **Background**: January 1997 special warranty deed from Olena to Texas Utilities Electric Company conveyed 17.916 Freestone County acres for rail spur to Big Brown Steam Electric Station. The deed contains an explicit automatic reversion clause: if premises permanently cease to be used for rail transportation to Big Brown and are abandoned, conveyance \"shall be null and void\" and land reverts automatically.\n- **Big Brown closure**: The station closed in 2018. If the rail spur was formally abandoned after closure, the 17.916 acres automatically reverted to Olena's successors in interest (Trust No. 2's chain).",
+          "replace_with": "- **Background**: January 1997 special warranty deed from Olena to Texas Utilities Electric Company conveyed 17.916 Freestone County acres for rail spur to Big Brown Steam Electric Station. The deed contains an explicit automatic reversion clause: if premises permanently cease to be used for rail transportation to Big Brown and are abandoned, conveyance \"shall be null and void\" and land reverts automatically. **Companion deed [327]** (1996-12-07, Miriam G. Bounds et al. → TU Electric, 15.879 ac from adjacent R.G. Bounds 257.30-ac tract, FC Vol. 1004 Pg. 291, Doc# 1997-636) contains an identical reversion clause for the adjacent rail spur strip. Total rail spur ROW from family-related parties = 33.795 ac (17.916 + 15.879). **Two separate reversion rights exist**: the [13] parcel reverts to Olena's successors (Trust No. 2 chain); the [327] parcel reverts to the Miriam Bounds heirs/successors (R.G. Bounds collateral branch). [PDF CONFIRMED: deed [327], 2026-04-01]\n- **Big Brown closure**: The station closed in 2018. If the rail spur was formally abandoned after closure, the 17.916 acres automatically reverted to Olena's successors in interest (Trust No. 2's chain). The companion 15.879 acres would revert to the Miriam Bounds heirs/successors — a separate action."
+        },
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-43 item 22 as PULLED with deed [327] analysis summary",
+          "find": "  22. FC OR/1004/291 (Doc# 1997-636) — Bounds Clyde L → TU Electric, special warranty deed, 15.879 ac, Wm. Ritchie A-527, Freestone County, recorded 1/29/1997 (same date as deed [13]). **Clyde L. Bounds identified as son of Allen Bounds (J.V. Jr.'s brother)** per deed [308] (FC Doc# 1955-2460) grantor list — NOT in MS Bounds/Trust No. 2 direct chain; Allen's partition share of T.A. Bounds estate is the probable source. Risk to Trust No. 2 acreage reduced but pull still needed to confirm. HIGH priority. [IDENTIFIED: F-TU index, Session 8B, 2026-03-09]",
+          "replace_with": "  22. ~~FC OR/1004/291 (Doc# 1997-636) — Bounds Clyde L → TU Electric, special warranty deed, 15.879 ac, Wm. Ritchie A-527, Freestone County, recorded 1/29/1997~~ — **PULLED ✓ = deed [327]**; Special Warranty Deed, Miriam G. Bounds et al. → Texas Utilities Electric Company, 15.879 ac Wm. Ritchie A-527 + Jas. M. Davis A-202; ⚠️ **FC INDEX GRANTOR ERROR**: index says \"BOUNDS CLYDE L\" — PDF proves Clyde only joined pro forma as Miriam's husband; actual grantors are Miriam G. Bounds, Gene Alan Bounds Jr., Sharon Bounds Hooks, Sandra Bounds Mick. Parent tract: 257.30 ac from R.G. Bounds to Miriam Bounds (Vol. 440, Pg. 440 FC). **NOT in MS Bounds/Trust No. 2 chain — confirmed.** R.G. Bounds collateral branch property. Companion to deed [13] (same rail spur, same recording date). Minerals (oil/gas/other) reserved by grantors; coal/lignite conveyed; identical reversion clause. No risk to Trust No. 2 acreage. New family members identified: Miriam G. Bounds (wife of Clyde L. Bounds), Gene Alan Bounds Jr., Sharon Bounds Hooks (m. Michael Hooks), Sandra Bounds Mick (m. Richard A. Mick)."
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [327] added to Deed Register — Miriam G. Bounds et al. → Texas Utilities Electric Co., 15.879 ac Richie/Davis rail spur, FC Vol. 1004 Pg. 291; companion to deed [13]",
+      "operations": [
+        {
+          "action": "insert_before",
+          "description": "Add deed [327] to Deed Register table, before the 'Add rows' marker",
+          "anchor": "*Add rows as additional PDFs are reviewed.*",
+          "content": "| [327] | Miriam G. Bounds et al. (+ Clyde L. Bounds pro forma) → Texas Utilities Electric Company | Freestone | ✓ | FC Vol. 1004, Pg. 291–296, Doc# 1997-636. Filed Jan 29, 1997 at 10:45 AM; Mary Lynn White, Clerk County Court, Freestone County; Deputy: Kim Denny. | 291–296 (6 pages) | 1996-12-07 | 1997-01-29 | **Special Warranty Deed — surface only with coal/lignite; companion to deed [13].** 15.879 ac, Wm. Ritchie Survey A-527 + Jas. M. Davis Survey A-202, Freestone County. Big Brown Steam Electric Station rail spur — same project as deed [13] (Doc# 1997-635, OR/1004/286, 17.916 ac, Olena Black → TU Electric). Parent tract: 257.30 ac R.G. Bounds → Miriam Bounds (Vol. 440, Pg. 440 FC). **Grantors**: Miriam G. Bounds (joined pro forma by husband Clyde L. Bounds), Gene Alan Bounds Jr. (single man), Sharon Bounds Hooks (joined pro forma by husband Michael Hooks), Sandra Bounds Mick (joined pro forma by husband Richard A. Mick); all P.O. Box 856, Wortham TX 76693. ⚠️ **FC INDEX GRANTOR ERROR**: indexed as \"BOUNDS CLYDE L\" — Clyde joined pro forma only; actual grantors are Miriam, Gene Alan Jr., Sharon, Sandra. **MINERAL RESERVATION**: all oil, gas, and other minerals reserved by grantors. **COAL/LIGNITE CONVEYED** to grantee (identical to deed [13]). **REVERSION CLAUSE**: premises revert automatically if permanently cease rail use for Big Brown SES and grantee abandons. Grantee retains right to remove improvements. **Fence obligations**: grantor builds electric fence on new boundary; grantee builds fence within conveyed property. Consideration: $10.00 + OGVC. Survey: E.L. Sartain RPLS 1978, E.L.S. Surveying & Mapping Inc., field survey Jul–Aug 1996, TX Coord Sys North Central NAD 1927. Engineering: Stone & Webster Engineering Corp (Boston MA). Acknowledgments: Miriam+Clyde Dec 6, 1996, Laura F. Eltife NP Freestone County (exp. 3/24/1998); Gene Alan Jr., Hooks, Micks each Dec 7, 1996, same notary, Dallas County. **NOT in MS Bounds/Olena/Trust chain** — R.G. Bounds collateral branch. ISSUE-43 item 22. Phase 3 |"
+        }
+      ]
+    }
+  }
+}

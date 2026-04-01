@@ -1,4 +1,4 @@
-*Last updated: 2026-04-01 — Deed [307] — Vickers and Robinson added to neighbor chain contacts; third-party surface owner corrected from Vickers to Robinson*
+*Last updated: 2026-04-01 — Deed [327] — Clyde L. Bounds family identified: wife Miriam G. Bounds, probable children Gene Alan Bounds Jr., Sharon Bounds (m. Hooks), Sandra Bounds (m. Mick); R.G. Bounds 257.30-ac Richie/Davis tract documented*
 # Black Land Project — Family & Entity Structure
 
 
@@ -18,7 +18,12 @@ Born Richmond NC; died Neshoba Co. MS                   Born Richmond NC; died C
      │        ├── +  Margaret Jane Bounds (1848–11/4/1885)  [married 10/8/1865, Mississippi]
      │        │         │
      │        │         ├── John T. Bounds (1872–1947) — children: Kenneth, Charles, Janet (m. Carter), Annie Laura (m. Stanfield), Emma (m. Stoddard) (deed [308])
-     │        │         ├── Allen Hill Bounds (1876–1949) — children: Clyde Bounds (= Clyde L. Bounds of ISSUE-43 item 22), Maurine Bounds Henderson (deed [308])
+     │        │         ├── Allen Hill Bounds (1876–1949) — children: Clyde Bounds (= Clyde L. Bounds, deed [327]), Maurine Bounds Henderson (deed [308])
+     │        │         │     Clyde L. Bounds + wife Miriam G. Bounds (P.O. Box 856, Wortham TX 76693, deed [327]);
+     │        │         │     probable children (all Bounds surname grantors in deed [327]): Gene Alan Bounds Jr. (single man),
+     │        │         │     Sharon Bounds (m. Michael Hooks), Sandra Bounds (m. Richard A. Mick).
+     │        │         │     ⚠️ HUMAN VERIFICATION REQUIRED: "Jr." implies Gene Alan Bounds Sr. exists — identity unknown.
+     │        │         │     ⚠️ Relationship between Miriam and R.G. Bounds unclear — pull FC Vol. 440 Pg. 440 to determine.
      │        │         ├── Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds ("feme sole, widow" per deed [313], 1962); Probate No. 3217, County Court FC (deed [319], 1978)
      │        │         │     Probable children (all appear as lessors on J.V. Jr.'s 60.4-ac partition lot in deed [313], 1962 — HUMAN VERIFICATION REQUIRED):
      │        │         │     Clara Bounds (m. Hill Howard), Myrtle Bounds (m. Algie Cain), Lillie (Lilly) Kate Bounds (m. Anthony Panci),
@@ -26,7 +31,7 @@ Born Richmond NC; died Neshoba Co. MS                   Born Richmond NC; died C
      │        │         │     Estate: Probate No. 3217, County Court FC; Oliver A. Bounds, Admin. w/ Will Annexed. Deed [319] (4/24/1978) conveyed estate's undivided 1/2 of Lot 3 (60.4 ac Richie, FC) + Navarro Co. tracts to Virgil L. Bounds ($20,000). Cross-ref: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420 Pg. 560 FC (prior conveyance of other 1/2 interest in Lot 3).
      │        │         ├── Laura E. Bounds (1878–bef.1953) — married McLelland; children: Granville E., Elgin, Rufus McLelland
      │        │         ├── Marion Sylvanus "MS" Bounds (1879–1977)
-     │        │         ├── Rufus G. Bounds (1884–)
+     │        │         ├── Rufus G. Bounds (1884–) — held 257.30 ac in Wm. Ritchie A-527 / Jas. M. Davis A-202 (FC Vol. 440, Pg. 440); conveyed to Miriam Bounds (relationship TBD — HUMAN VERIFICATION REQUIRED: pull FC Vol. 440 Pg. 440 to determine if inter-spousal, father→daughter, or uncle→niece-in-law)
      │        │         ├── Elijah S. Bounds (1885–)
      │        │         └── Willis H. Bounds (1885–) — alive 1955 (notarized 7/30/1955 Freestone Co., deed [308]); prior "died in infancy" note in error
      │        │
@@ -331,7 +336,7 @@ John Marion Black held certain assets **outside Trust No. 1** as personal proper
 - 1/2 mineral interest in L20555 (Fifth Tract, 18 acres) — per 2005 Phase 7 cross-transfer with James
 - 1/2 mineral interest in L20556 (his 18-acre partition parcel) — per 2005 Phase 7 cross-transfer
 - Share of the Vickers royalty (Freestone County, ~43 acres) — passed outside trusts from Olena's estate
-- Share of TU Electric minerals — passed outside trusts
+- Share of TU Electric minerals (17.916-ac deed [13] reservation) — passed outside trusts. NOTE: companion deed [327] (15.879 ac, Miriam G. Bounds et al. → TU Electric, same rail spur) reserved separate minerals to the R.G. Bounds/Clyde L. Bounds family branch — those are NOT part of the Black/Gude mineral estate
 
 **These did NOT go to Gude Management LLC.** Per his personal estate, they passed to **Kay Lynn Ramsey Black** (his spouse) upon his death.
 
