@@ -1,10 +1,12 @@
-*Last updated: 2026-04-01 — Resolved issues moved to 05A_RESOLVED_ISSUES.md*
+*Last updated: 2026-04-01 — Resolved issues in 05A; deferred issues in 05B*
 # Black Land Project — Open Issues List
 
 
 
 
+
 ---
+
 
 
 **ISSUE-43: Master Pull List — Index-Identified and CAD-Identified Instruments**
@@ -43,7 +45,9 @@
   28. ~~FC Doc# 1962-690 (DR/314/115)~~ — **PULLED ✓ = deed [313]**; Oil, gas and mineral lease, **Bessie Bounds et al.** (NOT McLelland Elgin per FC index) → Jack H. Meeks; 60.4 ac Wm. Ritchie A-527 Lot 3; all J.V. Jr. will beneficiaries + 8 probable J.V. Jr. children as lessors; Bessie as agent/attorney-in-fact; 5-year term from 3/1/1962; $10.00 + 1/8 royalty. FC index misleadingly indexed under "MC LELLAND ELGIN" — Elgin was one of ~35 lessors. Confirms mineral ownership held by J.V. Jr. family group as of 1962. ISSUE-44 advanced.
 
 
+
 ---
+
 
 
 ## PROJECT OBJECTIVE — SINGLE ATTORNEY CLOSING
@@ -69,31 +73,22 @@
 **Then**: Formal dissolution of Trust No. 1.
 
 
+
 ---
+
 
 
 ## Priority 1 — Active Title Defects (Someone else may have a legitimate claim)
 
 
+
 ---
 
 
-### ISSUE-02: Gussie Weaver and Jewell Weaver Mineral Severance (33.61 acres, F15408)
-- **Risk level**: HIGH — minerals definitively not in the family chain
-- **Background**: Deed [03] (1955-09-13, File No. 2519, Deed Record 262, Pages 271–272, Freestone County) — Gussie Weaver **and wife Jewell Weaver** conveyed surface only to J.P. Black, explicitly reserving ALL oil, gas, and minerals. The reservation language is plural: "reserved to the grantors herein" — both Gussie Weaver and Jewell Weaver are co-reservants. Jewell Weaver received a separate privy examination from notary Walter T. Thomason, confirming she was a full legal party to the reservation. This reservation was carried forward in deed [08] (1979-05-23, Freestone, Deed Record 531 Pages 500–502): Olena Bounds Black conveyed Tract 2 surface to the JPB Family Trust of 1977 with an explicit SAVE AND EXCEPT reserving "all of the oil, gas and other minerals in and under and that may be produced from the above described property, together with the right of ingress and egress at all times." PDF-confirmed 2026-02-22.
-- **Consequence**: The Black family, Trust No. 2, and Gude have no mineral interest in these 33.61 Freestone County acres. Both the Gussie Weaver heirs line and the Jewell Weaver heirs line are rightful mineral interest holders.
-- **Action**: (a) Identify Gussie Weaver's heirs through Freestone County records; (b) identify Jewell Weaver's heirs through Freestone County records — both lines must be identified to account for 100% of the reserved mineral interest; (c) if the family wishes to acquire these minerals, contact both Weaver heir lines; (d) document this severance clearly in the app so it's never overlooked in a future lease or sale
-- **Identified mineral claimants (Weaver/Vickers/McGuffin index batch, 2026-03-09)**: (a) **WEAVER JEWELL P FAMILY TESTAMENTARY TRUST** — leased W Richie SUR A-0527, 33.11 ac to Polomsky Hughes & Associates LLC, FC OR/1588/165, 9/27/2012; (b) estate of **JOSIE E. WEAVER** under will — two memoranda to same lessee, FC OR/1588/166–167, 9/27/2012; (c) **Ted A. Weaver** is a known Weaver transferee (received property from both Jewell and Josie E. in 1985).
-- **Gussie Weaver**: Died intestate **8/7/1975**; no probate; estate ~$25,000 (cash and land). Married once only to Jewell P. Weaver (3/4/1914, Richland TX). Two children only: Josie Evelyn Weaver (b. 3/8/1915) and Ted A. Weaver (b. 12/19/1933). Affidavit of Heirship: FC Doc 1985-5299, OR/699/677 — **PULLED ✓ = deed [324]**. Two supporting affidavits still pending: FC Docs 1985-5298 (OR/699/675) and 1985-5297 (OR/699/672).
-- **Jewell P. Weaver**: Deceased between 6/17/1985 and 10/6/1997. IRS estate tax lien released FC Doc 1997-5808, OR/1025/842. Minerals held in WEAVER JEWELL P FAMILY TESTAMENTARY TRUST.
-- **Josie Evelyn Weaver**: **Gussie and Jewell's daughter** (b. 3/8/1915, per deed [324]). Affiant on Gussie heirship affidavit (Navarro County resident as of 1985). Third Weaver family member with Richie Survey interests (earliest: FC Doc 1948-67, DR/198/454, release of lien to BOUNDS B E on W RICHIE SUR, 1/9/1948). Active through 1995 (FC Doc 1995-810, warranty deed, 212.41 ac). Deceased by 2012. Minerals held in estate of Josie E. Weaver (under will) per 2012 lease memoranda.
-- **Leasing history on Weaver Tract minerals**: 1950 Gussie→Bounds BF; 1961 Gussie→Meeks (33.61 ac); 1978 Jewell→Hoover (33.11 ac); 1982 Amoco release to Jewell; 2012 Jewell P Trust + Josie E U/W/O → Polomsky Hughes (3 memoranda).
-- **Deed [324] analysis (2026-03-31)**: Affidavit of Heirship (FC Doc 1985-5299, OR/699/677–679, filed 8/21/1985). Affiant Josie Evelyn Weaver (Navarro County resident) attests: Gussie Weaver was her father; died intestate 8/7/1975; married once only to Jewell P. Weaver (3/4/1914, Richland TX); two children only: Josie Evelyn Weaver (b. 3/8/1915) and Ted A. Weaver (b. 12/19/1933); estate ~$25,000 (cash + land); no probate. Property described: TWO LONGBOTHAM TRACTS near Wortham (First Tract 67.2 ac, Second Tract 12 ac) — NOT the Weaver Tract F15408, not in Richie League. Source deed: T. Elmo Longbotham + wife Earle Longbotham → Gussie Weaver + wife Jewell Weaver, FC Vol. 107, Pg. 587 (1/8/1930; also cited as Vol. 107, Pg. 582). First Tract metes-and-bounds call "J.V. Bounds W. line" — placing Longbotham tracts adjacent to Bounds/Richie League holdings. Chain of possession: Gussie (1930, farming/ranching) → Jewell by intestacy (1975, farming/ranching) → Ted A. Weaver by deed 12/23/1980 (FC Vol. 693, Pg. 131, recorded 1/17/1985). Weaver family claimed adverse possession from 1930 through filing date. **Key resolution**: Josie Evelyn Weaver is confirmed as Gussie and Jewell's daughter — resolves the "Relationship to Gussie and Jewell TBD" question in both file 04 and file 05. **Mineral interest implications**: The affidavit does not address the F15408 mineral reservation, but under 1975 Texas intestacy law, Gussie's undivided community interest in the deed [03] reserved minerals would have passed to his children (Josie 1/2, Ted 1/2 of Gussie's share), with Jewell retaining her own community half. Exact fractional interests depend on whether the mineral reservation was community or separate property — requires legal analysis. **Remaining ISSUE-02 work**: (a) Jewell Weaver heir line still unidentified — her minerals are held in the Weaver Jewell P Family Testamentary Trust; pull FC 2012-1204330 (trust lease memorandum) to identify trustee/beneficiaries; (b) two supporting affidavits (FC 1985-5298, 1985-5297) still pending pull; (c) Josie's 1948 Richie Survey interest (FC Doc 1948-67) predates this affidavit by 37 years — she held independent mineral interests before Gussie's death.
-- **Priority PDFs**: ~~(1) FC 1985-5299 (Gussie heirship)~~ — **PULLED ✓ = deed [324]**; (2) FC 2012-1204330/1204331/1204332 (2012 lease memoranda); (3) FC 1985-5298, 1985-5297 (supporting affidavits)
-- **Status**: OPEN (partially resolved) — Gussie Weaver heir line fully identified per deed [324] heirship affidavit (pulled 2026-03-31); Jewell Weaver heir line still requires independent identification (minerals held in Weaver Jewell P Family Testamentary Trust)
 
 
 ---
+
 
 
 ## Priority 2 — Documentation Gaps (Affect marketability, financing, and future transactions)
@@ -120,19 +115,14 @@
 - **Action**: (a) Record the Trustee Resignation and Appointment instrument in both Freestone County and Limestone County deed records — this can be done now, independent of the attorney closing; (b) bundle with ISSUE-30, ISSUE-31, and ISSUE-24 correction instruments in the single coordinated attorney closing so all curative work is completed simultaneously; (c) pull LC Inst# 2025-0001187 to determine whether a supplemental affidavit of trust facts was already filed
 
 
+
 ---
 
 
-### ISSUE-04: No Title Search or Title Insurance on 2026 Gude Deed
-- **Risk level**: MEDIUM — all the other issues on this list are uninsured risks
-- **Background**: The 2026 Trust No. 1 → Gude deed explicitly states: "Grantor and Grantee do hereby acknowledge and agree that no title search has been conducted by the preparer of this Deed." No title insurance was obtained.
-- **Consequence**: Every defect on this list is a risk borne entirely by Gude with no insurance backstop. A title company would have caught several of these issues (especially Ennis/Dorsett and Willis succession) before closing.
-- **Action**: Obtain a title opinion from a Texas title attorney. This is a legal analysis of the chain identifying all defects and their severity — typically a few thousand dollars. This creates a baseline, identifies what curative work is needed, and is prerequisite to any future sale, financing, or mineral lease.
-- **Note**: Full title insurance may not be obtainable with known defects outstanding. A title opinion is the achievable near-term step.
-- **Status**: OPEN
 
 
 ---
+
 
 
 ### ISSUE-05: John Marion Black's Personal Mineral Interests — Current Owner Undocumented
@@ -149,67 +139,50 @@
 - **Revised action**: (a) ~~Determine whether JM Black had a will and whether his estate was formally probated~~ — **ANSWERED: yes, formal probate, Fort Bend County**; (b) determine whether additional administration deeds were or will be executed for L20555 1/2 minerals, Vickers royalty, and TU Electric minerals; (c) if not yet executed, Kay (as Independent Executrix) should prepare and record additional administration deeds in Limestone County (for L20555) and Freestone County (for Vickers and TU Electric minerals)
 
 
+
 ---
 
 
-### ISSUE-06: TU Electric Reversion — Big Brown Closure
-- **Risk level**: MEDIUM — 17.916 acres may have reverted without anyone noticing
-- **Background**: January 1997 special warranty deed from Olena to Texas Utilities Electric Company conveyed 17.916 Freestone County acres for rail spur to Big Brown Steam Electric Station. The deed contains an explicit automatic reversion clause: if premises permanently cease to be used for rail transportation to Big Brown and are abandoned, conveyance "shall be null and void" and land reverts automatically. **Companion deed [327]** (1996-12-07, Miriam G. Bounds et al. → TU Electric, 15.879 ac from adjacent R.G. Bounds 257.30-ac tract, FC Vol. 1004 Pg. 291, Doc# 1997-636) contains an identical reversion clause for the adjacent rail spur strip. Total rail spur ROW from family-related parties = 33.795 ac (17.916 + 15.879). **Two separate reversion rights exist**: the [13] parcel reverts to Olena's successors (Trust No. 2 chain); the [327] parcel reverts to the Miriam Bounds heirs/successors (R.G. Bounds collateral branch). [PDF CONFIRMED: deed [327], 2026-04-01]
-- **Big Brown closure**: The station closed in 2018. If the rail spur was formally abandoned after closure, the 17.916 acres automatically reverted to Olena's successors in interest (Trust No. 2's chain). The companion 15.879 acres would revert to the Miriam Bounds heirs/successors — a separate action.
-- **Consequence**: 17.916 acres that may belong to Trust No. 2 (or its successor) are not currently in anyone's inventory. If an oil company or developer approaches Oncor about this land, there could be a dispute.
-- **Action**: (a) Confirm whether the rail spur was formally abandoned post-2018 (UP/Oncor records; Freestone County courthouse for any abandonment filings); (b) if abandoned, document the reversion by recording an instrument establishing current ownership in Trust No. 2's successor; (c) if not abandoned, monitor
-- **County deed index search (2026-03-09)**: Three indices searched — L-Union_Pacific (14 records, LC, 1998–2022), F-Union_Pacific (156 records, FC, 1987–2015), F-TXU (551 records, FC, 1999–2020). **721 total records. Zero abandonment, cessation, or reconveyance instruments found for the 17.916-acre rail spur parcel (Wm. Richie A-527 / Jas. M. Davis A-202) in any index.** No Union Pacific instruments reference the rail spur. No TXU/Oncor post-2018 instruments reference the rail spur. Two F-TXU post-2018 records found (Oncor easement release 01/05/2018; Delaware Trust lien release 10/02/2020 on Acosta Grant) — neither pertains to the rail spur. The F-Union_Pacific index ends 04/22/2015 with zero post-2018 records. **Clean negative: the reversion cannot be confirmed or denied from county deed records alone.**
-- **Corporate succession identified (complete)**: Texas Utilities Electric Co (1997) → TXU Electric Co (FC Doc# 2003-3005508, CHANGE OF NAME, 08/11/2003) → TXU Big Brown Co LP (FC Doc# 2001-1008387, ASSIGNMENT OF WATER RIGHTS, OR/1181/229, 12/20/2001; **deed [330] confirmed: water rights only (CA 08-5040, Big Brown Creek dam/reservoir), NOT real property; separate special warranty deeds referenced in recitals — unidentified**) → Big Brown Power Co LLC (FC Doc# 2007-707919, C C CERTIFICATE, OR/1423/248, 10/11/2007) → **Luminant Generation Co LLC** (FC Doc# 2017-1702164, C C CERTIF OF MERGER, OR/1720/576, 07/03/2017) → FLG Owner LLC (FC Doc# 2023-2302271, 06/02/2023; plant site only). Coal/lignite: TXU Big Brown Lignite Co LP → Big Brown Lignite Co LLC (FC Doc# 2007-708853, 11/19/2007) → Luminant Big Brown Mining Co LLC (FC Doc# 2007-708852, 11/19/2007) → **Luminant Mining Co LLC** (FC Doc# 2017-1702165, C C CERTIF OF MERGER, OR/1720/591, 07/03/2017). Electric delivery: TXU Electric Delivery Co → Oncor Electric Delivery Co (FC Doc# 2004-4003974, 06/14/2004).
-- **County deed index search — Session 8B (2026-03-09)**: Five additional indices searched — F-TU (1,223 records, FC, 1935–2023), L-TU (645 records, LC, 1929–2011), L-HTC (241 records, LC, 1872–1938), F-Big_Brown (471 records, FC, 2001–2024), F-Luminant (260 records, FC, 2007–2025). **2,840 total records. Deed [13] INDEX CONFIRMED: FC Doc# 1997-635, SPECIAL W/D, BLACK OLENA → TEXAS UTILITIES ELECTRIC CO, OR/1004/286, W RITCHIE SUR A-0527 PT 17.916 ACS, recorded 1/29/1997.** Corporate succession now complete: Big Brown Power Co LLC merged into Luminant Generation Co LLC (FC Doc# 2017-1702164, C C CERTIF OF MERGER, OR/1720/576, 07/03/2017). **Luminant Generation Co LLC disposed of Big Brown plant site to FLG Owner LLC (FC Doc# 2023-2302271, WARRANTY DEED, 06/02/2023) — but zero Richie A-527 or Davis A-202 references appear in any of the 27 post-2018 Big Brown records or 35+ post-2018 Luminant records.** The rail spur parcel was NOT included in the plant site disposal. Adjacent finding: Bounds Clyde L conveyed 15.879 ac Richie A-527 to TU Electric on same date as [13] (FC Doc# 1997-636, OR/1004/291). TXU name change date established: FC Doc# 2003-3005508, CHANGE OF NAME, TEXAS UTILITIES CO DBA → TXU ELECTRIC CO, OR/1246/733, 08/11/2003.
-- **Priority actions**: (1) Search STB docket for Big Brown rail spur abandonment proceeding; (2) ~~Pull FC Doc# 2001-1008387 to determine if rail spur parcel was assigned to TXU Big Brown Co LP~~ **DONE — deed [330]: WATER RIGHTS ONLY (CA 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur; recitals reference separate special warranty deeds for real property under Master Separation Agreement**; (3) ~~Run separate "TEXAS UTILITIES" search in Freestone County~~ **DONE — deed [13] located**; (4) Pull FC Doc# 2023-2302271 to confirm rail spur was NOT in the FLG Owner LLC conveyance; (5) Contact Luminant Generation Co LLC / Vistra Corp to determine if they claim the rail spur; (6) Search FC deed index for TXU Electric Co → TXU Big Brown Co LP special warranty deed(s) circa 2001–2002 (Master Separation Agreement real property conveyance referenced in deed [330] recitals)
-- **Status**: OPEN
 
 
 ---
 
 
-### ISSUE-07: Vickers Royalty — Ownership Chain Not Formally Recorded
-- **Risk level**: MEDIUM
-- **Background**: Deed [02] (1946) — MS Bounds reserved a 1/16 royalty (confirmed: "one-half of the one-eighth") when conveying J.F. McGuffin Survey A-406, ~43 acres, Freestone County to Hugh David Vickers. **No deed or estate instrument in the current file set establishes how this royalty passed after MS Bounds' death — the chain from MS Bounds → Olena → any specific beneficiary is undocumented.** The tracking files have previously asserted this passed outside the trust structure to John Marion Black and James Allen Black personally, but that assertion has no confirmed source instrument.
-- **Parcel**: J.F. McGuffin Survey, Patent No. 456, Abstract No. 406, Freestone County (~43 acres). The surface of this land is owned by **Robinson heirs/successors** (Ray Robinson and Georgie Lee Robinson acquired from Vickers in deed [307], 1947) — not in the family CAD inventory.
-- **Action**: (a) Identify source deed or estate instrument establishing how the 1/16 royalty passed from MS Bounds through Olena and to subsequent holders; (b) determine whether John Marion Black had a will and whether his estate was formally probated; (c) once chain is established, record appropriate documentation (heirship affidavit or probate distribution) in Freestone County; (d) confirm James Allen Black's share is also documented
-- **Downstream surface chain identified (Weaver/Vickers/McGuffin index batch, 2026-03-09)**: Vickers sold the McGuffin Survey to **Robinson Ray** within 12 months — FC Doc 1947-3011, DR/198/393, WARRANTY DEED, VICKERS HUGH DAVID → ROBINSON RAY, JF MC GUFFIN SUR, recorded 12/27/1947. PRIORITY PDF PULL — scope of conveyance TBD (surface only? minerals included? royalty referenced?). All subsequent surface/mineral chain flows through Robinson, not Vickers.
-- **No recorded Bounds royalty assignment found** in F-Weaver, F-Vickers, or F-McGuffin indices (1,575 + 422 + 45 = 2,042 records searched). The 1/16 royalty appears to have passed by succession, not by recorded instrument. A Bounds-surname search in Freestone County would be more probative.
-- **Deed [307] analysis (2026-04-01)**: PDF pulled — `1947-12-13_[307]_f_warrantydeed_surface+minerals_hdvickersetal_rrobinsonetal`. **SCOPE CONFIRMED**: surface + minerals conveyed — NOT surface only. Hugh David Vickers and wife Olga Brand Vickers (Titus County) sold to Ray Robinson and Georgie Lee Robinson (Limestone County) by warranty deed, J. F. McGuffin Survey, Patent No. 456, Abstract No. 406, ~43 acres, Freestone County. Consideration: $10 cash + assumption of three vendor's lien notes from deed [02] (FC Vol. 193, Pg. 96, dated Feb 13, 1946; $100 + $150 + $150 = $400 at 8%). **CRITICAL FINDING — VICKERS 1/16 ROYALTY**: Vickers reserved "one-half of the one-eighth or a one-sixteenth royalty interest in all mines of, and all oil, gas and all minerals" — identical language to the Bounds reservation in deed [02]. Robinson's mineral estate now burdened by TWO 1/16 royalties (Bounds + Vickers = 1/8 total production). The Bounds [02] royalty is NOT mentioned in deed [307] — it runs with the land as a pre-existing encumbrance. The Vickers royalty is NOT a family interest. **UPSTREAM CHAIN IDENTIFIED**: (a) Mrs. Jane Jordan → Chas. and Harrison Morgan (112.6 ac); (b) Chas. Morgan awarded woodland tracts (~11 ac) in Cause No. 3656, District Court FC; (c) warranty deed dated May 15, 1917, FC Vol. 50, Pg. 387 — ⚠️ deed [307] recites "conveyed to grantors herein" (the Vickers) but deed [02] (1946) also conveyed this land to Vickers — likely scrivener's recital error referencing upstream chain document; REQUIRES INVESTIGATION. Vendor's lien retained until notes paid. Acknowledged Dec 13, 1947 at Mt. Pleasant TX before John A. Cook NP, Titus County. ⚠️ Name variant: "Olga Bond Vickers" in privy examination = Olga Brand Vickers (scrivener's error). FC File No. 3011, DR/198/393–394. Filed Dec 27, 1947 at 11:10 AM; recorded Jan 3, 1948 at 11:35 AM; Henry McCormick, County Clerk, FC; Deputy: Elsie Emmons Hughes.
-- **Revised action**: ~~(a) Pull FC Doc 1947-3011 (Vickers → Robinson)~~ **DONE — deed [307]**; (b) run Robinson surname search in Freestone County to trace downstream chain; (c) run Bounds surname search in Freestone County to check for royalty assignments; (d) identify source instrument for MS Bounds → Olena royalty succession; (e) once chain established, record heirship affidavit for John Marion's share in Freestone County; **NEW**: (f) pull FC Vol. 50, Pg. 387 (1917 upstream warranty deed) — determine actual grantor/grantee, resolve "conveyed to grantors" discrepancy; (g) trace Vickers 1/16 royalty downstream chain — determine current holder (not a family interest but affects leasing negotiations if mineral development occurs)
-- **Status**: OPEN — Vickers→Robinson deed [307] pulled and analyzed; scope confirmed (surface+minerals); Vickers 1/16 royalty discovered (new non-family burden); Bounds 1/16 royalty chain from Olena forward still undocumented; upstream McGuffin chain leads identified (1917 deed, Jane Jordan→Morgan chain)
 
 
 ---
+
 
 
 ## Priority 3 — Research Gaps (No defect confirmed, but uncertainty remains)
 
 
----
-
-
 
 ---
 
 
-
----
 
 
 
 ---
 
 
-### ISSUE-12: Citizens National Bank of Waco — Successor Institution
-- **Background**: Citizens National Bank of Waco was co-trustee of the original 1977 trust.
-- **Partial resolution**: Deed [12] (March 1995, Freestone, Vol. 0953 pp. 040–042) confirms that **NationsBank of Texas, N.A.** executed as successor to Citizens National Bank of Waco, then simultaneously conveyed the co-trustee role to M. Stephen Beard. Nolen E. Fry, Vice President, signed for NationsBank; Catherine Oliver (comm. exp. 01/25/98) notarized. Beard then served as sole trustee from 1995 onward.
-- **What remains open**: No intermediate deed documents the Citizens National → NationsBank merger/succession in the recording chain. This is a background fact rather than a title defect — NationsBank's participation in [12] as successor was not challenged and the deed was recorded. A title examiner will likely accept it.
-- **Action**: Obtain merger/succession documentation for Citizens National Bank → NationsBank if a title examiner flags it during a future transaction. Not urgent.
-- **Status**: SUBSTANTIALLY RESOLVED by [12] — monitor only
+
 
 
 ---
+
+
+
+
+
+---
+
+
+
+
+---
+
 
 
 ### BACKGROUND NOTE: M. Stephen Beard — Long-Standing Trust Involvement
@@ -234,14 +207,6 @@
   - (f) Low priority: pull FC DR/151/354 to confirm "Bounds Martin" = Lou
 - **Status**: OPEN — **SIGNIFICANTLY ADVANCED** — aunt identified; land origin and source deed unknown. **⚠️ FC Vol. 534/321 CRITICAL LEAD ELIMINATED (2026-03-31)**: Deed [322] analysis confirms Vol. 534 Pg. 321 is the 1979 Olena→McComb OGL, NOT a conveyance deed (see ISSUE-46). The CAD misidentified the instrument type. The actual upstream conveyance bringing ~492 ac to Olena is STILL UNIDENTIFIED. However, deed [322] confirms all nine tracts trace to J.M. Bounds and that Olena held them as separate property — consistent with inheritance from either MS Bounds or Lou Barry Bounds Martin, but does not identify which. **New highest-priority action**: Re-examine deed [07] (FC DR/531/500, Estate of MS Bounds → Olena, 12/13/1979) to determine if it covers the Exhibit A tracts, or search for a separate MS Bounds estate→Olena instrument, or pull Olena's 2005 probate inventory. **Deed [323] pulled (2026-03-31)**: Olena's 1984 Affidavit of Heirship (FC DR/665/424, Doc# 3294) establishes heirs of **John Adam Barry** (Olena's maternal uncle, sibling of Mattie Mae and Lou) and wife Ora Barry — does NOT address Lou's land or the source deed question directly, but documents Barry family heirship pattern and confirms Olena was personally acquainted with J. A. Barry and Ora during their lifetimes. Attorney: Benjie Reed (Mexia TX) — same attorney appearing in later Limestone County instruments (deed [329], 2000). The affidavit may have been part of a coordinated 1984 title-clearing effort. **Deed [326] pulled (2026-03-31)**: Heirship Affidavit for Marguerite Bounds (FC OR/938/719, Doc# 4071, filed 8/25/1994). Affiants E. A. Strange Jr and James Black attest to Marguerite Bounds' heirs (d. 4/20/1981, Wortham, FC, age 76): children Hallye Rae Bounds Tyner and Billy Joe Bounds (d. 3/28/1993 Falls Co.); four grandchildren. **No property described** — heirship documentation only; does NOT advance ISSUE-16. **Deed [322] pulled (2026-03-31)**: OGL at FC DR/534/321 — confirms Olena held the 491.99-ac Exhibit A block as separate property in 1979 and all tracts trace to J.M. Bounds, but does NOT identify the conveyance chain from J.M. Bounds to Olena.
 
-### ISSUE-14: 1906 Vendor's Lien — No Release in File Set
-- **Risk level**: LOW — almost certainly paid and released; no live practical threat
-- **Background**: Deed [22] (1906) retained a vendor's lien on the 114-acre Limestone County McAnulty property securing four $440 notes due 1908–1911. No release of this lien appears in the current file set.
-- **Consequence**: A title examiner doing a formal title search will flag this as an open lien without a corresponding release instrument. It is extremely unlikely to represent a live claim 120 years later, but curative documentation is needed for marketable title.
-- **Deed [117] DOES NOT ADDRESS ISSUE-14** (confirmed, Session 4): Deed [117] (1945-09-13) is a release of the Federal Land Bank of Houston deed of trust lien securing Loan No. F-13491, $3,300 principal, deed of trust dated January 22, 1934. This is a 1930s agricultural mortgage — a completely different instrument from the 1906 vendor's lien in deed [22] ($440 × 4 notes, due 1908–1911). The two instruments have different parties (deed [22] vendor's lien: JH Bounds as seller; deed [117] loan: Federal Land Bank as lender), different dates (1906 vs. 1934), different amounts ($1,760 vs. $3,300), and different recording citations. ISSUE-14 remains fully open and is not addressed by any instrument currently in the file set.
-- **Action**: Search Limestone County deed records for a vendor's lien release from JH Bounds heirs (or their successors) in favor of MS Bounds, dated approximately 1908–1915. If found, add to file set.
-- **Status**: OPEN — low urgency; confirmed by Session 4 review
-
 ### ISSUE-15: Manning Deed (Vol G p.661 LC) — Not in File Set
 - **Risk level**: LOW — referenced in multiple deeds as the source of the 2-acre Second Tract; chain is established by reference
 - **Background**: Deeds [22] and [01] both reference "a three acre tract deeded by Reuben Manning to J.H. Bounds, dated July 20, 1869, recorded in Vol G page 661, deed records of Limestone County." This is the ultimate source deed for the 2-acre Second Tract (reduced from 3 acres by RR ROW). The deed itself has not been pulled.
@@ -252,11 +217,15 @@
 - **Status**: OPEN — low urgency; chain is established by reference in later deeds; Manning citation confirmed as Book G p.661; LC index negative evidence noted but not conclusive
 
 
----
-
-
 
 ---
+
+
+
+
+
+---
+
 
 
 *(ISSUE-35 — J.M. Bounds identity — appears in full below; status OPEN pending deed record verification of GEDCOM candidate)*
@@ -278,11 +247,15 @@
 - Status: RESOLVED AS LOWER RISK — documentation still recommended but not urgent
 
 
----
-
-
 
 ---
+
+
+
+
+
+---
+
 
 
 **ISSUE-18: Exhibit B (162.99 ac) carve-out destination — RESOLVED by Phase 5A**
@@ -291,7 +264,9 @@
 - Resolution confirmed: Phase 5A reconciliation, 2026-03-04
 
 
+
 ---
+
 
 
 **ISSUE-19: F15750 owner discrepancy (Gude vs Trust No. 1)**
@@ -299,7 +274,9 @@
 - All Trust No. 1 assets transferred to Gude Management LLC via [21]/[40] in 2026. F15750 was in Trust No. 1 from 2005–2025; current Gude CAD attribution is correct.
 
 
+
 ---
+
 
 
 **ISSUE-20: Deeds [35] and [34] (2005) — Abstract Number "A-17" Scrivener's Error in Original Instruments**
@@ -313,7 +290,9 @@
 - **Status**: OPEN — low urgency but recommended for clean title; now affects two recorded instruments
 
 
+
 ---
+
 
 
 **ISSUE-21: Deed [13] (1997) — Coal and Lignite Conveyed to TXU; Chain of Title for That Interest Unknown**
@@ -325,7 +304,9 @@
 - **Status**: OPEN — low urgency; corporate succession now complete; **remaining action**: review deed [13] reversion clause to determine whether coal/lignite revert with surface or are carved out. ~~Pull FC Doc# 2001-1008387 to confirm scope~~ **DONE — deed [330]: WATER RIGHTS ONLY (CA 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur or any real property**
 
 
+
 ---
+
 
 
 **ISSUE-22: Deed [09] (1979) — Habendum Clause Scrivener's Error; Grantor Named in Grantee Position**
@@ -337,17 +318,23 @@
 - **Status**: OPEN — low urgency pending title attorney review
 
 
+
 ---
+
 
 
 ## New Issues from Phase 5A Reconciliation (2026-03-04)
 
 
----
-
-
 
 ---
+
+
+
+
+
+---
+
 
 
 **ISSUE-24: Wortham Town Lots Mineral Interest — Previously Untracked; Conveyance to Gude Not Recorded**
@@ -361,58 +348,35 @@
 - **Status**: OPEN — now tracked; conveyance to Gude incomplete
 
 
+
 ---
 
 
-**ISSUE-25: Deed [17]/[38] Acknowledgment — Trust Number Scrivener's Error (PDF-CONFIRMED)**
-- **Risk level**: LOW — acknowledgment defect in recorded instrument; granting clause and signature block control; instrument was accepted for recording
-- **Background**: Deed [17] (2005-07-07, Trust No. 1 → Trust No. 2, special warranty mineral deed; [38] is the Limestone County filing of the same instrument) acknowledgment reads "Sole Trustee of the JOHN PIERCE BLACK AND OLENA BOUNDS BLACK ESTATE TRUST NO. **2**" — but the grantor is Trust No. **1** and Beard signed in the signature block as Trust No. 1's trustee. PDF-confirmed as original instrument error (not a transcription error). The notary or attorney used the wrong trust number. Deed [38] necessarily carries the identical error.
-- **Phase 5B confirmation**: Deed [38] in PHASE_5B.txt confirmed — acknowledgment reads "ESTATE TRUST NO. **2**" in the grantor-trustee position. Error present in both the Freestone and Limestone County recorded instruments.
-- **Legal effect**: In Texas, an acknowledgment defect does not void the conveyance; the granting clause controls as to the parties. The instrument was accepted for recording in both Freestone and Limestone Counties, curing any filing defect as to third parties. However, a title examiner will flag the inconsistency.
-- **Action**: Consider curative scrivener's affidavit confirming the acknowledgment should have identified Beard as Trust No. 1 trustee, consistent with the granting clause and signature block. Record in both Freestone and Limestone Counties.
-- **Status**: OPEN — low urgency; annotated with [sic] in PHASE_5A.txt and PHASE_5B.txt
 
 
 ---
 
 
 
----
-
-
-**ISSUE-27: Exhibit A Sixth Tract — "S. Slaughter" Scrivener's Error in Original Instruments (PDF-CONFIRMED)**
-- **Risk level**: LOW — same error appears in every deed containing this Exhibit A; correct survey name established by surrounding context
-- **Background**: Deed [14] Exhibit A Sixth Tract (and identical Exhibit A in deeds [17] and presumably all other deeds using this template) reads "S. Slaughter Survey A-565." The correct survey name is **B. Slaughter (Benjamin Slaughter) Survey A-565**, as used in all other Exhibit A tracts and in CAD records. PDF-confirmed as original instrument error — the same mistake was propagated into every deed that copied this Exhibit A page.
-- **Affected deeds**: [14]/[36], [17]/[38], **[322]** (1979 McComb OGL — Sixth Tract reads "S. Slaughter Survey A-565"), and likely all other deeds containing this Exhibit A. **Phase 5B confirmation**: Deed [38] Exhibit A Sixth Tract confirmed as "S. Slaughter Survey A-565" [sic] — identical error. Deed [36] Exhibit A (confirmed against original LC Vol. 1180 Pg. 449) also contains this error in the original recorded instrument. **Deed [322] confirmation (2026-03-31)**: The "S. Slaughter" error appears in the 1979 McComb lease (26 years before the 2005 instruments), confirming the error originated in the Exhibit A template from at least 1979 and was propagated forward.
-- **Legal effect**: Minimal — Abstract A-565 is unambiguous (there is only one A-565 in Freestone County), the other eight sub-tracts correctly use "B. Slaughter," and the source deed reference (I.M. Thompson → J.M. Bounds, Sep 21 1885, Vol 2 p.410 FC) uniquely identifies the parcel. A title examiner will note the inconsistency but the conveyance is not impaired.
-- **Action**: Low priority. Could be addressed in a single curative scrivener's affidavit covering all affected instruments if a future transaction requires clean title. Annotated with [sic] in PHASE_5A.txt.
-- **Status**: OPEN — low urgency; no practical title risk
 
 
 ---
 
 
-**ISSUE-28: Deed [17]/[38] Exhibit C — Blank Page Number in Original Instrument (PDF-CONFIRMED)**
-- **Risk level**: LOW — the deed's other identifying information (grantor, grantee, date, volume) uniquely identifies the source deed
-- **Background**: Deed [17] Exhibit C (Edwards Tract 85.30 ac; [38] is the Limestone County filing of the same instrument) references "deed from W. H. Mayo and wife, Mary E. Mayo to William Beene and G. W. Ausley, of date October 19, 1907, and of record in Volume 35, Page _, Deed Records of Freestone County, Texas." The page number field contains an underlined blank space — the attorney prepared the form with a blank for the page number but never filled it in. PDF-confirmed. **Phase 5B confirmation**: Deed [38] Exhibit C in PHASE_5B.txt confirmed as carrying the identical blank page number. Error present in both Freestone and Limestone County recorded instruments.
-- **Legal effect**: The Edwards Tract is more specifically identified by the second reference in the same sentence ("deed from W. P. Beene et ux to A. H. Edwards, of date January 31, 1911, and of record in Volume 47, Page 501") and by the full metes-and-bounds description in Exhibit C. The blank page number does not create ambiguity about the parcel.
-- **Action**: Pull Freestone County Deed Records Volume 35 to identify the correct page number for the Mayo→Beene/Ausley 1907 deed. Document for completeness.
-- **Status**: OPEN — low urgency; annotated with [sic] in PHASE_5A.txt
-- **Edwards/Rice FC index session (2026-03-09)**: 1907 Mayo→Beene/Ausley deed not in FC Edwards index — index starts 1925 (earliest record), non-probative. No BEENE, MAYO, or AUSLEY entries found in Edwards surname index. Resolution still requires pulling FC Deed Records Volume 35 directly.
+
+
+---
+
+
+
 
 ---
 
 
-**ISSUE-29: Deed [20]/[39] Tract Five — Conveyance of Non-Existent Mineral Interest in Weaver Tract (F15408)**
-- **Risk level**: LOW — legally harmless; conveyance of nothing has no effect on title; but represents a drafting error that should be noted in any future transaction involving F15408
-- **Background**: Deed [20] (2005-07-07, Trust No. 2 → Trust No. 1, special warranty mineral deed; [39] is the Limestone County filing) Tract Five purports to convey "an undivided one-half of Grantor's right, title, and interest in and to all oil, gas, and other minerals" in the Weaver Tract (33.61 ac net, Wm. Richie Survey, Freestone County, F15408). Trust No. 2 holds zero mineral interest in this tract. All minerals were permanently severed by Gussie Weaver and Jewell Weaver in deed [03] (1955) and explicitly re-reserved as surface-only in the 1979 trust transfer (deed [08]). Trust No. 2 received surface-only from the 1977 Trust via deed [19].
-- **Legal effect**: A grantor cannot convey an interest it does not hold. The attempted conveyance of 1/2 of zero = zero. Trust No. 1 / Gude received no mineral interest in F15408 via deed [20] Tract Five. The Weaver heirs remain the sole mineral interest holders. No action needed for title purposes.
-- **Consequence for future transactions**: Any sale, lease, or financing involving F15408 minerals should be accompanied by an explanation that deed [20] Tract Five is a nullity as to mineral interest, and that Weaver heirs are the correct mineral owners. This should also be clearly noted in any title commitment.
-- **Action**: Document this issue in the property record for F15408. No curative instrument needed. If a future transaction requires clean documentation, a scrivener's affidavit or title company explanation of the mineral chain will suffice.
-- **Status**: OPEN — informational; no remediation required
 
 
 ---
+
 
 
 **ISSUE-30: Deed [21]/[40] — Manning 3-Acre Parcel Omitted from Gude Conveyance (PDF-CONFIRMED)**
@@ -425,7 +389,9 @@
 - **Status**: OPEN — HIGH PRIORITY; bundle with ISSUE-31 and ISSUE-24 in single attorney closing to dissolve Trust No. 1
 
 
+
 ---
+
 
 
 **ISSUE-31: Deed [21]/[40] — Edwards Tract Omitted from Gude Conveyance (PDF-CONFIRMED, Phase 6 Reconciliation)**
@@ -446,7 +412,9 @@
 - **Edwards/Rice FC index session (2026-03-09)**: Edwards source deed grantor name discrepancy partially resolved — FC index confirms both "EDWARDS A H MRS" and "EDWARDS JOHN W" as grantors on Doc# 1943-1482 (DR/168/588), consistent with "Mrs. A.H. Edwards et al." in tracking files (husband and wife joining in conveyance). Edwards 1935 homestead affidavit (DR/140/502) located on S. McAnulty Survey — chain support confirming Edwards occupation pre-1943. Upstream deeds (1911 Beene→Edwards DR/47/501, 1907 Mayo→Beene/Ausley DR/35/?) not in FC index — coverage starts 1925, non-probative. 1966 Texas Pipe Line Co easement abandonment (DR/361/253) to "EDWARDS A H" flagged for review — no legal description, may not be A-751. No new title clouds on Edwards Tract.
 
 
+
 ---
+
 
 
 **ISSUE-32: JW Bounds — Boyd Survey Disposition Search**
@@ -485,11 +453,15 @@
     - **Status**: OPEN — downgraded from HIGH to MEDIUM PRIORITY. The T.W./J.W. name question is substantially resolved in favor of J.W. by chain logic and [122] PDF evidence. Remaining research: (a) confirm [108] original; (b) J.E. and J.V. Bounds Boyd chain research (ISSUE-41, ISSUE-48) remains independent.
 
 
----
-
-
 
 ---
+
+
+
+
+
+---
+
 
 
 **ISSUE-34: McAnulty Chain — "278-Acre Survey" Source Deed Not Located**
@@ -528,33 +500,32 @@
 - **Status**: OPEN — **PRIORITY UPGRADED TO HIGH**; TWO upstream McAnulty source deeds now identified: (1) Hare→Bounds (pre-1869, identified from deed [123]) and (2) **Hall→Bounds (Dec 15, 1865, identified from deed [119])** — both are key pull targets (search LC grantee index under JH Bounds pre-1869); Dec 15, 1865 is now the earliest documented JH Bounds McAnulty date; 137.75-ac gap within 1906 partition still unexplained; total documented McAnulty dispositions now 425.25+ ac plus ROW strip; see 02_PROPERTY_INVENTORY.md for updated disposition accounting
 
 
----
-
-
 
 ---
 
 
-
----
 
 
 
 ---
 
 
-**ISSUE-39: Deed [109] — Recording Date Precedes Filing Date (Clerk Error in Original)**
-- **Risk level**: LOW — clerk administrative error in original instrument; does not affect the validity of the conveyance or the chain of title
-- **Background**: Deed [109] (1889-10-16, JH Bounds and wife M.E. Bounds → R. E. Lee, 69 ac Samuel Holloway Survey, Limestone County) records "filed March 27, 1890 at 9 AM; recorded March 26, 1890 at 3 PM" per the source text. The recording date (March 26) precedes the filing date (March 27) by one day. An instrument cannot be recorded before it is filed.
-- **Consequence**: The dates are reversed in the clerk's stamp — the correct sequence is filed March 27, then recorded (either also March 27 or at 3 PM on March 26 if the clerk processed it same-day and mis-stamped the date). This is an administrative anomaly in the original instrument. It has no effect on the validity of the conveyance or its priority — the instrument was filed and recorded in 1890, decades before any competing claim.
-- **Additional note**: The Samuel Holloway Survey parcel conveyed in deed [109] left the family chain permanently in 1889. The recording date anomaly has no bearing on any current title question.
-- **Action**: Document for completeness. No curative action required. If deed [109] original is pulled from Limestone County records for other reasons (e.g., confirming the [Page 514] volume/page citation), verify whether the clerk's stamp shows both dates.
-- **Status**: OPEN — INFORMATIONAL; no curative action required
-- **Added**: Integration Session 5 (2026-03-08); deed [109]
 
 
 
 ---
+
+
+
+
+
+---
+
+
+
+
+---
+
 
 
 **ISSUE-40: Pull PDFs for Index-Identified Deeds [119]–[124]**
@@ -573,30 +544,19 @@
 - **Resolution**: When PDFs acquired, update 06_TECHNICAL_SPEC.md PDF status from IDX/⬜ to ✓; update 03_DEED_CHAIN_SUMMARY.md body entries; mark DISPOSED — NO REVERSION as appropriate.
 
 
+
 ---
 
 
-**ISSUE-41: J.E. Bounds Boyd Survey Disposal Chain (320 ac)**
-- **Status**: OPEN
-- **Priority**: LOW
-- **County**: Limestone
-- **Description**: Deeds [120] and [303] document JH Bounds gifting 158 + 162 = **320 acres** of John Boyd League to J.E. Bounds on 1874-10-07. ⚠️ **Revised 2026-03-31**: Prior description stated 220 ac split between J.E. and J.V. Bounds — this was based on incorrect index data for deed [121] (now retired; actual instrument = deed [303], J.E. Bounds, 162 ac). J.V. Bounds' Boyd source is a separate question (see ISSUE-48). J.E. Bounds appears in the 1906 deed [111] grantor list — meaning he still held some interest in family land 32 years after receiving these gifts. Whether he retained and later sold the 320-ac Boyd gifts is unknown.
-- **Research needed**: Search Limestone County index under "Bounds J E" as grantor to find disposal instruments. Two parcels: [120] (158 ac, 400 vrs W of SE corner) and [303] (162 ac, SE corner along east league line). After disposal instruments located and pulled, mark chains DISPOSED — NO REVERSION.
-- **Dependency**: ISSUE-40 items [120] and [121]/[303] both PULLED. Both metes-and-bounds now available for targeted J.E. Bounds grantor search in LC index. J.V. Bounds portion split to ISSUE-48.
-- **Note**: This chain does NOT affect the current family holdings — it is historical completeness only.
 
 
 ---
 
 
-**ISSUE-42: TXGLO Original Grant Research — DEFERRED**
-- **Status**: DEFERRED
-- **Priority**: LOW
-- **Description**: Tracing each family survey back to its original Texas General Land Office patent. Surveys involved: Sarah McAnulty League, John Boyd Survey, P. Varela Survey, Samuel Holloway Survey, J. Strickland Survey A-550, A.H. Edwards Survey A-751, W. Richie League. This research is deferred until all Limestone and Freestone County work is complete.
-- **Resolution criteria**: After the attorney closing for Trust No. 1 dissolution is complete and all open county-level issues are resolved, initiate TXGLO patent research as a cleanup phase.
 
 
 ---
+
 
 
 **ISSUE-44: Beldin Tract (F15410, 33.66 ac) — Upstream Chain Gap**
@@ -621,11 +581,15 @@
 - **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)
 
 
----
-
-
 
 ---
+
+
+
+
+
+---
+
 
 
 **ISSUE-46: Exhibit A Block Upstream Source — FC Vol. 534, Pg. 321 is OGL, NOT Conveyance — Upstream Source Deed Still Unidentified**
@@ -642,11 +606,15 @@
 - **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10); **revised 2026-03-31 upon deed [322] analysis**
 
 
----
-
-
 
 ---
+
+
+
+
+
+---
+
 
 
 **ISSUE-48: J.V. Bounds Boyd Survey Source Deed — UNLOCATED**
@@ -660,7 +628,9 @@
 
 
 
+
 ---
+
 
 
 **ISSUE-35: J.M. Bounds Identity Unknown**
@@ -674,20 +644,14 @@
 
 
 
----
-
-
-**ISSUE-49: Deed [337] Scrivener's Error — "Madison County" in Legal Description**
-- **Status**: OPEN
-- **Priority**: LOW (not a closing blocker; deed recorded in correct county; all other references correct)
-- **County**: Freestone
-- **Description**: Warranty deed [337] (FC Doc# 2000667, 2/28/2020) — Trust No. 2 → Texas Central Railroad & Infrastructure, Inc. — Exhibit A legal description states "WILLIAM RITCHIE SURVEY, ABSTRACT NO. 527, **MADISON COUNTY**, TEXAS." The correct county is FREESTONE COUNTY. The parent deed reference on the same page correctly states "OFFICIAL PUBLIC RECORDS, FREESTONE COUNTY, TEXAS (O.P.R.F.C.T.)." The deed was recorded in Freestone County. All other references in the instrument (cover page, granting clause, acknowledgments) reference Freestone County correctly.
-- **Risk**: LOW. The deed was properly recorded in Freestone County and the metes-and-bounds (identical to [336] Schedule 3, which correctly states "FREESTONE COUNTY") unambiguously locates the parcel. A Texas court would almost certainly construe "Madison County" as a scrivener's error given the overwhelming Freestone County references throughout the instrument and the recording in Freestone County. However, a scrivener's affidavit or correction deed from either party would formally cure the defect.
-- **Evidence**: Deed [337] Exhibit A page 6 of 7 (FC Doc# 2000667, image 154533388_90679866-06.png).
-- **Action**: If Texas Central Railroad & Infrastructure, Inc. is still an active entity, a correction deed or scrivener's affidavit should be obtained. If the company has dissolved or the project has been abandoned, the landowner's attorney should prepare a scrivener's affidavit for recording in Freestone County. This is not urgent but should be addressed at the next attorney closing.
-- **Added**: 2026-04-01 (deed [337] analysis)
 
 ---
+
+
+
+
+---
+
 
 ## Resolved Issues Index
 
@@ -722,4 +686,39 @@
 **ISSUE-45**: F10854 (13.65 ac, J.M. Davis A-202) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
 
 **ISSUE-47**: Trust No. 2 Trustee Status — Beard Confirmed Active 2026 — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+
+---
+
+## Resolved & Deferred Issues Index
+
+*Full details in 05A (resolved) and 05B (deferred) — not loaded into analysis conversations.*
+
+**ISSUE-2**: Gussie Weaver and Jewell Weaver Mineral Severance (33.61 acres, F15408) — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-4**: No Title Search or Title Insurance on 2026 Gude Deed — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-6**: TU Electric Reversion — Big Brown Closure — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-7**: Vickers Royalty — Ownership Chain Not Formally Recorded — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-12**: Citizens National Bank of Waco — Successor Institution — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-14**: 1906 Vendor's Lien — No Release in File Set — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-25**: Deed [17]/[38] Acknowledgment — Trust Number Scrivener's Error (PDF-CONFIRMED) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-27**: Exhibit A Sixth Tract — "S. Slaughter" Scrivener's Error in Original Instruments (PDF-CONFIRMED) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-28**: Deed [17]/[38] Exhibit C — Blank Page Number in Original Instrument (PDF-CONFIRMED) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-29**: Deed [20]/[39] Tract Five — Conveyance of Non-Existent Mineral Interest in Weaver Tract (F15408) — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-39**: Deed [109] — Recording Date Precedes Filing Date (Clerk Error in Original) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-41**: J.E. Bounds Boyd Survey Disposal Chain (320 ac) — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-42**: TXGLO Original Grant Research — **DEFERRED** (see 05B_DEFERRED_ISSUES.md)
+
+**ISSUE-49**: Deed [337] Scrivener's Error — "Madison County" in Legal Description — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
 

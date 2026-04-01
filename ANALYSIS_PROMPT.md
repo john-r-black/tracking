@@ -50,10 +50,12 @@ You will have all six files in your context. Here is what each tracks and how it
 - **When to update**: Mineral reservation or severance found in a deed, mineral ownership percentage clarified, executive rights assignment identified, lease or royalty information discovered.
 
 ### 05_OPEN_ISSUES.md
-- **Purpose**: Every unresolved title defect, research question, or chain gap.
-- **Key sections**: ISSUE-43 (Master Pull List), Project Objective, then numbered issues (ISSUE-01 through ISSUE-47+).
+- **Purpose**: Every **unresolved** title defect, research question, or chain gap.
+- **Key sections**: ISSUE-43 (Master Pull List), Project Objective, then numbered issues, then a Resolved Issues Index (one-line stubs referencing 05A).
 - **When to update**: New issue discovered, existing issue advanced with new evidence, issue resolved, pull list item completed.
-- **Issue numbering**: Sequential. Check the highest existing number and increment by 1 for new issues. As of the last update, ISSUE-47 is the highest.
+- **When an issue is RESOLVED**: Change its status to RESOLVED. The landowner will periodically run `split_issues.py` to move resolved issues to the archive file. Do NOT delete resolved issues yourself — just mark them resolved.
+- **Resolved Issues Index**: At the bottom of the file, one-line stubs list issues that have been moved to `05A_RESOLVED_ISSUES.md`. These are for reference only — the AI does not receive the archive file. If a new deed references a resolved issue, note the cross-reference but do not reopen the issue unless there is a genuine new defect.
+- **Issue numbering**: Sequential. Check the highest existing number and increment by 1 for new issues.
 - **Issue format**:
   ```
   **ISSUE-NN: Short Title**

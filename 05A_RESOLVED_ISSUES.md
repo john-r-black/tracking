@@ -1,4 +1,4 @@
-*Last updated: 2026-04-01 — Split from 05_OPEN_ISSUES.md*
+*Last updated: 2026-04-01 — Updated*
 # Black Land Project — Resolved Issues Archive
 
 *This file contains fully resolved issues preserved for the historical record. Do NOT upload this file to analysis conversations — it is reference only.*
@@ -173,6 +173,74 @@
 - **Resolution**: M. Stephen Beard confirmed active as sole trustee of Trust No. 2 as of 2026-03-10 by landowner (human-verified 2026-03-09). No trustee change anticipated. Beard's mailing address per CAD: 5408 Point Wood Circle, Waco TX 76710.
 - **Status**: RESOLVED
 - **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)
+
+
+
+
+---
+
+**ISSUE-25: Deed [17]/[38] Acknowledgment — Trust Number Scrivener's Error (PDF-CONFIRMED)**
+- **Risk level**: LOW — acknowledgment defect in recorded instrument; granting clause and signature block control; instrument was accepted for recording
+- **Background**: Deed [17] (2005-07-07, Trust No. 1 → Trust No. 2, special warranty mineral deed; [38] is the Limestone County filing of the same instrument) acknowledgment reads "Sole Trustee of the JOHN PIERCE BLACK AND OLENA BOUNDS BLACK ESTATE TRUST NO. **2**" — but the grantor is Trust No. **1** and Beard signed in the signature block as Trust No. 1's trustee. PDF-confirmed as original instrument error (not a transcription error). The notary or attorney used the wrong trust number. Deed [38] necessarily carries the identical error.
+- **Phase 5B confirmation**: Deed [38] in PHASE_5B.txt confirmed — acknowledgment reads "ESTATE TRUST NO. **2**" in the grantor-trustee position. Error present in both the Freestone and Limestone County recorded instruments.
+- **Legal effect**: In Texas, an acknowledgment defect does not void the conveyance; the granting clause controls as to the parties. The instrument was accepted for recording in both Freestone and Limestone Counties, curing any filing defect as to third parties. However, a title examiner will flag the inconsistency.
+- **Action**: Consider curative scrivener's affidavit confirming the acknowledgment should have identified Beard as Trust No. 1 trustee, consistent with the granting clause and signature block. Record in both Freestone and Limestone Counties.
+- **Status**: RESOLVED — documented; no further action required
+
+
+
+
+---
+
+**ISSUE-27: Exhibit A Sixth Tract — "S. Slaughter" Scrivener's Error in Original Instruments (PDF-CONFIRMED)**
+- **Risk level**: LOW — same error appears in every deed containing this Exhibit A; correct survey name established by surrounding context
+- **Background**: Deed [14] Exhibit A Sixth Tract (and identical Exhibit A in deeds [17] and presumably all other deeds using this template) reads "S. Slaughter Survey A-565." The correct survey name is **B. Slaughter (Benjamin Slaughter) Survey A-565**, as used in all other Exhibit A tracts and in CAD records. PDF-confirmed as original instrument error — the same mistake was propagated into every deed that copied this Exhibit A page.
+- **Affected deeds**: [14]/[36], [17]/[38], **[322]** (1979 McComb OGL — Sixth Tract reads "S. Slaughter Survey A-565"), and likely all other deeds containing this Exhibit A. **Phase 5B confirmation**: Deed [38] Exhibit A Sixth Tract confirmed as "S. Slaughter Survey A-565" [sic] — identical error. Deed [36] Exhibit A (confirmed against original LC Vol. 1180 Pg. 449) also contains this error in the original recorded instrument. **Deed [322] confirmation (2026-03-31)**: The "S. Slaughter" error appears in the 1979 McComb lease (26 years before the 2005 instruments), confirming the error originated in the Exhibit A template from at least 1979 and was propagated forward.
+- **Legal effect**: Minimal — Abstract A-565 is unambiguous (there is only one A-565 in Freestone County), the other eight sub-tracts correctly use "B. Slaughter," and the source deed reference (I.M. Thompson → J.M. Bounds, Sep 21 1885, Vol 2 p.410 FC) uniquely identifies the parcel. A title examiner will note the inconsistency but the conveyance is not impaired.
+- **Action**: Low priority. Could be addressed in a single curative scrivener's affidavit covering all affected instruments if a future transaction requires clean title. Annotated with [sic] in PHASE_5A.txt.
+- **Status**: RESOLVED — documented; no further action required
+
+
+
+
+---
+
+**ISSUE-28: Deed [17]/[38] Exhibit C — Blank Page Number in Original Instrument (PDF-CONFIRMED)**
+- **Risk level**: LOW — the deed's other identifying information (grantor, grantee, date, volume) uniquely identifies the source deed
+- **Background**: Deed [17] Exhibit C (Edwards Tract 85.30 ac; [38] is the Limestone County filing of the same instrument) references "deed from W. H. Mayo and wife, Mary E. Mayo to William Beene and G. W. Ausley, of date October 19, 1907, and of record in Volume 35, Page _, Deed Records of Freestone County, Texas." The page number field contains an underlined blank space — the attorney prepared the form with a blank for the page number but never filled it in. PDF-confirmed. **Phase 5B confirmation**: Deed [38] Exhibit C in PHASE_5B.txt confirmed as carrying the identical blank page number. Error present in both Freestone and Limestone County recorded instruments.
+- **Legal effect**: The Edwards Tract is more specifically identified by the second reference in the same sentence ("deed from W. P. Beene et ux to A. H. Edwards, of date January 31, 1911, and of record in Volume 47, Page 501") and by the full metes-and-bounds description in Exhibit C. The blank page number does not create ambiguity about the parcel.
+- **Action**: Pull Freestone County Deed Records Volume 35 to identify the correct page number for the Mayo→Beene/Ausley 1907 deed. Document for completeness.
+- **Status**: RESOLVED — documented; no further action required
+- **Edwards/Rice FC index session (2026-03-09)**: 1907 Mayo→Beene/Ausley deed not in FC Edwards index — index starts 1925 (earliest record), non-probative. No BEENE, MAYO, or AUSLEY entries found in Edwards surname index. Resolution still requires pulling FC Deed Records Volume 35 directly.
+
+
+
+---
+
+**ISSUE-39: Deed [109] — Recording Date Precedes Filing Date (Clerk Error in Original)**
+- **Risk level**: LOW — clerk administrative error in original instrument; does not affect the validity of the conveyance or the chain of title
+- **Background**: Deed [109] (1889-10-16, JH Bounds and wife M.E. Bounds → R. E. Lee, 69 ac Samuel Holloway Survey, Limestone County) records "filed March 27, 1890 at 9 AM; recorded March 26, 1890 at 3 PM" per the source text. The recording date (March 26) precedes the filing date (March 27) by one day. An instrument cannot be recorded before it is filed.
+- **Consequence**: The dates are reversed in the clerk's stamp — the correct sequence is filed March 27, then recorded (either also March 27 or at 3 PM on March 26 if the clerk processed it same-day and mis-stamped the date). This is an administrative anomaly in the original instrument. It has no effect on the validity of the conveyance or its priority — the instrument was filed and recorded in 1890, decades before any competing claim.
+- **Additional note**: The Samuel Holloway Survey parcel conveyed in deed [109] left the family chain permanently in 1889. The recording date anomaly has no bearing on any current title question.
+- **Action**: Document for completeness. No curative action required. If deed [109] original is pulled from Limestone County records for other reasons (e.g., confirming the [Page 514] volume/page citation), verify whether the clerk's stamp shows both dates.
+- **Status**: RESOLVED — documented; no further action required
+- **Added**: Integration Session 5 (2026-03-08); deed [109]
+
+
+
+
+
+---
+
+**ISSUE-49: Deed [337] Scrivener's Error — "Madison County" in Legal Description**
+- **Status**: RESOLVED — documented; no further action required
+- **Priority**: LOW (not a closing blocker; deed recorded in correct county; all other references correct)
+- **County**: Freestone
+- **Description**: Warranty deed [337] (FC Doc# 2000667, 2/28/2020) — Trust No. 2 → Texas Central Railroad & Infrastructure, Inc. — Exhibit A legal description states "WILLIAM RITCHIE SURVEY, ABSTRACT NO. 527, **MADISON COUNTY**, TEXAS." The correct county is FREESTONE COUNTY. The parent deed reference on the same page correctly states "OFFICIAL PUBLIC RECORDS, FREESTONE COUNTY, TEXAS (O.P.R.F.C.T.)." The deed was recorded in Freestone County. All other references in the instrument (cover page, granting clause, acknowledgments) reference Freestone County correctly.
+- **Risk**: LOW. The deed was properly recorded in Freestone County and the metes-and-bounds (identical to [336] Schedule 3, which correctly states "FREESTONE COUNTY") unambiguously locates the parcel. A Texas court would almost certainly construe "Madison County" as a scrivener's error given the overwhelming Freestone County references throughout the instrument and the recording in Freestone County. However, a scrivener's affidavit or correction deed from either party would formally cure the defect.
+- **Evidence**: Deed [337] Exhibit A page 6 of 7 (FC Doc# 2000667, image 154533388_90679866-06.png).
+- **Action**: If Texas Central Railroad & Infrastructure, Inc. is still an active entity, a correction deed or scrivener's affidavit should be obtained. If the company has dissolved or the project has been abandoned, the landowner's attorney should prepare a scrivener's affidavit for recording in Freestone County. This is not urgent but should be addressed at the next attorney closing.
+- **Added**: 2026-04-01 (deed [337] analysis)
 
 
 
