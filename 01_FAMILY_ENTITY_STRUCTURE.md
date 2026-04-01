@@ -1,4 +1,4 @@
-*Last updated: 2026-04-01 — Deed [332] — Trust history timeline: XTO Energy OGL 10/16/2006 added; Beard sole trustee of both trusts confirmed Oct 2006; Beard personal address documented (5408 Point Wood Circle, Waco TX 76710)*
+*Last updated: 2026-04-01 — Deed [333] — Trey Padgett identified as Sylvana Black Padgett's husband/partner (NCEC utility easement form, 2010)*
 # Black Land Project — Family & Entity Structure
 
 
@@ -75,6 +75,7 @@ MS Bounds + Mattie Mae Bounds (1/5/1879–9/8/1970)
                         │
                         └── James Allen Black (10/6/1943–still living)
                                   └── Sylvana Black Padgett (10/22/1970–still living)
+                                            +  Trey Padgett (deed [333], 2010)
 
 
 JT Black's parents (confirmed — deed [306] PDF, 2026-04-01; deed [314] affidavit, 1965):
@@ -130,7 +131,7 @@ John Thomas Black (10/21/1887–1/30/1959)
 | Brittany Lachelle Black | — | — | Unknown | Trust No. 1 beneficiary | Named as beneficiary in 2017 transition instrument. Parentage not established from instrument text — may be child of John Ramsey or Joel Matthew Black. No further data in file set. |
 | Von Ramsey Black | — | — | Unknown | Trust No. 1 beneficiary | Named as beneficiary in 2017 transition instrument. Parentage not established from instrument text. No further data in file set. |
 | Margaret Kate Black | — | — | Unknown | Trust No. 1 beneficiary | Named as beneficiary in 2017 transition instrument. Parentage not established from instrument text. No further data in file set. Note: GEDCOM contains "Martha Kay /Black/" (I432768738185) in FAM F2163 — possible match but not confirmed without further research. |
-| Sylvana Black Padgett | 10/22/1970 | — | Alive | James Allen Black's only daughter | Sole remainder beneficiary of Trust No. 2; holds POA from James Allen Black (LC Inst# 2023-0004016, 11/20/2023) [INDEX IDENTIFIED: LC, 2026-03-09] |
+| Sylvana Black Padgett | 10/22/1970 | — | Alive | James Allen Black's only daughter | Sole remainder beneficiary of Trust No. 2; holds POA from James Allen Black (LC Inst# 2023-0004016, 11/20/2023) [INDEX IDENTIFIED: LC, 2026-03-09]. Husband/partner: **Trey Padgett** (identified from deed [333] NCEC utility easement form, 2010 — "Easement for: Trey + Sylvana Padgett"; full legal name unknown) |
 | Donald Fredrick Willis Jr. | — | — | Alive (~2026) | Current trustee of Trust No. 1 | Executed 2026 deed to Gude; succeeded Beard effective May 1, 2017 per Trustee Resignation and Appointment of Successor Trustee (private document, unrecorded). **Name variants**: "Donald Fredrick Willis Jr." (legal name per landowner); "WILLIS DONALD FRED JR" (LC index Inst# 2025-0001187); "D. Fred Willis" (name form used in 2017 transition instrument and acceptance). All three refer to the same person. Appointment authority: Article X of the trust instrument. Notarized Harris County, 10/24/2017, by Laura R. Douglass. |
   - **⚠️ Unrecorded instrument**: The Beard→Willis transition instrument has NOT been recorded in Freestone or Limestone County deed records. It is held as a private "Successor Trustee Copy." Recording is still required — see ISSUE-03. |
 | M. Stephen Beard | — | — | Alive | Attorney who established both trusts in 2005; current trustee of Trust No. 2 | Named **Sole Trustee** of both trusts in 2005 instruments (confirmed by deeds [14]/[36], [16]/[37], [17]/[38]); was replaced as Trust No. 1 trustee by Willis; remains Trust No. 2 trustee; served as notary on 1979 trust documents (Deeds [08] and [26]); connection to Citizens National Bank predates his 1995 formal trustee role. **Attorney of Record for the Estate of John Pierce Black, Deceased** (Probate No. 4476, Limestone County) — confirmed by deed [321] (Affidavit of No Inheritance Tax Due, LC Inst# 07903577, 1979). Law firm at time of JP Black estate: **Pakis, Cherry, Beard & Giotes, Inc.**, 8th Floor, First National Bldg., Waco, Texas 76701 |
