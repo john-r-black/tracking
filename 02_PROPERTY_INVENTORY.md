@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [303] PDF pulled — Boyd Survey Portfolio revised: [121] retired (index error), replaced by [303] (162 ac J.E. Bounds); total documented dispositions revised to ~600.8 ac; arithmetic gap revised to ~444.8 ac*
+*Last updated: 2026-03-31 — Deed [122] PDF — Boyd Survey Critical Finding #4 updated ([108] parcel disposition now confirmed via [122])*
 # Black Land Project — Property Inventory
 
 
@@ -298,7 +298,7 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 
 3. **The deed [24] upstream chain is unresolved.** The ~42.8 acres conveyed by Verona E. Black in 1974 had been in the John Thomas Black / Verona Black family. How they acquired it — and whether it traces to JH Bounds or to a separate acquisition — is not documented. It is possible JH Bounds held other Boyd Survey land (beyond [106]) that passed through different family lines to eventually reach John Thomas Black and Verona.
 
-4. **JW Bounds' fate of the [108] 156-acre parcel is unknown.** JW Bounds received the entire ~156-acre Boyd Survey parcel as a gift in 1889. No deed from JW Bounds or his heirs reconveying this land to any family member has been found. The [113] 80-acre Boyd portion is confirmed as a separate part of the survey (different metes-and-bounds, Barry family source). The [108] parcel's disposition remains open — see ISSUE-32.
+4. **The [108] 156-acre parcel was sold out of the family chain by J.W. Bounds in 1890.** Deed [122] (PDF confirmed 2026-03-31) documents J.W. Bounds selling the entire ~158.7-acre Boyd Survey parcel (same metes-and-bounds as [106]/[108]) to James Brown & Sam Adams on Sept 26, 1890, for $2,600 via six vendor's lien notes. ⚠️ LC index for [122] shows grantor as "T.W. Bounds" — PDF proves this is an index error; actual grantor is "J. W. Bounds." This confirms the [106]/[108] parcel permanently left the family chain ~18 months after the [108] gift. No reversion. See ISSUE-32.
 
 5. **The [113] 80-acre Boyd portion came from the Barry-Bounds family holdings**, not from the [106]/[108] JH Bounds line. MS Bounds participated in the [113] sale as Mattie Mae's husband — this was Mattie's family's (Barry family's) Boyd Survey land, in which MS Bounds had an interest by virtue of the marriage and the Barry family's estate in that land.
 
