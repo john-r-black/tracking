@@ -1,0 +1,117 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-04-01_batch_02",
+  "date": "2026-04-01",
+  "documents_analyzed": [
+    "2002-01-01__330__f_assignmentofwaterrights_waterrights_txuelectric_txubigbrown.md"
+  ],
+  "batch_summary": "Deed [330] (FC Doc# 1008387, OR 1181/229) is an Assignment of Water Rights from TXU Electric Company to TXU Big Brown Company LP, effective January 1, 2002. It transfers Certificate of Adjudication No. 08-5040 (dam and reservoir on Big Brown Creek) — NOT real property. This was ISSUE-43 item 17, pulled to determine whether the rail spur parcel from deed [13] was assigned to the Big Brown entity chain. The answer is NO — this instrument conveys only water permits. However, the recitals confirm that separate special warranty deeds WERE executed under a Master Separation Agreement to convey TXU Electric's Freestone County real property to TXU Big Brown Co LP and others. The rail spur conveyance deed (if it exists as a separate recorded instrument) remains unidentified. All 'scope TBD' / 'scope unknown' references for Doc# 1008387 across files 04, 05, and 06 are updated to reflect 'WATER RIGHTS ONLY — NOT real property.' ISSUE-06 priority action (2) marked DONE; new action added to search for the Master Separation Agreement special warranty deeds. ISSUE-21 status updated.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [330] added to Phase 3 — Assignment of Water Rights, TXU Electric Co → TXU Big Brown Co LP (2002, water rights only — NOT real property); ISSUE-43 item 17 PULLED",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [330] entry to Phase 3, after deed [327] (10a). This is a corporate succession instrument — water rights only, no real property conveyed.",
+          "anchor": "ISSUE-43 item 22 satisfied. [PDF CONFIRMED: deed [327], 2026-04-01]",
+          "content": "10b. `2002-01-01_[330]_f` — TXU Electric Company → TXU Big Brown Company LP (assignment of water rights, Freestone) — **NOT A REAL PROPERTY CONVEYANCE.** Assigns Certificate of Adjudication No. 08-5040 (dam and reservoir on Big Brown Creek, issued 05/05/1987) from TXU Electric Company (formerly Texas Utilities Electric Company, successor by merger to Dallas Power & Light Company, Texas Power & Light Company, and Texas Electric Service Company) to TXU Big Brown Company LP (\"BB Genco\"), a Texas limited partnership. Executed pursuant to Master Separation Agreement dated January 1, 2002 and contemporaneous special warranty deed(s) conveying Grantor's Freestone County real property to BB Genco \"and others.\" **Recitals confirm separate special warranty deeds exist for real property — the rail spur conveyance (if included) would be in those separate deeds, NOT in this instrument.** Executed as of January 1, 2002. Signed by Thomas L. Baker, President, TXU Electric Company. Acknowledged December 14, 2001, Dallas County, before Teresa Muirhead NP (commission exp. May 15, 2004). Recording: OR Vol. 1181, Pg. 229–231 (3 pages), Doc# 1008387, Freestone County. Filed Dec 20, 2001 at 1:43 PM; Mary Lynn White, County Clerk, Freestone County; Deputy: Kelly Barker. Fee: $13.00. Return address: Project Champion, Worsham Forsythe Wooldridge LLP, 1601 Bryan Street 30th Floor, Dallas TX 75201. **ISSUE-43 item 17 satisfied. ISSUE-06 advanced (Doc# 1008387 scope confirmed: water rights only). ISSUE-21 advanced (same).** [PDF CONFIRMED: deed [330], 2026-04-01]"
+        },
+        {
+          "action": "replace",
+          "description": "Add [330] to Phase 3 overview table row",
+          "find": "| Phase 3 | PHASE 3.txt | Bounds → Olena transition & lifetime conveyances | [04], [05]/[23], [322], [07], [27], [28], [29], [30], [10]/[31], [11]/[32], [13], [327], [35], [323], [326] |",
+          "replace_with": "| Phase 3 | PHASE 3.txt | Bounds → Olena transition & lifetime conveyances | [04], [05]/[23], [322], [07], [27], [28], [29], [30], [10]/[31], [11]/[32], [13], [327], [330], [35], [323], [326] |"
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [330] — FC Doc# 1008387 scope confirmed: WATER RIGHTS ONLY (Certificate of Adjudication 08-5040, Big Brown Creek dam/reservoir); NOT a real property conveyance; rail spur assignment to TXU Big Brown Co LP still undocumented; corporate succession chain updated",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update action line to mark item (1) as done and note finding",
+          "find": "- Action: (1) Pull FC Doc# 2001-1008387 to determine if rail spur parcel was assigned to TXU Big Brown Co LP; (2) pull FC Doc# 2023-2302271 to confirm rail spur was NOT included in FLG Owner LLC conveyance; (3) search STB docket for rail spur abandonment; (4) confirm coal/lignite reversion language in deed [13] text — if reversion clause covers coal/lignite, current holder is Luminant Mining Co LLC; if not, coal/lignite remain with Luminant regardless of surface reversion",
+          "replace_with": "- Action: ~~(1) Pull FC Doc# 2001-1008387 to determine if rail spur parcel was assigned to TXU Big Brown Co LP~~ **DONE — deed [330]: WATER RIGHTS ONLY (Certificate of Adjudication 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur; recitals confirm separate special warranty deeds exist for real property under Master Separation Agreement — search FC index for TXU Electric → TXU Big Brown special warranty deeds circa 2001–2002**; (2) pull FC Doc# 2023-2302271 to confirm rail spur was NOT included in FLG Owner LLC conveyance; (3) search STB docket for rail spur abandonment; (4) confirm coal/lignite reversion language in deed [13] text — if reversion clause covers coal/lignite, current holder is Luminant Mining Co LLC; if not, coal/lignite remain with Luminant regardless of surface reversion"
+        },
+        {
+          "action": "replace",
+          "description": "Update corporate succession chain to replace 'scope TBD' with confirmed scope for Doc# 1008387",
+          "find": "TXU Big Brown Co LP (assignment, FC Doc# 2001-1008387, 12/20/2001; scope TBD)",
+          "replace_with": "TXU Big Brown Co LP (FC Doc# 2001-1008387, 12/20/2001; **WATER RIGHTS ONLY — deed [330] confirmed: Assignment of Water Rights (CA 08-5040, Big Brown Creek dam/reservoir), NOT real property; separate special warranty deeds for real property referenced in recitals but unidentified**)"
+        }
+      ]
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [330] — ISSUE-43 item 17 marked PULLED (water rights only, not real property); ISSUE-06 priority action (2) DONE, new action added; ISSUE-21 scope confirmed",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update ISSUE-21 status line to remove 'pull FC Doc# 2001-1008387' action and note finding",
+          "find": "- **Status**: OPEN — low urgency; corporate succession now complete; **remaining action**: review deed [13] reversion clause to determine whether coal/lignite revert with surface or are carved out; pull FC Doc# 2001-1008387 to confirm scope",
+          "replace_with": "- **Status**: OPEN — low urgency; corporate succession now complete; **remaining action**: review deed [13] reversion clause to determine whether coal/lignite revert with surface or are carved out. ~~Pull FC Doc# 2001-1008387 to confirm scope~~ **DONE — deed [330]: WATER RIGHTS ONLY (CA 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur or any real property**"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-21 corporate succession chain to replace 'scope TBD' with confirmed scope",
+          "find": "TXU Big Brown Co LP (FC Doc# 2001-1008387, ASSIGNMENT, 12/20/2001; scope TBD)",
+          "replace_with": "TXU Big Brown Co LP (FC Doc# 2001-1008387, ASSIGNMENT OF WATER RIGHTS, 12/20/2001; **deed [330] confirmed: water rights only (CA 08-5040), NOT real property**)"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-06 priority actions — mark item (2) as DONE with finding, add new action (6)",
+          "find": "- **Priority actions**: (1) Search STB docket for Big Brown rail spur abandonment proceeding; (2) Pull FC Doc# 2001-1008387 to determine if rail spur parcel was assigned to TXU Big Brown Co LP; (3) ~~Run separate \"TEXAS UTILITIES\" search in Freestone County~~ **DONE — deed [13] located**; (4) Pull FC Doc# 2023-2302271 to confirm rail spur was NOT in the FLG Owner LLC conveyance; (5) Contact Luminant Generation Co LLC / Vistra Corp to determine if they claim the rail spur",
+          "replace_with": "- **Priority actions**: (1) Search STB docket for Big Brown rail spur abandonment proceeding; (2) ~~Pull FC Doc# 2001-1008387 to determine if rail spur parcel was assigned to TXU Big Brown Co LP~~ **DONE — deed [330]: WATER RIGHTS ONLY (CA 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur; recitals reference separate special warranty deeds for real property under Master Separation Agreement**; (3) ~~Run separate \"TEXAS UTILITIES\" search in Freestone County~~ **DONE — deed [13] located**; (4) Pull FC Doc# 2023-2302271 to confirm rail spur was NOT in the FLG Owner LLC conveyance; (5) Contact Luminant Generation Co LLC / Vistra Corp to determine if they claim the rail spur; (6) Search FC deed index for TXU Electric Co → TXU Big Brown Co LP special warranty deed(s) circa 2001–2002 (Master Separation Agreement real property conveyance referenced in deed [330] recitals)"
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-06 corporate succession chain to replace 'scope unknown' with confirmed scope",
+          "find": "TXU Big Brown Co LP (FC Doc# 2001-1008387, ASSIGNMENT, OR/1181/229, 12/20/2001; scope unknown)",
+          "replace_with": "TXU Big Brown Co LP (FC Doc# 2001-1008387, ASSIGNMENT OF WATER RIGHTS, OR/1181/229, 12/20/2001; **deed [330] confirmed: water rights only (CA 08-5040, Big Brown Creek dam/reservoir), NOT real property; separate special warranty deeds referenced in recitals — unidentified**)"
+        },
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-43 item 17 as PULLED with findings",
+          "find": "  17. FC OR/1181/229 (Doc# 2001-1008387) — TXU Electric Co → TXU Big Brown Co LP, assignment (12/20/2001) — ISSUE-06/ISSUE-21, determines whether rail spur parcel was assigned to Big Brown entity chain",
+          "replace_with": "  17. ~~FC OR/1181/229 (Doc# 2001-1008387) — TXU Electric Co → TXU Big Brown Co LP, assignment (12/20/2001)~~ — **PULLED ✓ = deed [330]**; **NOT a real property conveyance** — Assignment of Water Rights only (Certificate of Adjudication 08-5040, dam and reservoir on Big Brown Creek). Rail spur parcel NOT conveyed by this instrument. Recitals reference separate Master Separation Agreement special warranty deed(s) for real property — those deeds are unidentified. ISSUE-06 advanced (scope confirmed; new action: search for MSA special warranty deeds). ISSUE-21 advanced (scope confirmed)."
+        },
+        {
+          "action": "replace",
+          "description": "Update ISSUE-43 priority line to remove item 17 from MEDIUM (now pulled)",
+          "find": "- **Priority**: HIGH (items 1-3, 22, 24), MEDIUM-HIGH (item 23), MEDIUM (items 4-7, 17-20, 25-28), LOW (items 8-9, 21)",
+          "replace_with": "- **Priority**: HIGH (items 1-3, 22, 24), MEDIUM-HIGH (item 23), MEDIUM (items 4-7, 18-20, 25-28), LOW (items 8-9, 21)"
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [330] added to Deed Register — Assignment of Water Rights, TXU Electric Co → TXU Big Brown Co LP, FC OR/1181/229 (water rights only, NOT real property); deed [13] entry updated (Doc# 1008387 scope confirmed)",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [330] row to Deed Register after deed [327]",
+          "anchor": "**NOT in MS Bounds/Olena/Trust chain** — R.G. Bounds collateral branch. ISSUE-43 item 22. Phase 3 |",
+          "content": "| [330] | TXU Electric Company → TXU Big Brown Company LP | Freestone | ✓ | FC Doc# 1008387, OR Vol. 1181, Pg. 229–231. Filed Dec 20, 2001 at 1:43 PM; Mary Lynn White, County Clerk, Freestone County; Deputy: Kelly Barker. Fee: $13.00. | 229–231 (3 pages) | 2002-01-01 (effective) | 2001-12-20 | **Assignment of Water Rights — NOT a real property conveyance.** Transfers Certificate of Adjudication No. 08-5040 (dam and reservoir on Big Brown Creek, issued 05/05/1987) from TXU Electric Company (formerly Texas Utilities Electric Company, successor by merger to Dallas Power & Light, Texas Power & Light, Texas Electric Service Company) to TXU Big Brown Company LP (\"BB Genco\"), a Texas limited partnership at 1601 Bryan, Dallas TX 75201. Executed pursuant to Master Separation Agreement dated January 1, 2002 and contemporaneous special warranty deed(s) conveying Grantor's Freestone County real property to BB Genco and others — those separate deeds are referenced but NOT identified by recording citation. **Does NOT convey the rail spur parcel from deed [13].** Signed: Thomas L. Baker, President, TXU Electric Company. Acknowledged Dec 14, 2001, Dallas County; Teresa Muirhead NP (exp. May 15, 2004). Return: Project Champion, Worsham Forsythe Wooldridge LLP, 1601 Bryan St 30th Fl, Dallas TX 75201. ISSUE-43 item 17. ISSUE-06/ISSUE-21 advanced. Phase 3 |"
+        },
+        {
+          "action": "replace",
+          "description": "Update deed [13] Deed Register entry to replace 'scope TBD' with confirmed scope for Doc# 1008387",
+          "find": "Corporate succession: TXU Electric Co → TXU Big Brown Co LP (FC 2001-1008387, 12/20/2001, scope TBD) → Big Brown Power Co LLC (FC 2007-707919, 10/11/2007).",
+          "replace_with": "Corporate succession: TXU Electric Co → TXU Big Brown Co LP (FC 2001-1008387, 12/20/2001; **deed [330] confirmed: WATER RIGHTS ONLY (CA 08-5040), NOT real property — separate MSA special warranty deeds referenced but unidentified**) → Big Brown Power Co LLC (FC 2007-707919, 10/11/2007)."
+        }
+      ]
+    }
+  }
+}
