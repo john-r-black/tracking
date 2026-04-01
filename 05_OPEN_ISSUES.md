@@ -1,9 +1,11 @@
-*Last updated: 2026-04-01 — Beard/Willis transcription — ISSUE-03 advanced (full transcription on file; recital error flagged; signature coverage and facsimile provision documented)*
+*Last updated: 2026-04-01 — Resolved issues moved to 05A_RESOLVED_ISSUES.md*
 # Black Land Project — Open Issues List
 
 
 
+
 ---
+
 
 **ISSUE-43: Master Pull List — Index-Identified and CAD-Identified Instruments**
 - **Status**: OPEN
@@ -40,7 +42,9 @@
   27. J.V. Bounds Jr. will (FC probate, executed 6/18/1923 per deed [308] recital) — identifies real estate remaindermen for 60.4-ac Richie League tract. MEDIUM priority / ISSUE-44.
   28. ~~FC Doc# 1962-690 (DR/314/115)~~ — **PULLED ✓ = deed [313]**; Oil, gas and mineral lease, **Bessie Bounds et al.** (NOT McLelland Elgin per FC index) → Jack H. Meeks; 60.4 ac Wm. Ritchie A-527 Lot 3; all J.V. Jr. will beneficiaries + 8 probable J.V. Jr. children as lessors; Bessie as agent/attorney-in-fact; 5-year term from 3/1/1962; $10.00 + 1/8 royalty. FC index misleadingly indexed under "MC LELLAND ELGIN" — Elgin was one of ~35 lessors. Confirms mineral ownership held by J.V. Jr. family group as of 1962. ISSUE-44 advanced.
 
+
 ---
+
 
 ## PROJECT OBJECTIVE — SINGLE ATTORNEY CLOSING
 
@@ -64,53 +68,15 @@
 
 **Then**: Formal dissolution of Trust No. 1.
 
+
 ---
+
 
 ## Priority 1 — Active Title Defects (Someone else may have a legitimate claim)
 
-### ISSUE-01: Ennis & Dorsett Estates — Unresolved 2/3 Interests in John Boyd Survey
-- **Risk level**: HIGH — confirmed third-party ownership; these are not speculative interests
-- **Background**: Deed [24] (1974-12-30) — Verona E. Black (JP Black's mother) conveyed three John Boyd Survey tracts (~42.8 acres total, Limestone County, near Tehuacana) to her three children with no fractional language, meaning equal 1/3 undivided interests by Texas law:
-  - **Genevieve Dorsett** (4/4/1913–4/5/1999) — JP Black's sister; died in Tehuacana, Limestone County, Texas
-  - **Georgia Nell Ennis** (5/1/1915–1/15/2008) — JP Black's sister; died in San Antonio, Bexar County, Texas
-  - **John P. Black** — JP Black himself
-  - Deed is full warranty with no mineral reservations. No subsequent deed from Dorsett or Ennis (or their estates/heirs) to anyone in the Black family exists in the file set.
-- **Tracts**: First Tract 16.80 ac, Second Tract 25.00 ac, Third Tract ~1.00 ac (less 100×100 ft lot)
-- **Consequence**: The Dorsett estate and Ennis estate each hold a 1/3 interest in ~42.8 acres. JP Black held only 1/3. None of these tracts appear in the 21-parcel CAD inventory — they are either recorded under Dorsett/Ennis names or have never been resolved in the public record.
-- **JP Black's 1/3**: Also unaccounted for in CAD. Must determine whether it flowed into the trust through [09]/[26] general quitclaims or was simply overlooked.
-- **Action**:
-  - (a) **Limestone County probate**: Search for estate of Genevieve Dorsett (d. 4/5/1999, Tehuacana, Limestone County). Identify her heirs and obtain any distribution deed or heirship affidavit for her 1/3 interest
-  - (b) **Bexar County probate**: Search for estate of Georgia Nell Ennis (d. 1/15/2008, San Antonio, Bexar County). Identify her heirs and obtain any distribution deed or heirship affidavit for her 1/3 interest
-  - (c) Search Limestone County deed records for any deed FROM Genevieve Dorsett or Georgia Nell Ennis (or their estates/heirs) to anyone in the Black family
-  - (d) Search for the John Boyd Survey tracts in Limestone CAD under Dorsett/Ennis names
-  - (e) Determine whether [09]/[26] quitclaim language was broad enough to sweep in JP Black's 1/3
-  - (f) If Dorsett/Ennis interests were never conveyed, evaluate adverse possession or quiet title options
-- **Status**: **RESOLVED** — Deed [318] (LC Inst# 07500489, Pg. 328, recorded 01/27/1975) confirms ALL three deed [24] grantees (Georgia Nell Ennis, Genevieve Dorsett, AND John P. Black) jointly sold the entire ~42.8 acres (all three John Boyd Survey tracts) to Roy Simmons and wife Virginia M. Simmons on January 18, 1975 — 19 days after deed [24]. Warranty deed with vendor's lien ($12,800 note); L.L. Dorsett deed of trust trustee. 10-year 1/16 NPRI reserved, expired 1985. **The Boyd Survey is NOT family property. All 3/3 interests left the family chain in January 1975.** No Dorsett probate, Ennis probate, or quiet title action is needed for these tracts. Remaining ISSUE-01 pull list items (items 12–15) are no longer needed for Boyd Survey resolution but may have independent research value for other Dorsett/Ennis Limestone County transactions.
-- **Dorsett/Ennis index session (2026-03-09)**: Four county deed indices searched: L-Dorsett (76 records, LC, 1876–2004), L-Ennis (95 records, LC, 1928–2022), F-Dorsett (14 records, FC, 1953–1993), F-Ennis (106 records, FC, 1937–2025). Key findings:
-  - **⚠️ CRITICAL LEAD — Joint Dorsett/Ennis → Simmons Deed (January 1975)**: LC Inst# 07500489, Vol. 593, Pg. 328, DEED, recorded 01/27/1975. Both Dorsett and Ennis are co-grantors (indexed under both surnames). Grantee: SIMMONS ROY ET UX. Recorded **24 days after deed [24]**. Roy Simmons was the notary on deed [24] (per 06_TECHNICAL_SPEC.md). No legal description in index — cannot confirm from index alone whether this covers Boyd Survey. Companion vendor's lien release: LC Inst# 07804491, Vol. 630, Pg. 105 (06/13/1978), confirming the 1975 instrument was a sale with seller financing. **If this deed covers the Boyd Survey 2/3 interest**: both sisters' interests left the Dorsett/Ennis families in January 1975 and are held by the Simmons chain; ISSUE-01 shifts to a Simmons surname search. **If not**: ISSUE-01 remains unchanged. **PRIORITY**: Pull LC Vol. 593, Pg. 328 IMMEDIATELY.
-  - **Dorsett family identified**: (a) Full name: DORSETT GENEVIEVE BLACK (maiden name Black confirmed, Inst# 00931916). (b) Had husband **L. L. Dorsett** — confirmed from deed [310] instrument text (PDF CONFIRMED 2026-03-31): warranty deed, "L.L.Dorsett and wife, Mrs.Genevieve B Dorsett" → Mrs. H.O. Eady, Tehuacana town lot Block 23, $5,500, Jan 13, 1959; LC Vol. 457, Pg. 598–599, Inst# 05901309. Also confirmed independently by deed [312] affidavit text. (c) DORSETT DONALD J **confirmed son** (full name: Donald John Dorsett) — deed [325] (PDF CONFIRMED 2026-03-31, Inst# 00931916, Vol. 890, Pg. 270): Warranty Deed, Genevieve → Dorsett Family Trust of 1992; names him as trustee and as one of three children/beneficiaries. **Three children confirmed**: Diane D. Scripps (married name), Lawrence Lee Dorsett, Donald John Dorsett. Trust created December 24, 1992. Genevieve described as "a single person" — L.L. Dorsett deceased before Feb 1993. (d) DORSETT GENEVIEVE B FAMILY TRUST existed and conveyed property post-death — **PULLED ✓ = deed [329]** (Warranty Deed with Vendor's Lien, Donald J. Dorsett Trustee → Cynthia S. Tiblier + Bruce V. Tiblier, 0.326 ac Block 22 Tehuacana, $76,000 vendor's lien, LC Vol. 1040 Pg. 510–512, Inst# 00003589, filed 08/25/2000, recorded 08/28/2000; PDF CONFIRMED 2026-03-31).
-  - **Post-death Dorsett estate affidavit — PULLED ✓ = deed [328]**: LC Inst# 00992049, Vol. 1011, Pg. 194–196, AFFIDAVIT OF HEIRSHIP WITH WILL ATTACHED, Lawrence L. Dorsett + Donald J. Dorsett + Diane D. Scripps → PUBLIC, recorded 05/12/1999 — filed 37 days after Genevieve's death (4/5/1999). Confirms: L.L. Dorsett full name Laroy Lee Dorsett (born 1/22/1911, died 12/9/1980); married once to Genevieve 1/13/1933; three children sole heirs; will dated 3/5/1981; estate = personal property only (~$23,200 in bank accounts + burial plots). NON-PROJECT PROPERTY — no real property in Genevieve's estate at death.
-  - **Deed [24] INDEX CONFIRMED in L-Ennis**: Inst# 07507434, Vol. 592, Pg. 773, DEED, 01/03/1975. NOT found in L-Dorsett (county indexing omission).
-  - **Georgia Nell Ennis**: One FC instrument found (Doc# 1941-71, WARRANTY DEED, ENNIS GEORGIA NELL → CAIN A T, E RUSSELL SUR, 01/20/1941 — Freestone County land, no husband joining). No post-2008 estate instruments in either county. No husband name found in any index. Ennis estate research remains necessary if Simmons deed does not cover Boyd Survey.
-  - **T.K. Dorsett / Boyd Survey**: Separate Dorsett family (T.K. Dorsett, Evie Lee Dorsett) held independent Boyd Survey interests in LC (1949–1952, DORSETT T K Boyd Survey affidavit Vol. 376 Pg. 345; DORSETT EVIE LEE Boyd League deed Vol. 335 Pg. 257). Relationship to Genevieve's husband TBD.
-  - **Revised priority PDF pulls for ISSUE-01**: (1) LC Inst# 07500489, Vol. 593, Pg. 328 — Dorsett/Ennis → Simmons deed **(HIGHEST PRIORITY)**; (2) ~~LC Inst# 00992049, Vol. 1011, Pg. 194~~ — **PULLED ✓ = deed [328]**; Affidavit of Heirship with Will Attached; L.L. Dorsett = Laroy Lee Dorsett (born 1/22/1911, died 12/9/1980); estate = personal property only; NON-PROJECT PROPERTY; (3) ~~LC Inst# 07804491, Vol. 630, Pg. 105~~ — **PULLED ✓ = deed [320]**; Release of Lien, Boyd Survey vendor's lien paid in full; (4) ~~LC Inst# 00931916, Vol. 890, Pg. 270~~ — **PULLED ✓ = deed [325]**; Warranty Deed, Genevieve Black Dorsett → Dorsett Family Trust of 1992; NON-PROJECT PROPERTY; confirms three Dorsett children (Diane D. Scripps, Lawrence Lee Dorsett, Donald John Dorsett), L.L. Dorsett deceased before 1993, trust created Dec 24, 1992; (5) ~~LC Inst# 00003589, Vol. 1040, Pg. 510~~ — **PULLED ✓ = deed [329]**; Warranty Deed with Vendor's Lien, Dorsett Family Trust (Donald J. Dorsett, Trustee) → Cynthia S. Tiblier + Bruce V. Tiblier; 0.326 ac Block 22 City of Tehuacana; $10 + $76,000 vendor's lien (Cendant Mortgage); NON-PROJECT PROPERTY — completes trust disposition chain; (6) ~~LC Inst# 05901309, Vol. 457, Pg. 598~~ — **PULLED ✓ = deed [310]**; non-project property (Tehuacana town lot, Block 23, $5,500); L.L. Dorsett name confirmed from instrument text; Block 23 connection to deed [309] Needham property
-  - **If Simmons scenario confirmed**: Run Simmons surname search in Limestone County
-  - **If Simmons scenario NOT confirmed**: Run Bexar County probate search for Georgia Nell Ennis estate
-- **Session 3 update** (Integration Session 3, 2026-03-07): Deeds [104], [106], [108], [113], [114] were analyzed. Key findings bearing on ISSUE-01:
-  - The deed [24] ~42.8 acres (three John Boyd Survey tracts near Tehuacana) **cannot derive from the [106]/[108] parcel** — metes-and-bounds are different. The [106]/[108] parcel begins 500 varas west of the SE corner of the Boyd League; the deed [24] tracts have different starting points and dimensions.
-  - The [113] 80-acre Boyd League portion was Barry family land (Mattie Mae née Barry's family) conveyed to the Adams family in 1910 — 64 years before deed [24]. It is **not** the source of deed [24].
-  - JH Bounds held Boyd Survey land before [106] (confirmed by deed [104], 1885, town lot sold 18 months before the 1886 Haley acquisition). That earlier holding's source deed is not in the file set.
-  - The upstream source of John Thomas Black's / Verona E. Black's Boyd Survey holding (which produced deed [24]) remains unidentified.
-  - **Net effect**: ISSUE-01 is narrowed — two potential Boyd Survey sources ([106]/[108] parcel and [113] parcel) are confirmed NOT to be the deed [24] source. But the actual deed [24] upstream chain is still not documented. ISSUE-01 remains OPEN.
-- **Deed [312] analysis (2026-03-31)**: JT Black heirship affidavit (LC Inst# 05901580, executed 2/9/1959, filed 3/9/1959) now pulled and reviewed. Affiants Kelly Bounds and Jeff Bounds confirm JT Black died intestate 1/30/1959; married once to Verona E. Pierce; three children only: JP Black (Limestone Co.), Genevieve Black married to **L. L. Dorsett** (Dallas Co. in 1959), Georgia Nell Black married to **R. A. Ennis** (Harris Co. in 1959). No adoption, no administration, estate < $10,000. **Husband names now known**: L.L. Dorsett and R.A. Ennis — enables targeted surname searches ("DORSETT L L" in Limestone/Dallas counties; "ENNIS R A" in Harris/Bexar counties). The affidavit is the legal foundation for ISSUE-43 item 2 (gift deed, JP et al → Verona, same-day filing at LC Vol. 458 Pg. 314). Combined, these two instruments establish the chain: JT Black → heirs by intestacy → gift deed → Verona E. Black → deed [24]. **Genevieve's 1959 residence (Dallas Co.) vs. death location (Tehuacana, Limestone Co.)** — she relocated between 1959 and 1999. **T.K. Dorsett / L.L. Dorsett connection**: ISSUE-01 notes T.K. Dorsett and Evie Lee Dorsett held independent Boyd Survey interests in LC (1949–1952). Whether T.K. Dorsett is related to L.L. Dorsett is now a researchable question. ISSUE-01 remains OPEN — resolution still depends on Dorsett/Ennis → Simmons deed (ISSUE-43 item 11).
-- **Deed [311] analysis (2026-03-31)**: Gift deed (LC Inst# 05901581, Vol. 458, Pg. 314, executed 2/9/1959, filed 3/9/1959) now pulled and reviewed. Grantors: J. P. Black (Limestone Co.), Georgia Nell Ennis and husband R. A. Ennis (Harris Co.), Genevieve Dorsett and husband L. L. Dorsett (Dallas Co.) → Grantee: Verona E. Black (Limestone Co.), their mother. Consideration: love and affection. **Blanket conveyance**: "all of our interest in the estate of John T. Black, deceased, including all real and personal property of every kind and character, whether situated in Limestone County, Texas, or any other county or state." No mineral reservation — full fee simple. Habendum: "to her, the said Verona E. Black, her heirs and assigns forever." Companion instrument to deed [312] (heirship affidavit, same-day filing). **All acknowledgments in Limestone County (Feb 21, 1959)** despite Ennis family residing in Harris County and Dorsetts in Dallas County — all parties traveled to Limestone County. Georgia Nell Ennis and Genevieve Dorsett each examined privily and apart from husband (standard 1959 Texas married woman's acknowledgment). Notary names illegible on all three certificates. **Chain confirmed**: JT Black (d. 1/30/1959) → heirs by intestacy → deed [311] → Verona E. Black (100%) → deed [24] (1974) → JP Black/Ennis/Dorsett in 1/3 shares. **Significance**: (a) blanket language means Verona received ALL JT Black property, not just Boyd Survey — if JT Black owned other real property in any county, it also passed through [311]; (b) the upstream question shifts entirely to how/when JT Black acquired Boyd Survey land — that acquisition is still undocumented; (c) ISSUE-43 item 2 is now PULLED. ISSUE-01 remains OPEN — resolution still depends on the Dorsett/Ennis → Simmons deed (ISSUE-43 item 11).
-- **Deed [310] analysis (2026-03-31)**: Warranty deed (LC Inst# 05901309, Vol. 457, Pg. 598–599, executed 1/13/1959, filed 2/23/1959, recorded 2/25/1959). Grantors: L.L. Dorsett and wife Mrs. Genevieve B Dorsett. Grantee: Mrs. H.O. Eady. Property: SE corner of south half of Block 23, Town of Tehuacana, Limestone County — beginning at SE corner of Block 23, west 50 feet, north full length of lot to alley, east to east line of Block 23, south to beginning. Consideration: $5,500 cash. No mineral reservation — full warranty deed, surface + minerals. Signed at Tyler, Texas; joint acknowledgment before Edd Oliver, Notary Public, Smith County, Texas, Jan 13, 1959. Genevieve B. Dorsett examined privily and apart from husband. Documentary stamps: $6.05 (5+1+0.05). **NON-PROJECT PROPERTY** — Tehuacana town lot, not in Black/Bounds chain. **Research value**: (a) Confirms L.L. Dorsett's name from instrument text — grantor line reads "L.L.Dorsett and wife, Mrs.Genevieve B Dorsett," corroborating deed [312] identification. (b) **Block 23 connection**: Same Block 23 as deed [309] Needham heirship affidavit (Feb 1958). Deed [309] describes Needham lot as "east end of south half of Block 23"; deed [310] conveys the "S.E. corner of the South half of Block 23" — these are geographically overlapping or adjacent parcels. JT Black testified about Block 23 ownership 11 months before his death; the Dorsetts sold their Block 23 lot 17 days before JT Black died. Whether the Dorsett lot derived from the Needham estate (for which JT Black executed the heirship affidavit) is unconfirmed but circumstantially plausible. (c) Tyler/Smith County signing location: deed signed at Tyler TX and acknowledged before Smith County NP, despite Dorsetts' Dallas County residence per deed [312]. (d) Same clerk (John Kidd) and deputy (Lila Johnson) as deeds [309], [311], [312] — consistent with 1958–1959 Limestone County clerk's office. ISSUE-43 item 16 is now PULLED. ISSUE-01 remains OPEN — no bearing on Boyd Survey disposition.
-- **Deed [306] analysis (2026-04-01)**: Warranty deed (LC Vol. 278, Pg. 379–382, Inst# 1943000000000013, executed 11/27/1942, filed 1/2/1943, recorded 1/2/1943). Grantors: W. E. Black (widower) and children — Hallie Milburn (& J.R. Milburn), Ella Rowell (& G.L. Rowell), C. E. Black (& Erna Black), Zona Thompson (& F.P. Thompson), J. A. Black, Leta Black; plus W. D. Swint and children (J.W. Swint & Bertha, A.C. Swint & Jestena, Essie Campbell & I.L. Campbell). Grantee: J. T. Black (Navarro County, Texas). Property: 56.8 ac part of Lipscomb Norvell headright, Limestone County. Metes-and-bounds identical to [314] affidavit and [316] Wilson deed. Consideration: $1,000 cash; vendor's lien retained. Surface + minerals — no mineral reservation. **Key findings**: (a) **NOT Boyd Survey** — ISSUE-43 item 4 was labeled "Boyd chain" but deed [306] covers only the Lipscomb Norvell headright. JT Black's Boyd Survey acquisition source must be a separate, unlocated instrument. This resolves the [314] analysis question about whether item 4 was a multi-survey instrument. (b) **W. E. Black family confirmed**: W.E. Black is JT Black's father, signing as "a widower" (Ida A. Black deceased by Nov 1942). Children identified: Hallie (m. Milburn), Ella (m. Rowell), C.E. Black, Zona (m. Thompson), J.A. Black, Leta Black. The W.D. Swint lineage (different surname) likely connects through a deceased Black daughter or through Ida A. Black. (c) **C.E. Black confirmed sibling** of JT Black, not parent — reclassification from "probable" to confirmed. C.E. Black acknowledged in Delta County (Dec 4, 1942, L.B. Taylor NP); he was NOT first-named grantor (W.E. Black is the primary grantor), but was alphabetically first among children, explaining the LC index entry "BLACK C E +". (d) **JT Black residence**: Navarro County, Texas in 1942 — not Limestone County. He moved to Limestone County before his death (1959). (e) **Acknowledgment span**: Nov 27–Dec 22, 1942 across four counties and two states (TX and AZ) — the family was geographically dispersed. (f) George Rowell and Joe Milburn (= J.R. Milburn) signed with marks (x). (g) Revenue stamps $1.10 (IRS). **DISPOSED PROPERTY** — Norvell Survey disposition chain fully documented: W.E.+Ida Black → JT Black ([306], 1943) → heirs → Verona ([311], 1959) → Wilson ([316], 1965). No bearing on current project holdings. ISSUE-43 item 4 is now PULLED.
-- **Deed [314] analysis (2026-03-31)**: Affidavit of Title (LC Pg. 304–305, Doc# 3773, executed 6/8/1965, filed 7/26/1965). Affiants W.D. Bounds and Jeff Bounds attest to Verona E. Black's ownership of 56.8 ac Lipscomb Norvell Survey, Abstract No. 20, Limestone County. **Key genealogical finding**: Property was acquired by **W. E. Black and wife Ida A. Black** more than 40 years before 1965, and "W. E. Black and his children" conveyed to J. T. Black in 1943. This identifies W.E. Black and Ida A. Black as JT Black's probable parents and reclassifies C.E. Black (ISSUE-43 item 4 grantor in the 1943 Boyd chain deed) as a probable sibling of JT Black rather than a parent. ⚠️ The [314] affidavit references the Norvell Survey, while item 4 is labeled "Boyd chain" — the 1943 deeds may be one multi-survey instrument or two separate deeds. Pulling item 4 (LC Vol. 278 Pg. 379) will resolve this and may reveal whether JT Black's Boyd Survey holdings also trace to W.E. Black. **DISPOSED PROPERTY** — Verona sold this Norvell tract to Wilson in 1965 (**deed [316]**, companion deed at LC Vol. 516 Pg. 307, PULLED ✓ 2026-03-31); no bearing on current project holdings. ISSUE-01 remains OPEN — resolution still depends on the Dorsett/Ennis → Simmons deed (ISSUE-43 item 11).
-- **Deed [318] analysis (2026-03-31) — ISSUE-01 RESOLUTION**: Warranty Deed with Vendor's Lien (LC Inst# 07500489, Pg. 328–330, Doc# 489, executed 1/18/1975, filed 1/22/1975 10:50 AM, recorded 1/27/1975 4:00 PM). Grantors: Georgia Nell Ennis (Harris County, Texas), Genevieve Dorsett (Jefferson County, Alabama), and John P. Black (Limestone County, Texas). Grantees: Roy Simmons and wife Virginia M. Simmons (Limestone County, Texas). Property: "All of my property in Limestone County, Texas" — three John Boyd Survey tracts with metes-and-bounds identical to deed [24]: First Tract 16.8 ac, Second Tract 25 ac, Third Tract ~1 ac less 100×100 ft lot previously deeded by John T. Black and Grantor. Total ~42.8 ac. Consideration: $10.00 + promissory note of $12,800 (vendor's lien retained; deed of trust to L. L. Dorsett, trustee). **Mineral reservation**: "Grantors reserve for ten years only a 1/16th non-participating royalty interest in any oil and gas leases that may be executed by Grantees" — this NPRI expired January 1985. No continuing family mineral interest. General warranty deed — warrant and forever defend. **Critical findings**: (a) **ALL THREE deed [24] grantees sold jointly** — not just Dorsett and Ennis (2/3) but JP Black (1/3) as well. The entire ~42.8 ac Boyd Survey holding left the family chain on January 18, 1975, 19 days after deed [24] and two years before the 1977 trust formation. (b) **Roy Simmons connection**: Roy Simmons was the notary on deed [24] (per 06_TECHNICAL_SPEC.md) — he notarized the mother's conveyance TO the three children, then purchased FROM the three children 19 days later. This strongly suggests a prearranged transaction: Verona conveyed to her children so they could sell to Simmons. (c) **Genevieve Dorsett's 1975 residence**: Jefferson County, Alabama — she moved from Dallas County (per 1959 affidavit) to Alabama by 1975. Her acknowledgment was originally captioned "State of Texas" then corrected to "State of Alabama" (scrivener's correction on preprinted form). Acknowledged Jan 20, 1975 before Lois S. Moore NP, Jefferson County, Alabama (commission exp. Apr 23, 1976; bonded by Home Indemnity Co. of N.Y.). She later returned to Tehuacana, where she died in 1999. (d) **L.L. Dorsett as deed of trust trustee**: Genevieve's husband served as trustee on the deed of trust securing the $12,800 note — confirms close family involvement in the transaction. (e) **Third Tract lot exception**: Deed [318] describes the 100×100 ft exclusion as "previously deeded by John T. Black and Grantor" — confirms the prior conveyance referenced in deed [24] was made by JT Black while alive (pre-1959). (f) **Vendor's lien release**: LC Inst# 07804491, Vol. 630, Pg. 105 (06/13/1978) — the $12,800 note was paid off approximately 3.5 years after the sale. (g) **Notary/clerk**: Ennis and JP Black acknowledged Jan 18, 1975 before Geraldine Fender NP, Limestone County; filed by Starlet Ross, Deputy; Dena Pruitt, County Clerk (same clerk as deed [24]). **ISSUE-01 is RESOLVED. The Boyd Survey is permanently disposed property. No Dorsett probate search, Ennis probate search, adverse possession claim, or quiet title action is needed for these tracts.** ISSUE-43 items 12–15 (Dorsett/Ennis instruments) are no longer needed for Boyd Survey resolution but may have independent research value for other Dorsett/Ennis Limestone County land transactions.
-- **Deed [328] analysis (2026-03-31)**: Affidavit of Heirship with Will Attached (LC Inst# 00992049, Vol. 1011, Pg. 194–196, Doc# 992049, executed 4/26/1999, filed 5/12/1999, recorded 5/13/1999). Affiants: Lawrence L. Dorsett, Donald J. Dorsett, Diane D. Scripps — sole surviving children of Genevieve B. Dorsett (4/4/1913–4/5/1999). **Key finding: L.L. Dorsett’s full name is Laroy Lee Dorsett** (born 1/22/1911, died 12/9/1980). Married Genevieve once only on 1/13/1933. This narrows L.L. Dorsett’s death from the previous estimate (“before Feb 1993” per deed [325]) to a specific date — he died 14 months before the 1981 will and 12 years before the 1992 trust. Will (3/5/1981, Exhibit A): leaves all property equally to three children in fee simple; Donald J. Dorsett named Independent Executor, no bond. Estate at death: personal property only — checking account ~$6,000, CD ~$16,000, 12 burial plots ~$1,200. **No real property in estate.** The 100×137 ft lot was already in the trust (deed [325], 1993), and the Boyd Survey had been sold in 1975 (deed [318]). Affiants state no administration was necessary; estate below tax exemptions. ⚠️ Name variant: will spells “Schripps” (with h) vs “Scripps” in affidavit body and deed [325] — probable scrivener’s error in 1981 will. Diane D. Scripps signed in Alabama (Terrie E. Atchison NP, State of Alabama) — consistent with Genevieve’s Alabama connections per deed [318] (1975 acknowledgment in Jefferson County, AL). **T.K. Dorsett question**: With L.L. Dorsett’s full name now known as Laroy Lee Dorsett, genealogical research can determine whether T.K. Dorsett (Boyd Survey, 1949–1952) is related. ISSUE-01 remains RESOLVED. ISSUE-43 item 12 is now PULLED.
 
 ---
+
 
 ### ISSUE-02: Gussie Weaver and Jewell Weaver Mineral Severance (33.61 acres, F15408)
 - **Risk level**: HIGH — minerals definitively not in the family chain
@@ -126,7 +92,9 @@
 - **Priority PDFs**: ~~(1) FC 1985-5299 (Gussie heirship)~~ — **PULLED ✓ = deed [324]**; (2) FC 2012-1204330/1204331/1204332 (2012 lease memoranda); (3) FC 1985-5298, 1985-5297 (supporting affidavits)
 - **Status**: OPEN (partially resolved) — Gussie Weaver heir line fully identified per deed [324] heirship affidavit (pulled 2026-03-31); Jewell Weaver heir line still requires independent identification (minerals held in Weaver Jewell P Family Testamentary Trust)
 
+
 ---
+
 
 ## Priority 2 — Documentation Gaps (Affect marketability, financing, and future transactions)
 
@@ -151,7 +119,9 @@
 - **Status**: PARTIALLY RESOLVED — instrument exists, is legally effective, and **full transcription is on file (2026-04-01)**. **Recording in both Freestone and Limestone Counties is still required.**
 - **Action**: (a) Record the Trustee Resignation and Appointment instrument in both Freestone County and Limestone County deed records — this can be done now, independent of the attorney closing; (b) bundle with ISSUE-30, ISSUE-31, and ISSUE-24 correction instruments in the single coordinated attorney closing so all curative work is completed simultaneously; (c) pull LC Inst# 2025-0001187 to determine whether a supplemental affidavit of trust facts was already filed
 
+
 ---
+
 
 ### ISSUE-04: No Title Search or Title Insurance on 2026 Gude Deed
 - **Risk level**: MEDIUM — all the other issues on this list are uninsured risks
@@ -161,7 +131,9 @@
 - **Note**: Full title insurance may not be obtainable with known defects outstanding. A title opinion is the achievable near-term step.
 - **Status**: OPEN
 
+
 ---
+
 
 ### ISSUE-05: John Marion Black's Personal Mineral Interests — Current Owner Undocumented
 - **Risk level**: HIGH for the mineral interests themselves; MEDIUM for Gude's surface title
@@ -176,7 +148,9 @@
 - **Key open question answered**: JM Black's estate WAS formally probated. Kay is Independent Executrix. Additional administration deeds for the remaining interests may exist or may still need to be prepared.
 - **Revised action**: (a) ~~Determine whether JM Black had a will and whether his estate was formally probated~~ — **ANSWERED: yes, formal probate, Fort Bend County**; (b) determine whether additional administration deeds were or will be executed for L20555 1/2 minerals, Vickers royalty, and TU Electric minerals; (c) if not yet executed, Kay (as Independent Executrix) should prepare and record additional administration deeds in Limestone County (for L20555) and Freestone County (for Vickers and TU Electric minerals)
 
+
 ---
+
 
 ### ISSUE-06: TU Electric Reversion — Big Brown Closure
 - **Risk level**: MEDIUM — 17.916 acres may have reverted without anyone noticing
@@ -190,7 +164,9 @@
 - **Priority actions**: (1) Search STB docket for Big Brown rail spur abandonment proceeding; (2) ~~Pull FC Doc# 2001-1008387 to determine if rail spur parcel was assigned to TXU Big Brown Co LP~~ **DONE — deed [330]: WATER RIGHTS ONLY (CA 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur; recitals reference separate special warranty deeds for real property under Master Separation Agreement**; (3) ~~Run separate "TEXAS UTILITIES" search in Freestone County~~ **DONE — deed [13] located**; (4) Pull FC Doc# 2023-2302271 to confirm rail spur was NOT in the FLG Owner LLC conveyance; (5) Contact Luminant Generation Co LLC / Vistra Corp to determine if they claim the rail spur; (6) Search FC deed index for TXU Electric Co → TXU Big Brown Co LP special warranty deed(s) circa 2001–2002 (Master Separation Agreement real property conveyance referenced in deed [330] recitals)
 - **Status**: OPEN
 
+
 ---
+
 
 ### ISSUE-07: Vickers Royalty — Ownership Chain Not Formally Recorded
 - **Risk level**: MEDIUM
@@ -203,38 +179,27 @@
 - **Revised action**: ~~(a) Pull FC Doc 1947-3011 (Vickers → Robinson)~~ **DONE — deed [307]**; (b) run Robinson surname search in Freestone County to trace downstream chain; (c) run Bounds surname search in Freestone County to check for royalty assignments; (d) identify source instrument for MS Bounds → Olena royalty succession; (e) once chain established, record heirship affidavit for John Marion's share in Freestone County; **NEW**: (f) pull FC Vol. 50, Pg. 387 (1917 upstream warranty deed) — determine actual grantor/grantee, resolve "conveyed to grantors" discrepancy; (g) trace Vickers 1/16 royalty downstream chain — determine current holder (not a family interest but affects leasing negotiations if mineral development occurs)
 - **Status**: OPEN — Vickers→Robinson deed [307] pulled and analyzed; scope confirmed (surface+minerals); Vickers 1/16 royalty discovered (new non-family burden); Bounds 1/16 royalty chain from Olena forward still undocumented; upstream McGuffin chain leads identified (1917 deed, Jane Jordan→Morgan chain)
 
+
 ---
+
 
 ## Priority 3 — Research Gaps (No defect confirmed, but uncertainty remains)
 
-### ISSUE-08: Verona Black Deed — RESOLVED
-- **Resolution**: Verona Elizabeth Black (12/16/1891–9/15/1982) was JP Black's **mother**. Her deceased husband John Thomas Black (10/21/1887–1/30/1959) was JP Black's **father**. The 1974 deed was a mother conveying her Limestone County property equally to her three children: John Pierce Black, Genevieve Dorsett, and Georgia Nell Ennis — all JP Black's siblings. John T. Black (the "John T. Black and Grantor" co-grantor of the 100×100 ft lot carved from Third Tract) died in 1959, 15 years before Verona's 1974 deed. Verona died 9/15/1982, 8 years after the deed.
-- **Status**: RESOLVED
 
 ---
 
-### ISSUE-09: Negro New Home Church — 2-Acre Parcel — PERMANENTLY CLOSED
-- **Background**: Every post-2005 deed carves out "2 acres in SE corner to Negro New Home Church." The original deed conveying these 2 acres to the church had never been located.
-- **Source deed confirmed**: Deed [107] (1887-11-07, J.H. Bounds and wife M.E. Bounds → J.M. Brown, Frank Gordon, George Brown, Trustees of the Colored New Home Baptist Church; $32 consideration; Limestone County, filed Nov 27, 1887, recorded Nov 28, 1887; W. F. Brown, Clerk; Deputy A. J. S[ILLEGIBLE]). Full deed text now in PHASE_1.txt. 2-acre rectangle (150 × 70 varas) at SE corner of JH Bounds homestead tract, Sarah McAnulty Headright Survey. LC volume/page not captured in transcription — flagged for confirmation during courthouse research.
-- **Condition language**: The deed conveys subject to the condition "to be used fore [sic] Church, School and Grave yard purpose." This is an express use condition creating a determinable fee or fee simple subject to condition subsequent.
-- **Scrivener's errors in [107]**: (1) "Boyd County" — no such Texas county; deed heading correctly states Limestone County. (2) "M. C. Bounds" in privy examination — scrivener's error for M. E. Bounds.
-- **Cemetery confirmed active**: The 2-acre parcel is an active cemetery (personally confirmed by landowner, 2026-03-07). Cemetery use is one of the three stated purposes — the condition is actively being satisfied.
-- **Landowner decision — FINAL**: The family has no interest in recovering this parcel under any circumstances, including if cemetery use ever ceases. The legal and practical complexity of dealing with an abandoned burial ground is not worth pursuing. The 2-acre carve-out in all post-2005 deeds is correct and permanent. No further action on this issue, ever.
-- **Status**: PERMANENTLY CLOSED — no action to be taken
+
 
 ---
 
-### ISSUE-10: Bounds Mineral Fraction — RESOLVED BY DEED TEXT
-- **Resolution**: Deed [02] text is unambiguous: "one-half of the one-eighth, or a one-sixteenth royalty interest in all mines of, and all oil, gas and all minerals." This is a **1/16 royalty**, not a fractional mineral fee. Bounds owned 100% of the minerals in the McGuffin Survey tract and retained a 1/16 royalty when selling to Vickers. The Vickers royalty = 1/16 of production from J.F. McGuffin Survey A-406, ~43 acres, Freestone County.
-- **Status**: RESOLVED — no ambiguity remaining
+
 
 ---
 
-### ISSUE-11: Trust No. 2 Trustee — RESOLVED by Phase 5A
-- **Resolution**: M. Stephen Beard is the Sole Trustee of Trust No. 2, confirmed by deeds [16]/[37] and [17]/[38] (both July 7, 2005). No subsequent trustee change documented in the file set. Beard remains Trust No. 2 trustee as of 2026.
-- **Status**: RESOLVED — Beard confirmed as Sole Trustee (Phase 5A reconciliation, 2026-03-04)
+
 
 ---
+
 
 ### ISSUE-12: Citizens National Bank of Waco — Successor Institution
 - **Background**: Citizens National Bank of Waco was co-trustee of the original 1977 trust.
@@ -243,25 +208,14 @@
 - **Action**: Obtain merger/succession documentation for Citizens National Bank → NationsBank if a title examiner flags it during a future transaction. Not urgent.
 - **Status**: SUBSTANTIALLY RESOLVED by [12] — monitor only
 
+
 ---
+
 
 ### BACKGROUND NOTE: M. Stephen Beard — Long-Standing Trust Involvement
 - **Not a title defect** — informational only
 - Beard served as McLennan County notary public (commission exp. 6-30-80) on at least three 1979 trust documents: deed [08] (Olena's warranty deed to Trust), and both acknowledgments in deed [26] (Fred Worley for Citizens National Bank + Olena). This confirms Beard had a professional relationship with Citizens National Bank/the Trust 16 years before formally becoming successor co-trustee in [12] (1995). His participation as notary in 1979 is not a conflict — he was not a party to those instruments.
 - **Relevance**: Context for understanding the trust's administrative history. Beard's involvement spans 1979–at least 2005.
-
-### ISSUE-13: Source Deed for Hwy 14 Parcels (L20552, L20553, L119888)
-- **Risk level**: MEDIUM — deed chain requires verification
-- **Background**: Three Limestone County parcels on Hwy 14 (A-019, Sarah McAnulty Survey): L20552 (1 ac, James Allen Black personal), L20553 (1 ac, Trust No. 2), L119888 (14.05 ac, Trust No. 2). Source deed not previously identified.
-- **[27]-[30] RULED OUT**: All four gift deeds convey either the Fifth Tract (L20555, west of H&TC RR) or fractional interests in the First Tract (→ L20556). None describe the Hwy 14 frontage parcels.
-- **PROBABLE SOURCE — Deed [26]**: The Trust's 20-acre Exhibit A description in deed [26] (May 1979) is S. McAnulty A-019, Limestone County, bounded by the Mexia-Wortham road — the same survey and area as L20552/L20553/L119888. The house confirmed on L20553 is the community property residence that [26] quitclaimed back to Olena. This 20-acre tract was Olena's personal property from 1979 onward. The three Hwy 14 parcels are likely carved from or identical to this 20-acre tract.
-- **L20553 title chain implication**: L20553 chain runs Olena (personal, 1979) → her estate → some conveyance back to Trust No. 2. A deed from Olena or her estate conveying this parcel into Trust No. 2 must exist in the Limestone County records but is not in the current file set.
-- **L20552 (James Allen Black personal)**: If [26]'s 20-acre tract is the source, James must have received his 1-acre portion from Olena directly, not through the trust structure.
-- **Acreage closes exactly**: L20553 (1 ac) + L20552 (1 ac) + L119888 (14.05 ac) + **F17560 (3.95 ac, Freestone)** = **20.00 acres**. F17560 is the Freestone-county portion of the same tract — confirming [26]'s Exhibit A is a cross-county parcel despite being a Limestone-only recording.
-- **L20552 RESOLVED**: Olena → James A. Black via gift warranty deeds [10] (Dec 31 1992, 1/2 interest) + [11] (Jan 15 1993, 1/2 interest); both reference "THIRD TRACT called 20 acres, Vol. 419, Pg. 673" = deed [05]. Full chain confirmed. CAD ownership (James Allen Black personal) is correct. NOTE: The "Freestone County" designation in [10], [11], [31], and [32] is a historical artifact of the pre-split Sarah McAnulty Survey — A-19 originally covered both counties before the Freestone County portion was assigned A-751. The parcel is physically in Limestone County as correctly classified in CAD. This is not a title defect; see 06_TECHNICAL_SPEC.md survey history note. The gift was split across two calendar years (Dec 31, 1992 and Jan 15, 1993) as a gift tax accounting measure — two half-interest conveyances rather than one whole.
-- **Historical context**: MS Bounds let JP and Olena occupy this land from the 1940s. Formal deed to Olena did not occur until 1972 ([05]/[23]). MS Bounds house (L20552) and JP/Olena house (L20553) both sit on this pre-existing family homestead tract.
-- **L20553/L119888/F17560 chain RESOLVED**: Deed [16]/[37] Tract Four (Estate of Olena → Trust No. 2, July 7, 2005) conveys "20.00 acres, more or less, in the Sarah McAnulty Survey in Limestone and Freestone Counties" to Trust No. 2. This is the same 20-acre Third Tract from deed [05]/[23]. Chain is now: [05]/[23] (1972, MS Bounds → Olena) → [26] (1979, Trust quitclaims to Olena) → Olena separate property → Estate of Olena → [16]/[37] Trust No. 2 (2005). No mineral reservation in [16]/[37]. Confirmed by Phase 5A reconciliation 2026-03-04.
-- **Status**: L20552 RESOLVED. L20553/L119888/F17560 **RESOLVED** — deed [16]/[37] Tract Four confirmed.
 
 ### ISSUE-16: Lou Barry Bounds Martin — Aunt Identified; Source Deed(s) Unidentified
 - **Risk level**: MEDIUM — affects deed history for some unresolved Freestone parcels
@@ -297,9 +251,13 @@
 - **Index search (2026-03-09)** [INDEX IDENTIFIED: LC+FC, 2026-03-09]: LC CountyFusion index (239 Manning-surname records) contains **no record** at Book G p.661 or any Book G citation with Manning as grantor. The index DOES contain Manning records from the same letter-volume era: Book B (1874), Book D (1876), Book F (1877), Book K (1879) — confirming Book G-era coverage. Absence is likely a digitization gap or name-variant indexing issue. FC PublicSearch index (2,022 Manning records) does not extend back to Vol. 13 (earliest is Vol. 126, 1933) — FC no-result is non-probative.
 - **Status**: OPEN — low urgency; chain is established by reference in later deeds; Manning citation confirmed as Book G p.661; LC index negative evidence noted but not conclusive
 
----
 
 ---
+
+
+
+---
+
 
 *(ISSUE-35 — J.M. Bounds identity — appears in full below; status OPEN pending deed record verification of GEDCOM candidate)*
 
@@ -319,28 +277,30 @@
 - Willis's potential lack of formal succession documentation is substantially mitigated by the fact that Gude Management LLC was the sole beneficiary of Trust No. 1. Gude cannot challenge a deed it received on its own behalf. The Willis issue is now a future transaction friction problem, not an active legal threat.
 - Status: RESOLVED AS LOWER RISK — documentation still recommended but not urgent
 
----
-
-**ISSUE-17: J.H. Bounds Identity and "Heirs" Characterization in Deed [22] — RESOLVED**
-- **Identity confirmed**: J.H. Bounds = **James Hill Bounds** (2/28/1823–1/29/1914), great-grandfather of John Ramsey Black (user). Generational chain: James Hill Bounds → Thomas Allen Bounds (1844–1913) → Marion Sylvanus "MS" Bounds (1879–1977) → Olena Bounds Black (1912–2005).
-- **"Heirs" question resolved by deed [112] verified text (Integration Session 1, 2026-03-07)**: The deed's granting clause reads "J. H. Bounds of Limestone County and heirs at law, J. A. Bounds, J. E., J. V., J. B., and J. W. Bounds..." — JH Bounds is named first, personally, followed by his adult children listed as "heirs at law." The signature block includes "J. H. Bounds" twice. The Freestone County acknowledgment confirms "J. H. Bounds" personally appeared. He was alive and participating in the 1906 transaction at approximately 83 years old (died 1/29/1914). The "heirs at law" designation is informal — these are JH Bounds himself plus his living adult children conveying their interests in a family partition transaction.
-- **"M. J. Bounds" scrivener's error confirmed**: The granting clause contains "M. J. Bounds" as the grantee name in one occurrence — scrivener's error for M. S. Bounds (Marion Sylvanus Bounds). The habendum clause correctly identifies the grantee as "M. S. Bounds." Annotated [sic] in PHASE_1.txt.
-- **Status**: RESOLVED
 
 ---
+
+
+
+---
+
 
 **ISSUE-18: Exhibit B (162.99 ac) carve-out destination — RESOLVED by Phase 5A**
 - Status: **RESOLVED** — deed [16]/[37] Tract Three (Estate of Olena → Trust No. 2, July 7, 2005) contains the identical Exhibit B 162.99-ac metes-and-bounds description (surveyed May 20, 2005 by Joe L. Haney RPLS 3282). Exhibit B was excepted from deed [14] and conveyed to Trust No. 2 via deed [16]/[37]. CAD parcels F16074 (134.83 ac, Slaughter A-565) + F51589 (28.16 ac, Curry A-9) = 162.99 ac exactly. No mineral reservation.
 - Prior status: OPEN — partially resolved by parcel data
 - Resolution confirmed: Phase 5A reconciliation, 2026-03-04
 
+
 ---
+
 
 **ISSUE-19: F15750 owner discrepancy (Gude vs Trust No. 1)**
 - Status: CLOSED
 - All Trust No. 1 assets transferred to Gude Management LLC via [21]/[40] in 2026. F15750 was in Trust No. 1 from 2005–2025; current Gude CAD attribution is correct.
 
+
 ---
+
 
 **ISSUE-20: Deeds [35] and [34] (2005) — Abstract Number "A-17" Scrivener's Error in Original Instruments**
 - **Risk level**: LOW-MEDIUM — unlikely to impair title in practice, but a formal defect in the 2005 instruments
@@ -352,7 +312,9 @@
 - **Action**: Consider having a Texas attorney prepare a scrivener's affidavit (or corrective deed) confirming that "A-17" in Deeds [35] and [34] was a drafting error and the intended abstract number is "A-19," consistent with all prior instruments in the chain. Record the affidavit/correction in Limestone County. Can be bundled with ISSUE-30 and ISSUE-31 correction instruments if Willis executes a coordinated closing.
 - **Status**: OPEN — low urgency but recommended for clean title; now affects two recorded instruments
 
+
 ---
+
 
 **ISSUE-21: Deed [13] (1997) — Coal and Lignite Conveyed to TXU; Chain of Title for That Interest Unknown**
 - **Risk level**: LOW — coal and lignite rights are typically of minimal commercial value in this area, but the conveyance exists in the public record
@@ -362,7 +324,9 @@
 - **Corporate succession instruments identified (2026-03-09, complete)**: **Coal/lignite chain fully documented**: TXU Big Brown Lignite Co LP → Big Brown Lignite Co LLC (FC Doc# 2007-708853, OR/1427/623, 11/19/2007) → Luminant Big Brown Mining Co LLC (FC Doc# 2007-708852, C C CERTIFICATE, OR/1427/619, 11/19/2007) → **Luminant Mining Co LLC** (FC Doc# 2017-1702165, C C CERTIF OF MERGER, OR/1720/591, 07/03/2017). Luminant Mining Co LLC is the current holder of the coal/lignite interest. Luminant Mining remains an active entity (lien affidavits filed against it 08/22/2025). Surface/generation chain: Texas Utilities Electric Co → TXU Electric Co (FC Doc# 2003-3005508, CHANGE OF NAME, 08/11/2003) → TXU Big Brown Co LP (FC Doc# 2001-1008387, ASSIGNMENT OF WATER RIGHTS, 12/20/2001; **deed [330] confirmed: water rights only (CA 08-5040), NOT real property**) → Big Brown Power Co LLC (FC Doc# 2007-707919, 10/11/2007) → Luminant Generation Co LLC (FC Doc# 2017-1702164, MERGER, 07/03/2017) → FLG Owner LLC (FC Doc# 2023-2302271, WARRANTY DEED, 06/02/2023; plant site only — rail spur parcel NOT included). Deed [13] index confirmed: FC Doc# 1997-635, OR/1004/286, 01/29/1997.
 - **Status**: OPEN — low urgency; corporate succession now complete; **remaining action**: review deed [13] reversion clause to determine whether coal/lignite revert with surface or are carved out. ~~Pull FC Doc# 2001-1008387 to confirm scope~~ **DONE — deed [330]: WATER RIGHTS ONLY (CA 08-5040, Big Brown Creek dam/reservoir); does NOT convey rail spur or any real property**
 
+
 ---
+
 
 **ISSUE-22: Deed [09] (1979) — Habendum Clause Scrivener's Error; Grantor Named in Grantee Position**
 - **Risk level**: LOW — granting clause controls as to grantee in most Texas deed constructions; practical intent is discernible; but technical defect exists in the original instrument
@@ -372,24 +336,19 @@
 - **Action**: Have a Texas title attorney review deed [09] to confirm whether (a) the granting clause controls and the conveyance to the Trust is unambiguous, or (b) a curative instrument (scrivener's affidavit or correction deed) is recommended. Record any curative instrument in Freestone County.
 - **Status**: OPEN — low urgency pending title attorney review
 
+
 ---
+
 
 ## New Issues from Phase 5A Reconciliation (2026-03-04)
 
----
-
-**ISSUE-23: L20554 Acreage Discrepancy — RESOLVED (Scrivener's Error in Deed [14] Tract Three + Cross-County Split)**
-- **Risk level**: LOW — scrivener's error in 2005 deed; correct acreage can be determined from surrounding instruments
-- **Background**: Deed [14] Tract Three states "92.00 acres" for the First Tract (McAnulty Survey, Limestone County). This is wrong. By the time deed [14] was executed (July 7, 2005), 18 acres had already been physically partitioned to John Marion Black via deed [35] (same date, same attorney — Geneva Brown Turner). The correct acreage for Tract Three after the [35] partition is **74 acres** (92 − 18). The attorney forgot to deduct the 18-acre partition when preparing the trust distribution deed. Deed [36] (Limestone County filing of the same instrument) necessarily carries the identical error. Deed [17]/[38] (Trust 1 → Trust 2 mineral cross-transfer, dual-filed) also repeats the same Tract Three "92 acres" description. **Deed [21]/[40] (2026-01-08, Trust No. 1 → Gude) is a third instrument propagating this error**: Tract Two states "BEING 92.00 acres, more or less, in the Sarah McAnulty Survey in Limestone County, Texas being a 94.00 acre tract... less 2.00 acres in SE corner to Negro New Home Church" — the same erroneous 92-acre figure.
-- **Affected instruments**: [14]/[36] (2005, dual-filed), [17]/[38] (2005, dual-filed), [21]/[40] (2026, dual-filed) — six recorded instruments total carry this error.
-- **Cross-county resolution**: Deed [14] Tract Four (92 acres, McAnulty, "Limestone and Freestone Counties") crosses the county line. **30 acres** of Tract Four is in Freestone County = **F17559** (30.00 ac, Gude LLC, S. McAnulty A-751). The remaining **62 acres** is in Limestone County.
-- **Arithmetic**: L20554 (136.00 ac, Limestone) = 74 ac (First Tract remainder) + 62 ac (Fourth Tract Limestone portion) = **136.00 ac exactly**. No discrepancy.
-- **F17559 identification**: F17559 (30.00 ac, Gude LLC, FC, S. McAnulty A-751, "157.00 AC/LIMESTONE CT") is positively identified as the **Freestone County portion of the Fourth Tract** conveyed by deed [14] Tract Four.
-- **Total**: 74 + 92 = 166 ac gross across both counties → 136 ac Limestone (L20554) + 30 ac Freestone (F17559) = 166 ac. All acreage accounted for.
-- **Action**: Consider curative scrivener's affidavit covering deeds [14]/[36], [17]/[38], and [21]/[40] (three instruments, each dual-filed = six recorded instruments), all Tract Three/Two, confirming the correct acreage is 74 acres (not 92), consistent with the [35] partition executed the same day as [14]. Record in both Freestone and Limestone Counties. Low urgency — the 18-acre partition is separately documented. Can be bundled with ISSUE-30 and ISSUE-31 correction instruments.
-- **Status**: RESOLVED for acreage reconciliation — scrivener's error identified; acreage fully reconciled (Phase 5A, 2026-03-04). Curative affidavit recommended but low urgency. Three additional recorded instruments confirmed as carrying the error (Phase 6 reconciliation, 2026-03-04).
 
 ---
+
+
+
+---
+
 
 **ISSUE-24: Wortham Town Lots Mineral Interest — Previously Untracked; Conveyance to Gude Not Recorded**
 - **Risk level**: LOW-MEDIUM — de minimis acreage (0.09 ac); mineral-only interest; but no recorded conveyance from Trust 1 to Gude exists
@@ -401,7 +360,9 @@
 - **Longbotham FC index session (2026-03-09)**: F-Longbotham index (2,717 records, 1932–2026) searched for title clouds on Lots 6 & 7, Block 6, Town of Wortham. **No competing claims, adverse instruments, unreleased liens, plats, replats, tax deeds, judgment liens, sheriff's deeds, or active mineral leases found on Block 6.** Zero records in the entire index reference Block 6 in a Wortham legal description. No J.E. Longbotham records found (zero grantor/grantee entries). No Longbotham instruments on McAnulty A-751 relevant to project. James Allen Black had separate rural A-16 land (Elrod→JAB 1972, DR/421/129; JAB→Sallie Fay Killingsworth Black 1978, DR/500/649; out to Rogers Billy 1978, DR/511/418) — not on Wortham town lots, land left family entirely. Multiple Bounds family members active on A-16 (Harry P, W O, B F, Charles H, John T, et al.) but none are direct-chain parties and none reference Block 6. Third FC surname index searched for Block 6 clouds (after Rice, Edwards) — all clean. Remaining risk limited to pre-1932 instruments predating index coverage. [INDEX CONFIRMED: FC, 2026-03-09]
 - **Status**: OPEN — now tracked; conveyance to Gude incomplete
 
+
 ---
+
 
 **ISSUE-25: Deed [17]/[38] Acknowledgment — Trust Number Scrivener's Error (PDF-CONFIRMED)**
 - **Risk level**: LOW — acknowledgment defect in recorded instrument; granting clause and signature block control; instrument was accepted for recording
@@ -411,13 +372,13 @@
 - **Action**: Consider curative scrivener's affidavit confirming the acknowledgment should have identified Beard as Trust No. 1 trustee, consistent with the granting clause and signature block. Record in both Freestone and Limestone Counties.
 - **Status**: OPEN — low urgency; annotated with [sic] in PHASE_5A.txt and PHASE_5B.txt
 
----
-
-**ISSUE-26: Deed [22] Recording Citation — RESOLVED**
-- **Resolution**: Deed [22] (1906, J.H. Bounds → M.S. Bounds, Limestone County) begins on page 71 and runs through page 78 of Book 63. The citation "Book 63, page 71" in deed [16]/[37] is correct — page 71 is the instrument's starting page. The "Pages 72–78" entry previously in 06_TECHNICAL_SPEC.md was incorrect; it has been corrected to "Book 63, Pg. 71–78." No discrepancy.
-- **Status**: RESOLVED — 2026-03-04
 
 ---
+
+
+
+---
+
 
 **ISSUE-27: Exhibit A Sixth Tract — "S. Slaughter" Scrivener's Error in Original Instruments (PDF-CONFIRMED)**
 - **Risk level**: LOW — same error appears in every deed containing this Exhibit A; correct survey name established by surrounding context
@@ -427,7 +388,9 @@
 - **Action**: Low priority. Could be addressed in a single curative scrivener's affidavit covering all affected instruments if a future transaction requires clean title. Annotated with [sic] in PHASE_5A.txt.
 - **Status**: OPEN — low urgency; no practical title risk
 
+
 ---
+
 
 **ISSUE-28: Deed [17]/[38] Exhibit C — Blank Page Number in Original Instrument (PDF-CONFIRMED)**
 - **Risk level**: LOW — the deed's other identifying information (grantor, grantee, date, volume) uniquely identifies the source deed
@@ -436,7 +399,9 @@
 - **Action**: Pull Freestone County Deed Records Volume 35 to identify the correct page number for the Mayo→Beene/Ausley 1907 deed. Document for completeness.
 - **Status**: OPEN — low urgency; annotated with [sic] in PHASE_5A.txt
 - **Edwards/Rice FC index session (2026-03-09)**: 1907 Mayo→Beene/Ausley deed not in FC Edwards index — index starts 1925 (earliest record), non-probative. No BEENE, MAYO, or AUSLEY entries found in Edwards surname index. Resolution still requires pulling FC Deed Records Volume 35 directly.
+
 ---
+
 
 **ISSUE-29: Deed [20]/[39] Tract Five — Conveyance of Non-Existent Mineral Interest in Weaver Tract (F15408)**
 - **Risk level**: LOW — legally harmless; conveyance of nothing has no effect on title; but represents a drafting error that should be noted in any future transaction involving F15408
@@ -446,7 +411,9 @@
 - **Action**: Document this issue in the property record for F15408. No curative instrument needed. If a future transaction requires clean documentation, a scrivener's affidavit or title company explanation of the mineral chain will suffice.
 - **Status**: OPEN — informational; no remediation required
 
+
 ---
+
 
 **ISSUE-30: Deed [21]/[40] — Manning 3-Acre Parcel Omitted from Gude Conveyance (PDF-CONFIRMED)**
 - **Risk level**: HIGH — if Trust No. 1 still holds this parcel, Gude's title to it is not established by any recorded instrument; parcel may be stranded in a dissolved or inactive trust
@@ -457,7 +424,9 @@
 - **Action**: Execute a correction deed or supplemental conveyance from Trust No. 1 (Willis, Sole Trustee) to Gude conveying the Manning parcel; record in both Limestone and Freestone Counties. Bundle with ISSUE-31 and ISSUE-24 correction instruments in the single coordinated attorney closing. See PROJECT OBJECTIVE section for full closing checklist.
 - **Status**: OPEN — HIGH PRIORITY; bundle with ISSUE-31 and ISSUE-24 in single attorney closing to dissolve Trust No. 1
 
+
 ---
+
 
 **ISSUE-31: Deed [21]/[40] — Edwards Tract Omitted from Gude Conveyance (PDF-CONFIRMED, Phase 6 Reconciliation)**
 - **Risk level**: HIGH — same severity as ISSUE-30; Gude's title to 85.30 acres is not established by any recorded instrument; parcel may be stranded in Trust No. 1
@@ -476,7 +445,9 @@
 - **Status**: OPEN — HIGH PRIORITY; bundle with ISSUE-30 and ISSUE-24 in single attorney closing to dissolve Trust No. 1
 - **Edwards/Rice FC index session (2026-03-09)**: Edwards source deed grantor name discrepancy partially resolved — FC index confirms both "EDWARDS A H MRS" and "EDWARDS JOHN W" as grantors on Doc# 1943-1482 (DR/168/588), consistent with "Mrs. A.H. Edwards et al." in tracking files (husband and wife joining in conveyance). Edwards 1935 homestead affidavit (DR/140/502) located on S. McAnulty Survey — chain support confirming Edwards occupation pre-1943. Upstream deeds (1911 Beene→Edwards DR/47/501, 1907 Mayo→Beene/Ausley DR/35/?) not in FC index — coverage starts 1925, non-probative. 1966 Texas Pipe Line Co easement abandonment (DR/361/253) to "EDWARDS A H" flagged for review — no legal description, may not be A-751. No new title clouds on Edwards Tract.
 
+
 ---
+
 
 **ISSUE-32: JW Bounds — Boyd Survey Disposition Search**
 - **Background**: Deed [106] (1886) shows JH Bounds acquired ~158 net acres on the John Boyd Survey from Hiram Haley for $2,000. Deed [108] (1889) shows JH Bounds gifted that entire ~158-acre Boyd Survey parcel to his son JW Bounds ("natural love and affection we have for our Son"). The deed [24] ~42.8 acres currently in Gude's portfolio are also on the John Boyd Survey. The metes-and-bounds in deed [24] do not match those in [106]/[108], so either: (a) JH Bounds held additional Boyd Survey land not yet documented, and deed [24] traces to that; or (b) JW Bounds or his heirs reconveyed some or all of the [106]/[108] parcel back to the family chain; or (c) some combination.
@@ -513,15 +484,13 @@
     - **Remaining action**: Pull [108] original at LC Vol. S, Pg. 582 to definitively confirm grantee initial. This is no longer HIGH priority for chain purposes — the chain is logically complete (J.W. received via [108], sold via [122]) — but should be confirmed for record.
     - **Status**: OPEN — downgraded from HIGH to MEDIUM PRIORITY. The T.W./J.W. name question is substantially resolved in favor of J.W. by chain logic and [122] PDF evidence. Remaining research: (a) confirm [108] original; (b) J.E. and J.V. Bounds Boyd chain research (ISSUE-41, ISSUE-48) remains independent.
 
----
-
-**ISSUE-33: Deed [111] Transcription Error — "JN Bounds" = "JH Bounds" — RESOLVED**
-- **Error**: Triage AI misread cursive "H" as "N" in "JH Bounds," producing "JN Bounds" as grantor in deed [111].
-- **Resolution**: Corrected at source by landowner (2026-03-07). Deed [111] .txt file corrected to "JH Bounds"; filename updated from "jn" to "jh"; 1900s_Limestone_Deeds.txt updated accordingly. No further action needed during integration.
-- **Significance**: Deed [111] (1906-10-12) is a JH Bounds heirs sell-out of McAnulty League land — same grantor family, same county, same date range as deed [112]. Part of the coordinated 1906 family partition.
-- **Status**: RESOLVED
 
 ---
+
+
+
+---
+
 
 **ISSUE-34: McAnulty Chain — "278-Acre Survey" Source Deed Not Located**
 - **Background**: Deed [103] (1881-12-06, Longbotham → JH Bounds, 7.5 ac McAnulty League) contains a neighbor call referencing "J.H. Bounds 278 acre survey" as the south boundary. This is the first evidence that JH Bounds held a major pre-existing McAnulty tract substantially larger than any individual acquisition in the file set.
@@ -558,27 +527,21 @@
 - **Deed [119] analysis (2026-03-31)**: PDF now pulled. Deed [119] (LC Vol. D, Pg. 24) is a **right-of-way conveyance dated May 3, 1871** — the index date of 03/22/1875 is erroneous (does not correspond to execution, original filing, or re-filing dates). Instrument conveys a 200-foot strip over the "Hall tract" on the Sarah W. McNulty (McAnulty) League from JH Bounds to Houston & Texas Central Railway Company for $375 coin, plus a blanket ROW over all other JH Bounds lands. Fee simple — no mineral reservation. **CRITICAL DISCOVERY — second upstream McAnulty source deed identified**: The deed describes the Hall tract as "having been conveyed to me by T.J. Hall and wife by deed dated 15th Dec 1865." This **T.J. Hall → JH Bounds** conveyance is distinct from the **Thomas Hare → JH Bounds** source identified by deed [123] — different grantor, different date. Dec 15, 1865 is now the **earliest documented date for any JH Bounds McAnulty League activity**, consistent with JH Bounds' 1865 migration to Texas. JH Bounds assembled his McAnulty holdings from at least two upstream sources (Hare and Hall) plus smaller acquisitions (Manning, Mallard, Longbotham, Smith). The Hall tract acreage is unknown — locating the Hall→Bounds deed (search LC grantee index, Dec 1865) will determine whether the Hare and Hall tracts together account for the "278 acre survey" or whether the 278-acre figure refers to the Hare tract alone. ⚠️ Survey name variant: "Sarah W. McNulty" (middle initial + alternate spelling) — unique to deed [119]; all other instruments use "McAnulty."
 - **Status**: OPEN — **PRIORITY UPGRADED TO HIGH**; TWO upstream McAnulty source deeds now identified: (1) Hare→Bounds (pre-1869, identified from deed [123]) and (2) **Hall→Bounds (Dec 15, 1865, identified from deed [119])** — both are key pull targets (search LC grantee index under JH Bounds pre-1869); Dec 15, 1865 is now the earliest documented JH Bounds McAnulty date; 137.75-ac gap within 1906 partition still unexplained; total documented McAnulty dispositions now 425.25+ ac plus ROW strip; see 02_PROPERTY_INVENTORY.md for updated disposition accounting
 
----
-
-**ISSUE-36: 226-Acre vs. 224-Acre Conflict — RESOLVED**
-- **Background**: Deed [116] (1937, MS Bounds → Mattie Bounds) conveys five McAnulty tracts. Deed [118] (1960) describes the parent holding as "224 acres."
-- **Resolution** (confirmed by landowner, 2026-03-08): Deed [116] correctly states the five tracts as follows: First Tract 94 ac, Second Tract 20 ac, Third Tract 2 ac, Fourth Tract 92 ac, Fifth Tract 18 ac — gross total 226 ac. The 224-ac figure in deed [118] reflects the 2-acre church carve-out (deed [107]) having been excluded from the net count: 94 − 2 = 92 ac net First Tract, yielding 92 + 20 + 2 + 92 + 18 = 224 ac net. Deed [116] stated gross acreage (before church carve-out); deed [118] stated net acreage (after church carve-out). No error in either instrument.
-- **Status**: RESOLVED
 
 ---
 
-**ISSUE-37: "Mattie S. Bounds" — Unexplained Middle Initial in Deed [118] — RESOLVED**
-- **Resolution** (confirmed by landowner, 2026-03-08): Mattie Mae Barry Bounds had no "S" middle initial. The "S" in deed [118]'s acknowledgment ("Mrs Mattie S. Bounds") is a scrivener's error by the notary or deed preparer. Same person confirmed — Mattie Mae Bounds née Barry, wife of MS Bounds, d. 9/8/1970. No title significance.
-- **Status**: RESOLVED
+
 
 ---
 
-**ISSUE-38: Mattie Mae Bounds Estate Instruments Not in File Set — RESOLVED**
-- **Resolution** (confirmed by landowner, 2026-03-08): Mattie Mae Bounds predeceased MS Bounds (d. 9/8/1970; MS Bounds d. 1977). MS Bounds therefore held title to convey the McAnulty tracts to Olena Bounds Black ~1972 via deed [05]/[23]. The chain of title is unbroken.
-- **Attorney note**: Deed [116] conveyed these tracts to Mattie as her **separate property**, which passes through the estate rather than by community property survivorship. The mechanism by which MS Bounds reacquired title is most likely Texas intestate succession (Mattie died without a will, MS Bounds as surviving spouse and sole heir) or a will naming him. A title attorney may want to confirm this with a muniment of title, affidavit of heirship, or copy of Mattie's will before any significant transaction involving these parcels.
-- **Status**: RESOLVED — no courthouse search required for chain-of-title purposes; attorney review recommended if transaction is imminent
+
 
 ---
+
+
+
+---
+
 
 **ISSUE-39: Deed [109] — Recording Date Precedes Filing Date (Clerk Error in Original)**
 - **Risk level**: LOW — clerk administrative error in original instrument; does not affect the validity of the conveyance or the chain of title
@@ -590,7 +553,9 @@
 - **Added**: Integration Session 5 (2026-03-08); deed [109]
 
 
+
 ---
+
 
 **ISSUE-40: Pull PDFs for Index-Identified Deeds [119]–[124]**
 - **Status**: OPEN
@@ -607,7 +572,9 @@
 - **Also pull**: Four FC probate records confirmed in FC index (OR/949/605, OR/949/611, OR/1327/552, OR/1330/777) — see Probate Records section in 06_TECHNICAL_SPEC.md
 - **Resolution**: When PDFs acquired, update 06_TECHNICAL_SPEC.md PDF status from IDX/⬜ to ✓; update 03_DEED_CHAIN_SUMMARY.md body entries; mark DISPOSED — NO REVERSION as appropriate.
 
+
 ---
+
 
 **ISSUE-41: J.E. Bounds Boyd Survey Disposal Chain (320 ac)**
 - **Status**: OPEN
@@ -618,7 +585,9 @@
 - **Dependency**: ISSUE-40 items [120] and [121]/[303] both PULLED. Both metes-and-bounds now available for targeted J.E. Bounds grantor search in LC index. J.V. Bounds portion split to ISSUE-48.
 - **Note**: This chain does NOT affect the current family holdings — it is historical completeness only.
 
+
 ---
+
 
 **ISSUE-42: TXGLO Original Grant Research — DEFERRED**
 - **Status**: DEFERRED
@@ -626,7 +595,9 @@
 - **Description**: Tracing each family survey back to its original Texas General Land Office patent. Surveys involved: Sarah McAnulty League, John Boyd Survey, P. Varela Survey, Samuel Holloway Survey, J. Strickland Survey A-550, A.H. Edwards Survey A-751, W. Richie League. This research is deferred until all Limestone and Freestone County work is complete.
 - **Resolution criteria**: After the attorney closing for Trust No. 1 dissolution is complete and all open county-level issues are resolved, initiate TXGLO patent research as a cleanup phase.
 
+
 ---
+
 
 **ISSUE-44: Beldin Tract (F15410, 33.66 ac) — Upstream Chain Gap**
 - **Status**: OPEN
@@ -649,14 +620,13 @@
 - **Pull items**: ~~ISSUE-43 items 25 (1978-2653, J.V. Jr. estate → Virgil L.)~~ **PULLED ✓ = deed [319]** (⚠️ citation corrected: DR/503/151, not DR/509/295 per index), ~~26 (1973-478, Miller Clara Barton → Virgil L.)~~ **PULLED ✓ = deed [317]**, 27 (J.V. Jr. will from FC probate). ~~28 (1962-690, Elgin mineral lease)~~ **PULLED ✓ = deed [313]**. NEW: T.A. Bounds estate partition judgment (FC 87th District Court, Case No. 8153-B, Vol. 1 Pg. 233 or 235 — deed [319] cites Pg. 233, deed [313] cites Pg. 235; same judgment, Jan 28, 1926) — pull from district court minutes to identify all allotments. **PRIORITY ELEVATED — CRITICAL** (determines lot assignments, resolves Lot 2/Lot 3 question). NEW: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420, Pg. 560, FC — conveyance of Bessie's undivided 1/2 in Lot 3 (60.4 ac Richie) to Virgil; determines nature of Bessie's interest (life estate under will? outright ownership?).
 - **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)
 
----
-
-**ISSUE-45: F10854 (13.65 ac, J.M. Davis A-202) — RESOLVED**
-- **Resolution**: F10854 is the Davis A-202 remainder after the [13] rail spur carve-out. The 317.50-ac Richie League tract described in deed [04] straddled both Wm. Richie A-527 and J.M. Davis A-202. Deed [13] (1997) carved 17.916 ac for the TU Electric rail spur, split across two CAD parcels: 43852 (2.80 ac Davis A-202) + 43853 (15.12 ac Richie A-527) = 17.92 ac, both owned by Luminant Generation Co LLC / Vistra Corp. F10854 (13.65 ac) is the retained Davis portion. Chain: [04] → Olena → [16]/[37] Trust No. 2 (2005). Minerals: 50% + exec Trust No. 2; 50% non-exec Gude (per [20]/[39]).
-- **Status**: RESOLVED
-- **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)
 
 ---
+
+
+
+---
+
 
 **ISSUE-46: Exhibit A Block Upstream Source — FC Vol. 534, Pg. 321 is OGL, NOT Conveyance — Upstream Source Deed Still Unidentified**
 - **Status**: OPEN — **SIGNIFICANTLY REVISED**
@@ -671,15 +641,13 @@
 - **Also pull**: The J.M. Bounds estate instrument (1911) if a citation can be identified from the FC index. The CAD shows no Vol/Pg for it.
 - **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10); **revised 2026-03-31 upon deed [322] analysis**
 
+
 ---
 
-**ISSUE-47: Trust No. 2 Trustee Status — Beard Confirmed Active 2026 — RESOLVED**
-- **Resolution**: M. Stephen Beard confirmed active as sole trustee of Trust No. 2 as of 2026-03-10 by landowner (human-verified 2026-03-09). No trustee change anticipated. Beard's mailing address per CAD: 5408 Point Wood Circle, Waco TX 76710.
-- **Status**: RESOLVED
-- **Added**: Trust No. 2 / JAB Scope Expansion Session (2026-03-10)
 
 
 ---
+
 
 **ISSUE-48: J.V. Bounds Boyd Survey Source Deed — UNLOCATED**
 - **Status**: OPEN
@@ -691,7 +659,9 @@
 - **Added**: 2026-03-31 (deed [303] analysis — index error discovery)
 
 
+
 ---
+
 
 **ISSUE-35: J.M. Bounds Identity Unknown**
 - **Risk level**: LOW — no title impact; historical/genealogical documentation only
@@ -703,7 +673,9 @@
 - **Status**: OPEN — LOW PRIORITY; GEDCOM candidate identified but not confirmed; verification required before resolution
 
 
+
 ---
+
 
 **ISSUE-49: Deed [337] Scrivener's Error — "Madison County" in Legal Description**
 - **Status**: OPEN
@@ -714,3 +686,40 @@
 - **Evidence**: Deed [337] Exhibit A page 6 of 7 (FC Doc# 2000667, image 154533388_90679866-06.png).
 - **Action**: If Texas Central Railroad & Infrastructure, Inc. is still an active entity, a correction deed or scrivener's affidavit should be obtained. If the company has dissolved or the project has been abandoned, the landowner's attorney should prepare a scrivener's affidavit for recording in Freestone County. This is not urgent but should be addressed at the next attorney closing.
 - **Added**: 2026-04-01 (deed [337] analysis)
+
+---
+
+## Resolved Issues Index
+
+*Full details in 05A_RESOLVED_ISSUES.md — not loaded into analysis conversations.*
+
+**ISSUE-1**: Ennis & Dorsett Estates — Unresolved 2/3 Interests in John Boyd Survey — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-8**: Verona Black Deed — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-9**: Negro New Home Church — 2-Acre Parcel — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-10**: Bounds Mineral Fraction — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-11**: Trust No. 2 Trustee — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-13**: Source Deed for Hwy 14 Parcels (L20552, L20553, L119888) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-17**: J.H. Bounds Identity and "Heirs" Characterization in Deed [22] — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-23**: L20554 Acreage Discrepancy — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-26**: Deed [22] Recording Citation — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-33**: Deed [111] Transcription Error — "JN Bounds" = "JH Bounds" — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-36**: 226-Acre vs. 224-Acre Conflict — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-37**: "Mattie S. Bounds" — Unexplained Middle Initial in Deed [118] — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-38**: Mattie Mae Bounds Estate Instruments Not in File Set — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-45**: F10854 (13.65 ac, J.M. Davis A-202) — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
+**ISSUE-47**: Trust No. 2 Trustee Status — Beard Confirmed Active 2026 — **RESOLVED** (see 05A_RESOLVED_ISSUES.md)
+
