@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [122] PDF — Boyd Survey Critical Finding #4 updated ([108] parcel disposition now confirmed via [122])*
+*Last updated: 2026-03-31 — Deed [305] — Dunbar downstream chain note added (103 ac → J. M. Lindly, 1870)*
 # Black Land Project — Property Inventory
 
 
@@ -229,7 +229,7 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 
 | Deed | Date | Grantee | Acres | Consideration | Notes |
 |---|---|---|---|---|---|
-| [123] | 1869-08-03 | H. Clay Dunbar | 200 | $300 cash | Sarah McAnulty League; 200 ac off south end of Hare→Bounds survey; beginning 26½ vrs from SE corner of McAnulty League; **DISPOSED — NO REVERSION**; originally recorded Book H pp. 177–178 (03/23/1870); re-filed 08/16/1906 (LC Vol. 48 Pg. 373); earliest documented McAnulty disposition; predates 1906 partition by 37 years |
+| [123] | 1869-08-03 | H. Clay Dunbar | 200 | $300 cash | Sarah McAnulty League; 200 ac off south end of Hare→Bounds survey; beginning 26½ vrs from SE corner of McAnulty League; **DISPOSED — NO REVERSION**; originally recorded Book H pp. 177–178 (03/23/1870); re-filed 08/16/1906 (LC Vol. 48 Pg. 373); earliest documented McAnulty disposition; predates 1906 partition by 37 years. **Downstream chain partially documented by deed [305]**: Dunbar conveyed 103 ac of this 200 ac to J. M. Lindly (May 20, 1870, Book H pp. 338–339 LC); Lindly conveyed to J. P. Lindly (Jan 14, 1884, Vol. W pp. 498–499 LC); J. P. Lindly = J. P. Lindley of deeds [101]/[105]. Disposition of remaining ~97 ac not documented. |
 | [119] | 1871-05-03 | Houston & Texas Central Railway Co. | 200-ft strip (acreage indeterminate) | $375 coin + enhanced value | ROW conveyance — 200-foot strip over the Hall tract on Sarah McAnulty League + blanket ROW over all other JH Bounds lands; fee simple, no mineral reservation; **DISPOSED — ROW CONVEYANCE OUT, NO REVERSION**; originally Book II pp. 798–799 (1871); re-filed Book D p. 24 (1895); index date 03/22/1875 is erroneous |
 | [101] | 1878-03-13 | Mary M. Kindley/Lindley | 99 | $1.00 (gift) | Samuel Holloway Survey (NOT McAnulty); JH Bounds gifted to family associate; **sold out of McAnulty-adjacent Holloway Survey** |
 | [109] | 1889-10-16 | R. E. Lee | 69 | $690 via 4 VL notes | Samuel Holloway Survey sell-out (JH Bounds sold the 69 ac bought back from Lindleys in [105]); complete exit from Holloway Survey |
