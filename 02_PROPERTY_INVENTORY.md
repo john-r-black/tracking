@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [119] PDF pulled — Hall→JH Bounds (Dec 15, 1865) identified as second upstream McAnulty source; [119] ROW disposition added; total documented McAnulty dispositions now 425.25+ ac plus ROW strip*
+*Last updated: 2026-03-31 — Deed [120] PDF pulled — Boyd Survey Portfolio updated: [120] (158 ac, 1874) and [121] (62 ac, IDX) added to dispositions table; total documented dispositions now ~500.8 ac; arithmetic gap updated to ~344.8 ac from undocumented pre-1874 sources*
 # Black Land Project — Property Inventory
 
 
@@ -265,34 +265,36 @@ The Verona E. Black → Ennis/Dorsett/JP Black 1974 deed (Deed [24]) conveyed th
 | Deed | Date | Grantor | Acres | Consideration | Notes |
 |---|---|---|---|---|---|
 | [106] | 1886-12-27 | Hiram Haley and Sinai A. Haley | 158 gross (156 net) | $2,000 cash | John Boyd Survey, LC; beginning 500 vrs W of SE corner of John Boyd League; less 1 ac to J.H. Sparks off SW corner and 1 ac to State of Texas off SE corner = 156 net acres; metes-and-bounds description identical to [108] |
-| **Unknown source** | Pre-1885 | Unknown | Unknown | Unknown | JH Bounds held Boyd Survey land before [106] — evidenced by [104] (1885, town lot conveyance out of Boyd League) and by the deed [24] chain tracing through the Black family (John Thomas Black and Verona E. Black held Boyd Survey land that Verona conveyed in 1974; the upstream source of that holding is not documented in the file set). This acquisition has not been located. |
+| **Unknown source** | Pre-1874 | Unknown | ≥220 ac | Unknown | JH Bounds held ≥220 ac Boyd Survey land before Oct 1874 — evidenced by [120] (158 ac gift to J.E. Bounds, 1874-10-07) and [121] (62 ac gift to J.V. Bounds, ~1874, IDX). Additional evidence: [104] (1885, town lot conveyance) and the deed [24] chain tracing through John Thomas Black / Verona E. Black. This acquisition has not been located; predates the Haley acquisition ([106], 1886) by at least 12 years. |
 | **Subtotal documented** | | | **156 net ac** | | Only the Haley acquisition is documented; additional Boyd Survey holdings are likely but unconfirmed |
 
 ### Documented Dispositions OUT of Boyd Survey
 
 | Deed | Date | Grantee | Acres | Consideration | Notes |
 |---|---|---|---|---|---|
+| [120] | 1874-10-07 | J. E. Bounds (JH Bounds' son) | 158 ac | $1 (gift) | John Boyd League, LC; beginning 400 vrs W of SE corner of Boyd League, N to Tehuacana Creek, W along creek, S 1664 vrs, E 500 vrs to POB; full fee simple, surface+minerals, no reservation; **PDF CONFIRMED**; **DISPOSED OUT OF DIRECT CHAIN** — see ISSUE-41 |
+| [121] | ~1874 (est.) | J. V. Bounds (JH Bounds' son) | 62 ac | Unknown (IDX) | John Boyd League, LC; adjacent to and east of [120] parcel (confirmed by [120] metes-and-bounds reference to "J.V. Bounds west line"); IDX only — PDF not yet pulled; **DISPOSED OUT OF DIRECT CHAIN** — see ISSUE-41 |
 | [104] | 1885-03-30 | W. G. Eades | 2 ac | $315 (vendor's lien notes) | Block 19, Town of Tehuacana, John Boyd League; town lot, not rural acreage; pre-dates Haley acquisition [106] — confirms JH Bounds held Boyd Survey land BEFORE the 1886 Haley purchase; source of this earlier holding unknown |
 | [108] | 1889-03-27 | J. W. Bounds (JH Bounds' son) | 156 net ac | $5 + "natural love and affection" (gift) | John Boyd Survey; identical metes-and-bounds to [106]; complete gift of the [106] parcel to his son; ⚠️ NO DEED CONFIRMING THIS LAND RETURNED TO FAMILY CHAIN |
 | [113] | 1910-03-22 | W. L. Adams and W. S. Adams | 80 ac Boyd League (of 338 ac total) | $5,250 cash (total for 338 ac) | Multi-survey parcel; 80 acres on John Boyd League conveyed as part of Barry/Bounds family sale; grantors include MS Bounds and Mattie Bounds née Barry; the 80 ac Boyd portion is on a different metes-and-bounds from the [106]/[108] tract; note "Bounds 72 acre tract which is included in the conveyance" — confirms Bounds family contributed approximately 72 acres to this sale |
 | [318] | 1975-01-18 | Roy Simmons and wife Virginia M. Simmons | ~42.8 ac | $10 + $12,800 vendor's lien note | John Boyd Survey; three tracts (16.8 + 25 + ~1 ac); ALL three deed [24] grantees (Ennis + Dorsett + JP Black) sell jointly; warranty deed with vendor's lien; L.L. Dorsett deed of trust trustee; 10-yr 1/16 NPRI reserved (expired 1985); companion vendor's lien release LC Inst# 07804491 (1978). **Complete sell-out of deed [24] Boyd Survey holding** |
-| **Total documented out** | | | **~280.8 ac** | | 2 ac town lot [104] + 156 ac gift [108] + 80 ac Barry/Bounds sale [113] + ~42.8 ac Simmons sale [318] = ~280.8 ac documented dispositions |
+| **Total documented out** | | | **~500.8 ac** | | 158 ac gift [120] + 62 ac gift [121] (IDX) + 2 ac town lot [104] + 156 ac gift [108] + 80 ac Barry/Bounds sale [113] + ~42.8 ac Simmons sale [318] = ~500.8 ac documented dispositions |
 
 ### Net Position Analysis and Gap Assessment
 
 | Item | Acres | Notes |
 |---|---|---|
 | Documented acquisition into Boyd Survey | 156 net ac | Haley → JH Bounds [106] |
-| Additional Boyd Survey land (pre-[104]) | Unknown | JH Bounds held Boyd land before 1885 (evidenced by [104]); source deed not in file set |
-| Documented dispositions out | 238 ac | [104] + [108] + [113] |
-| **Arithmetic problem** | **82 ac unaccounted** | Dispositions (238 ac) exceed documented acquisitions (156 ac) by 82 acres — confirms JH Bounds held Boyd Survey land FROM A SOURCE BEYOND THE [106] HALEY DEED |
+| Additional Boyd Survey land (pre-1874) | ≥220 ac | JH Bounds held ≥220 ac Boyd land before Oct 1874 (evidenced by [120] 158 ac + [121] 62 ac gifts to sons, both predating [104] and [106] by 11–12 years); source deed not in file set |
+| Documented dispositions out | ~500.8 ac | [120] (158) + [121] (62, IDX) + [104] (2) + [108] (156) + [113] (80) + [318] (~42.8) |
+| **Arithmetic problem** | **~344.8 ac unaccounted** | Dispositions (~500.8 ac) exceed documented acquisitions (156 ac) by ~344.8 acres — JH Bounds held Boyd Survey land from at least one major undocumented source predating 1874; [120] metes-and-bounds confirm the 1874 gifts and [106] are on different parts of the Boyd League |
 | Deed [24] ~42.8 acres | ~42.8 ac | Currently in Black/Gude family chain via Verona E. Black (1974); traces through John Thomas Black and Verona Black; ultimate upstream source not documented |
 
 ### Critical Findings — Boyd Survey
 
 1. **The [106]/[108] 156-acre parcel and the deed [24] ~42.8 acres are on different metes-and-bounds.** Deed [108] (and its identical predecessor [106]) begins "500 varas west of the Southeast corner of said John Boyd League" and runs north to Tehuacana Creek. Deed [24]'s three tracts have different dimensions (First Tract 16.80 ac, Second Tract 25.00 ac, Third Tract ~1.00 ac) and different boundary calls. **These are different parts of the John Boyd Survey.** The deed [24] chain does not derive from [106]/[108].
 
-2. **JH Bounds' Boyd Survey holdings were substantially larger than the [106] acquisition.** The dispositions in [104] (pre-1886), [108] (156 ac), and [113] (80 ac) total 238 ac, which is 82 ac more than the documented [106] acquisition. This means JH Bounds acquired Boyd Survey land from at least one other source not currently in the file set.
+2. **JH Bounds' Boyd Survey holdings were substantially larger than the [106] acquisition.** Total documented dispositions = ~500.8 ac: [120] (158 ac, 1874) + [121] (62 ac, ~1874, IDX) + [104] (2 ac, 1885) + [108] (156 ac, 1889) + [113] (80 ac, 1910) + [318] (~42.8 ac, 1975). This is ~344.8 ac more than the documented [106] acquisition (156 ac). JH Bounds acquired Boyd Survey land from at least one major undocumented source predating 1874. The [120] metes-and-bounds (beginning 400 vrs W of SE corner) vs [106] (beginning 500 vrs W) confirm these are different parcels on the Boyd League.
 
 3. **The deed [24] upstream chain is unresolved.** The ~42.8 acres conveyed by Verona E. Black in 1974 had been in the John Thomas Black / Verona Black family. How they acquired it — and whether it traces to JH Bounds or to a separate acquisition — is not documented. It is possible JH Bounds held other Boyd Survey land (beyond [106]) that passed through different family lines to eventually reach John Thomas Black and Verona.
 

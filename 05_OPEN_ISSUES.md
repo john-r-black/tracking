@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [119] PDF pulled — ISSUE-40 item [119] PULLED; ISSUE-34 updated (T.J. Hall→JH Bounds Dec 15, 1865 = second upstream McAnulty source, earliest documented date); ISSUE-43 item 23 date corrected (30 years, not 26)*
+*Last updated: 2026-03-31 — Deed [120] PDF pulled — ISSUE-40 item [120] PULLED; ISSUE-41 partially advanced (metes-and-bounds confirmed: 158 ac beginning 400 vrs W, 500 vrs wide, different parcel from [106])*
 # Black Land Project — Open Issues List
 
 
@@ -587,7 +587,7 @@
 - **Description**: Six instruments identified from the Limestone County CountyFusion complete deed index (2026-03-08) that have not yet been pulled as PDFs. Citations confirmed from index; originals needed to confirm content.
 - **Instruments to pull**:
   - ~~[119]: LC Vol. D Pg. 24 — JH Bounds → H&TC Railway ROW (1875)~~ — **PULLED ✓ = deed [119]**; Right-of-way conveyance, 1871-05-03 (NOT 1875 — index date erroneous); JH Bounds → Houston & Texas Central Railway Co.; 200-ft strip over Hall tract on McAnulty League + blanket ROW; $375 coin; fee simple, no mineral reservation; **DISPOSED — NO REVERSION**; upstream Hall→JH Bounds source deed (Dec 15, 1865) discovered = second McAnulty upstream source; originally Book II pp. 798–799 (1871); re-filed Book D p. 24 (1895)
-  - [120]: LC Vol. F Pg. 584 — JH Bounds → J.E. Bounds, 158 ac Boyd (1877)
+  - ~~[120]: LC Vol. F Pg. 584 — JH Bounds → J.E. Bounds, 158 ac Boyd (1877)~~ — **PULLED ✓ = deed [120]**; Warranty/gift deed, executed 1874-10-07 (NOT 1877 — 1877-02-26 is filing date); JH Bounds → J.E. Bounds; 158 ac John Boyd League, beginning 400 vrs W of SE corner; $1 consideration; full fee simple, surface+minerals, no reservation; **DISPOSED OUT OF DIRECT CHAIN**; metes-and-bounds confirmed — begins 400 vrs W (vs [106] at 500 vrs W), different parcel; J.V. Bounds west line referenced as eastern boundary; date anomaly (acknowledgment Oct 2, 1877 postdates filing Feb 26, 1877)
   - [121]: LC Vol. F Pg. 585 — JH Bounds → J.V. Bounds, 62 ac Boyd (1877)
   - [122]: LC Vol. 13 Pg. 301 — T.W. Bounds → Brown James, 158 ac Boyd (1891) — also resolves ISSUE-32 name question
   - ~~[123]: LC Vol. 48 Pg. 373 — JH Bounds → Dunbar H Clay, McAnulty~~ — **PULLED ✓ = deed [123]**; Warranty deed, 1869-08-03 (NOT 1906 — index date was re-filing); JH Bounds + wife Margaret E. Bounds → H. Clay Dunbar; 200 ac south end McAnulty League; $300; originally recorded Book H pp. 177–178 (03/23/1870); **DISPOSED — NO REVERSION**; ISSUE-34 significantly revised (200 ac ≠ speculated 137.75 ac; sale predates 1906 partition by 37 years); upstream Hare→Bounds McAnulty source deed discovered
@@ -603,7 +603,7 @@
 - **County**: Limestone
 - **Description**: Deeds [120] and [121] document JH Bounds gifting 158 + 62 = 220 acres of John Boyd League to sons J.E. Bounds and J.V. Bounds in 1877. The downstream disposition of these parcels is not yet documented. Both J.E. and J.V. Bounds appear in the 1906 deed [111] grantor list — meaning they still held some interest in family land in 1906 (or were releasing any claim). Whether they retained and later sold their 1877 Boyd Survey gifts separately is unknown.
 - **Research needed**: Search Limestone County index under "Bounds J E" and "Bounds J V" as grantors to find disposal instruments. After disposal instruments are located and pulled, mark chains DISPOSED — NO REVERSION.
-- **Dependency**: ISSUE-40 (pull [120]/[121] PDFs first to confirm exact tract descriptions before searching for downstream instruments).
+- **Dependency**: ISSUE-40 partially resolved ([120] PULLED — metes-and-bounds confirmed: 158 ac beginning 400 vrs W of SE corner Boyd League, 500 vrs wide along south line, N to Tehuacana Creek ~1900 vrs; [121] PDF still needed for J.V. Bounds 62-ac tract description). Deed [120] metes-and-bounds now available for targeted J.E. Bounds grantor search in LC index.
 - **Note**: This chain does NOT affect the current family holdings — it is historical completeness only.
 
 ---
