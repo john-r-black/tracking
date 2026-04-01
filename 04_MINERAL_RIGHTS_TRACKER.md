@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [317] — Miller mineral reservation on Lot 2 (60.4 ac Richie League) documented; impact on Beldin Tract assessed (no cloud if Beldin carved pre-Miller chain)*
+*Last updated: 2026-03-31 — Deed [322] — 1979 McComb OGL coal/lignite exclusion documented for Exhibit A tracts; upstream J.M. Bounds source deed citations added*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -259,6 +259,8 @@ Without recorded documentation, these interests are invisible in the public reco
 - Trust No. 1 received full surface AND mineral interest in all four tracts
 - Tracts: Freestone Exhibit A nine sub-tracts (Strickland A-550, Slaughter A-565, Curry A-9) net 329 ac; Limestone Tract Two (3 ac McAnulty); Limestone Tract Three (92 ac stated [sic — 74 ac actual after [35] partition; same error in [14]/[36] and [17]/[38]; ISSUE-23]); cross-county Tract Four (92 ac McAnulty)
 - Caveat: Upstream chain (J.M. Bounds acquisitions 1883–1912) may have mineral severances not visible in this deed; Weaver-type issues cannot be ruled out without reviewing each source deed
+- **Coal/lignite exclusion**: Deed [322] (1979 McComb OGL, FC DR/534/321) covering the identical 491.99-ac Exhibit A block explicitly excludes coal and lignite from the leased minerals (margin note initialed O.B.B.: "this lease does not cover coal or lignite"). This exclusion applies to the McComb lease only and does NOT sever coal/lignite from the mineral estate — Olena retained all minerals including coal/lignite. However, it establishes that coal/lignite was a separately contemplated mineral interest as of 1979.
+- **Upstream J.M. Bounds source deeds** (per deed [322] Exhibit A): Vol.31 p.182 (Ballard→JM Bounds 1908, 200 ac Strickland); Vol.47 p.118 (Cameron→JM Bounds 1912, 53.33 ac Slaughter); Vol.37 p.463 (ST Bounds→JM Bounds 1883, 53+4.5+50.5 ac across Slaughter/Curry); Vol.2 p.406 (Lunsford→JM Bounds 1890, 53.33+24 ac Slaughter/Curry); Vol.2 p.410 (Thompson→JM Bounds 1885, 40 ac Slaughter); Vol.2 p.408 (Thompson→JM Bounds 1886, 13.33 ac Slaughter) — all FC Deed Records. These are descriptive references only ("for descriptive purposes only" per lease text), not chain-of-title incorporations.
 - Exhibit B (162.99 ac excepted) — minerals in that block went with the Exhibit B land to Trust No. 2 via companion deed [16]/[37]; NOT covered by this instrument
 - Confidence: HIGH (no reservation language present)
 - **⚠️ SAME-DAY MODIFICATION**: Deed [17]/[38] (same date, July 7, 2005) immediately conveyed undivided 1/2 of Trust 1's mineral interest in all four [14] tracts PLUS the Edwards Tract to Trust No. 2, with Trust 1 retaining executive rights. The mineral estate received via [14] was modified within the same closing.
