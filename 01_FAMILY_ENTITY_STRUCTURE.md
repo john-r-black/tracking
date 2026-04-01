@@ -1,4 +1,4 @@
-*Last updated: 2026-04-01 — Deed [306] PDF pulled — W. E. Black family confirmed (8+ children identified); C.E. Black confirmed sibling of JT Black; Ida A. Black deceased by Nov 1942; Norvell Survey only (NOT Boyd); ISSUE-43 item 4 satisfied*
+*Last updated: 2026-04-01 — Deed [307] — Vickers and Robinson added to neighbor chain contacts; third-party surface owner corrected from Vickers to Robinson*
 # Black Land Project — Family & Entity Structure
 
 
@@ -262,6 +262,10 @@ Per family oral history, four brothers migrated from Mississippi to Texas after 
 | W. L. Adams | Grantee | [113] (1910) | Purchased 338-acre multi-survey parcel (including 80 ac Boyd League) from Barry/Bounds grantor group for $5,250 cash; co-grantee with W. S. Adams |
 | W. S. Adams | Co-grantee | [113] (1910) | Co-purchaser with W. L. Adams |
 | W. J. Robinson | Grantee | [114] (1910) | Purchased 43-acre P. Varela Survey parcel from Barry/Bounds grantor group for $535.05 (cash + vendor's lien notes) |
+| Hugh David Vickers | Grantee / Grantor | [02] (1946), [307] (1947) | [02]: Purchased ~43-ac J.F. McGuffin Survey A-406 from MS Bounds (surface+minerals, 1/16 royalty reserved to Bounds); Titus County resident; wife Olga Brand Vickers. [307]: Sold same parcel to Ray Robinson et ux (surface+minerals, reserved own 1/16 royalty). ⚠️ Name variant: "Olga Bond Vickers" in [307] privy examination = scrivener's error for Olga Brand Vickers |
+| Olga Brand Vickers | Wife of Hugh David Vickers; co-grantor | [307] (1947) | Titus County resident; privy examination before John A. Cook NP, Titus County |
+| Ray Robinson | Grantee | [307] (1947) | Purchased ~43-ac J.F. McGuffin Survey A-406 from Vickers (surface+minerals, subject to Bounds 1/16 royalty and Vickers 1/16 royalty); Limestone County resident; wife Georgie Lee Robinson. ⚠️ FC index listed as "Robinson Ray" — deed confirms "Ray Robinson" |
+| Georgie Lee Robinson | Wife of Ray Robinson; co-grantee | [307] (1947) | Limestone County resident |
 
 ---
 
@@ -344,4 +348,4 @@ The app tracks ownership history. Every parcel must have its current owner recor
 - **Trust No. 2** (James Allen Black's parcels)
 - **Kay Lynn Ramsey Black / John Marion Black estate** (personal land and mineral interests outside the trusts)
 - **James Allen Black personally** (land and mineral interests outside Trust No. 2 — including his 1/2 share of L20555 and L20556 minerals, his share of the Vickers royalty, his share of the TU Electric minerals, and any other personal holdings not conveyed into the trust)
-- **Third parties** (Weaver heirs [Gussie Weaver heirs: wife Jewell P. Weaver, daughter Josie Evelyn Weaver (b. 3/8/1915, d. before 2012), son Ted A. Weaver (b. 12/19/1933) — per deed [324] heirship affidavit; Jewell Weaver heirs: held in Weaver Jewell P Family Testamentary Trust — heirs TBD], Ennis/Dorsett estate interests, Vickers surface)
+- **Third parties** (Weaver heirs [Gussie Weaver heirs: wife Jewell P. Weaver, daughter Josie Evelyn Weaver (b. 3/8/1915, d. before 2012), son Ted A. Weaver (b. 12/19/1933) — per deed [324] heirship affidavit; Jewell Weaver heirs: held in Weaver Jewell P Family Testamentary Trust — heirs TBD], Ennis/Dorsett estate interests, Robinson heirs/successors (McGuffin ~43 ac surface, ex-Vickers per deed [307]))

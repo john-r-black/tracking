@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [322] — 1979 McComb OGL coal/lignite exclusion documented for Exhibit A tracts; upstream J.M. Bounds source deed citations added*
+*Last updated: 2026-04-01 — Deed [307] — Vickers Tract section rewritten: scope confirmed (surface+minerals); Vickers 1/16 royalty discovered; grantees corrected to Ray Robinson and Georgie Lee Robinson; upstream chain citations identified; Quick Reference Matrix updated*
 # Black Land Project — Mineral Rights Tracker
 
 
@@ -174,17 +174,23 @@ Texas legal concepts that affect interpretation:
 ---
 
 ### Vickers Tract (~43 acres, Freestone) — SURFACE NOT OWNED BY FAMILY
-- Surface owner: **Robinson Ray's heirs/successors** — Vickers sold to Robinson Ray within 12 months (FC Doc 1947-3011, DR/198/393, WARRANTY DEED, 12/27/1947) [INDEX IDENTIFIED: FC DR/198/393, 2026-03-09]. Downstream chain from Robinson forward not yet traced.
+- Surface owner: **Ray Robinson and Georgie Lee Robinson's heirs/successors** — Vickers sold to Ray Robinson and wife Georgie Lee Robinson (Limestone County residents) by warranty deed [307], dated December 13, 1947. FC File No. 3011, Deed Record 198, Pg. 393–394 [PDF CONFIRMED: deed [307], 2026-04-01]. ⚠️ FC index listed grantee as "Robinson Ray" — deed text confirms proper name order. Downstream chain from Robinson forward not yet traced.
+- **Deed [307] scope confirmed**: Surface + minerals conveyed — NOT surface only. Vickers held full mineral estate (received from MS Bounds in deed [02]) and conveyed surface + minerals to Robinson. Consideration: $10 cash + assumption of three vendor's lien notes from deed [02] (FC Vol. 193, Pg. 96, dated Feb 13, 1946; $100 + $150 + $150 = $400 total at 8% interest).
 - Family mineral interest: **Royalty only**
-  - Standard reading: 1/16 of production (reserved as "1/2 of 1/8 royalty" in 1946)
-  - Alternative reading: Only 1/16 × M.S. Bounds' fractional mineral ownership — if Bounds didn't own 100% of minerals, family royalty is proportionally smaller
-- Royalty chain: M.S. Bounds → Olena → **UNDOCUMENTED** — no source deed or estate instrument in the current file set establishes how or to whom this royalty passed after Olena's death. The assertion that it passed outside the trusts to John Marion Black and James Allen Black personally has no confirmed source instrument.
-- Current ownership of royalty:
+  - MS Bounds 1/16 royalty (reserved in deed [02], 1946): "one-half of the one-eighth, or a one-sixteenth royalty interest" — confirmed, unambiguous
+  - ⚠️ **Vickers 1/16 royalty** (reserved in deed [307], 1947): identical language — "one-half of the one-eighth or a one-sixteenth royalty interest in all mines of, and all oil, gas and all minerals" — Vickers retained his own royalty when selling to Robinson. **NOT a family interest** — belongs to Vickers heirs/successors.
+  - **Total royalty burden on Robinson's mineral estate**: 2/16 (= 1/8) of production — Bounds 1/16 + Vickers 1/16
+  - Deed [307] does NOT mention the Bounds [02] royalty — it is a pre-existing burden that runs with the land
+  - The "alternative reading" question (whether Bounds owned 100% of minerals) is now moot — deed [307] confirms Vickers conveyed minerals (he could not convey what he did not have), and ISSUE-10 confirms the royalty fraction is unambiguous
+- Royalty chain: M.S. Bounds → Olena → **UNDOCUMENTED** — no source deed or estate instrument in the current file set establishes how or to whom the Bounds 1/16 royalty passed after Olena's death. The assertion that it passed outside the trusts to John Marion Black and James Allen Black personally has no confirmed source instrument.
+- Current ownership of Bounds 1/16 royalty:
   - John Marion Black's share → **UNKNOWN** — chain from Olena not documented
   - James Allen Black's share → **UNKNOWN** — chain from Olena not documented
+- Vickers 1/16 royalty: Owned by **Vickers heirs/successors** — NOT a family interest. Downstream chain not traced.
 - Executive rights: None — Black family has royalty only, no right to lease
-- Confidence: MEDIUM for royalty existence; LOW for exact fraction; LOW for current documentation; **LOW for all ownership assertions pending source deed**
-- Action: (a) Pull FC Doc 1947-3011 (Vickers → Robinson Ray) — PRIORITY — determine scope (surface only? minerals? royalty referenced?); (b) run Robinson surname search in Freestone County to trace downstream chain from Robinson; (c) pull pre-1946 chain to confirm Bounds' mineral ownership fraction; (d) run Bounds surname search in Freestone County to check for any recorded royalty assignment; (e) identify source instrument for MS Bounds → Olena royalty succession; (f) once chain established, record heirship affidavit for John Marion's share
+- Confidence: **HIGH** for royalty existence and fraction (deed [02] + [307] language identical and unambiguous); LOW for current ownership documentation; **LOW for all ownership assertions pending source deed for Bounds chain from Olena forward**
+- **Upstream chain identified from deed [307]**: (a) Mrs. Jane Jordan → Chas. and Harrison Morgan (112.6 ac, McGuffin Survey, date unknown); (b) Chas. Morgan awarded woodland tracts in Cause No. 3656, District Court of Freestone County (Chas. Morgan vs. J. M. Jordan et als), surveyed by T. Bennett — ~11 ac woodland; (c) warranty deed dated May 15, 1917, recorded Vol. 50, Pg. 387, FC — ⚠️ deed [307] recites "conveyed to grantors herein" (i.e., the Vickers) but deed [02] (MS Bounds → Vickers, 1946) also conveyed this land — likely an upstream chain document misidentified in the recital; REQUIRES INVESTIGATION
+- Revised action: ~~(a) Pull FC Doc 1947-3011 (Vickers → Robinson Ray)~~ **DONE — deed [307]**; (b) run Robinson surname search in Freestone County to trace downstream chain from Robinson; (c) ~~pull pre-1946 chain to confirm Bounds' mineral ownership fraction~~ **RESOLVED — Bounds owned 100% (ISSUE-10 + deed [307] confirms)**; (d) run Bounds surname search in Freestone County to check for any recorded royalty assignment; (e) identify source instrument for MS Bounds → Olena royalty succession; (f) once chain established, record heirship affidavit for John Marion's share; **NEW**: (g) pull FC Vol. 50, Pg. 387 (1917 upstream warranty deed) — determine actual grantor/grantee; (h) trace Vickers 1/16 royalty downstream — determine current holder (not a family interest but affects leasing negotiations)
 
 ---
 
@@ -235,7 +241,7 @@ Texas legal concepts that affect interpretation:
 | Carved Parcel (162.99 ac) | **50% non-exec.** (per [20]/[39]) | **50% + exec. rights** (per [16]/[20]) | — | — | — | — |
 | Third Tract (20 ac Trust 2 parcels) | **50% non-exec.** (per [20]/[39]) | **50% + exec. rights** (per [16]/[20]) | — | — | — | — |
 | Boyd Survey tracts (~42.8 ac) | **DISPOSED** | — | — | — | — | **ALL 3/3 sold to Simmons (deed [318], Jan 1975)**; 10-yr 1/16 NPRI expired 1985; no family interest |
-| Vickers royalty (~43 ac) | — | — | **UNKNOWN** | **UNKNOWN** | — | Chain undocumented |
+| Vickers royalty (~43 ac) | — | — | **UNKNOWN** | **UNKNOWN** | — | Bounds 1/16 chain undocumented; Vickers reserved separate 1/16 (deed [307]) — NOT family interest |
 | TU Electric minerals (17.916 ac) | — | — | Kay (~1/2, undoc.) | ~1/2 | — | — |
 | Wortham Lots (0.09 ac) | **1/2** (Trust 1 holds; ⚠️ not conveyed by [21]/[40]; ISSUE-24) | **1/2** | — | — | — | — |
 
