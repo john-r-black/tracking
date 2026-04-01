@@ -1,0 +1,106 @@
+{
+  "manifest_version": "1.0",
+  "batch_id": "2026-03-31_batch_05",
+  "date": "2026-03-31",
+  "documents_analyzed": [
+    "1978-04-24_[319]_f_deed_surface+minerals_estateofjvboundsjr_vlbounds.md"
+  ],
+  "batch_summary": "Deed [319] analyzed — Administrator's deed from Estate of J.V. Bounds Jr. (Probate No. 3217, County Court FC; Oliver A. Bounds, Admin. w/ Will Annexed) to Virgil L. Bounds, dated April 24, 1978, conveying three tracts: First Tract (10.413 ac, Henry Shelton Survey A-950, Navarro Co.), Second Tract (93.197 ac, Eli Hillhouse Survey A-337, Navarro Co.), and Third Tract (undivided 1/2 fee simple title in 60.4 ac, Wm. Richie Survey Lot 3, Freestone Co., subject to mineral reservations of record). Consideration $20,000. The Third Tract cross-references a prior deed from Bessie Bounds to Virgil L. Bounds (11/22/1972, Vol. 420 Pg. 560 FC) conveying the other 1/2 interest — newly identified instrument. Third Tract describes full 60.4 ac with no Beldin 33.66-ac exception, advancing the ISSUE-44 Lot 2 origin theory. Partition judgment citation discrepancy: deed [319] cites Vol. 1 Pg. 233 vs. deed [313]'s Vol. 1 Pg. 235. Navarro County tracts are outside project scope. ISSUE-43 item 25 satisfied; recording citation corrected (DR/503/151, not DR/509/295 per index). ISSUE-44 advanced.",
+  "files": {
+    "01_FAMILY_ENTITY_STRUCTURE.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [319] — J.V. Bounds Jr. estate probate documented (No. 3217, County Court FC); Oliver A. Bounds confirmed as Administrator with Will Annexed; Bessie Bounds → Virgil deed (1972, Vol. 420 Pg. 560 FC) cross-referenced",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Add Oliver A. Bounds' role as J.V. Jr.'s estate administrator",
+          "find": "└── Oliver Bounds (1905–)",
+          "replace_with": "└── Oliver Bounds (1905–) — served as Administrator with Will Annexed of the Estate of J.V. Bounds Jr., Deceased (Probate No. 3217, County Court FC; deed [319], 1978)"
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [319] estate deed cross-reference and Bessie→Virgil 1972 deed note after J.V. Jr.'s children list",
+          "anchor": "Dillon Bounds, Preston Bounds, Virgil (Vergil) Bounds (= Virgil L. Bounds), T. P. Bounds, Oleta Bounds (m. Reagan Ashby)",
+          "content": "     │        │         │     Estate: Probate No. 3217, County Court FC; Oliver A. Bounds, Admin. w/ Will Annexed. Deed [319] (4/24/1978) conveyed estate's undivided 1/2 of Lot 3 (60.4 ac Richie, FC) + Navarro Co. tracts to Virgil L. Bounds ($20,000). Cross-ref: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420 Pg. 560 FC (prior conveyance of other 1/2 interest in Lot 3)."
+        },
+        {
+          "action": "replace",
+          "description": "Add J.V. Jr. probate info to his main entry line",
+          "find": "Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds (\"feme sole, widow\" per deed [313], 1962)",
+          "replace_with": "Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds (\"feme sole, widow\" per deed [313], 1962); Probate No. 3217, County Court FC (deed [319], 1978)"
+        }
+      ]
+    },
+    "02_PROPERTY_INVENTORY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [319] — Estate of J.V. Bounds Jr. → Virgil L. Bounds (1978); estate conveyed undivided 1/2 of Lot 3 (60.4 ac) with no Beldin exception; Bessie→Virgil 1972 deed identified; partition judgment citation discrepancy noted",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [319] findings after existing Lot 2/Lot 3 note in Richie League section",
+          "anchor": "Pull T.A. Bounds estate partition judgment (Case No. 8153-B, 1/28/1926) to confirm lot assignments — ISSUE-44.",
+          "content": "\n**⚠️ Deed [319] — Estate of J.V. Bounds Jr. → Virgil L. Bounds (1978-04-24)**: Deed [319] (DR/503/151 FC, Doc# 2653) is an administrator's deed from Oliver A. Bounds (Admin. w/ Will Annexed, Probate No. 3217, County Court FC) conveying the estate's **undivided 1/2 fee simple title** in the 60.4-ac Lot 3 (Wm. Richie Survey, same metes-and-bounds as deed [313]) to Virgil L. Bounds for $20,000. Third Tract describes the full 60.4 ac with **no exception for the Beldin 33.66 ac** — consistent with Beldin originating from Lot 2 (McLelland allotment), not Lot 3 (J.V. Jr. allotment). Cross-references a prior deed from Bessie Bounds → Virgil L. Bounds (11/22/1972, Vol. 420, Pg. 560, FC) as conveying the other 1/2 interest. \"SUBJECT to any conveyance of mineral interests or reservations shown by instruments of record.\" Also conveyed Navarro County tracts (10.413 ac Shelton A-950 + 93.197 ac Hillhouse A-337 — outside project scope). ⚠️ **Partition judgment citation discrepancy**: deed [319] cites \"Vol. 1, Page 233, Civil Minutes, District Court\" vs. deed [313] cites \"Vol. 1 Page 235\" — same judgment, different page citations. **Newly identified instrument**: Bessie Bounds → Virgil L. Bounds, Nov 22, 1972, Vol. 420, Pg. 560, Deed Records FC — add to ISSUE-44 pull list."
+        }
+      ]
+    },
+    "03_DEED_CHAIN_SUMMARY.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [319] added to Phase 1 — Administrator's deed, Estate of J.V. Bounds Jr. (Oliver A. Bounds, Admin.) → Virgil L. Bounds, undivided 1/2 of Lot 3 (60.4 ac Wm. Richie A-527) + Navarro Co. tracts; Bessie→Virgil 1972 deed identified; ISSUE-43 item 25 satisfied; ISSUE-44 advanced",
+      "operations": [
+        {
+          "action": "insert_after",
+          "description": "Add deed [319] entry to Phase 1 section, after deed [317]",
+          "anchor": "ISSUE-44 advanced (Lot 2 identification + source deed chain + mineral severance). Phase 1",
+          "content": "\n20. `1978-04-24_[319]_f` — Oliver A. Bounds, Administrator with Will Annexed of the Estate of J. V. Bounds, Jr., Deceased (Probate No. 3217, County Court FC) → Virgil L. Bounds (administrator's deed, surface+minerals subject to reservations of record, Freestone recording; property in Freestone + Navarro Counties) — Three tracts: First Tract (10.413 ac, Henry Shelton Survey A-950, Navarro County; part of called 237.5-ac partition from Mrs. J. V. Bounds et al to J. V. Bounds, 8/30/1913, Vol. 188 Pg. 502, Navarro Co. Deed Records; was called 7.5 ac excepted from J. V. Bounds Jr. et ux to Humphreys Texas Company, 10/5/1921, Vol. 232 Pg. 547, Navarro Co.); Second Tract (93.197 ac, Eli Hillhouse Survey A-337, Navarro County; all of called 81.2 ac from same 1913 partition); Third Tract (**undivided 1/2 fee simple title** in 60.4 ac, William Ritchie Survey, Freestone County — Lot No. 3, awarded to J. V. Bounds, Jr. in Partition Suit styled Rufus McClelland et al vs. J. V. Bounds, Jr. et al, described in Commissioners Report and Approval dated January 28, 1926, and recorded in ⚠️ Vol. 1, Page 233, Civil Minutes, District Court, Freestone County — **conflicts with deed [313] citation of Vol. 1 Page 235; same judgment, different page reference**). Third Tract metes-and-bounds: beginning SE corner of original 181.3-ac tract on public road; S 34-30 W 332 vrs; N 56-20 W 1026.3 vrs; N 34-30 E 332 vrs; S 56-20 E 1026.3 vrs to POB — **identical to deed [313] (Lot 3)**. Cross-references deed from Bessie Bounds to Virgil L. Bounds, 11/22/1972, Vol. 420, Pg. 560, Deed Records FC — Bessie conveyed her interest (the other undivided 1/2) to Virgil six years before the estate deed. **SUBJECT to any conveyance of mineral interests or reservations shown by instruments of record.** Consideration: $20,000. Court order for private sale: April 5, 1978; sale at private sale to Virgil: April 10, 1978; Report of Sale filed April 10, 1978; Decree confirming sale entered April 20, 1978. Notary: Emma Alewine, NP, Freestone County. ⚠️ **Navarro County tracts** (First + Second Tracts, 103.61 ac total) are outside project scope — neither Freestone nor Limestone County. The 1913 Navarro partition deed (Vol. 188 Pg. 502) is J. V. Bounds Sr.'s estate, not T. A. Bounds'. The Humphreys Texas Company deed (1921, Vol. 232 Pg. 547 Navarro Co.) shows J.V. Jr. and wife previously conveyed part of the Shelton Survey holding; the \"called 7.5 acres\" excepted from that conveyance is what grew to 10.413 ac upon survey. **ISSUE-44 advanced**: (a) No Beldin 33.66-ac exception in 60.4-ac Lot 3 description — supports Lot 2 origin theory for Beldin Tract; (b) partition judgment citation discrepancy (Pg. 233 vs. 235) flagged; (c) newly identified instrument: Bessie Bounds → Virgil L. Bounds (1972, Vol. 420 Pg. 560 FC). **Newly identified instrument for pull list**: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420, Pg. 560, Deed Records FC — conveyance of Bessie's undivided 1/2 in Lot 3 to Virgil; may clarify source of Bessie's interest (life estate under J.V. Jr.'s will? outright ownership?). Recording: Doc# 2653; Deed Record 503, Pg. 151–154 (4 pages), Freestone County. Filed Apr 24, 1978 at 11:30 AM; recorded Apr 28, 1978; Doris Terry Welch, County Clerk, Freestone County; Deputy: Sue Lamount. ⚠️ **ISSUE-43 item 25 citation discrepancy**: FC index listed DR/509/295 — actual deed is DR/503/151 (Doc# 2653); deed text controls. ISSUE-43 item 25 satisfied. ISSUE-44 advanced. Phase 1"
+        },
+        {
+          "action": "replace",
+          "description": "Update Phase 1 deed list in Phase Structure Overview to include [319]",
+          "find": "| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02], [308], [313], [317] |",
+          "replace_with": "| Phase 1 | PHASE 1.txt | Early Bounds stream (pre-Olena) | [102], [103], [104], [106], [107], [108], [110], [113], [114], [115], [116], [117], [118], [22], [01], [02], [308], [313], [317], [319] |"
+        }
+      ]
+    },
+    "04_MINERAL_RIGHTS_TRACKER.md": {
+      "changed": false,
+      "timestamp_summary": null,
+      "operations": []
+    },
+    "05_OPEN_ISSUES.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [319] — ISSUE-43 item 25 pulled (FC 1978-2653, Estate J.V. Bounds Jr. → Virgil L. = deed [319]); citation corrected DR/503/151 not DR/509/295; ISSUE-44 advanced (no Beldin exception in Lot 3 description; Bessie→Virgil 1972 deed identified; partition citation discrepancy Pg. 233 vs. 235)",
+      "operations": [
+        {
+          "action": "replace",
+          "description": "Update ISSUE-44 pull items line to mark item 25 as pulled and add Bessie→Virgil deed to pull list",
+          "find": "- **Pull items**: ISSUE-43 items 25 (1978-2653, J.V. Jr. estate → Virgil L.), ~~26 (1973-478, Miller Clara Barton → Virgil L.)~~ **PULLED ✓ = deed [317]**, 27 (J.V. Jr. will from FC probate). ~~28 (1962-690, Elgin mineral lease)~~ **PULLED ✓ = deed [313]**. NEW: T.A. Bounds estate partition judgment (FC 87th District Court, Case No. 8153-B, Vol. 1 Pg. 235, Jan 28, 1926) — pull from district court minutes to identify all allotments. **PRIORITY ELEVATED — CRITICAL** (determines lot assignments, resolves Lot 2/Lot 3 question).",
+          "replace_with": "- **Pull items**: ~~ISSUE-43 items 25 (1978-2653, J.V. Jr. estate → Virgil L.)~~ **PULLED ✓ = deed [319]** (⚠️ citation corrected: DR/503/151, not DR/509/295 per index), ~~26 (1973-478, Miller Clara Barton → Virgil L.)~~ **PULLED ✓ = deed [317]**, 27 (J.V. Jr. will from FC probate). ~~28 (1962-690, Elgin mineral lease)~~ **PULLED ✓ = deed [313]**. NEW: T.A. Bounds estate partition judgment (FC 87th District Court, Case No. 8153-B, Vol. 1 Pg. 233 or 235 — deed [319] cites Pg. 233, deed [313] cites Pg. 235; same judgment, Jan 28, 1926) — pull from district court minutes to identify all allotments. **PRIORITY ELEVATED — CRITICAL** (determines lot assignments, resolves Lot 2/Lot 3 question). NEW: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420, Pg. 560, FC — conveyance of Bessie's undivided 1/2 in Lot 3 (60.4 ac Richie) to Virgil; determines nature of Bessie's interest (life estate under will? outright ownership?)."
+        },
+        {
+          "action": "insert_after",
+          "description": "Add deed [319] key finding to ISSUE-44 after deed [317] key finding",
+          "anchor": "Partition judgment pull is now CRITICAL PRIORITY",
+          "content": "- **Key finding — deed [319] (1978 Estate J.V. Jr. → Virgil administrator's deed)**: Deed [319] (DR/503/151 FC, Doc# 2653, 1978-04-24, Oliver A. Bounds Admin. w/ Will Annexed, Probate No. 3217 County Court FC → Virgil L. Bounds) conveys the estate's **undivided 1/2 fee simple title** in 60.4 ac Lot No. 3, Wm. Ritchie Survey, for $20,000. Also conveys Navarro County tracts (10.413 ac Shelton A-950 + 93.197 ac Hillhouse A-337 — outside project scope). **Critical findings**: (a) Third Tract metes-and-bounds identical to deed [313] (Lot 3: beginning SE corner of 181.3-ac tract; S 34-30 W 332 vrs; N 56-20 W 1026.3 vrs; N 34-30 E 332 vrs; S 56-20 E 1026.3 vrs to POB). (b) **No Beldin 33.66-ac exception** — estate conveyed interest in the full 60.4 ac without carving out or excepting the Beldin portion. If the Beldin Tract had been carved from Lot 3 before J.V. Jr.'s death, the estate deed would either except it or convey only the remainder. The absence of any exception is consistent with the Beldin originating from **Lot 2** (McLelland allotment), not Lot 3. (c) Cross-references deed from **Bessie Bounds → Virgil L. Bounds, November 22, 1972, recorded Vol. 420, Page 560, Deed Records FC** — Bessie conveyed her undivided 1/2 interest six years before the estate conveyance. After both deeds, Virgil holds 100% of whatever interest Bessie and the estate collectively held in Lot 3. (d) \"SUBJECT to any conveyance of mineral interests or reservations shown by instruments of record\" — estate deed explicitly acknowledges prior mineral encumbrances. (e) **Partition judgment citation discrepancy**: deed [319] cites \"Vol. 1, Page 233, Civil Minutes, District Court\" vs. deed [313] cites \"Vol. 1 Page 235\" — same judgment (No. 8153-B, Rufus McClelland et al. vs. J. V. Bounds, Jr. et al., January 28, 1926), different page citations. The 1926 Commissioners Report may span multiple pages. Pull will resolve. (f) **Bessie's interest source**: The 1972 Bessie→Virgil deed (Vol. 420 Pg. 560) predates J.V. Jr.'s estate administration. If Bessie held a life estate under J.V. Jr.'s 1923 will, her 1972 conveyance may have been only her life interest, with the remainder passing through the estate in 1978. Alternatively, if Bessie held outright ownership of her 1/2 (e.g., as surviving spouse under intestacy or community property), the 1972 conveyance was fee simple. The Bessie deed and J.V. Jr.'s will (ISSUE-43 item 27) must be pulled to resolve. ⚠️ ISSUE-43 item 25 citation discrepancy: FC index listed DR/509/295 — actual deed is DR/503/151; deed text controls."
+        },
+        {
+          "action": "replace",
+          "description": "Mark ISSUE-43 item 25 as pulled and correct recording citation",
+          "find": "  25. FC Doc# 1978-2653 (DR/509/295) — J.V. BOUNDS JR DECEASED ESTATE → BOUNDS VIRGIL L, 60.4 ac W Ritchie SUR. Estate distribution of 60.4-ac parent tract. Determines whether Beldin 33.66 ac was included or already separated. MEDIUM priority / ISSUE-44. [IDENTIFIED: F-Bounds index, 2026-03-10]",
+          "replace_with": "  25. ~~FC Doc# 1978-2653 (DR/509/295)~~ — **PULLED ✓ = deed [319]**; Administrator's deed, Oliver A. Bounds (Admin. w/ Will Annexed, Probate No. 3217, County Court FC) → Virgil L. Bounds; **undivided 1/2** of 60.4 ac Wm. Richie A-527 Lot 3 + Navarro Co. tracts (10.413 ac Shelton + 93.197 ac Hillhouse); $20,000; subject to mineral reservations of record; no Beldin exception in 60.4-ac description; cross-refs Bessie Bounds → Virgil (1972, Vol. 420 Pg. 560 FC). ⚠️ Citation corrected: actual deed is DR/503/151 (Doc# 2653), not DR/509/295 per index. ISSUE-44 advanced (Lot 2 origin theory strengthened + Bessie deed identified + partition citation discrepancy Pg. 233 vs. 235)."
+        }
+      ]
+    },
+    "06_TECHNICAL_SPEC.md": {
+      "changed": true,
+      "timestamp_summary": "Deed [319] added to Deed Register — Administrator's deed, Estate of J.V. Bounds Jr. → Virgil L. Bounds, undivided 1/2 of 60.4 ac Lot 3 Wm. Richie A-527 + Navarro Co. tracts (FC Doc# 2653, DR/503/151)",
+      "operations": [
+        {
+          "action": "insert_before",
+          "description": "Add deed [319] to Deed Register table before the 'Add rows' marker",
+          "anchor": "*Add rows as additional PDFs are reviewed.*",
+          "content": "| [319] | Oliver A. Bounds (Admin. w/ Will Annexed, Estate of J.V. Bounds Jr., Deceased) → Virgil L. Bounds | Freestone | ✓ | Doc# 2653; Deed Record 503, Pg. 151–154, Freestone County. Filed Apr 24, 1978 at 11:30 AM; recorded Apr 28, 1978; Doris Terry Welch, County Clerk, Freestone County; Deputy: Sue Lamount. | 151–154 (4 pages) | 1978-04-24 | 1978-04-28 | **Administrator's Deed (Estate Distribution)** — Three tracts from Estate of J.V. Bounds Jr., Deceased (Probate No. 3217, County Court of Freestone County). Oliver A. Bounds, duly appointed Administrator with Will Annexed, sold at private sale per court order (Apr 5, 1978); sale to Virgil L. Bounds (Apr 10, 1978); decree confirming sale (Apr 20, 1978). **First Tract**: 10.413 ac, Henry Shelton Survey A-950, Navarro County; part of called 237.5-ac partition from Mrs. J.V. Bounds et al to J.V. Bounds, 8/30/1913, Vol. 188 Pg. 502 Navarro Co.; excepted from J.V. Bounds Jr. et ux → Humphreys Texas Company, 10/5/1921, Vol. 232 Pg. 547 Navarro Co. **Second Tract**: 93.197 ac, Eli Hillhouse Survey A-337, Navarro County; all of called 81.2 ac from same 1913 partition. **Third Tract**: Undivided 1/2 fee simple title in 60.4 ac, William Ritchie Survey, Lot No. 3, Freestone County; awarded to J.V. Bounds Jr. in Partition Suit No. 8153-B (Rufus McClelland et al. vs. J.V. Bounds Jr. et al., Commissioners Report 1/28/1926, ⚠️ Vol. 1 Pg. 233 Civil Minutes District Court FC — conflicts with deed [313] citation of Vol. 1 Pg. 235). Metes-and-bounds identical to deed [313] (Lot 3). Cross-references: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420 Pg. 560 FC (prior conveyance of other 1/2 interest). SUBJECT to mineral reservations of record. Consideration: $20,000. Notary: Emma Alewine NP, Freestone County. ⚠️ Navarro County tracts outside project scope. ⚠️ ISSUE-43 item 25 citation corrected: index listed DR/509/295; actual is DR/503/151. No Beldin exception in 60.4-ac description — ISSUE-44 advanced. ISSUE-43 item 25. Phase 1 |"
+        }
+      ]
+    }
+  }
+}

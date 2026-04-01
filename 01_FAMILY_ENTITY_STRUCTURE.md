@@ -1,4 +1,4 @@
-*Last updated: 2026-03-31 — Deed [313] — Seven probable J.V. Bounds Jr. children identified (Clara m. Howard, Myrtle m. Cain, Lillie Kate m. Panci, Dillon, Preston, T.P., Oleta m. Ashby) in addition to known son Virgil; Ebby/Ebb/Edd Bounds name variants noted*
+*Last updated: 2026-03-31 — Deed [319] — J.V. Bounds Jr. estate probate documented (No. 3217, County Court FC); Oliver A. Bounds confirmed as Administrator with Will Annexed; Bessie Bounds → Virgil deed (1972, Vol. 420 Pg. 560 FC) cross-referenced*
 # Black Land Project — Family & Entity Structure
 
 
@@ -19,10 +19,11 @@ Born Richmond NC; died Neshoba Co. MS                   Born Richmond NC; died C
      │        │         │
      │        │         ├── John T. Bounds (1872–1947) — children: Kenneth, Charles, Janet (m. Carter), Annie Laura (m. Stanfield), Emma (m. Stoddard) (deed [308])
      │        │         ├── Allen Hill Bounds (1876–1949) — children: Clyde Bounds (= Clyde L. Bounds of ISSUE-43 item 22), Maurine Bounds Henderson (deed [308])
-     │        │         ├── Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds ("feme sole, widow" per deed [313], 1962)
+     │        │         ├── Jesse Vastine Bounds Jr. (1876–~1955) — wife: Bessie Bounds ("feme sole, widow" per deed [313], 1962); Probate No. 3217, County Court FC (deed [319], 1978)
      │        │         │     Probable children (all appear as lessors on J.V. Jr.'s 60.4-ac partition lot in deed [313], 1962 — HUMAN VERIFICATION REQUIRED):
      │        │         │     Clara Bounds (m. Hill Howard), Myrtle Bounds (m. Algie Cain), Lillie (Lilly) Kate Bounds (m. Anthony Panci),
      │        │         │     Dillon Bounds, Preston Bounds, Virgil (Vergil) Bounds (= Virgil L. Bounds), T. P. Bounds, Oleta Bounds (m. Reagan Ashby)
+     │        │         │     Estate: Probate No. 3217, County Court FC; Oliver A. Bounds, Admin. w/ Will Annexed. Deed [319] (4/24/1978) conveyed estate's undivided 1/2 of Lot 3 (60.4 ac Richie, FC) + Navarro Co. tracts to Virgil L. Bounds ($20,000). Cross-ref: Bessie Bounds → Virgil L. Bounds, 11/22/1972, Vol. 420 Pg. 560 FC (prior conveyance of other 1/2 interest in Lot 3).
      │        │         ├── Laura E. Bounds (1878–bef.1953) — married McLelland; children: Granville E., Elgin, Rufus McLelland
      │        │         ├── Marion Sylvanus "MS" Bounds (1879–1977)
      │        │         ├── Rufus G. Bounds (1884–)
@@ -39,7 +40,7 @@ Born Richmond NC; died Neshoba Co. MS                   Born Richmond NC; died C
      │                  ├── James E. Bounds (1897–1901) — died young
      │                  ├── Mattie Bounds (1900–) — formal name Martha; married W.F. Eckhardt ("Martha Bounds Eckhardt" in deed [308]); distinct from Mattie Mae Bounds née Barry
      │                  ├── Ebby Bounds (1903–) — also "Ebb Bounds" (deed [313] body) / "Edd Bounds" (deed [313] notary acknowledgment)
-     │                  └── Oliver Bounds (1905–)
+     │                  └── Oliver Bounds (1905–) — served as Administrator with Will Annexed of the Estate of J.V. Bounds Jr., Deceased (Probate No. 3217, County Court FC; deed [319], 1978)
      │                  [16 children total per family research; not all positively identified]
      │                  NOTE: **Spencer Bounds** (deceased bef. 1955; children: Mary Bounds (feme sole), Gail Bounds) identified as T.A. Bounds child
      │                  and brother of J.V. Jr. per deed [308]. Mother unknown (Margaret Jane or Rhoda Virginia). Distinct from JH Bounds child
