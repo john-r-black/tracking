@@ -1,9 +1,9 @@
 ---
 source_file: DR-00013-00301.pdf
 source_images: DR-00013-00301-01.png, DR-00013-00301-02.png, DR-00013-00301-03.png
-county_doc_number:
-book: 13
-volume:
+county_doc_number: DR-00013-00301
+book: DR
+volume: 13
 page: 301
 transcription_phase: FINAL
 transcription_date: 2026-03-24

@@ -2,10 +2,10 @@
 source_file: 154533388_125931117.pdf
 source_images:
   - 154533388_125931117-01.png, 154533388_125931117-03.png, 154533388_125931117-03.png
-county_doc_number: "690"
-book: 
-volume: 
-page: 
+county_doc_number: 690
+book:
+volume: 314
+page: 115
 transcription_phase: FINAL
 transcription_date: 2026-03-26
 pages_transcribed: 3

@@ -1,10 +1,10 @@
 ---
-source_file: 1910-07-10_[114]_l_warrantydeed_surface+minerals_barry-jm-etal_robinson-wj.pdf
+source_file: DR-00063-00403.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00063-00403
+book: DR
+volume: 63
+page: 403
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

@@ -1,10 +1,10 @@
 ---
-source_file: 1945-09-13_[117]_l_release_surface+minerals_landbank_bounds-ms-ux.pdf
+source_file: 1945000000005059.pdf
 source_images:
-county_doc_number: 
-book: 
+county_doc_number: 1945000000005059
+book:
 volume:
-page:
+page: 370
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

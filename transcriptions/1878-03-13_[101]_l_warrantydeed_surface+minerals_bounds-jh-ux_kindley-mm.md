@@ -1,10 +1,10 @@
 ---
-source_file: 1878-03-13_[101]_l_warrantydeed_surface+minerals_bounds-jh-ux_kindley-mm.pdf
+source_file: DR-0000M-00390.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-0000M-00390
+book: DR
+volume: M
+page: 390
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

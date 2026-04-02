@@ -1,10 +1,10 @@
 ---
 source_file: 1955-09-13_[03]_f_warrantydeed_surface_gussieweaver_jpblack.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 2519
+book:
+volume: 262
+page: 271
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

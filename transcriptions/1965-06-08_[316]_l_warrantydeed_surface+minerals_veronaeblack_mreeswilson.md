@@ -1,7 +1,7 @@
 ---
 source_file: 06503775.pdf
 source_images: 06503775-01.png, 06503775-02.png
-county_doc_number: 3775
+county_doc_number: 06503775
 book:
 volume:
 page: 307

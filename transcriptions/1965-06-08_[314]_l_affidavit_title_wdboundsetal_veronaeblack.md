@@ -1,7 +1,7 @@
 ---
 source_file: 06503773.pdf
 source_images: 06503773-01.png, 06503773-02.png
-county_doc_number: 3773
+county_doc_number: 06503773
 book:
 volume:
 page: 304

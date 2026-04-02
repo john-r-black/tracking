@@ -1,9 +1,9 @@
 ---
 source_file: DR-00034-00256.pdf
 source_images: DR-00034-00256-01.png, DR-00034-00256-02.png
-county_doc_number:
-book: 34
-volume:
+county_doc_number: DR-00034-00256
+book: DR
+volume: 34
 page: 256
 transcription_phase: FINAL
 transcription_date: 2026-03-24

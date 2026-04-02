@@ -1,10 +1,10 @@
 ---
-source_file: 1881-11-21_[102]_l_warrantydeed_surface+minerals_mallard-jw_bounds-jh.pdf
+source_file: DR-0000O-00554.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-0000O-00554
+book: DR
+volume: O
+page: 554
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

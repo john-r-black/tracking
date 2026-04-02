@@ -2,8 +2,8 @@
 source_file: 154533388_244802540.pdf
 source_images: 154533388_244802540-01.png, 154533388_244802540-02.png
 county_doc_number: 3011
-book: Deed Record 198
-volume:
+book:
+volume: 198
 page: 393
 transcription_phase: FINAL
 transcription_date: 2026-03-26

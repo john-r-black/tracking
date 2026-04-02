@@ -1,10 +1,10 @@
 ---
-source_file: 1886-05-29_[105]_l_warrantydeed_surface+minerals_lindley-jp-ux_bounds-jh.pdf
+source_file: DR-00002-00383.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00002-00383
+book: DR
+volume: 2
+page: 383
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

@@ -1,10 +1,10 @@
 ---
-source_file: 1887-11-07_[107]_l_warrantydeed_surface+minerals_bounds-jh-ux_newhomebaptist-trustees.pdf
+source_file: DR-00032-00062.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00032-00062
+book: DR
+volume: 32
+page: 62
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

@@ -1,10 +1,10 @@
 ---
-source_file: 1881-12-06_[103]_l_warrantydeed_surface+minerals_longbotham-jo_bounds-jh.pdf
+source_file: DR-0000O-00553.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-0000O-00553
+book: DR
+volume: O
+page: 553
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

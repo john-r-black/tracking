@@ -1,10 +1,10 @@
 ---
-source_file: 1906-10-13_[112]_l_warrantydeed_surface+minerals_bounds-jh-heirs_bounds-ms.pdf
+source_file: DR-00063-00071.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00063-00071
+book: DR
+volume: 63
+page: 71
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

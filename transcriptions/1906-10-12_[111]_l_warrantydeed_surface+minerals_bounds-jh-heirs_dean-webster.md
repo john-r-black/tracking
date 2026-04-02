@@ -1,10 +1,10 @@
 ---
-source_file: 1906-10-12_[111]_l_warrantydeed_surface+minerals_bounds-jh-heirs_dean-webster.pdf
+source_file: DR-00031-00537.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00031-00537
+book: DR
+volume: 31
+page: 537
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

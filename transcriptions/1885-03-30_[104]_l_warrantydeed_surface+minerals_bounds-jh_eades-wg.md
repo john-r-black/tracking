@@ -1,10 +1,10 @@
 ---
-source_file: 1885-03-30_[104]_l_warrantydeed_surface+minerals_bounds-jh_eades-wg.pdf
+source_file: DR-00002-00528.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00002-00528
+book: DR
+volume: 2
+page: 528
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

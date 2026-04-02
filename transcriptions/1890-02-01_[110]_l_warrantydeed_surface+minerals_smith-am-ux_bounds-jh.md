@@ -1,10 +1,10 @@
 ---
-source_file: 1890-02-01_[110]_l_warrantydeed_surface+minerals_smith-am-ux_bounds-jh.pdf
+source_file: DR-00008-00595.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00008-00595
+book: DR
+volume: 8
+page: 595
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

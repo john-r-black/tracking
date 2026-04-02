@@ -1,10 +1,10 @@
 ---
-source_file: 1886-12-27_[106]_l_warrantydeed_surface+minerals_haley-hiram-ux_bounds-jh.pdf
+source_file: DR-00002-00381.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: DR-00002-00381
+book: DR
+volume: 2
+page: 381
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

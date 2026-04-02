@@ -1,10 +1,10 @@
 ---
 source_file: 1923-03-31_[01]_f_quitclaim_surface+minerals_bplunkett_msbounds.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 2728
+book: DR
+volume: 244
+page: 592
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

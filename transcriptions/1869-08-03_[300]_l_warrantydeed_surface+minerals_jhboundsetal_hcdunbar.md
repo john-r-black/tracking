@@ -1,9 +1,9 @@
 ---
 source_file: DR-00048-00373.pdf
 source_images: DR-00048-00373-01.png, DR-00048-00373-02.png, DR-00048-00373-03.png
-county_doc_number:
-book: 48
-volume:
+county_doc_number: DR-00048-00373
+book: DR
+volume: 48
 page: 373
 transcription_phase: FINAL
 transcription_date: 2026-03-25

@@ -1,9 +1,9 @@
 ---
 source_file: DR-0000F-00584.pdf
 source_images: DR-0000F-00584-01.png, DR-0000F-00584-02.png
-county_doc_number:
-book: F
-volume:
+county_doc_number: DR-0000F-00584
+book: DR
+volume: F
 page: 584
 transcription_phase: FINAL
 transcription_date: 2026-03-25
