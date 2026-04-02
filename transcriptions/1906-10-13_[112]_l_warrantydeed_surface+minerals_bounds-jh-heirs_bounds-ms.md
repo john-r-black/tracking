@@ -1,0 +1,117 @@
+---
+source_file: 1906-10-13_[112]_l_warrantydeed_surface+minerals_bounds-jh-heirs_bounds-ms.pdf
+source_images:
+county_doc_number: 
+book: 
+volume:
+page:
+transcription_phase: FINAL
+transcription_date: 2026-04-01
+pages_transcribed: 1
+flags_remaining: 0
+---
+
+**Margin_Note**
+[J.H. Bounds + Heirs at Law
+To <Deed>
+M S Bounds
+April 13th, 1910]
+
+The State of Texas County of Freestone} Know all men by these Presents that we, J. H. Bounds of Limestone County and heirs at law, J. A. Bounds, J. E., J. V., J. B.,
+and J. W. Bounds, M. J. Ferguson and husband N. Y. Ferguson, D. A. Sanders and husband J. W.Sanders, M. H. Ferguson and husband N. J. Ferguson, M. M. Lindley, a feme sole, Matissa Boyd, and J. E. Boyd, husband, Mrs. Ruth Duckes, and husband Robt. Duckes, R. E. Lee for minors as survivor Com., Fred Lee, Vernie Lee and Raymond Kirkland and husband Ed Kirkland of the County of Freestone and State aforesaid, for and in consideration of the sum of Twenty two Hundred & Eighty & 76/100 Dollars to us in hand paid by M. J. Bounds, as follows: the sum of Five Hundred and twenty ($520.00) Dollars in Cash, a receipt of which is hereby acknowledged and four Vendors Lien Notes of even date herewith for the sum of four Hundred & Forty ($440.00) Dollars each, due and payable respectively January 1st 1908, January 1st 1909, January 1st 1910, and January 1st 1911, respectively, with interest at the rate of 8% per annum, interest payable annually as it accrues, and providing that default in the payment of any note or installment of interest when due shall, at the option of the holder, mature all of said notes. have Granted, Sold and Conveyed, and by these presents do Grant, Sell and Convey unto the said M. S. Bounds of the County of Freestone and State of Texas all that certain tracts or parcels of land, lying and being situate in Limestone County, Texas, and being 116 acres in three tracts and described as follows: First Tract. Beginning at the N. E. Corner of the J. H. Bounds homestead tract, rock for corner from which a P.O. 9 in brs S 10 E 2 vrs. thence South 1020 vrs to a stake in the center of a ravine. thence with the meanderings of the said ravine N. 32 W 32 vrs, S 67 W 67 vrs, S 17 E 62 vrs, S 60 E 43 vrs, S 21 E 31 vrs, S 22 W 39 vrs. N 78 W 50 vrs. S 10 E 63 vrs, S 74 W 31 vrs, S 39 E 50 vrs. thence South 467 vrs to the S. W. Corner of the Sam Bounds 114 acre tract, on the North line of Beekham Tract. thence west with the said Beekham line 430 vrs to the east line of the H. and D. C. R.R. right-of-way. thence N 12 E with the right of way of the said R.R. 1740 vrs to the North line of the said Bounds Homestead tract thence S 88 E with the said line 194 vrs to the place of beginning, Containing 94 acres of land.
+
+Second tract. Being a three acre tract deed & by Reuben Manning to J. H. Bounds of date July 20th 1869 and recorded in deed Records of Limestone County at Groesbeck in Book S page 661, and reference is here made for description. this tract is taken at two acres in this deed, more or less, being diminished by railroad right-of-way.
+
+Third Tract. Being a 20 acres tract deeded by John Manning to J. H. Bounds, and situated in said Limestone County on the west side of the H. & D.C. R.R. right-of-way, and bounded on the south by J. H. Bounds land and west by the Mexia and Wortham public road, and for a more particular description, as follows: twenty acres of land, a part of the Sarah McAnulty survey, situated part in Limestone and a part in Freestone County, Texas, the greater part lying in Limestone County, and described by metes and bounds as follows: Beginning at the N. W. Corner of a three acre tract sold to J. H. Bounds by R. Manning, a point in the Mexia and Wortham road. thence North with said road 932 - 1/2 vrs, a stake whence a Honey locust 16 in. in dia brs S 11 W 24 - 1/2 vrs, and an Elm 5 in dia brs S 28 E 73 vrs. thence East 207 vrs to the H. & D.C. R.R. right of way. thence South with said right of way to an iron stake between John Manning and the said right of way. thence west 34 - 1/2 vrs to the place of beginning. - -
+
+A tract of two acres is reserved from the foregoing, having been heretofore sold, and deeded out of the S. E. Corner of said 94 acres tract. to the Negro New Home Church, making this conveyance 114 acres
+
+To Have and to Hold the above described premises, together with all and singular the rights and appurtenances thereto in any wise belonging, unto the said M. S. Bounds, his heirs and assigns forever. And we do hereby bind ourselves, and our heirs, executors, and administrators to warrant and forever Defend all and singular the said premises unto the said M. S. Bounds, his heirs and assigns, against every person whomsoever lawfully Claiming or to Claim the some or any part thereof. The Vendors lien is hereby retained to secure the payment of the before mentioned Notes according to their face and tenor. Witness our hands at Wortham. Texas this 13th day of Oct. A.D. 1906
+
+A. E. Boyd        J. A. Bounds   J. H. Bounds
+Melissa Boyd      J. V. Bounds   J. W. Bounds
+J. H. Bounds      J. V. Lee      M. M. Lindley
+Ruth Duckes       Fred Lee
+R. L. Duckes      M. J. Ferguson  N. Y. Ferguson
+R. E. Lee         J. A. Sanders   J. W. Sanders
+Ramah Kirkland    F. M. Ferguson  H. S. Ferguson
+E. J. Kirkland    J. S. Bounds
+                  J. E. Bounds
+
+
+The State of Texas }
+County of Freestone } Before me, S. B. Poindexter, a Notary Public in and for Freestone County, Texas, on this day personally appeared J. H. Bounds, J. H. Bounds, J. V. Bounds and J. W. Bounds, J. V. Lee. M. M. Lindly (feme sole) Fred Lee. Known to me to be the persons whose names are subscribed to the foregoing instrument, and acknowledged to me that they executed the same for the purposes and consideration therein expressed. Given under my hand and seal of office, this 12th day of Oct. A.D. 1906.
+
+(L.P.)              S. B. Poindexter
+                    Notary Public Freestone C, Texas.
+
+The State of Texas }
+County of Hill     } Before me Jno. P Lewis a Notary Public in and for of the County of Hill in the State of Texas, on this day personally appeared E. J. Kirkland and Ramah Kirkland his wife, both known to me to be the persons whose names are subscribed to the foregoing instrument, and acknowledged to me that they each executed the same for the purposes and consideration therein expressed. And the said Ramah Kirkland wife of the said E. J. Kirkland having been examined by me privily and apart from her husband, and having the same fully explained to her, she, the said Ramah Kirkland acknowledged such instrument to be her act and deed, and declared that she had willingly signed the same for the purposes and consideration therein expressed, and that she did not wish to retract it. Given under my hand and seal of office this 24 day of Nov. A.D. 1906.
+
+(L.P.)              Jno. P Lewis
+                    Notary Public Hill C, Texas.
+
+The State of Texas  }
+County of Bosque    } Before me, CC Rushing, a Notary Public in and for Bosque County, Texas, on this day personally appeared J. D. Bounds Known to me to be the person whose name is subscribed to the foregoing instrument, and acknowledged to me that he executed the same for the purposes and consideration therein expressed. Given under my hand and seal of office, this 20th day of October A.D. 1906
+
+(L.P.)              C. C. Rushing
+                    Notary Public Bosque Co, Texas.
+
+The State of Texas  }
+County of Limestone } Before me, V. B. Nelson, a Notary Public in and for Limestone County, Texas, on this day personally appeared H. B. Ferguson and H. M. Ferguson wife of said H. B. Ferguson. well known to me to be the persons whose names are subscribed to the foregoing instrument and acknowledged to me that they executed the same for the purposes and consideration therein expressed. And the said H. M. Ferguson wife of the said H. B. Ferguson having been examined by me privily and apart from her husband, and the same fully explained to her, she, the said H. M. Ferguson acknowledged such instrument to be her act and deed, and declared that she had willingly signed the same for the purposes and consideration therein expressed, and that she did not wish to retract it. Given under my hand and seal of office this the 16th day of Oct. A.D. 1906
+
+(L.S.)              V. B. Nelson a
+                    Notary Public Limestone County, Texas
+
+The State of Texas  }
+County of Limestone } Before me, V. B. Nelson, a Notary Public in and for Limestone County, Texas, on this day personally appeared J. W. Sanders and J. A. Sanders wife of said J. W. Sanders. to be the persons whose names are subscribed to the foregoing instrument, and acknowledged to me that they executed the same for the purposes and consideration therein expressed. And the said J. A. Sanders wife of the said J. W. Sanders having been examined by me privily and apart from her husband and the same fully explained to her, she the said J. A. Sanders acknowledged such instrument to be her act and deed, and declared she had willingly signed the same for the purposes and consideration therein expressed, and that she did not wish to retract it. Given under my hand and seal of office, this the 16th day of Oct. A.D. 1906
+
+(L.S.)              V. B. Nelson
+                    Notary Public Limestone County Texas
+
+The State of Texas  }
+County of Limestone } Before me, V. B. Nelson a Notary Public in and for Limestone County Texas, on this day personally appeared N. Y. Ferguson well to be the person whose name is subscribed to the foregoing instrument and acknowledged to me that he executed the same for the purposes and consideration therein expressed. Given under my hand and seal of office, this the 16th day of Oct. A.D. 1906.
+
+(L.P.)              V. B. Nelson
+                    Notary Public Limestone County, Texas.
+
+The State of Texas  }
+County of Limestone } Before me, V. B. Nelson a Notary Public in and for Limestone County, Texas, on this day personally appeared M. J. Ferguson wife of N. Y. Ferguson Known to me to be the person whose name is subscribed to the foregoing instrument, and having been examined by me privily and apart from her husband, and having the same fully explained to her, she, the said M. J. Ferguson acknowledged such instrument to be her act and deed, and declared that she had willingly signed the same for the purposes and consideration therein expressed, and that she did not wish to retract it. Given under my hand and seal of office, this 15th day of October A.D. 1906.
+
+(L.P.)              V. B. Nelson Notary Public
+                    in and for Limestone Co. Texas.
+
+Southern District #
+Indian Territory # Before me, W. H. Admire, a Notary Public in and for Southern District of the Indian Territory, on this day personally appeared J. E. Bounds Known to me to be the person whose name is subscribed to the foregoing instrument, and acknowledged to me that he executed the same for the purposes and considerations therein expressed. Given under my hand and seal of office this the 8th day of Nov. 1906.
+
+(L.P.)              W. H. Admire, Notary Public.
+My Commission expires Nov. 17th, 1907.
+
+State of Texas  }
+Navarro County  } Before me, Hile Bounds J.P. and Exofficio, a Notary Public of Navarro County, personally appeared A. E. Boyd, and Melissa Boyd his wife who resides at Richland in Navarro County, both parties to the foregoing attached bearing date the 15th day of November 1906, both of whom are well known to me, who acknowledged severally that they had signed, sealed and delivered the same, for the purposes and considerations therein stated. And the said Melissa Boyd having been examined by me privily and apart from her husband and having had the same fully explained to her, she, the said Melissa Boyd acknowledged the same to be her act and deed, and declared to me that she had willingly signed, sealed and delivered the same for her own free will and accord, without fear or compulsion, on the part of her said husband and that she wished not to retract it. Witness my official seal and signature, at my office in the town of Richland this 15 day of November 1906.
+
+(L.P.)              Hile Bounds Justice of the Peace
+                    and Ex officio Notary Public Navarro County
+Texas.
+
+The State of Texas  }
+County of Freestone } Before me, B. J. Wilson Justice Peace and Exofficio Notary Public of the County of Freestone in the State of Texas on this day personally appeared J. H. Bounds and R. E. Lee both Known to me to be the persons whose names are subscribed to the foregoing instrument, and acknowledged to me that they each executed the same for the purposes and consideration therein expressed. Given under my hand and
+
+[Page 78]
+
+seal of office this 16th day of Nov. A.D. 1906
+
+(L.P.)              B. B. Wilson Justice Peace
+                    and Exofficio Notary Public.
+
+The State of Texas  }
+County of Freestone } Before me, B. J. Wilson Justice Peace, and Exofficio Notary Public, of the County of Freestone in the State of Texas on this day personally appeared R. L. Duckes and Ruth Duckes his wife, both Known to me to be the persons whose names are subscribed to the foregoing instrument, and acknowledged to me that they each executed the same for the purposes and consideration therein expressed. And the said Ruth Duckes wife of the said R. L. Duckes having been examined by me privily and apart from her husband and having the same fully explained to her, she the said Ruth Duckes acknowledged such instrument to be her act and deed, and declared that she had willingly signed the same for the purposes and consideration therein expressed. and that she did not wish to retract it. Given under my hand and seal of office, this 16th day of Nov. A.D. 1906.
+
+(L.P.)              B. B. Wilson Justice Peace
+                    and Exofficio Notary Public Freestone County Texas
+
+Filed for record 13 day of April 1910 at 1 oclock P.M.
+and duly record 14 day of April 1910 at 3 oclock P.M.
+                    O.C. Frazier Clk. Co. Court
+                    Limestone County, Texas
+By A. H. Sandell Dpty.

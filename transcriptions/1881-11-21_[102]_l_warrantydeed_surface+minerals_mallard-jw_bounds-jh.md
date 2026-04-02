@@ -1,0 +1,39 @@
+---
+source_file: 1881-11-21_[102]_l_warrantydeed_surface+minerals_mallard-jw_bounds-jh.pdf
+source_images:
+county_doc_number: 
+book: 
+volume:
+page:
+transcription_phase: FINAL
+transcription_date: 2026-04-01
+pages_transcribed: 1
+flags_remaining: 0
+---
+
+[Page 554]
+
+**Margin_Note**
+[J. W. Mallard
+to } Deed
+J. H. Bounds]
+
+The State of Texas County of Limestone } Know all men by these. presents, that I J. W. Mallard of the County of Limestone State of Texas in consideration of the sum of Thirty Dollars paid and secured to be paid by J. H. Bounds as follows in cash the receipt of which is hereby acknowledged have granted, bargained sold and conveyed, and by these presents do grant bargain, sell and convey unto the said J. H. Bounds all that tract of land lying and being situated in said Limestone County Texas. and more particularly described as follows, the same contains nine acres of land & is apart of the Sarah McAnulty League.
+
+Beginning at the S. E. corner of a tract deeded to R. D. King by L. B. Boyd through his agt. J. J. Oliver. Thence North 237 4/67 vrs to a stake thence west 237 272/467 vrs to a stake. Thence S 237 325/467 vrs to a stake thence East to the beginning. Together with all and singular, the rights, members hereditaments and appurtenances to the same belonging or in anywise incident or appertaining.
+
+To have and to hold, all and singular the said premises unto the said J. H. Bounds his heirs and assigns forever. and I hereby bind myself, heirs, executors and administrators to warrant and forever defend all and singular the said premises, unto the said J. H. Bounds his and assigns, against every person whomsoever lawfully claiming or to claim the same, or any part thereof
+
+Witness my hand this 21st day of November A.D. 1881.
+J. W. Mallard
+
+The State of Texas }
+County of Limestone } Before me N. L. Waller a Notary Public of the County of Limestone in the State of Texas, on this day personally appeared J. W. Mallard Known to me to be the person whose name subscribed to the foregoing instrument. and acknowledged to me that he executed and delivered the same for the purposes and consideration therein expressed. Given under my hand and seal of office this 21st day of November A.D. 1881.
+N. L. Waller
+(L.S.)
+Notary Public
+Limestone Co. Texas
+
+I hereby certify that the foregoing is a true and correct copy of the original Deed and certificate of acknowledged ment. filed for record april 8th 1882 at 5 oclock P.m. and duly recorded april 10th 1882 at 6, oclock P.M.
+S. D. Walker ca. clk.
+R. Wiley Deputy

@@ -1,0 +1,54 @@
+---
+source_file: 1980-12-13_[30]_l_giftdeed_surface+minerals_obblack_jmblack.pdf
+source_images:
+county_doc_number: 
+book: 
+volume:
+page:
+transcription_phase: FINAL
+transcription_date: 2026-04-01
+pages_transcribed: 1
+flags_remaining: 0
+---
+
+THE STATE OF TEXAS *
+* DEED OF GIFT 
+COUNTY OF LIMESTONE *
+
+KNOW ALL MEN BY THESE PRESENTS:  
+
+That I, OLENA BLACK, of the County of Limestone, State of Texas, hereinafter referred to as "Grantor", for and in consideration of the love and affection I have and bear towards my son, John M. Black, have granted, bargained and conveyed and by these presents do grant, bargain and convey unto John M. Black, of the County of Bexar, State of Texas, hereinafter referred to as "Grantee", an undivided 9/92 interest in the hereinafter described property situated in Limestone County, Texas, said property being more particularly described as follows:
+
+BEING a portion of the 224.00 acres of land in Limestone and Freestone Counties, Texas, out of the Sarah McAnulty Survey, A-19, and described as the FIRST TRACT in that one certain Warranty Deed from M. S. Bounds to Olena Black, dated October 2, 1972, recorded in the Limestone County Deed Records, and described by metes and bounds as follows:
+
+BEGINNING at the Northeast corner of the J. H. Bounds homestead tract, rock for corner from which a P. O. 9.00 in. brs. S10°00'00"E 2.00 vrs.;
+
+THENCE S 1020.00 vrs. to a stake in center of a ravine
+
+THENCE with meanderings of the said ravine S32°00'00"W 32.00 vrs., S67°00'00"W 64.00 vrs., S17°00'00"E 62.00 vrs., S60°00'00"E 43.00 vrs., S21°00'00"E 31.00 vrs., S22°00'00"W 39.00 vrs., N78°00'00"W 50.00 vrs., S10°00'00"E 63.00 vrs., S74°00'00"W 31.00 vrs., S39°00'00"E 50.00 vrs.;
+
+THENCE S 467.00 vrs. to the S.W. corner of the Tom Bounds 114.00 acre tract on N. line of Beckham tract;
+
+THENCE West with said Beckham line 430.00 vrs. to the East line of H & TC RR. Right of way;
+
+THENCE N12°00'00"E with the right of way of said R.R. 1740.00 vrs. to the North line of said Bounds homestead tract;
+
+THENCE S88°00'00"E with said line 194.00 vrs. to the beginning containing 94.00 acres, less 2.00 acres reserved out of the S.E. corner.
+
+By the execution hereof, Grantee has received by two (2) Deeds of Gift, an undivided 18/92 interest in and to the property described above.
+
+TO HAVE AND TO HOLD the above described premises, together with all and singular the rights and appurtenances thereto in anywise belonging unto said Grantee, Grantee's heirs, legal representatives, successors and assigns forever; and Grantor does hereby bind herself, her heirs, successors, legal representatives and assigns to WARRANT AND FOREVER DEFEND all and singular the said premises unto the said Grantee, his heirs, successors, legal representatives and assigns against every person whatsoever lawfully claiming or to claim the same of any part thereof,
+
+EXECUTED this 13th day of December, 1980
+OLENA BLACK
+
+THE STATE OF TEXAS * 
+* 
+COUNTY OF FREESTONE * 
+
+BEFORE ME, the undersigned authority, on this day personally appeared OLENA BLACK, known to me to be the person whose name is subscribed to the foregoing instrument, and acknowledged to me that she executed the same for the purposes and considerations therein expressed.
+GIVEN UNDER MY HAND AND SEAL OF OFFICE this 13th day of December, 1980.
+
+Rebecca Strange 
+Notary Public in and for Freestone County, Texas
+My commission expires: 2-5-81

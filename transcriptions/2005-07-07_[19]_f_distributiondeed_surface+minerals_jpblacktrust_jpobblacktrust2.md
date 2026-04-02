@@ -1,0 +1,101 @@
+---
+source_file: 2005-07-07_[19]_f_distributiondeed_surface+minerals_jpblacktrust_jpobblacktrust2.pdf
+source_images:
+county_doc_number: 
+book: 
+volume:
+page:
+transcription_phase: FINAL
+transcription_date: 2026-04-01
+pages_transcribed: 1
+flags_remaining: 0
+---
+
+DISTRIBUTION DEED
+
+Execution Date: July 7, 2005
+Effective Date: June 1, 2005
+
+Grantor: JOHN PIERCE BLACK FAMILY TRUST OF 1977, represented herein by and through its duly appointed Trustee, M. STEPHEN BEARD
+
+Grantor's Mailing Address (including county):
+5408 Point Wood Circle
+Waco, McLennan County, Texas 76710
+
+Grantee: JOHN PIERCE BLACK AND OLENA BOUNDS BLACK ESTATE TRUST NO. 2, M. STEPHEN BEARD, Sole Trustee
+
+Grantee's Mailing Address (including county):
+5408 Point Wood Circle
+Waco, McLennan County, Texas 76710
+
+Consideration: TEN AND NO/100 ($10.00) DOLLARS and other good and valuable consideration
+
+Property (including any improvements):
+
+All that certain tract or parcel of land lying and being situated in Freestone County, Texas, about one and one-half miles East from the town of Wortham, and being part of the Wm. Ritchie Survey, and a part of the 384.90 acres sold to Frank Calame, Geo. T. Weaver, Gussie Weaver, Carroll Weaver, and Archie Weaver by A.N. Weaver and wife on September 28, 1912, as shown by Deed recorded in Volume 38, page 247 of the Deed Records of Freestone County, Texas, and more particularly described on Exhibit "A," attached hereto and incorporated herein.
+
+Reservations from Conveyance: None.
+
+Exceptions to Conveyance and Warranty:
+
+All restrictions, covenants, conditions, reservations, leases, easements, ad valorem or rollback taxes, and rights-of-way relating to the property, only to the extent that the same are still in effect and shown of record in Freestone County, Texas, or can be determined from a careful examination of the property on the ground, and all zoning laws, regulations, and ordinances of municipal and other governmental authorities, only to the extent that the same are still in effect and relate to the property.
+
+Grantor, for the consideration and subject to the reservations from conveyance and exceptions to conveyance and warranty, grants, sells, and conveys to Grantee the property, together with all and singular the rights and appurtenances thereto in any wise belonging, to have and hold it to Grantee, Grantee's heirs, executors, administrators, successors, or assigns forever. Grantor binds Grantor and Grantor's heirs, executors, administrators, and successors to warrant and forever defend all and singular the property to Grantee and Grantee's heirs, executors, administrators, successors, and assigns against every person whomsoever lawfully claiming or to claim the same or any part thereof, except as to the reservations from conveyance and exceptions to conveyance and warranty, when the claim is by, through, or under Grantor, but not otherwise.
+
+When the context requires, singular nouns and pronouns include the plural.
+
+JOHN PIERCE BLACK FAMILY TRUST OF 1977
+
+By: M. Stephen Beard, Trustee
+
+---
+
+THE STATE OF TEXAS
+COUNTY OF McLENNAN
+
+This instrument was acknowledged before me on the 7th day of July, 2005, by M. STEPHEN BEARD, Trustee of the John Pierce Black Family Trust of 1977, on behalf of said trust.
+
+Geneva B. Turner
+Notary Public in and for The State of Texas
+(Commission Expires 04/14/2008)
+
+---
+
+EXHIBIT "A"
+All that certain tract or parcel of land lying and being situated in Freestone County, Texas, about one and one-half miles East from the town of Wortham, and being part of the Wm. Richie Survey, and a part of the 384.90 acres sold to Frank Calame, Geo. T. Weaver, Gussie Weaver, Carroll Weaver and Archie Weaver by A. N. Weaver and wife on the 28th day of September, A. D. 1912, as shown by Deed recorded in Volume 38, Page 247 of the Deed Records of Freestone County, Texas, and this partitioned between the vendees in said deed, and the land herein partitioned and conveyed being described by metes and bounds as follows:
+
+BEGINNING at a stake in the West line of the L. D. Lindly 100.00 acre tract, and being the S. E. corner of an 89.50 acres set apart to Geo. T. Weaver.
+
+THENCE South with the said Lindly West line 167.00 vrs., said Lindly S. W. Corner.
+
+THENCE S82°00'00"E with the South Line of said Lindly 100.00 acres tract, 514.00 vrs. to East line of said Richie League.
+
+THENCE S35°00'00"W with said East line 55.00 vrs. stake for corner.
+
+THENCE N82°00'00"W 1380.00 vrs. to the West line of said original 384.90 acres tract.
+
+THENCE N05°45'00"E with said West line 222.00 vrs., stake for corner, being the S.W. corner of 89.50 acres tract set apart to Geo. T. Weaver.
+
+THENCE S82°00'00"E Geo. T. Weaver's South line 850.00 vrs. to place of beginning, and containing 39.50 acres of land. Being the same land described in a deed from Carroll Weaver et al to Gussie Weaver, dated the 31st day of October, A.D. 1914, recorded in Volume 43, Page 630, Deed Records of Freestone County, Texas, to which deed and the record thereof reference is hereby made for all purposes.
+
+SAVE AND EXCEPT out of said 39.50 acres above described the following described tract of land, to-wit:
+
+A part of a 39.50 acres tract set apart to Gussie Weaver in the partition of the A. N. Weaver tract of land out of the Wm. Richie League and described as follows:
+
+BEGINNING at the N. E. Corner of said Gussie Weaver 39.50 acre tract a stake in Moxie and Birdstone public road.
+
+THENCE S35°00'00"W 66.50 vrs. to the S. E. corner of said 93.50 acre tract same being the NE corner of the Frank Calame 76.90 acres tract and the land now owned by the said Lee Byers.
+
+THENCE N79°00'00"W with the s. line of said Gussie Weaver 39.50 acres tract 510.00 vrs. stake for corner.
+
+THENCE N35°00'00"E 64.00 vrs. stake for corner in North line of the ell of said land, Gussie Weaver, 39.50 acre tract.
+
+THENCE S79°00'00"E with said North line 510.00 vrs. to the place of beginning, containing 5.89 acres of land. Being the same land described in a deed from, Gussie Weaver to Lee Byers, dated March 26, 1919, recorded in Volume 53, Page 316, Deed Records of Freestone County, Texas, to which deed and the record thereof reference is hereby made for all purposes.
+
+
+PREPARED IN THE LAW OFFICE OF AND, AFTER RECORDING, RETURN TO:
+Geneva Brown Turner, Esq.
+Pakis, Giotes, Page & Burleson, P.C.
+801 Washington Avenue, Suite 800
+Waco, Texas 76701-1289
+(254) 297-7300
