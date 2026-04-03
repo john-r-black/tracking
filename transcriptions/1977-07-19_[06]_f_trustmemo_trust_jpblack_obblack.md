@@ -2,9 +2,9 @@
 source_file: 1977-07-19_[06]_f_trustmemo_trust_jpblack_obblack.pdf
 source_images:
 county_doc_number: 
-book: 
-volume:
-page:
+book: DR
+volume: 531
+page: 498
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

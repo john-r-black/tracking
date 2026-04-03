@@ -2,9 +2,9 @@
 source_file: 1979-12-13_[07]_f_warrantydeed_surface+minerals_msbounds_obblack.pdf
 source_images:
 county_doc_number: 
-book: 
-volume:
-page:
+book: DR
+volume: 545
+page: 822
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

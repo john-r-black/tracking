@@ -1,10 +1,10 @@
 ---
 source_file: 1979-12-31_[27]_l_giftdeed_surface+minerals_obblack_jablack.pdf
 source_images:
-county_doc_number: 
+county_doc_number: 08000176
 book: 
 volume:
-page:
+page: 815
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

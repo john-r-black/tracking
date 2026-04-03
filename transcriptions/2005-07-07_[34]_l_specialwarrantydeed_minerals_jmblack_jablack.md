@@ -1,10 +1,10 @@
 ---
 source_file: 2005-07-07_[34]_l_specialwarrantydeed_minerals_jmblack_jablack.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 00053260
+book: RP
+volume: 1179
+page: 559
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

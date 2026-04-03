@@ -1,7 +1,7 @@
 ---
 source_file: 2026-01-08_[21]_f_specialwarrantydeed_surface+minerals_jpobblacktrust1_gudemanagementllc.pdf
 source_images:
-county_doc_number: 
+county_doc_number: 2026-2600106
 book: 
 volume:
 page:

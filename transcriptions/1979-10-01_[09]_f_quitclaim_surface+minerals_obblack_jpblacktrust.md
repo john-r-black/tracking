@@ -2,9 +2,9 @@
 source_file: 1979-10-01_[09]_f_quitclaim_surface+minerals_obblack_jpblacktrust.pdf
 source_images:
 county_doc_number: 
-book: 
-volume:
-page:
+book: DR
+volume: 541
+page: 463
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

@@ -1,8 +1,8 @@
 ---
 source_file: 00992049.pdf
 source_images: 00992049-01.png, 00992049-02.png, 00992049-03.png
-county_doc_number: 992049
-book:
+county_doc_number: 00992049
+book: 
 volume: 1011
 page: 194
 transcription_phase: FINAL

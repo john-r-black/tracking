@@ -1,10 +1,10 @@
 ---
 source_file: 2005-07-07_[19]_f_distributiondeed_surface+minerals_jpblacktrust_jpobblacktrust2.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 05004966
+book: OR
+volume: 01327
+page: 00549
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

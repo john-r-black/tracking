@@ -1,9 +1,9 @@
 ---
 source_file: 07903577.pdf
 source_images: 07903577-01.png, 07903577-02.png, 07903577-03.png
-county_doc_number: 3577
-book:
-volume:
+county_doc_number: 07903577
+book: 
+volume: 
 page: 821
 transcription_phase: FINAL
 transcription_date: 2026-03-27

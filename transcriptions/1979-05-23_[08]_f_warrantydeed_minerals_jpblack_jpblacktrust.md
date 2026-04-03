@@ -2,9 +2,9 @@
 source_file: 1979-05-23_[08]_f_warrantydeed_minerals_jpblack_jpblacktrust.pdf
 source_images:
 county_doc_number: 
-book: 
-volume:
-page:
+book: DR
+volume: 531
+page: 500
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

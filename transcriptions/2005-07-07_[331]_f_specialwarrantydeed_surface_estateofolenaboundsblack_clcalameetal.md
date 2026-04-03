@@ -2,9 +2,9 @@
 source_file: 154533388_90598006.pdf
 source_images: 154533388_90598006-01.png, 154533388_90598006-02.png, 154533388_90598006-03.png
 county_doc_number: 06000827
-book:
-volume:
-page:
+book: OR
+volume: 01350
+page: 00233
 transcription_phase: FINAL
 transcription_date: 2026-03-26
 pages_transcribed: 3

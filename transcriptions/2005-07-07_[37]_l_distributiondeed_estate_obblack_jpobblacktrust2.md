@@ -1,10 +1,10 @@
 ---
 source_file: 2005-07-07_[37]_l_distributiondeed_estate_obblack_jpobblacktrust2.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 00053440
+book: RP
+volume: 1180
+page: 457
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

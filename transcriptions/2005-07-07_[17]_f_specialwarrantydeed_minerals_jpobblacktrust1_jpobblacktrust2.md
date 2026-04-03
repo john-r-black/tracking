@@ -1,10 +1,10 @@
 ---
 source_file: 2005-07-07_[17]_f_specialwarrantydeed_minerals_jpobblacktrust1_jpobblacktrust2.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 05004971
+book: OR
+volume: 01327
+page: 00571
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

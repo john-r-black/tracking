@@ -2,7 +2,7 @@
 source_file: 154533388_90443744.pdf
 source_images: 154533388_90443744-01.png, 154533388_90443744-02.png
 county_doc_number: 3294
-book:
+book: DR
 volume: 665
 page: 424
 transcription_phase: FINAL

@@ -1,8 +1,8 @@
 ---
 source_file: 00931916.pdf
 source_images: 00931916-01.png, 00931916-02.png
-county_doc_number: 1916
-book:
+county_doc_number: 00931916
+book: 
 volume: 890
 page: 270
 transcription_phase: FINAL

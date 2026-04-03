@@ -1,7 +1,7 @@
 ---
 source_file: 1972-10-02_[23]_l_warrantydeed_surface+minerals_msbounds_obblack.pdf
 source_images:
-county_doc_number: 
+county_doc_number: 07206178
 book: 
 volume:
 page:

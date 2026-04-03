@@ -1,10 +1,10 @@
 ---
 source_file: 2005-07-07_[35]_l_partitiondeed_estate_obblack_jmblack.pdf
 source_images:
-county_doc_number: 
-book: 
-volume:
-page:
+county_doc_number: 00053259
+book: RP
+volume: 1179
+page: 553
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

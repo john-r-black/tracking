@@ -2,8 +2,8 @@
 source_file: 154533388_90360871.pdf
 source_images: 154533388_90360871-01.png, 154533388_90360871-02.png
 county_doc_number: 478
-book: Deed Record 422
-volume:
+book: DR
+volume: 422
 page: 491
 transcription_phase: FINAL
 transcription_date: 2026-03-27

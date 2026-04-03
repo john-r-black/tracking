@@ -2,7 +2,7 @@
 source_file: 154533388_90666214.pdf
 source_images: 154533388_90666214-01.png, 154533388_90666214-02.png, 154533388_90666214-03.png, 154533388_90666214-04.png, 154533388_90666214-05.png
 county_doc_number: 01603931
-book:
+book: OR
 volume: 01705
 page: 00513
 transcription_phase: FINAL

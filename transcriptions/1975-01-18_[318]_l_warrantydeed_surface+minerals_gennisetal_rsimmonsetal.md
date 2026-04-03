@@ -1,10 +1,10 @@
 ---
 source_file: 07500489.pdf
 source_images: 07500489-01.png, 07500489-02.png, 07500489-03.png
-county_doc_number: 489
-book:
-volume:
-page: 328
+county_doc_number: 07500489
+book: 
+volume: 
+page: 489
 transcription_phase: FINAL
 transcription_date: 2026-03-27
 pages_transcribed: 3

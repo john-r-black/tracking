@@ -2,8 +2,8 @@
 source_file: 154533388_90402201.pdf
 source_images: 154533388_90402201-01.png, 154533388_90402201-02.png, 154533388_90402201-03.png
 county_doc_number: 4450
-book: Deed Record 534
-volume:
+book: DR
+volume: 534
 page: 321
 transcription_phase: FINAL
 transcription_date: 2026-03-27
