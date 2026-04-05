@@ -1,7 +1,7 @@
 ---
 source_file: 00003589.pdf
 source_images: 00003589-01.png, 00003589-02.png, 00003589-03.png
-county_doc_number: 003589
+county_doc_number: 00003589
 book:
 volume: 1040
 page: 510
