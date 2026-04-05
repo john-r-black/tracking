@@ -3,7 +3,7 @@ source_file: 07804491.pdf
 source_images: 07804491-01.png, 07804491-02.png
 county_doc_number: 07804491
 book: 
-volume: 
+volume: 630
 page: 105
 transcription_phase: FINAL
 transcription_date: 2026-03-27

@@ -3,7 +3,7 @@ source_file: 1980-12-13_[29]_l_giftdeed_surface+minerals_obblack_jablack.pdf
 source_images:
 county_doc_number: 08011822
 book: 
-volume: 
+volume: 665
 page: 799
 transcription_phase: FINAL
 transcription_date: 2026-04-01

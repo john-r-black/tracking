@@ -1,10 +1,10 @@
 ---
 source_file: 154533388_90646957.pdf
 source_images: 154533388_90646957-01.png, 154533388_90646957-02.png
-county_doc_number: 01204190
+county_doc_number: 1204190
 book: OR
-volume: 01587
-page: 00893
+volume: 1587
+page: 893
 transcription_phase: FINAL
 transcription_date: 2026-03-26
 pages_transcribed: 2

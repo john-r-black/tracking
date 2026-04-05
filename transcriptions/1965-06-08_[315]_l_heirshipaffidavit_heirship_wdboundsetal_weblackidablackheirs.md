@@ -2,8 +2,8 @@
 source_file: 06503774.pdf
 source_images: 06503774-01.png, 06503774-02.png
 county_doc_number: 06503774
-book:
-volume:
+book: 
+volume: 516
 page: 306
 transcription_phase: FINAL
 transcription_date: 2026-03-27

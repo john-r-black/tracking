@@ -11,14 +11,14 @@ pages_transcribed: 3
 flags_remaining: 2
 ---
 
-[MARGIN: J. W. Bounds / [?:Sold] / (as Brown / & Sam Adams / Nov 13 91 / " 14" " ]
+[MARGIN: T. W. Bounds / [?:Sold] / (as Brown / & Sam Adams / Nov 13 91 / " 14" " ]
 
 [HUMAN REVIEW: top-right corner has faint text, possibly filing/indexing notation — unreadable]
 
 The State of Texas }
 County of Limestone } Know all men by these presents
 
-that I J. W. Bounds of the County of Limestone State of Texas in consideration of the sum of Twenty six hundred dollars paid by James Brown & Sam Adams as follows. Four Hundred 1st note due Jan 1st 1891 Second Note Four Hundred & Forty Dollars With 10 pr ct inte-
+that I T. W. Bounds of the County of Limestone State of Texas in consideration of the sum of Twenty six hundred dollars paid by James Brown & Sam Adams as follows. Four Hundred 1st note due Jan 1st 1891 Second Note Four Hundred & Forty Dollars With 10 pr ct inte-
 
 [--- Page Break: DR-00013-00301-02.png ---]
 
@@ -32,12 +32,12 @@ est due Dec 9 1891 Third Note Four Hundred & forty Dollars with 10 pr ct interes
 
 become absolute. Witness my hand this 26 day of Sept A.D. 1890.
 
-J. W. Bounds.
+T. W. Bounds.
 
 ---
 
 The State of Texas }
-County of Freestone } Before me J. E. Longbotham a Notary Public of the County of Freestone in the state of Texas on this day personally appeared J. W. Bounds known to me (or proved to me on oath of                    ) to be the person whose name is subscribed to the foregoing instrument &ng acknowledged to me that he executed the same for the purposes &ng Considerations therein expressed. Given under my hand &nd official seal this 26th day of Sept. A.D. 1890.
+County of Freestone } Before me J. E. Longbotham a Notary Public of the County of Freestone in the state of Texas on this day personally appeared T. W. Bounds known to me (or proved to me on oath of                    ) to be the person whose name is subscribed to the foregoing instrument &ng acknowledged to me that he executed the same for the purposes &ng Considerations therein expressed. Given under my hand &nd official seal this 26th day of Sept. A.D. 1890.
 
 J. E. Longbotham
 (LS)

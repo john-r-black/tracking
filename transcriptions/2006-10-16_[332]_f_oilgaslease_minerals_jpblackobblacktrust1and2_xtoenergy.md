@@ -1,10 +1,10 @@
 ---
 source_file: 154533388_90605998.pdf
 source_images: 154533388_90605998-01.png, 154533388_90605998-02.png, 154533388_90605998-03.png, 154533388_90605998-04.png
-county_doc_number: 06008751
+county_doc_number: 6008751
 book: OR
-volume: 01385
-page: 00505-00508
+volume: 1385
+page: 505
 transcription_phase: FINAL
 transcription_date: 2026-03-27
 pages_transcribed: 4

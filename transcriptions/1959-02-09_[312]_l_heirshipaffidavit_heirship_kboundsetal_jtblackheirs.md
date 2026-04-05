@@ -2,8 +2,8 @@
 source_file: 05901580.pdf
 source_images: 05901580-01.png, 05901580-02.png
 county_doc_number: 05901580
-book:
-volume:
+book: 
+volume: 458
 page: 317
 transcription_phase: FINAL
 transcription_date: 2026-03-27

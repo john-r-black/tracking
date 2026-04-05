@@ -2,8 +2,8 @@
 source_file: 154533388_90506484.pdf
 source_images: 154533388_90506484-01.png, 154533388_90506484-02.png
 county_doc_number: 4071
-book:
-volume: 0938
+book: OR
+volume: 938
 page: 719
 transcription_phase: FINAL
 transcription_date: 2026-03-27

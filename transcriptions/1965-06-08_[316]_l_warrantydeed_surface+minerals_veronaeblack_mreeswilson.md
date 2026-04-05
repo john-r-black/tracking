@@ -3,7 +3,7 @@ source_file: 06503775.pdf
 source_images: 06503775-01.png, 06503775-02.png
 county_doc_number: 06503775
 book:
-volume:
+volume: 516
 page: 307
 transcription_phase: FINAL
 transcription_date: 2026-03-27

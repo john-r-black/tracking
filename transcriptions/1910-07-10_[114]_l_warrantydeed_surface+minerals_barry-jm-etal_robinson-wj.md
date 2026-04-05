@@ -1,10 +1,10 @@
 ---
 source_file: DR-00063-00403.pdf
 source_images:
-county_doc_number: DR-00063-00403
+county_doc_number: DR-00063-00405
 book: DR
 volume: 63
-page: 403
+page: 405
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

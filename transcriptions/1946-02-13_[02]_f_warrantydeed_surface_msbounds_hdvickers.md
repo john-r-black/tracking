@@ -2,9 +2,9 @@
 source_file: 1946-02-13_[02]_f_warrantydeed_surface_msbounds_hdvickers.pdf
 source_images:
 county_doc_number: 388
-book:
+book: DR
 volume: 193
-page: 93
+page: 96
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

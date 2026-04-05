@@ -2,8 +2,8 @@
 source_file: 05901309.pdf
 source_images: 05901309-01.png, 05901309-02.png
 county_doc_number: 05901309
-book:
-volume:
+book: 
+volume: 457
 page: 598
 transcription_phase: FINAL
 transcription_date: 2026-03-27

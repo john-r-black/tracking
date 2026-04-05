@@ -1,9 +1,9 @@
 ---
 source_file: 1934-02-03_[115]_l_homesteaddesignation_surface+minerals_bounds-ms-ux_public.pdf
-source_images:
+source_images: 
 county_doc_number: 1934000000000975
-book:
-volume:
+book: 
+volume: 233
 page: 136
 transcription_phase: FINAL
 transcription_date: 2026-04-01

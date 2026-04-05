@@ -1,9 +1,9 @@
 ---
 source_file: 1937-07-31_[116]_l_warrantydeed_surface+minerals_bounds-ms_bounds-mattie.pdf
-source_images:
+source_images: 
 county_doc_number: 1937000000004339
-book:
-volume:
+book: 
+volume: 252
 page: 463
 transcription_phase: FINAL
 transcription_date: 2026-04-01

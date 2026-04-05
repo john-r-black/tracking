@@ -2,7 +2,7 @@
 source_file: 154533388_90453790.pdf
 source_images: 154533388_90453790-01.png, 154533388_90453790-02.png, 154533388_90453790-03.png
 county_doc_number: 5299
-book: DR
+book: OR
 volume: 699
 page: 677
 transcription_phase: FINAL

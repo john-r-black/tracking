@@ -1,9 +1,9 @@
 ---
 source_file: 1974-12-30_[24]_l_warrantydeed_surface+minerals_veblack_jpblack.pdf
-source_images:
+source_images: 
 county_doc_number: 07507434
 book: 
-volume: 
+volume: 592
 page: 773
 transcription_phase: FINAL
 transcription_date: 2026-04-01

@@ -1,8 +1,8 @@
 ---
 source_file: 154533388_90522331.pdf
 source_images: 154533388_90522331-01.png, 154533388_90522331-02.png, 154533388_90522331-03.png, 154533388_90522331-04.png, 154533388_90522331-05.png, 154533388_90522331-06.png
-county_doc_number:
-book:
+county_doc_number: 636
+book: OR
 volume: 1004
 page: 291
 transcription_phase: FINAL

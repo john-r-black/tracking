@@ -4,7 +4,7 @@ source_images: 154533388_90391181-01.png, 154533388_90391181-02.png, 154533388_9
 county_doc_number: 2653
 book: DR
 volume: 503
-page: 764
+page: 151
 transcription_phase: FINAL
 transcription_date: 2026-03-27
 pages_transcribed: 4

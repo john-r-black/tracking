@@ -1,8 +1,8 @@
 ---
 source_file: 1992-12-31_[10]_f_warrantydeed_surface+minerals_obblack_jablack.pdf
 source_images:
-county_doc_number: 
-book: DR
+county_doc_number: 224
+book: OR
 volume: 898
 page: 78
 transcription_phase: FINAL

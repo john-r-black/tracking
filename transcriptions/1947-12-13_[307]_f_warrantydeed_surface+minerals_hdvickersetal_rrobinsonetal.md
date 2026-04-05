@@ -2,7 +2,7 @@
 source_file: 154533388_244802540.pdf
 source_images: 154533388_244802540-01.png, 154533388_244802540-02.png
 county_doc_number: 3011
-book:
+book: DR
 volume: 198
 page: 393
 transcription_phase: FINAL

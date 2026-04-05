@@ -1,10 +1,10 @@
 ---
 source_file: 1995-03-06_[12]_f_distributiondeed_trust_obblack_mstephenbeard.pdf
 source_images:
-county_doc_number: 
-book: 
-volume: 0953
-page: 040
+county_doc_number: 1165
+book: OR
+volume: 953
+page: 40
 transcription_phase: FINAL
 transcription_date: 2026-04-01
 pages_transcribed: 1

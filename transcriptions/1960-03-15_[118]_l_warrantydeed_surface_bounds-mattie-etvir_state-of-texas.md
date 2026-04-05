@@ -1,9 +1,9 @@
 ---
 source_file: 1960-03-15_[118]_l_warrantydeed_surface_bounds-mattie-etvir_state-of-texas.pdf
-source_images:
+source_images: 
 county_doc_number: 06001374
-book:
-volume:
+book: 
+volume: 469
 page: 280
 transcription_phase: FINAL
 transcription_date: 2026-04-01

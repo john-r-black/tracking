@@ -3,7 +3,7 @@ source_file: 1943000000000013.pdf
 source_images: 1943000000000013-01.png, 1943000000000013-02.png, 1943000000000013-03.png, 1943000000000013-04.png
 county_doc_number: 1943000000000013
 book:
-volume:
+volume: 278
 page: 379
 transcription_phase: FINAL
 transcription_date: 2026-03-26

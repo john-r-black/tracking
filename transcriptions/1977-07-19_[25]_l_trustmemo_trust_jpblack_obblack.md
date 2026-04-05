@@ -1,9 +1,9 @@
 ---
 source_file: 1977-07-19_[25]_l_trustmemo_trust_jpblack_obblack.pdf
-source_images:
+source_images: 
 county_doc_number: 07904374
 book: 
-volume: 
+volume: 641
 page: 764
 transcription_phase: FINAL
 transcription_date: 2026-04-01

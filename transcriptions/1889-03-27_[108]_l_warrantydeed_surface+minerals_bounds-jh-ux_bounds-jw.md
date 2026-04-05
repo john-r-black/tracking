@@ -1,9 +1,9 @@
 ---
 source_file: DR-00005-00582.pdf
 source_images:
-county_doc_number: DR-00005-00582
+county_doc_number: DR-0000S-00582
 book: DR
-volume: 5
+volume: S
 page: 582
 transcription_phase: FINAL
 transcription_date: 2026-04-01

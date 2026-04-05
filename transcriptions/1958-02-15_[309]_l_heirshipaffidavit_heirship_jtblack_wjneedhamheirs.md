@@ -3,7 +3,7 @@ source_file: 05801148.pdf
 source_images: 05801148-01.png, 05801148-02.png
 county_doc_number: 05801148
 book:
-volume:
+volume: 447
 page: 466
 transcription_phase: FINAL
 transcription_date: 2026-03-27

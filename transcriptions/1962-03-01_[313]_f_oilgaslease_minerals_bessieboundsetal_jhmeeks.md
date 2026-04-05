@@ -1,9 +1,8 @@
 ---
 source_file: 154533388_125931117.pdf
-source_images:
-  - 154533388_125931117-01.png, 154533388_125931117-03.png, 154533388_125931117-03.png
+source_images: 
 county_doc_number: 690
-book:
+book: DR
 volume: 314
 page: 115
 transcription_phase: FINAL

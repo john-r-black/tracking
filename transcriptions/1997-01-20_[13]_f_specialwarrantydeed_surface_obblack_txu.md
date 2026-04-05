@@ -1,8 +1,8 @@
 ---
 source_file: 1997-01-20_[13]_f_specialwarrantydeed_surface_obblack_txu.pdf
 source_images:
-county_doc_number: 
-book: 
+county_doc_number: 635
+book: OR
 volume: 1004
 page: 286
 transcription_phase: FINAL
